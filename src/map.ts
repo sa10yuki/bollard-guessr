@@ -113,7 +113,8 @@ export class AreaMap {
     for (const id of v.wrong) this.paint(id, 'wrong');
 
     const bounds = L.latLngBounds([]);
-    for (const id of [...v.hit, ...v.missed, ...v.wrong, ...v.optional]) {
+    // Optional areas are only colored: a big one (e.g. Russia) shouldn't dictate the zoom.
+    for (const id of [...v.hit, ...v.missed, ...v.wrong]) {
       for (const layer of this.layers.get(id) ?? []) {
         if (layer instanceof L.CircleMarker) bounds.extend(layer.getLatLng());
         else if (layer instanceof L.Polygon) bounds.extend(this.mainBounds(layer));

@@ -343,7 +343,9 @@ async function boot() {
     keys: [normalize(area.name), normalize(area.nameEn)],
   }));
 
-  $('start-normal').onclick = () => startSet('normal');
+  const startNormal = $<HTMLButtonElement>('start-normal');
+  startNormal.onclick = () => startSet('normal');
+  startNormal.disabled = false; // start-review is handled by refreshReviewButtons()
   el.startReview.onclick = () => startSet('review');
   $('again').onclick = () => startSet(mode);
   el.resultReview.onclick = () => startSet('review');
