@@ -1,0 +1,26 @@
+{
+  "name": "bollard-guessr",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "data:fetch": "node scripts/fetch-plonkit.mjs",
+    "data:images": "node scripts/download-images.mjs",
+    "data:geo": "node scripts/build-geo.mjs",
+    "data:build": "node scripts/build-data.mjs",
+    "data:update": "node scripts/fetch-plonkit.mjs --refresh && node scripts/download-images.mjs && node scripts/build-geo.mjs && node scripts/build-data.mjs"
+  },
+  "devDependencies": {
+    "@types/leaflet": "^1.9.22",
+    "mapshaper": "^0.7.76",
+    "sharp": "^0.35.5",
+    "typescript": "~6.0.2",
+    "vite": "^8.3.0"
+  },
+  "dependencies": {
+    "leaflet": "^1.9.4"
+  }
+}

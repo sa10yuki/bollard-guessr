@@ -1,0 +1,1554 @@
+{
+ "fetchedAt": "2026-10-05T16:26:56.323Z",
+ "questions": [
+  {
+   "id": "united-states/y54R",
+   "country": "united-states",
+   "image": "bollards/united-states-y54R.webp",
+   "required": [
+    "united-states"
+   ],
+   "optional": [],
+   "region": "ネバダ州",
+   "ja": "細い棒の先に、黒い縁取りのある縦長の白い反射板が付いたボラード。ネバダ州で見られる。",
+   "en": "This bollard is found in **Nevada**. It consists of a reflector on a thin stick. The reflector is a vertical rectangle that consists of a white field surrounded by a black outline.",
+   "source": "https://www.plonkit.net/united-states"
+  },
+  {
+   "id": "united-states/FNeR",
+   "country": "united-states",
+   "image": "bollards/united-states-FNeR.webp",
+   "required": [
+    "united-states"
+   ],
+   "optional": [],
+   "region": "コロラド州・ワイオミング州",
+   "ja": "濃い色の金属ポールに白い円形の反射板。反射板は先端ではなく、ポールが少し上に突き出しているのが特徴。先端が白やグレーに塗られていればワイオミング州。",
+   "en": "Bollards in Colorado and Wyoming often feature a dark metal post with a **white circular reflector**, but it is not fully on the top of the post; instead, **part of the post goes above the reflector**.\nThe **top** of the metal pole is sometimes painted [white or grey](https://maps.app.goo.gl/atZPypoYhE7vNKZk9), which is unique to Wyoming.",
+   "source": "https://www.plonkit.net/united-states"
+  },
+  {
+   "id": "united-states/jNem",
+   "country": "united-states",
+   "image": "bollards/united-states-jNem.webp",
+   "required": [
+    "united-states"
+   ],
+   "optional": [],
+   "region": "ワシントン州",
+   "ja": "白または茶色のポストで、表に白い長方形、裏に小さな白（銀）の四角が2つ。ワシントン州のボラード。",
+   "en": "The state of Washington uses bollards that consist of a [white](https://maps.app.goo.gl/JWXyCzVvNiAQ4NVV8) or [brown](https://maps.app.goo.gl/rCAieVzcSH1mrbST9) post with a white rectangle on the front of the bollard, and** two smaller white or silver squares **on the back of the bollard.",
+   "source": "https://www.plonkit.net/united-states"
+  },
+  {
+   "id": "united-states/tH7v",
+   "country": "united-states",
+   "image": "bollards/united-states-tH7v.webp",
+   "required": [
+    "united-states"
+   ],
+   "optional": [],
+   "region": "ユタ州",
+   "ja": "黒い長方形の反射板の上に白い正方形の反射板が乗ったボラードは、ユタ州だけで見られる。",
+   "en": "A bollard consisting of a **white square reflector** on top of a **black rectangle reflector** is unique to Utah.",
+   "source": "https://www.plonkit.net/united-states"
+  },
+  {
+   "id": "united-states/ir1O",
+   "country": "united-states",
+   "image": "bollards/united-states-ir1O.webp",
+   "required": [
+    "united-states"
+   ],
+   "optional": [],
+   "region": "サウスダコタ州・モンタナ州など",
+   "ja": "上部に白いひし形の反射板。サウスダコタ州とモンタナ州で最も一般的（ボルト1本ならモンタナ、2本ならサウスダコタの傾向）。ただし多くの州にある形なので注意。",
+   "en": "The most common type of roadside bollard in South Dakota and Montana features a **white diamond **reflector on top.\nMontana tends to have [1 bolt](https://maps.app.goo.gl/rpu2S7wW7cq7UCXV9) on the reflector, while South Dakota tends to have 2.\nNOTE: This is a common design and can be found in many states. Additionally, square bollards can be rotated on their side to look like diamonds. Use with caution.",
+   "source": "https://www.plonkit.net/united-states"
+  },
+  {
+   "id": "united-states/jDaH",
+   "country": "united-states",
+   "image": "bollards/united-states-jDaH.webp",
+   "required": [
+    "united-states"
+   ],
+   "optional": [],
+   "region": "オレゴン州（カリフォルニア州にも類似）",
+   "ja": "とても長い長方形の反射板が上部に付いたボラード。オレゴン州で最も一般的で、カリフォルニア州にも似たものがある。",
+   "en": "The most common type of bollard in Oregon has a very **long rectangular reflector** on top.\nNOTE: Similar [bollards](https://maps.app.goo.gl/DTmzW8bgvgTMnHhf7) exist in California.",
+   "source": "https://www.plonkit.net/united-states"
+  },
+  {
+   "id": "united-states/Cusb",
+   "country": "united-states",
+   "image": "bollards/united-states-Cusb.webp",
+   "required": [
+    "united-states"
+   ],
+   "optional": [],
+   "region": "ユタ州・ワイオミング州・ネブラスカ州",
+   "ja": "パドル（へら）形の黒いボラード。ユタ州とワイオミング州で多く、ネブラスカ州でも見られる。反射板が正方形ならワイオミング州。",
+   "en": "**Black colored** bollards with a **paddle shaped body** are common in Utah and Wyoming, and can also be found in Nebraska.\nNOTE: A white reflector that is in the shape of a [square](https://maps.app.goo.gl/f4rVfZo5AxSLTS5k7) on this bollard design can only be found in Wyoming",
+   "source": "https://www.plonkit.net/united-states"
+  },
+  {
+   "id": "united-states/EhSf",
+   "country": "united-states",
+   "image": "bollards/united-states-EhSf.webp",
+   "required": [
+    "united-states"
+   ],
+   "optional": [],
+   "region": "ニューメキシコ州",
+   "ja": "円形の反射板が3つ縦に並んだボラード。ニューメキシコ州でよく見られる。",
+   "en": "Bollards with **3 circular reflectors** attached to it are common in New Mexico.",
+   "source": "https://www.plonkit.net/united-states"
+  },
+  {
+   "id": "united-states/95HC",
+   "country": "united-states",
+   "image": "bollards/united-states-95HC.webp",
+   "required": [
+    "united-states"
+   ],
+   "optional": [],
+   "region": "ウィスコンシン州",
+   "ja": "黒い反射板が付いたシンプルな白いボラードは、ウィスコンシン州独自のもの。",
+   "en": "These simple **white** bollards with **black reflectors** are unique to Wisconsin.",
+   "source": "https://www.plonkit.net/united-states"
+  },
+  {
+   "id": "united-states/6HTI",
+   "country": "united-states",
+   "image": "bollards/united-states-6HTI.webp",
+   "required": [
+    "united-states"
+   ],
+   "optional": [],
+   "region": "ユタ州・アリゾナ州・アイダホ州",
+   "ja": "正方形の反射板のボラード。ユタ州（ボルト2本）、アリゾナ州（ボルト1本）、アイダホ州（両方）で一般的。ひし形のものが回転して正方形に見えることもあるので注意。",
+   "en": "Bollards where the reflector is shaped like a **square** are common in Utah, Arizona, and Idaho.\nThe Utah variant usually has [2 bolts](https://maps.app.goo.gl/zXgYeFd7TBuuRywv6), the Arizona variant usually has one bolt, and Idaho can have both 2 bolts and one bolt.\nNOTE: Diamond bollards can be rotated on their side to look like squares. Use with caution.",
+   "source": "https://www.plonkit.net/united-states"
+  },
+  {
+   "id": "namibia/TqEE",
+   "country": "namibia",
+   "image": "bollards/namibia-TqEE.webp",
+   "required": [
+    "namibia"
+   ],
+   "optional": [],
+   "region": null,
+   "ja": "交差点や道路脇に置かれる、小さな石のボラード。ナミビアで見られる。",
+   "en": "You can spot these **small stone bollards** at intersections and on the sides of roads.",
+   "source": "https://www.plonkit.net/namibia"
+  },
+  {
+   "id": "namibia/OYpy",
+   "country": "namibia",
+   "image": "bollards/namibia-OYpy.webp",
+   "required": [
+    "namibia"
+   ],
+   "optional": [],
+   "region": "C34号線（大西洋沿岸の砂漠地帯）",
+   "ja": "前面に黄色の反射板が2つ、背面に赤が1つある独特な白いボラード。ナミビアの海沿いの砂漠を走るC34号線に一定間隔で立っている。",
+   "en": "The C34 looks like darker streaks of black sand surrounded by more sand as far as the eye can see. Some coastal shrubbery, and even the [coast](https://maps.app.goo.gl/iYzuJD2UtEKEzAh27) can be seen in some parts. [Unique white bollards](https://maps.app.goo.gl/A9USD6ywaLZWggcN8) with two yellow reflectors on the front, and one red in the back can also be seen along the road at regular intervals.",
+   "source": "https://www.plonkit.net/namibia"
+  },
+  {
+   "id": "reunion/TYj8",
+   "country": "reunion",
+   "image": "bollards/reunion-TYj8.webp",
+   "required": [
+    "france",
+    "reunion",
+    "senegal"
+   ],
+   "optional": [
+    "netherlands",
+    "rwanda",
+    "united-kingdom"
+   ],
+   "region": null,
+   "ja": "とがった先端と、ぐるっと一周する赤（またはグレー）の反射帯を持つ、いわゆるフランス式ボラード。フランス本土のほか、フランスの海外県レユニオンや、旧フランス植民地のセネガルでも使われる。オランダやルワンダの一部の道路でもまれに見られ、スコットランドには先端が丸い似たボラードがある。",
+   "en": "Being a French Department, you will see **French infrastructure**, such as [signs](https://goo.gl/maps/g4Zs8JkqkiWbQYt28), [bollards](https://www.google.com/maps/@-21.2427103,55.3131219,3a,75y,99.88h,80.84t,358.51r/data=!3m6!1e1!3m4!1sfAEf2UYNe56no-OLI1RWoA!2e0!7i13312!8i6656?entry=ttu) and [poles](https://www.google.com/maps/@-21.281482,55.4317286,3a,90y,19.99h,96.64t/data=!3m6!1e1!3m4!1sm6b5qi8oScL85YCcGo5E_g!2e0!7i13312!8i6656?entry=ttu).",
+   "source": "https://www.plonkit.net/reunion"
+  },
+  {
+   "id": "senegal/7wNV",
+   "country": "senegal",
+   "image": "bollards/senegal-7wNV.webp",
+   "required": [
+    "france",
+    "reunion",
+    "senegal"
+   ],
+   "optional": [
+    "netherlands",
+    "rwanda",
+    "united-kingdom"
+   ],
+   "region": null,
+   "ja": "フランス式ボラード（とがった先端と一周する赤い反射帯）。旧フランス植民地のセネガルでは、ボラードや電柱、標識などフランス式のインフラが使われている。フランス本土やレユニオンでもおなじみ。",
+   "en": "Being a former French colony, Senegal uses French infrastructure such as **bollards**, **poles**, **signs** and **road** **lines**.",
+   "source": "https://www.plonkit.net/senegal"
+  },
+  {
+   "id": "christmas-island/XuYJ",
+   "country": "christmas-island",
+   "image": "bollards/christmas-island-XuYJ.webp",
+   "required": [
+    "australia",
+    "christmas-island"
+   ],
+   "optional": [],
+   "region": null,
+   "ja": "表に赤い反射板、裏にグレーの反射板が付いたシンプルな白いボラード。オーストラリアの標準ボラードで、クリスマス島でも同じものが使われる。ニュージーランドのものは赤い帯が裏側まで回り込んでいるので区別できる。",
+   "en": "Christmas Island uses the standard **Australian bollard**. It is a simple white bollard with a red reflector on the front, and a grey reflector on the back.\nNOTE: In general, road infrastructure metas are similar to those found on mainland Australia, such as [speed limit signs](https://goo.gl/maps/bMWYvWn1yBfSiWs29), [green sign backgrounds](https://goo.gl/maps/EDq64mntxxcKBnrk7), etc.",
+   "source": "https://www.plonkit.net/christmas-island"
+  },
+  {
+   "id": "australia/Snwr",
+   "country": "australia",
+   "image": "bollards/australia-Snwr.webp",
+   "required": [
+    "australia",
+    "christmas-island"
+   ],
+   "optional": [],
+   "region": null,
+   "ja": "白い本体に、表は赤、裏はグレーの反射板。オーストラリアの標準ボラードで、クリスマス島でも使われる。ニュージーランドでは赤い反射材が裏まで巻き付いている点が違う。",
+   "en": "Australian bollards are white, with a **red reflector** on the front, and a grey reflector on the back.\nNOTE: New Zealand uses a bollard where the red reflector wraps around the back, meaning the reflector goes from end to end while the Australian one stops in the middle.",
+   "source": "https://www.plonkit.net/australia"
+  },
+  {
+   "id": "australia/NeWE",
+   "country": "australia",
+   "image": "bollards/australia-NeWE.webp",
+   "required": [
+    "australia"
+   ],
+   "optional": [
+    "christmas-island"
+   ],
+   "region": "クイーンズランド州・南オーストラリア州",
+   "ja": "反射板が通常より短いオーストラリア式ボラード。クイーンズランド州と南オーストラリア州で多い。",
+   "en": "Reflectors that are **shorter **in height than the regular ones are most common in Queensland and South Australia.\nNOTE: This is most consistent with 4 or more short reflectors visible in the round. A low amount of short reflectors is less consistent. This is not consistent in Generation 2.",
+   "source": "https://www.plonkit.net/australia"
+  },
+  {
+   "id": "australia/uo2W",
+   "country": "australia",
+   "image": "bollards/australia-uo2W.webp",
+   "required": [
+    "australia"
+   ],
+   "optional": [],
+   "region": "西オーストラリア州",
+   "ja": "下部が茶色く塗られたボラード。主に西オーストラリア州で見られる。",
+   "en": "Bollards with **brown paint** at the bottom are most commonly found in Western Australia.\nNOTE: Brown paint at the bottom of [exposed bollards](https://goo.gl/maps/KuQaRmJgbJ6kBUda7) can also rarely be seen in other states, however the brown section will not be as large.",
+   "source": "https://www.plonkit.net/australia"
+  },
+  {
+   "id": "australia/CAL4",
+   "country": "australia",
+   "image": "bollards/australia-CAL4.webp",
+   "required": [
+    "australia"
+   ],
+   "optional": [],
+   "region": "西オーストラリア州",
+   "ja": "白黒の縞模様のボラードは西オーストラリア州独自のもの。",
+   "en": "These black-and-white **stripy **bollards are unique to Western Australia.",
+   "source": "https://www.plonkit.net/australia"
+  },
+  {
+   "id": "australia/0nBQ",
+   "country": "australia",
+   "image": "bollards/australia-0nBQ.webp",
+   "required": [
+    "australia"
+   ],
+   "optional": [],
+   "region": "クイーンズランド州",
+   "ja": "黒と黄色のボラードはクイーンズランド州だけで見られる。",
+   "en": "This **black-and-yellow** bollard is exclusive to Queensland.",
+   "source": "https://www.plonkit.net/australia"
+  },
+  {
+   "id": "new-zealand/uxAD",
+   "country": "new-zealand",
+   "image": "bollards/new-zealand-uxAD.webp",
+   "required": [
+    "new-zealand"
+   ],
+   "optional": [],
+   "region": null,
+   "ja": "上部に赤い帯が巻き付き、その帯が裏側まで一周しているのがニュージーランドのボラード。表か裏に細い黄色や白の反射板が付くことも多い。ニュージーランド独自のデザイン。",
+   "en": "Bollards in New Zealand have a **red strip** which wraps around the top of the bollard. This strip wraps the whole way around the back and part of the front. The front or back of the bollard often contains a [**thin yellow**** **](https://goo.gl/maps/DLQi1D8i9rwS1hTA9)**or white reflector**.\nNOTE: These bollards are unique to New Zealand.",
+   "source": "https://www.plonkit.net/new-zealand"
+  },
+  {
+   "id": "new-zealand/P4oS",
+   "country": "new-zealand",
+   "image": "bollards/new-zealand-P4oS.webp",
+   "required": [
+    "new-zealand"
+   ],
+   "optional": [],
+   "region": "カンタベリー地方南部・サウスランド地方東部",
+   "ja": "ニュージーランドの標準ボラードの帯が緑色のもの。カンタベリー地方南部と、サウスランド地方東部の一部で見られる。",
+   "en": "A typical bollard, but with a** green stripe**, is common in southern Canterbury, as well as in some pockets in eastern Southland.",
+   "source": "https://www.plonkit.net/new-zealand"
+  },
+  {
+   "id": "new-zealand/msuk",
+   "country": "new-zealand",
+   "image": "bollards/new-zealand-msuk.webp",
+   "required": [
+    "new-zealand"
+   ],
+   "optional": [],
+   "region": "ウェリントン周辺",
+   "ja": "赤ではなく黒い帯のボラード。ウェリントン周辺で、特に古い第3世代のカバレッジでよく見られる。",
+   "en": "A typical bollard but with a **black stripe** instead of a red one is commonly found in Wellington, especially in older Generation 3 coverage.",
+   "source": "https://www.plonkit.net/new-zealand"
+  },
+  {
+   "id": "chile/tCeP",
+   "country": "chile",
+   "image": "bollards/chile-tCeP.webp",
+   "required": [
+    "chile"
+   ],
+   "optional": [
+    "spain"
+   ],
+   "region": null,
+   "ja": "スペイン式に似たボラードで、表に白、裏に黄色〜オレンジの反射板。チリではボラード自体があまり多くない。",
+   "en": "Chilean bollards are similar to **Spanish style** bollards, with a white reflector at the front and a yellow-orange reflector at the back. They are not super common.",
+   "source": "https://www.plonkit.net/chile"
+  },
+  {
+   "id": "chile/DbSe",
+   "country": "chile",
+   "image": "bollards/chile-DbSe.webp",
+   "required": [
+    "chile"
+   ],
+   "optional": [],
+   "region": null,
+   "ja": "上部に白い線が2本入ったオレンジ色の仮設ボラード。通常のボラードが少ないチリで時々見かける。",
+   "en": "While regular bollards are somewhat rare in Chile, you may sometimes find this **orange**, temporary bollard, with **two white stripes** at the top.",
+   "source": "https://www.plonkit.net/chile"
+  },
+  {
+   "id": "ecuador/cF1l",
+   "country": "ecuador",
+   "image": "bollards/ecuador-cF1l.webp",
+   "required": [
+    "ecuador"
+   ],
+   "optional": [
+    "malaysia"
+   ],
+   "region": null,
+   "ja": "ボラードがとても多い、中南米では珍しい国。赤い線が2本入った丸いボラードと、黒地に赤い反射板が2つある平らなボラードが代表的。似た長方形のボラードはマレーシアにもある。",
+   "en": "Ecuador is one of the few Latin American countries where bollards are very common.\nYou will find two main types of bollards:\n- A **round** bollard with two red stripes,\n- A **flat** bollard with two red reflectors on black.\nMany other bollards can be found, however, they will almost always have the same colour scheme and style.\nNOTE: A similar rectangular bollard can sometimes be found in Malaysia.",
+   "source": "https://www.plonkit.net/ecuador"
+  },
+  {
+   "id": "peru/xFoX",
+   "country": "peru",
+   "image": "bollards/peru-xFoX.webp",
+   "required": [
+    "peru"
+   ],
+   "optional": [],
+   "region": null,
+   "ja": "赤や黄色に塗られた、三角柱のコンクリート製ボラードがペルーの主流。円柱形のものもある。",
+   "en": "Bollards in Peru are painted red or yellow, and the country mainly uses a variety of **triangular-shaped** concrete bollards. Occasionally you will also spot other designs, such as these [circular](https://www.google.com/maps/@-14.4839611,-70.9887188,3a,24.9y,19.81h,72.8t/data=!3m6!1e1!3m4!1sU37DGxXpc0hXg0BPOLhRRw!2e0!7i13312!8i6656) concrete variants.",
+   "source": "https://www.plonkit.net/peru"
+  },
+  {
+   "id": "peru/NIjJ",
+   "country": "peru",
+   "image": "bollards/peru-NIjJ.webp",
+   "required": [
+    "peru"
+   ],
+   "optional": [],
+   "region": "モケグア県（南部）",
+   "ja": "上部に黒と黄色の帯がある円柱形のボラードは、ペルー南部のモケグア県独自のもの。",
+   "en": "This cylindrical bollard, with a **black and yellow stripe at the top**, is unique to the state of Moquegua, which is located in the south of Peru.",
+   "source": "https://www.plonkit.net/peru"
+  },
+  {
+   "id": "uruguay/Pveh",
+   "country": "uruguay",
+   "image": "bollards/uruguay-Pveh.webp",
+   "required": [
+    "uruguay"
+   ],
+   "optional": [],
+   "region": null,
+   "ja": "片面が黄色く塗られていることも多い白いボラードと、石の車止めはウルグアイ特有。",
+   "en": "These **white bollards**, with one side often painted [yellow](https://goo.gl/maps/Tt64mBZvxz5qYZhv9), and **stone barriers**, are specific to Uruguay.",
+   "source": "https://www.plonkit.net/uruguay"
+  },
+  {
+   "id": "costa-rica/KYKK",
+   "country": "costa-rica",
+   "image": "bollards/costa-rica-KYKK.webp",
+   "required": [
+    "costa-rica"
+   ],
+   "optional": [],
+   "region": null,
+   "ja": "コスタリカでボラードの役割を果たすのが、黒い丸が3つ並んだ縦長のオレンジ色の板。",
+   "en": "The equivalent of a bollard in Costa Rica would be these vertical **orange boards** with **3 black circles** on them.",
+   "source": "https://www.plonkit.net/costa-rica"
+  },
+  {
+   "id": "costa-rica/jFoY",
+   "country": "costa-rica",
+   "image": "bollards/costa-rica-jFoY.webp",
+   "required": [
+    "costa-rica"
+   ],
+   "optional": [],
+   "region": "32号線（サンホセ近郊〜グアピレス西）",
+   "ja": "中央線の間に立つ黄色いボラード。コスタリカの32号線、料金所付近から4号線との交差点までの区間で見られる。",
+   "en": "From the “Route 32 Toll” close to the San José and Heredia border until where it intersects RN 4 west of Guapiles, the road uses yellow bollards placed between the centre road lines.",
+   "source": "https://www.plonkit.net/costa-rica"
+  },
+  {
+   "id": "guatemala/QYdU",
+   "country": "guatemala",
+   "image": "bollards/guatemala-QYdU.webp",
+   "required": [
+    "guatemala"
+   ],
+   "optional": [],
+   "region": "ケツァルテナンゴ北東の1号線",
+   "ja": "黒い線が2本入った小さな白いボラード。グアテマラのケツァルテナンゴ北東、1号線で見られる。",
+   "en": "These small **white bollards** with **two black stripes** can be found on road 1 northeast of Quetzaltenango.",
+   "source": "https://www.plonkit.net/guatemala"
+  },
+  {
+   "id": "canada/GAxI",
+   "country": "canada",
+   "image": "bollards/canada-GAxI.webp",
+   "required": [
+    "canada"
+   ],
+   "optional": [],
+   "region": "アルバータ州",
+   "ja": "黒い帯が2本、ぐるっと一周する円柱形の白黒ボラード。アルバータ州の交差点でとてもよく見かける、覚えておくと便利なカナダのボラード。帯の間が黄色・青・緑のものもある。",
+   "en": "Alberta has a unique **black and white **bollard that is often found at intersections. It has a **cylindrical **shape and two black bands that wrap all the way around. It is one of the most useful Canadian bollards to learn because it appears so frequently.\nNOTE: Some Alberta bollards have a [yellow band](https://goo.gl/maps/VocoBEyMAyYWS6TNA) between the two black bands, instead of a white one. [Blue bands](https://www.google.com/maps/@51.0086521,-114.1574649,3a,15y,332.03h,76.57t/data=!3m6!1e1!3m4!1swqH7OVkeCkEWjGass03ahQ!2e0!7i16384!8i8192) can also rarely be seen, particularly in and around Calgary, while [green bands](https://www.google.com/maps/@53.6289425,-113.3790425,3a,15y,31.12h,80.5t,0.35r/data=!3m6!1e1!3m4!1sOAFFhMEkY051OMV8geKMog!2e0!7i16384!8i8192) are rarely seen in and around Edmonton.",
+   "source": "https://www.plonkit.net/canada"
+  },
+  {
+   "id": "canada/GjWG",
+   "country": "canada",
+   "image": "bollards/canada-GjWG.webp",
+   "required": [
+    "canada"
+   ],
+   "optional": [],
+   "region": "マニトバ州（サスカチュワン州にも類似）",
+   "ja": "黒とグレーに塗られたボラードで、多くはグレーの下にオレンジの線が入る。マニトバ州のもの。黒い先端だけの形はサスカチュワン州でも見られる。",
+   "en": "Manitoba uses black and grey painted bollards. Most of the time an **orange stripe** will be present below the grey one.\n[Wooden, rectangular bollards](https://maps.app.goo.gl/Fuj6Rivmhcg3sS5dA) of this form are typically found further north in Manitoba.\nNOTE: Bollards in [this](https://goo.gl/maps/BmjVnBrvDfAc66Ym9) format with just a black top are seen in Manitoba and Saskatchewan.",
+   "source": "https://www.plonkit.net/canada"
+  },
+  {
+   "id": "canada/8sEO",
+   "country": "canada",
+   "image": "bollards/canada-8sEO.webp",
+   "required": [
+    "canada"
+   ],
+   "optional": [],
+   "region": "ブリティッシュコロンビア州",
+   "ja": "細くて少し曲がった白黒のボラード。ブリティッシュコロンビア州全域、特にバンクーバー島で多い。アルバータ州のものより細く、黒い帯の間隔が広い。",
+   "en": "British Columbia has black-and-white bollards with a thin, slightly curved shape. It is most commonly found on Vancouver Island, but can be found all throughout the province.\nNOTE: They can look superficially similar to the Alberta bollard. However, the thin shape and the wider spacing of the two black bands should help you tell them apart.",
+   "source": "https://www.plonkit.net/canada"
+  },
+  {
+   "id": "canada/X21k",
+   "country": "canada",
+   "image": "bollards/canada-X21k.webp",
+   "required": [
+    "canada"
+   ],
+   "optional": [],
+   "region": "ケベック州",
+   "ja": "ガードレールに取り付けられた細長い白いポールで、先端に赤か緑の反射板。ケベック州独自のボラード。",
+   "en": "Québec has unique bollards that are always attached to guardrails. They are long, thin white poles with a **red** or **green reflector** at the top.",
+   "source": "https://www.plonkit.net/canada"
+  },
+  {
+   "id": "canada/7Oi3",
+   "country": "canada",
+   "image": "bollards/canada-7Oi3.webp",
+   "required": [
+    "canada"
+   ],
+   "optional": [],
+   "region": "ケベック州（まれにニューブランズウィック州）",
+   "ja": "道路脇に立つ長方形のマーカー。ケベック州で見られ、色はさまざま。ニューブランズウィック州の都市部の幹線道路でもまれに見られる。",
+   "en": "You can find these **rectangular markers** on the sides of the roads in Québec. The colours can vary.\nNOTE: These can be rarely found on urban divided highways in New Brunswick.",
+   "source": "https://www.plonkit.net/canada"
+  },
+  {
+   "id": "canada/s9c4",
+   "country": "canada",
+   "image": "bollards/canada-s9c4.webp",
+   "required": [
+    "canada"
+   ],
+   "optional": [],
+   "region": "オンタリオ州",
+   "ja": "道路脇に立つひし形のマーカー。オンタリオ州で見られ、色はさまざま。",
+   "en": "You can find these **diamond-shaped markers** on the sides of the roads in Ontario. The colours can vary.",
+   "source": "https://www.plonkit.net/canada"
+  },
+  {
+   "id": "canada/BSBp",
+   "country": "canada",
+   "image": "bollards/canada-BSBp.webp",
+   "required": [
+    "canada"
+   ],
+   "optional": [],
+   "region": "ノースウェスト準州",
+   "ja": "太い黒い帯が2本入った円柱形の白黒ボラード。ノースウェスト準州のもの。アルバータ州のものとそっくりだが、こちらは帯が太い。",
+   "en": "The Northwest Territories has a black and white bollard with a cylindrical shape and two **thick**, **black **bands.\nNOTE: It looks very similar to the Alberta bollard. However, the Alberta bollard has thinner black bands.",
+   "source": "https://www.plonkit.net/canada"
+  },
+  {
+   "id": "canada/3vxs",
+   "country": "canada",
+   "image": "bollards/canada-3vxs.webp",
+   "required": [
+    "canada"
+   ],
+   "optional": [],
+   "region": "ニューブランズウィック州（トランスカナダハイウェイ）",
+   "ja": "平らな黄色いボラード。ニューブランズウィック州のトランスカナダハイウェイで見られる。",
+   "en": "These flat, **yellow bollards** can be found on the Trans-Canada highway in New Brunswick.",
+   "source": "https://www.plonkit.net/canada"
+  },
+  {
+   "id": "bangladesh/iyC8",
+   "country": "bangladesh",
+   "image": "bollards/bangladesh-iyC8.webp",
+   "required": [
+    "bangladesh"
+   ],
+   "optional": [],
+   "region": null,
+   "ja": "赤と白のコンクリート製ボラードが、バングラデシュ全土で使われている。円柱形のほかに角柱形もある。",
+   "en": "Bangladesh uses **red-and-white** concrete bollards throughout the whole country.\nNOTE: They can also be found in a square form instead of a circular form.",
+   "source": "https://www.plonkit.net/bangladesh"
+  },
+  {
+   "id": "cambodia/EFcY",
+   "country": "cambodia",
+   "image": "bollards/cambodia-EFcY.webp",
+   "required": [
+    "cambodia"
+   ],
+   "optional": [],
+   "region": null,
+   "ja": "カンボジアにはいろいろなボラードがある。代表的なのは、赤白の縞模様の石のボラードと、上部が赤で下部が白い（赤い部分に反射板が付くことが多い）石のボラード。",
+   "en": "Cambodia has a variety of different **bollards**. The most common ones are:\n- A stone bollard with red-and-white stripes.\n- A stone bollard with a red top and a white base, usually with a reflector in the red part.\nSome bollards are unique to a road or region. More details can be found in the region-guessing section.",
+   "source": "https://www.plonkit.net/cambodia"
+  },
+  {
+   "id": "cambodia/j4t2",
+   "country": "cambodia",
+   "image": "bollards/cambodia-j4t2.webp",
+   "required": [
+    "thailand",
+    "laos",
+    "indonesia"
+   ],
+   "optional": [
+    "cambodia"
+   ],
+   "region": "カンボジアでは48号線（タタイ〜4号線の交差点）のみ",
+   "ja": "先がとがった四角柱に白黒の縞模様。タイの定番ボラードで、東南アジアではラオスやインドネシアでも使われる。カンボジアでは48号線の一部区間だけで見られる。",
+   "en": "**Black-and-white bollards** in Cambodia are only found on Road 48, between Tatai and the intersection with Road 4.\nNOTE: Make sure to check other clues before guessing, because this style of bollard is commonly found in Thailand.",
+   "source": "https://www.plonkit.net/cambodia"
+  },
+  {
+   "id": "cambodia/xNF2",
+   "country": "cambodia",
+   "image": "bollards/cambodia-xNF2.webp",
+   "required": [
+    "cambodia"
+   ],
+   "optional": [],
+   "region": "南西部（4号線のアンスノール〜プレアシアヌーク間など）",
+   "ja": "赤い縞模様の三角柱のボラード。カンボジア南西部の4号線（特にキリロム国立公園〜プレアシアヌーク間）、リアム国立公園、ボコール（プレアモニボン）国立公園で見られる。",
+   "en": "Unique **triangular bollards** with red stripes can be found in three places in Cambodia, all located in the same area in the southwest:\n- On Road 4 between Angk Snuol and Preah Sihanouk. They are especially common in the section between Kirirom National Park and Preah Sihanouk.\n- One small off-road of Road 4, in Ream National Park near Preah Sihanouk.\n- In Preah Monivong National Park.",
+   "source": "https://www.plonkit.net/cambodia"
+  },
+  {
+   "id": "hong-kong/m242",
+   "country": "hong-kong",
+   "image": "bollards/hong-kong-m242.webp",
+   "required": [
+    "hong-kong"
+   ],
+   "optional": [],
+   "region": null,
+   "ja": "青い丸に白い矢印が描かれた黄色いボラード。香港の横断歩道などで車の進む方向を示す。平らなタイプと箱形のタイプがある。",
+   "en": "**Yellow **bollards with a white arrow in a blue circle are commonly seen at pedestrian crossings, but also elsewhere, indicating where cars should go. There is a flat and a cuboid version.",
+   "source": "https://www.plonkit.net/hong-kong"
+  },
+  {
+   "id": "laos/VMbz",
+   "country": "laos",
+   "image": "bollards/laos-VMbz.webp",
+   "required": [
+    "laos",
+    "thailand",
+    "indonesia"
+   ],
+   "optional": [
+    "cambodia"
+   ],
+   "region": null,
+   "ja": "白黒の四角いコンクリート製ボラードで、黒い帯が1本以上入る。ラオスで使われ、タイやインドネシア、まれにカンボジアにも似たものがある。",
+   "en": "Laos uses square concrete **black and white bollards** with one or more black bands.\nNOTE: Thailand, Indonesia, and rarely Cambodia use similar bollards.",
+   "source": "https://www.plonkit.net/laos"
+  },
+  {
+   "id": "laos/IN2F",
+   "country": "laos",
+   "image": "bollards/laos-IN2F.webp",
+   "required": [
+    "laos"
+   ],
+   "optional": [],
+   "region": null,
+   "ja": "道路から数メートル離れた場所に立つ、赤と白に塗られた直方体のコンクリートボラード。ラオスで時々見られる。",
+   "en": "A **red and white** painted cuboid concrete bollard can sometimes be seen a few metres off the side of the road.",
+   "source": "https://www.plonkit.net/laos"
+  },
+  {
+   "id": "kazakhstan/O76W",
+   "country": "kazakhstan",
+   "image": "bollards/kazakhstan-O76W.webp",
+   "required": [
+    "kazakhstan"
+   ],
+   "optional": [
+    "russia",
+    "turkey"
+   ],
+   "region": null,
+   "ja": "カザフスタンには旧ソ連式のボラードや、トルコ式に似たボラードなどさまざまな種類がある。2本の細いボラードを直角に貼り合わせたような形はカザフスタン独自のもの。",
+   "en": "Kazakhstan uses a variety of post-Soviet style bollards, as well as ones that resemble Turkish bollards. Notably, the bollards seemingly consisting of two thin bollards attached at a **90° angle** are unique to Kazakhstan.",
+   "source": "https://www.plonkit.net/kazakhstan"
+  },
+  {
+   "id": "japan/iauQ",
+   "country": "japan",
+   "image": "bollards/japan-iauQ.webp",
+   "required": [
+    "japan"
+   ],
+   "optional": [],
+   "region": null,
+   "ja": "上部に円形の反射板が付いたシンプルな白いボラードが日本の定番。黒いものや付属品付きのものもあり、市町村名や都道府県名が漢字で書かれていることもある。",
+   "en": "Japan usually uses simple white bollards with **circular reflector(s)** on the top. However, sometimes these bollards are [black](https://goo.gl/maps/cejvLnBS8MeHHbuU8), or have [other extensions](https://goo.gl/maps/DaSsHqZhpkmU3Duq8). They can also have the city or prefecture written on it in kanji.\n_You can learn more about the bollards and kanji in the region guessing section._",
+   "source": "https://www.plonkit.net/japan"
+  },
+  {
+   "id": "japan/cwwN",
+   "country": "japan",
+   "image": "bollards/japan-cwwN.webp",
+   "required": [
+    "japan"
+   ],
+   "optional": [],
+   "region": "九州・山口県（まれに北海道）",
+   "ja": "片面にオレンジの反射材が区切られて並ぶ、平らな白いボラード。九州と山口県で見られる。北海道にも似たものがあるが、両面がオレンジ。",
+   "en": "This flat, white bollard, found on the island of Kyushu and in Yamaguchi Prefecture, will have a **series of separated orange reflectors** on one side, and the same white on the opposite.\nNOTE: Rarely, you may find similar bollards in Hokkaido. However, both sides will have orange reflectors.",
+   "source": "https://www.plonkit.net/japan"
+  },
+  {
+   "id": "japan/SR14",
+   "country": "japan",
+   "image": "bollards/japan-SR14.webp",
+   "required": [
+    "japan"
+   ],
+   "optional": [],
+   "region": "四国",
+   "ja": "反射板のすぐ下に黒い線が入ったボラード。四国で見られ、ガードレールや壁に取り付けられていることもある。",
+   "en": "Some bollards on the island of Shikoku can have a** black stripe** just under the reflector. They can be found normally, attached to [guardrails](https://goo.gl/maps/dMX9b98ZsCAwWVm27) or [walls](https://goo.gl/maps/ibVKyN6TkXVVCgNm7).",
+   "source": "https://www.plonkit.net/japan"
+  },
+  {
+   "id": "japan/YbtC",
+   "country": "japan",
+   "image": "bollards/japan-YbtC.webp",
+   "required": [
+    "japan"
+   ],
+   "optional": [],
+   "region": "東北地方",
+   "ja": "八角形の反射板と、その下の黄色い線が特徴の太い白いボラード。東北地方で見られる。上部が長方形のものや、黒いバージョンもあり、国道や高速道路では路線番号が書かれていることも。",
+   "en": "This **thick**, white bollard, found in the Tohoku region, will have an **octagonal** reflector, and **yellow stripe** just underneath. In addition, you can find the same bollard, but with a [rectangular](https://goo.gl/maps/csG4xahLJ65kQnSf6) top.\nFinally, there are two other variations. You can find a black [octagonal](https://maps.app.goo.gl/Sfi2HnuEoh8LvJNW6), and [rectangular](https://goo.gl/maps/DaNEMrzzZ1K42SsW9) version. They are often found on National Highways or Expressways and can have the number printed on them.",
+   "source": "https://www.plonkit.net/japan"
+  },
+  {
+   "id": "japan/1dQi",
+   "country": "japan",
+   "image": "bollards/japan-1dQi.webp",
+   "required": [
+    "japan"
+   ],
+   "optional": [],
+   "region": "秋田県",
+   "ja": "東北のものと同じく八角形の反射板を持つ太い白いボラードだが、反射板の下に黄色い線が2本。秋田県のバリエーション。",
+   "en": "This bollard, much like Tohoku, will be a **thick**, white bollard with an **octagonal** reflector. However, this Akita prefecture variation will have **two yellow stripes **underneath the reflector.",
+   "source": "https://www.plonkit.net/japan"
+  },
+  {
+   "id": "japan/YpAf",
+   "country": "japan",
+   "image": "bollards/japan-YpAf.webp",
+   "required": [
+    "japan"
+   ],
+   "optional": [],
+   "region": "富山県",
+   "ja": "反射板が1つで伸縮式、反射板の下に赤い線が1本。富山県のボラード。反射板が2つあったり線が黄色だったりするものは、多くの県で使われる別物なので注意。",
+   "en": "The Toyama prefecture bollard has **one reflector**, is [**extendable**](https://goo.gl/maps/dYgsuVzTtVHRbVrj7) and has a **red stripe** underneath the reflector.\nNOTE: Be careful: if there is either a second reflector, or a yellow stripe instead of a red one, these are different bollards. These are more common variations found across many prefectures.",
+   "source": "https://www.plonkit.net/japan"
+  },
+  {
+   "id": "japan/wVGg",
+   "country": "japan",
+   "image": "bollards/japan-wVGg.webp",
+   "required": [
+    "japan"
+   ],
+   "optional": [],
+   "region": "岡山県",
+   "ja": "八角形の反射板の下に赤い線があり、本体と反射板の接続部が斜めになっているボラード。岡山県だけで見られる。",
+   "en": "This bollard, with an **octagonal** reflector, and **red stripe** underneath it, is exclusive to the Okayama prefecture. Additionally, there will be a sloped connection where the base meets the reflector.",
+   "source": "https://www.plonkit.net/japan"
+  },
+  {
+   "id": "japan/uFy4",
+   "country": "japan",
+   "image": "bollards/japan-uFy4.webp",
+   "required": [
+    "japan"
+   ],
+   "optional": [],
+   "region": "青森県",
+   "ja": "黄色い線が2本、円形の反射板が1つの伸縮式ボラード。青森県のもの。上部に太い線が1本だけのこともある。",
+   "en": "This bollard, found in the Aomori prefecture, has **two yellow stripes**, a **single circular reflector**, and is **extendable**. Sometimes, only [one thicker stripe](https://goo.gl/maps/FznLNbxyMicDGqgaA) near the top may be present.",
+   "source": "https://www.plonkit.net/japan"
+  },
+  {
+   "id": "japan/p0xY",
+   "country": "japan",
+   "image": "bollards/japan-p0xY.webp",
+   "required": [
+    "japan"
+   ],
+   "optional": [],
+   "region": "東北地方（特に秋田県）",
+   "ja": "元のボラードにかぶせる形の、上半分が細い紅白の縞模様のボラード。反射板はない。東北地方、特に秋田県で多い。",
+   "en": "These striped bollards (which cover over the original) have a **thinner** top half, and **no reflectors**, and are common to the Tohoku region. They are especially common in Akita prefecture.",
+   "source": "https://www.plonkit.net/japan"
+  },
+  {
+   "id": "kyrgyzstan/EsCZ",
+   "country": "kyrgyzstan",
+   "image": "bollards/kyrgyzstan-EsCZ.webp",
+   "required": [
+    "kyrgyzstan"
+   ],
+   "optional": [],
+   "region": null,
+   "ja": "上部近くに斜めの黒い線が入ったシンプルな白いボラード。キルギスで使われている。",
+   "en": "Kyrgyzstan uses these simple white bollards with a diagonal black stripe near the top.",
+   "source": "https://www.plonkit.net/kyrgyzstan"
+  },
+  {
+   "id": "malaysia/H5tX",
+   "country": "malaysia",
+   "image": "bollards/malaysia-H5tX.webp",
+   "required": [
+    "malaysia"
+   ],
+   "optional": [
+    "ecuador"
+   ],
+   "region": null,
+   "ja": "マレーシアのボラードは黒・白・グレー・赤の組み合わせが多い。種類はいろいろあるが、配色のレイアウトはだいたい共通。",
+   "en": "Malaysian bollards will often have the colours **black**, **white**, **grey** and **red**. Here are three examples of typical Malaysian bollards.\nNOTE: There can be multiple varieties of these bollards, but the layout is mostly the same.",
+   "source": "https://www.plonkit.net/malaysia"
+  },
+  {
+   "id": "singapore/RNhX",
+   "country": "singapore",
+   "image": "bollards/singapore-RNhX.webp",
+   "required": [
+    "singapore"
+   ],
+   "optional": [
+    "malaysia"
+   ],
+   "region": null,
+   "ja": "シンガポールのバス停は、黒と黄色の警告帯が入った独特なコンクリート製ボラードで守られている。マレーシアの一部の都市にも似たものがある。",
+   "en": "Moreover, all bus stops are protected by **concrete bollards** with unique black-and-yellow **warning bands**.\nNOTE: Similar, but not quite identical designs are found in some Malaysian cities.",
+   "source": "https://www.plonkit.net/singapore"
+  },
+  {
+   "id": "south-korea/uhX5",
+   "country": "south-korea",
+   "image": "bollards/south-korea-uhX5.webp",
+   "required": [
+    "south-korea"
+   ],
+   "optional": [],
+   "region": null,
+   "ja": "白黒のくさび形ボラードで、表に黄色の丸い反射板、裏にグレーの反射板。韓国で時々見られる。",
+   "en": "You will sometimes see these black and white wedge-shaped bollards. They have a **round yellow reflector** on the front, and a grey one on the back.",
+   "source": "https://www.plonkit.net/south-korea"
+  },
+  {
+   "id": "qatar/WcSv",
+   "country": "qatar",
+   "image": "bollards/qatar-WcSv.webp",
+   "required": [
+    "qatar"
+   ],
+   "optional": [],
+   "region": null,
+   "ja": "カタールではボラードがある道路は数本しかないので、見かけたらかなり場所を絞り込める。",
+   "en": "**Bollards **in Qatar are only found on a few roads, and you can easily tell them apart.\n- The horizontal [road just west of Qatar map label](https://maps.app.goo.gl/gTG4kNoWi6Nvgzgd9#extra%5BloadMode%5D=latLng) uses black and yellow centre lines.\n- The horizontal [road south of Madinat al Ka`ban](https://maps.app.goo.gl/8zw6N5R1F83nVcoE7#extra%5BloadMode%5D=latLng) has a lot more greenery and, the coverage is also very overcast.\n- The [coastal road south of Fuwayrit](https://maps.app.goo.gl/TccRhQzayTorZkmP9#extra%5BloadMode%5D=latLng) has coastal shrubs all around, and you can often see the coast.\n- If the road doesn’t fit the above descriptions, guess on [the long vertical road west of Qatar map label](https://maps.app.goo.gl/Zc4PecYmyuGQXYju7#extra%5BloadMode%5D=latLng).",
+   "source": "https://www.plonkit.net/qatar"
+  },
+  {
+   "id": "sri-lanka/Yl3z",
+   "country": "sri-lanka",
+   "image": "bollards/sri-lanka-Yl3z.webp",
+   "required": [
+    "sri-lanka"
+   ],
+   "optional": [],
+   "region": null,
+   "ja": "黒い土台に白い上部の、低くて幅広い先細り形の石のボラード。スリランカ独自のもの。",
+   "en": "These short, wide **stone bollards** are unique to Sri Lanka. They have a tapered shape, with a black base and a white top.",
+   "source": "https://www.plonkit.net/sri-lanka"
+  },
+  {
+   "id": "mongolia/U3HS",
+   "country": "mongolia",
+   "image": "bollards/mongolia-U3HS.webp",
+   "required": [
+    "mongolia"
+   ],
+   "optional": [],
+   "region": null,
+   "ja": "上部に赤い線が2本入った、ボウリングのピンのような形の白いボラード。モンゴル独自のもの。",
+   "en": "Mongolia uniquely features white **bowling-pin shaped bollards** with two red stripes around the top.",
+   "source": "https://www.plonkit.net/mongolia"
+  },
+  {
+   "id": "nepal/0YtE",
+   "country": "nepal",
+   "image": "bollards/nepal-0YtE.webp",
+   "required": [
+    "nepal"
+   ],
+   "optional": [],
+   "region": null,
+   "ja": "白黒の縞模様のコンクリート製ボラードで、上部に赤い印があることが多い。縞は3〜5本。ネパールの定番。",
+   "en": "Nepal mainly uses **black-and-white striped concrete bollards** that often have a **red marking** on the top. The amount of stripes vary from 3 to 5.",
+   "source": "https://www.plonkit.net/nepal"
+  },
+  {
+   "id": "taiwan/vpmY",
+   "country": "taiwan",
+   "image": "bollards/taiwan-vpmY.webp",
+   "required": [
+    "taiwan"
+   ],
+   "optional": [],
+   "region": null,
+   "ja": "黒い長方形に円形の反射板が2つか3つ並んだボラード。台湾で使われている。ガードレールには日本に似た、棒付きキャンディのような反射板も付いている。",
+   "en": "Taiwan uses these bollards with either two or three **circular reflectors** on a black rectangle.\nYou can also find these **lollipop** looking reflectors on guardrails, similar to the designs found in [Japan](https://goo.gl/maps/JvYoen6Zsh9iptr16).",
+   "source": "https://www.plonkit.net/taiwan"
+  },
+  {
+   "id": "turkey/qrJL",
+   "country": "turkey",
+   "image": "bollards/turkey-qrJL.webp",
+   "required": [
+    "turkey",
+    "romania"
+   ],
+   "optional": [],
+   "region": null,
+   "ja": "長方形で真っ白、表に赤い反射板が付いたシンプルなボラード。横から見ると薄い。トルコの定番で、ルーマニアにも似たボラードがある（ルーマニアではボラード自体が少なめ）。豪雪地帯には黄色いバージョンもある。",
+   "en": "Turkish **bollards** have a simple design: rectangular, plain white, and with a red reflector on the front. They are thin when seen from the side.\nThere is a rare [yellow](https://maps.app.goo.gl/TDsyYaBcT9Hpmbpk9) version, seen in some areas with high snowfall.\nNOTE: Romania has similar bollards. However, bollards are relatively rare in Romania.",
+   "source": "https://www.plonkit.net/turkey"
+  },
+  {
+   "id": "thailand/bTGN",
+   "country": "thailand",
+   "image": "bollards/thailand-bTGN.webp",
+   "required": [
+    "thailand",
+    "laos",
+    "indonesia"
+   ],
+   "optional": [
+    "cambodia"
+   ],
+   "region": null,
+   "ja": "先がとがった四角柱に白黒の縞模様。タイのボラード。東南アジアではラオスやインドネシアでも見られ、カンボジアにもある。",
+   "en": "The Thai bollard is square shaped with a pointed top, and has **black-and-white stripes**.\nNOTE: In Southeast Asia, these bollards are also found in Cambodia, Laos and Indonesia.",
+   "source": "https://www.plonkit.net/thailand"
+  },
+  {
+   "id": "thailand/2tIc",
+   "country": "thailand",
+   "image": "bollards/thailand-2tIc.webp",
+   "required": [
+    "thailand"
+   ],
+   "optional": [],
+   "region": "チェンマイ県・メーホンソン県",
+   "ja": "大きな白い反射板が3つ並んだ黒いボラード。タイ北部のチェンマイ県とメーホンソン県で特に多い。",
+   "en": "This **black bollard** with **three large white reflectors** is most frequently seen in Chiang Mai and Mae Hong Son.",
+   "source": "https://www.plonkit.net/thailand"
+  },
+  {
+   "id": "andorra/JMBH",
+   "country": "andorra",
+   "image": "bollards/andorra-JMBH.webp",
+   "required": [
+    "andorra",
+    "spain"
+   ],
+   "optional": [],
+   "region": null,
+   "ja": "オレンジの反射板が付いたボラード。アンドラの幹線道路で時々見られる。アンドラに近いスペイン側でも同じものが使われる。",
+   "en": "The Andorran bollard has an **orange** reflector and can be occasionally found on the main highways.\nNOTE: This bollard can also be found in **Spain**.",
+   "source": "https://www.plonkit.net/andorra"
+  },
+  {
+   "id": "azores/fva4",
+   "country": "azores",
+   "image": "bollards/azores-fva4.webp",
+   "required": [
+    "portugal",
+    "azores"
+   ],
+   "optional": [],
+   "region": null,
+   "ja": "上部が細い白のくさび形ボラード。ポルトガルの自治地域であるアゾレス諸島では、電柱やシェブロン、ボラードなどポルトガル本土と同じインフラが使われる。",
+   "en": "Since the Azores is an autonomous region of Portugal, you will often come across various types of Portuguese infrastructure, such as poles, chevrons and bollards.",
+   "source": "https://www.plonkit.net/azores"
+  },
+  {
+   "id": "albania/z0A7",
+   "country": "albania",
+   "image": "bollards/albania-z0A7.webp",
+   "required": [
+    "albania",
+    "italy",
+    "san-marino"
+   ],
+   "optional": [],
+   "region": null,
+   "ja": "上部が黒く、赤とグレーの反射板が付いていて、下部は白。アルバニアのボラードで、イタリア（とサンマリノ）でも同じものが使われる。",
+   "en": "Albanian bollards have a **black top** with a red and grey reflector. The bottom is painted white.\nNOTE: Italy uses the same kind of bollards.",
+   "source": "https://www.plonkit.net/albania"
+  },
+  {
+   "id": "austria/Z6SF",
+   "country": "austria",
+   "image": "bollards/austria-Z6SF.webp",
+   "required": [
+    "austria"
+   ],
+   "optional": [
+    "slovenia",
+    "montenegro"
+   ],
+   "region": null,
+   "ja": "上部が黒い白のボラードで、反射板は暗い赤か濃いグレー。てっぺんに小さな黒い突起が付いていることが多い。スロベニアとモンテネグロも同じ形だが、反射板が明るい赤。",
+   "en": "Austria uses white** **bollards, with a **black top**. The colour of the reflector is **(dark) red or dark grey**.\nMany bollards also feature a small nipple-shaped black cap on the top. Bollards sometimes have a [snow pole on top](https://goo.gl/maps/kkcrsQwXxFkn52rq8).\nNOTE: Slovenia and Montenegro use the same bollards, but with bright red reflectors instead of grey or dark red. Germany uses simple white bollards with grey reflectors.",
+   "source": "https://www.plonkit.net/austria"
+  },
+  {
+   "id": "croatia/asMp",
+   "country": "croatia",
+   "image": "bollards/croatia-asMp.webp",
+   "required": [
+    "croatia",
+    "north-macedonia"
+   ],
+   "optional": [
+    "hungary",
+    "bulgaria"
+   ],
+   "region": null,
+   "ja": "白い本体に黒い長方形と、赤か白の反射板。上から見ると三角形。クロアチアのボラードで、北マケドニアでも同じものが使われる。ハンガリーのものは角が丸く、反射板の上の白い部分が広い。",
+   "en": "Croatian **bollards** are white with a black rectangle and red or white reflector. From the top, it is shaped like a triangle.\nNOTE: Hungarian and Lithuanian bollards look similar**, **but have more **rounded **edges compared to Croatia’s sharper edges. Lithuanian bollards will also have an orange reflector. North Macedonia sometimes uses similar bollards.",
+   "source": "https://www.plonkit.net/croatia"
+  },
+  {
+   "id": "bulgaria/CLGi",
+   "country": "bulgaria",
+   "image": "bollards/bulgaria-CLGi.webp",
+   "required": [
+    "bulgaria"
+   ],
+   "optional": [
+    "croatia",
+    "hungary"
+   ],
+   "region": null,
+   "ja": "ブルガリアではボラード自体が少なめ。見かけるものはだいたい表が赤、裏が白の反射板の、わりと一般的なデザインで、クロアチアやハンガリーのものに似ている。",
+   "en": "Bollards are generally **fairly rare** in Bulgaria.\nWhen you see them, they almost always have this somewhat generic design, which is relatively similar to the bollards found in Croatia and Hungary. They have a red reflector on the front, and a white one on the back. The design isn’t terribly consistent: sometimes they are [thinner](https://goo.gl/maps/cHocfsUNELC32ANF6), and the shape of the reflector varies.",
+   "source": "https://www.plonkit.net/bulgaria"
+  },
+  {
+   "id": "denmark/6bR5",
+   "country": "denmark",
+   "image": "bollards/denmark-6bR5.webp",
+   "required": [
+    "denmark"
+   ],
+   "optional": [],
+   "region": null,
+   "ja": "黄色い反射板と、上部の濃いオレンジの線が特徴の白いボラード。デンマーク独自のもの。ベルギーにも似たボラードがあるが、オレンジの線はない。",
+   "en": "Denmark has a very recognizable white bollard with a yellow reflector and a **dark orange stripe**. This bollard is unique to the country. You may also find this [green variant](https://maps.app.goo.gl/9N1oFxNmpXjCDc5G8).\nNOTE: Belgium has bollards that may look somewhat similar. However, it will never feature the orange stripe.",
+   "source": "https://www.plonkit.net/denmark"
+  },
+  {
+   "id": "denmark/NemR",
+   "country": "denmark",
+   "image": "bollards/denmark-NemR.webp",
+   "required": [
+    "denmark"
+   ],
+   "optional": [],
+   "region": null,
+   "ja": "自転車道の近くにまれに置かれる石のボラード。上部が赤く塗られていることもある。",
+   "en": "You will rarely see these **stone bollards**, which may be painted red at the top, near bicycle paths.",
+   "source": "https://www.plonkit.net/denmark"
+  },
+  {
+   "id": "estonia/N6Ec",
+   "country": "estonia",
+   "image": "bollards/estonia-N6Ec.webp",
+   "required": [
+    "estonia"
+   ],
+   "optional": [],
+   "region": null,
+   "ja": "丸いバトンのような形のボラードで、表に長方形、裏に円形2つの反射板（白かオレンジ）。エストニアのもの。ラトビアやリトアニアのボラードとは見た目が違う。",
+   "en": "Estonian bollards have a **round, baton-like shape**.\nThey have a rectangular reflector on the front and two circular reflectors on the back. The reflectors can be white or orange.\nNOTE: Latvian and Lithuanian bollards look different.\n!![This infographic](/images/estonia/nordics_bollards.png) shows the main similarities and differences between the bollards of the Baltic and Nordic countries.",
+   "source": "https://www.plonkit.net/estonia"
+  },
+  {
+   "id": "czechia/YKsZ",
+   "country": "czechia",
+   "image": "bollards/czechia-YKsZ.webp",
+   "required": [
+    "czechia",
+    "slovakia"
+   ],
+   "optional": [],
+   "region": null,
+   "ja": "表にオレンジの反射板が2つ、裏に白い反射板が1つ。このデザインはチェコとスロバキアだけ。青や赤のバリエーションもまれにある。",
+   "en": "Bollards in Czechia have **orange double reflectors** on the front and a single white reflector on the back. There are also rarer [blue](https://goo.gl/maps/Hcc6dNhyH4bVS86N6) and [red](https://goo.gl/maps/8C1jWJLNWKQLpDxY8) variants.\nNOTE: The only other country with the same design is Slovakia.",
+   "source": "https://www.plonkit.net/czechia"
+  },
+  {
+   "id": "faroe-islands/u8Th",
+   "country": "faroe-islands",
+   "image": "bollards/faroe-islands-u8Th.webp",
+   "required": [
+    "faroe-islands"
+   ],
+   "optional": [],
+   "region": null,
+   "ja": "主に黄色く塗られた小さな木の棒で、上部が赤いこともある。フェロー諸島のボラード。",
+   "en": "Faroese bollards are small wooden sticks that are mainly painted **yellow **and sometimes** red on the top. **",
+   "source": "https://www.plonkit.net/faroe-islands"
+  },
+  {
+   "id": "finland/cjgP",
+   "country": "finland",
+   "image": "bollards/finland-cjgP.webp",
+   "required": [
+    "finland"
+   ],
+   "optional": [],
+   "region": null,
+   "ja": "表に長方形の白い反射板、裏に2つの点がある長い白黒ボラード。黒い部分はふつう斜めに入る。丸いタイプと、細く曲がったタイプがある。フィンランドのもの。",
+   "en": "Finland has **long black-and-white bollards** with a rectangular, white reflector on the front and two dots on the back. They can be either round or thin and curved. The black strip is typically diagonal.\nNOTE: They can look somewhat similar to bollards found in other Northern European countries. [This infographic](/images/finland/nordics_bollards.png) shows the differences.",
+   "source": "https://www.plonkit.net/finland"
+  },
+  {
+   "id": "hungary/PvaK",
+   "country": "hungary",
+   "image": "bollards/hungary-PvaK.webp",
+   "required": [
+    "hungary"
+   ],
+   "optional": [
+    "croatia",
+    "north-macedonia",
+    "bulgaria",
+    "slovakia"
+   ],
+   "region": null,
+   "ja": "白黒のくさび形ボラードで、表は赤、裏は白の反射板が多い（青い反射板も比較的よくある）。ハンガリーのもの。クロアチアのものとよく似ているが、クロアチアは反射板が上寄りで、やや細め。",
+   "en": "Hungarian bollards are black-and-white, wedge-shaped, and typically have a **red** reflector at the front, and a white reflector at the back. [Blue reflectors](https://www.google.com/maps/@47.826971,20.8472466,3a,15y,282.66h,79.6t/data=!3m6!1e1!3m4!1s9lVB-fYRUINpTrMAYWvYZg!2e0!7i16384!8i8192) are also somewhat common.\nNOTE: [Croatian bollards](https://www.google.se/maps/@44.9117293,15.1630293,3a,17.5y,144.5h,72.84t/data=!3m6!1e1!3m4!1sQHfQsXnyjPhm0AakdfHr0A!2e0!7i16384!8i8192) are very similar. They do, however, typically have the reflector closer to the top, and appear somewhat [thinner](https://www.google.se/maps/@44.9122903,15.1621345,3a,48.7y,222.73h,52.12t/data=!3m6!1e1!3m4!1sbWEK8Fssx79YL61MpgzMqg!2e0!7i16384!8i8192) than in Hungary.",
+   "source": "https://www.plonkit.net/hungary"
+  },
+  {
+   "id": "greece/P33J",
+   "country": "greece",
+   "image": "bollards/greece-P33J.webp",
+   "required": [
+    "greece"
+   ],
+   "optional": [],
+   "region": null,
+   "ja": "ほぼ正方形の反射板が付いたくさび形ボラード。表が赤、裏が白。ギリシャのもの。",
+   "en": "Greek bollards are wedge-shaped with **almost square reflectors**, being red on the front and white on the back.",
+   "source": "https://www.plonkit.net/greece"
+  },
+  {
+   "id": "germany/LIr8",
+   "country": "germany",
+   "image": "bollards/germany-LIr8.webp",
+   "required": [
+    "germany",
+    "luxembourg"
+   ],
+   "optional": [
+    "sweden",
+    "russia"
+   ],
+   "region": null,
+   "ja": "白と黒のボラードに、白〜明るいグレーの反射板。交差点付近では反射板がオレンジになる。道路番号のプレートや、側面の青い付属品が付いていることも。ルクセンブルクもほぼ同じで、違いは反射板のボルトの数（ドイツ2本、ルクセンブルク3本）。スウェーデン南部やロシアにも似たボラードがある。",
+   "en": "Germany uses these **black** and **white** bollards, with white and light-grey reflectors. The reflector will be [orange](https://maps.app.goo.gl/anxpwSBiE6Jfcntr5) on bollards next to intersections.** **They sometimes have plates containing the road number, and potentially other useful information. Many bollards also feature blue attachments on the side.\nNOTE: Many European countries have similar bollards, however most will have different coloured reflectors. [Luxembourg](https://maps.app.goo.gl/zK9RvWWR1d1NcnoS9) uses almost identical bollards, but they have 3 bolts instead of 2 on the reflector.",
+   "source": "https://www.plonkit.net/germany"
+  },
+  {
+   "id": "germany/0ZC9",
+   "country": "germany",
+   "image": "bollards/germany-0ZC9.webp",
+   "required": [
+    "germany"
+   ],
+   "optional": [
+    "luxembourg"
+   ],
+   "region": "ドイツの一部の州",
+   "ja": "通常より暗いグレーの反射板が付いたドイツ式ボラード。ドイツの一部地域で見られる。",
+   "en": "Bollards with **darker reflectors** than usual are found in these regions.",
+   "source": "https://www.plonkit.net/germany"
+  },
+  {
+   "id": "france/eNYi",
+   "country": "france",
+   "image": "bollards/france-eNYi.webp",
+   "required": [
+    "france",
+    "reunion",
+    "senegal"
+   ],
+   "optional": [
+    "netherlands",
+    "rwanda",
+    "united-kingdom"
+   ],
+   "region": null,
+   "ja": "フランスの定番ボラード。丸い白いポストで先端がとがり、グレーか赤の反射帯がぐるっと一周する。フランスの海外県レユニオンや、旧植民地のセネガルでも使われる。オランダやルワンダの一部でもまれに見られ、スコットランドには先端が丸い似たボラードがある。",
+   "en": "The French bollard is extremely recognizable and appears very often. It is a **round white post with a pointed top** and a reflector band going all the way around. The band can be grey or red. Some rare variations have a [fully red top](https://maps.app.goo.gl/1zSoGbpiKic3nAxM6).\nNOTE: A bollard that is commonly found in [Scotland](https://goo.gl/maps/CyjNmHyh5zyKv7qR7) looks similar, but has a blunt top instead of a pointed one.",
+   "source": "https://www.plonkit.net/france"
+  },
+  {
+   "id": "france/NqvL",
+   "country": "france",
+   "image": "bollards/france-NqvL.webp",
+   "required": [
+    "france"
+   ],
+   "optional": [
+    "reunion"
+   ],
+   "region": null,
+   "ja": "反射材の入ったくぼんだ帯が2本ある丸い白いボラード。フランス独自のデザインで、緑や黄色のバージョンもある。",
+   "en": "A different round white bollard, with two reflective indented bands, is unique to France.\nYou can also find this design in other colours like [green](https://goo.gl/maps/HiePkuYXrAFBQbyu9) or [yellow](https://goo.gl/maps/uKExi7xcUZjGZt316).",
+   "source": "https://www.plonkit.net/france"
+  },
+  {
+   "id": "france/P6Wi",
+   "country": "france",
+   "image": "bollards/france-P6Wi.webp",
+   "required": [
+    "france"
+   ],
+   "optional": [
+    "reunion"
+   ],
+   "region": null,
+   "ja": "表と裏の両方に幅広い長方形の白い反射板が付いた、くさび形のボラード。あまり多くないが、フランス独自のもの。",
+   "en": "Less common wedge**-**shaped bollards with **wide** **rectangular white reflectors** on both the front and back are also unique to France.",
+   "source": "https://www.plonkit.net/france"
+  },
+  {
+   "id": "cyprus/blro",
+   "country": "cyprus",
+   "image": "bollards/cyprus-blro.webp",
+   "required": [
+    "cyprus"
+   ],
+   "optional": [],
+   "region": null,
+   "ja": "表に赤、裏に白の反射板。トルコのボラードに似ているが、平らではなく三角柱で、上部が斜めになっているのがキプロスのボラード。",
+   "en": "Bollards are superficially similar to Turkish bollards, with a red reflector at the front and a white one at the back. However, unlike Turkish bollards, they are not flat but rather triangular, with a slanted top.",
+   "source": "https://www.plonkit.net/cyprus"
+  },
+  {
+   "id": "isle-of-man/fUGu",
+   "country": "isle-of-man",
+   "image": "bollards/isle-of-man-fUGu.webp",
+   "required": [
+    "isle-of-man"
+   ],
+   "optional": [],
+   "region": null,
+   "ja": "市街地でよく見かける青いボラード。マン島のもの。",
+   "en": "These **blue bollards** can commonly be found in urban areas.",
+   "source": "https://www.plonkit.net/isle-of-man"
+  },
+  {
+   "id": "ireland/FO2a",
+   "country": "ireland",
+   "image": "bollards/ireland-FO2a.webp",
+   "required": [
+    "ireland"
+   ],
+   "optional": [
+    "united-kingdom"
+   ],
+   "region": null,
+   "ja": "緑と白のボラード。アイルランドのヒントになる。完全に独自ではないが、イギリスとの二択で特に役立つ。",
+   "en": "These **green and white bollards** can be a good clue for Ireland. They are not entirely unique to the country, but they are especially helpful in 50-50s with the UK.",
+   "source": "https://www.plonkit.net/ireland"
+  },
+  {
+   "id": "latvia/uPlz",
+   "country": "latvia",
+   "image": "bollards/latvia-uPlz.webp",
+   "required": [
+    "latvia"
+   ],
+   "optional": [],
+   "region": null,
+   "ja": "細く少し曲がった形のボラードで、表に長方形、裏に円形2つの反射板（白かオレンジ）。黒い部分はやや斜め。反射板の下に数字が書かれていることが多い。ラトビアのもの。",
+   "en": "Latvian bollards have a **thin, slightly curved shape**.\nThey have a rectangular reflector on the front, and two circular reflectors on the back. The reflectors can be white or orange. The black strip is slightly angled. Bollards often have numbers below the front reflector.\nNOTE: Estonian and Lithuanian bollards look different.\n!![This infographic](/images/latvia/nordics_bollards.png) shows the main similarities and differences between the bollards of the Baltic and Nordic countries.",
+   "source": "https://www.plonkit.net/latvia"
+  },
+  {
+   "id": "liechtenstein/p90S",
+   "country": "liechtenstein",
+   "image": "bollards/liechtenstein-p90S.webp",
+   "required": [
+    "liechtenstein",
+    "switzerland"
+   ],
+   "optional": [],
+   "region": null,
+   "ja": "白黒の円柱形で先端が丸く、白かグレーの反射板。側面に青い付属品が付いていることが多い。リヒテンシュタインのボラードで、スイスでもほぼ同じものが使われる。",
+   "en": "Liechtenstein uses **black-and-white **cylindrical bollards** **with a white or grey reflector and a rounded top. They also often have a blue attachment on the side.\nWhen attached to guardrails, they will use the [wedge design](https://maps.app.goo.gl/zDoFQvaitWHeGPhk9) instead.\nNOTE: Switzerland can use almost identical bollards.",
+   "source": "https://www.plonkit.net/liechtenstein"
+  },
+  {
+   "id": "lithuania/SYjp",
+   "country": "lithuania",
+   "image": "bollards/lithuania-SYjp.webp",
+   "required": [
+    "lithuania"
+   ],
+   "optional": [],
+   "region": null,
+   "ja": "くさび形で、表にオレンジ、裏に白の長方形の反射板。リトアニアのボラード。細いバージョンもある。",
+   "en": "Lithuanian bollards are **wedge-shaped**.\nThey have an orange reflector on the front, and a white reflector on the back. Both reflectors are rectangular. You may find this [thin version](https://maps.app.goo.gl/ePfgVj54LmwVbQX68) as well.\nNOTE: Estonian and Latvian bollards look different.\n[This infographic](/images/lithuania/nordics_bollards.png) shows the main similarities and differences between the bollards of the Baltic and Nordic countries.",
+   "source": "https://www.plonkit.net/lithuania"
+  },
+  {
+   "id": "luxembourg/90cv",
+   "country": "luxembourg",
+   "image": "bollards/luxembourg-90cv.webp",
+   "required": [
+    "luxembourg",
+    "germany"
+   ],
+   "optional": [],
+   "region": null,
+   "ja": "白黒のくさび形で、グレーの反射板。ドイツのボラードとほぼ同じで、いちばんの違いは反射板のボルトの数（ルクセンブルクは3本、ドイツは2本）。ベルギー・オランダ・フランスのものとは全然違う。",
+   "en": "**Bollards** are black and white. They are wedge-shaped and have grey reflectors. Some have a distinctive [indent](https://goo.gl/maps/P4GMqrARAYXyAqRYA) in the lower half.\nNOTE: They look more or less identical to [German](https://goo.gl/maps/6ELNoXaCi3LPUiML9) bollards. The most notable difference is that the reflectors on German bollards have two bolts, while in Luxembourg they have [three](https://goo.gl/maps/w92yU6hXM4GRDrH58).\nThe bollards of Belgium, the Netherlands and France look very different.",
+   "source": "https://www.plonkit.net/luxembourg"
+  },
+  {
+   "id": "italy/BBrE",
+   "country": "italy",
+   "image": "bollards/italy-BBrE.webp",
+   "required": [
+    "italy",
+    "albania",
+    "san-marino"
+   ],
+   "optional": [],
+   "region": null,
+   "ja": "上部が黒い白の三角柱で、表は赤、裏は白の反射板。イタリアのボラードで、アルバニアやサンマリノでも同じものが使われる。",
+   "en": "Italian bollards are triangular in shape, and white with a **black top**. They have a red front and a white rear reflector.\nNOTE: Albania uses the same bollards.",
+   "source": "https://www.plonkit.net/italy"
+  },
+  {
+   "id": "montenegro/MYa5",
+   "country": "montenegro",
+   "image": "bollards/montenegro-MYa5.webp",
+   "required": [
+    "montenegro",
+    "slovenia"
+   ],
+   "optional": [
+    "austria",
+    "cyprus"
+   ],
+   "region": null,
+   "ja": "上部が黒い白のボラードで、表に赤、裏に白の反射板。モンテネグロで最も一般的で、スロベニアでも同じものが使われる。オーストリアのものも同じ形だが、反射板が暗い赤やグレー。",
+   "en": "The most common bollard is white with a red reflector on the front and a white one on the back. The bollard also has a black top.\nNOTE: These bollards are also found in Slovenia.",
+   "source": "https://www.plonkit.net/montenegro"
+  },
+  {
+   "id": "madeira/CXPS",
+   "country": "madeira",
+   "image": "bollards/madeira-CXPS.webp",
+   "required": [
+    "madeira"
+   ],
+   "optional": [],
+   "region": null,
+   "ja": "赤い反射板が付いた小さな石のボラード。直方体か円柱形で、マデイラ諸島独自のもの。",
+   "en": "Madeira commonly uses small and unique stone bollards with a red reflector. They are either cuboidal or cylindrical in shape.",
+   "source": "https://www.plonkit.net/madeira"
+  },
+  {
+   "id": "poland/vySo",
+   "country": "poland",
+   "image": "bollards/poland-vySo.webp",
+   "required": [
+    "poland",
+    "ukraine"
+   ],
+   "optional": [],
+   "region": null,
+   "ja": "赤い帯が一周するボラードで、帯の表に赤、裏に白の反射板。数字が書かれていることもある。ポーランドのもので、ウクライナのザカルパッチャ州でも同じものが使われる。",
+   "en": "Polish bollards have a **red strip** that wraps all the way around the bollard. This strip has a red reflector on the front (sometimes hard to see), and a white reflector on the back. Bollards sometimes have numbers on them.\nThere is also a thinner, [curved](https://maps.app.goo.gl/wvnHofq3MFz4x8cm8) version of the bollard.\nNOTE: The same design can be found in [Zakarpattia Oblast](https://www.google.com/maps/@48.4892755,22.8226335,3a,15y,293.62h,67.76t/data=!3m6!1e1!3m4!1sSZfQwOcH5qCjpxAWOGmgIg!2e0!7i13312!8i6656?entry=ttu) in Ukraine.",
+   "source": "https://www.plonkit.net/poland"
+  },
+  {
+   "id": "netherlands/R6It",
+   "country": "netherlands",
+   "image": "bollards/netherlands-R6It.webp",
+   "required": [
+    "netherlands"
+   ],
+   "optional": [],
+   "region": null,
+   "ja": "赤い反射板が付いたシンプルな白いボラード。オランダのもの。まれにフランス式の丸いボラードもあるが、赤い帯が一周していないことが多い。",
+   "en": "The Netherlands has a simple, white **bollard** with a red reflector.\nNOTE: On rare occasions, you can find round [French-style bollards](https://goo.gl/maps/vTgbpvfX35mcng4k8) with a red band and a pointed top. A difference with French bollards is that the red wrap usually does not go all the way around the bollard.",
+   "source": "https://www.plonkit.net/netherlands"
+  },
+  {
+   "id": "portugal/UKlQ",
+   "country": "portugal",
+   "image": "bollards/portugal-UKlQ.webp",
+   "required": [
+    "portugal",
+    "azores"
+   ],
+   "optional": [],
+   "region": null,
+   "ja": "上部の白い部分が細いくさび形か、幅広い反射板の平らなタイプ。反射板はほとんど白だが、オレンジもある（スペインの黄色より暗い）。ポルトガルのボラードで、アゾレス諸島でも使われる。",
+   "en": "Portuguese bollards are either wedge-shaped with a noticeably thin white top, or flat with a wide reflector. While most reflectors will be white, you may also find [orange](https://goo.gl/maps/5tWaAjwR2XWPHigU8) reflectors. These are noticeably darker than the [yellow reflectors](https://www.google.com/maps/@41.9861981,-5.1213523,3a,19.2y,201.17h,74.37t/data=!3m6!1e1!3m4!1sJ3baT-DirwydAJfMwHD0Pg!2e0!7i16384!8i8192?entry=ttu) in Spain.",
+   "source": "https://www.plonkit.net/portugal"
+  },
+  {
+   "id": "norway/0MXz",
+   "country": "norway",
+   "image": "bollards/norway-0MXz.webp",
+   "required": [
+    "norway"
+   ],
+   "optional": [],
+   "region": null,
+   "ja": "黒い平行四辺形の中に反射板がある、細く曲がった長方形のボラード。ノルウェーのもの。",
+   "en": "Norway uses thin, curved rectangular bollards with the reflector inside of a **black** parallelogram.",
+   "source": "https://www.plonkit.net/norway"
+  },
+  {
+   "id": "mexico/fEc6",
+   "country": "mexico",
+   "image": "bollards/mexico-fEc6.webp",
+   "required": [
+    "mexico"
+   ],
+   "optional": [],
+   "region": null,
+   "ja": "黒い土台の小さな円柱形の白いボラード。メキシコ独自のもの。黄色い反射板が付くことや、平らなバージョンもある。",
+   "en": "These small, **cylindrical** white bollards with a **black base** are unique to Mexico. A yellow reflector can sometimes be seen, as well as a flat version.",
+   "source": "https://www.plonkit.net/mexico"
+  },
+  {
+   "id": "san-marino/9e8C",
+   "country": "san-marino",
+   "image": "bollards/san-marino-9e8C.webp",
+   "required": [
+    "san-marino",
+    "italy",
+    "albania"
+   ],
+   "optional": [],
+   "region": null,
+   "ja": "サンマリノの道路標識やボラードはイタリアと同じ。上部が黒い白の三角柱で、表は赤の反射板。アルバニアでも同じボラードが使われる。",
+   "en": "Road signs and bollards are **generally identical** to the ones used in Italy.\nNOTE: Many road signs give directions to the nearby Italian city of **Rimini**.",
+   "source": "https://www.plonkit.net/san-marino"
+  },
+  {
+   "id": "serbia/qGEx",
+   "country": "serbia",
+   "image": "bollards/serbia-qGEx.webp",
+   "required": [
+    "serbia"
+   ],
+   "optional": [],
+   "region": null,
+   "ja": "セルビアにはいくつかのデザインがあるが、ほとんどは反射板が中心からずれている。奥行きのない平らな形が多い。",
+   "en": "Serbia has a few bollard designs, however most of them will have an **off-centred reflector.** The bollards are usually flat, with no depth to them.",
+   "source": "https://www.plonkit.net/serbia"
+  },
+  {
+   "id": "slovenia/9Pxm",
+   "country": "slovenia",
+   "image": "bollards/slovenia-9Pxm.webp",
+   "required": [
+    "slovenia",
+    "montenegro"
+   ],
+   "optional": [
+    "austria",
+    "cyprus"
+   ],
+   "region": null,
+   "ja": "上部が黒い白のボラードで、表は明るい赤、裏は白の反射板。スロベニアのもので、モンテネグロもほぼ同じ。オーストリアも同じ形だが、表が暗い赤で裏が黒かグレー。",
+   "en": "Slovenian bollards are white with a black top. The front reflector will typically be **bright red**, while the back reflector will be **white**.\nNOTE: [Austrian](https://www.google.com/maps/@47.935857,15.6009415,3a,20.6y,357.69h,65.73t/data=!3m6!1e1!3m4!1sak-sxymIs2V63Wt8uwtlKA!2e0!7i16384!8i8192?entry=ttu) bollards have the same design, but with a dark red front reflector and a black or grey back reflector. [Montenegrin](https://maps.app.goo.gl/VKcVBeDadPfdZEwQ9) bollards also have a very similar design, also with a red and a white reflector.",
+   "source": "https://www.plonkit.net/slovenia"
+  },
+  {
+   "id": "slovakia/3quH",
+   "country": "slovakia",
+   "image": "bollards/slovakia-3quH.webp",
+   "required": [
+    "slovakia",
+    "czechia"
+   ],
+   "optional": [],
+   "region": null,
+   "ja": "表にオレンジの反射板が2つ、裏に白が1つ。このデザインを使うのはスロバキアとチェコだけ。青や赤のバリエーションもまれにある。",
+   "en": "Bollards in Slovakia have **orange double reflectors** on the front and a single white reflector on the back. There are also rarer [blue](https://goo.gl/maps/fL3eA8AWB8PgX29w7) and [red](https://www.google.com/maps/@49.3226818,21.4268942,3a,15y,317.67h,81.45t/data=!3m6!1e1!3m4!1sgokBvrgl2ArrDdOa4ar-1A!2e0!7i16384!8i8192?entry=ttu) variants.\nNOTE: The only other country with the same design is Czechia.",
+   "source": "https://www.plonkit.net/slovakia"
+  },
+  {
+   "id": "russia/h2Gm",
+   "country": "russia",
+   "image": "bollards/russia-h2Gm.webp",
+   "required": [
+    "russia"
+   ],
+   "optional": [
+    "kazakhstan"
+   ],
+   "region": null,
+   "ja": "ロシアの交差点付近では、ものすごい数のボラードが並んでいることがよくある。",
+   "en": "Near intersections in Russia you will commonly see a very **large number of bollards**.",
+   "source": "https://www.plonkit.net/russia"
+  },
+  {
+   "id": "united-kingdom/ecrT",
+   "country": "united-kingdom",
+   "image": "bollards/united-kingdom-ecrT.webp",
+   "required": [
+    "united-kingdom"
+   ],
+   "optional": [
+    "indonesia"
+   ],
+   "region": null,
+   "ja": "イギリスで最も一般的なボラード。丸みのある形で、表に赤、裏に白の反射板。土台と上部が黒く、真ん中が白い帯。インドネシア（主にカリマンタン）にもイギリス式のボラードがある。",
+   "en": "The most common **bollard** in the UK looks like this. It has a rounded shape, with a red reflector on the front and a white one on the back. The base and top are black, with a white stripe in the middle.",
+   "source": "https://www.plonkit.net/united-kingdom"
+  },
+  {
+   "id": "spain/v8wo",
+   "country": "spain",
+   "image": "bollards/spain-v8wo.webp",
+   "required": [
+    "spain"
+   ],
+   "optional": [
+    "andorra",
+    "chile"
+   ],
+   "region": null,
+   "ja": "表に黄色〜オレンジの反射板、裏に白い点が2つ（裏が無地のことも）。中が空洞のことが多い、スペインの標準ボラード。アンドラ付近では少し違うボラードが使われる。",
+   "en": "The standard Spanish bollards have a **yellow-orange** reflector on the front and two white dots on the back (though the back can also be blank). They are typically hollow.\nNOTE: Very close to Andorra, you can find a [slightly different bollard](https://goo.gl/maps/7zfsuvqVcq5xhuTJ7), which is also used in Andorra itself.",
+   "source": "https://www.plonkit.net/spain"
+  },
+  {
+   "id": "indonesia/u0Sw",
+   "country": "indonesia",
+   "image": "bollards/indonesia-u0Sw.webp",
+   "required": [
+    "indonesia"
+   ],
+   "optional": [
+    "thailand",
+    "laos",
+    "united-kingdom"
+   ],
+   "region": null,
+   "ja": "インドネシアでは白黒の四角や丸のボラードや、黄色と黒（赤い反射板付きのことも）のボラードがよく使われる。イギリス式のボラードも主にカリマンタンで見られる。",
+   "en": "Indonesia commonly uses these **black-and-white** square or circular bollards, as well as these **yellow-and-black** ones, which can also have a red reflector. Other designs can also be found.\nNOTE: [UK-style bollards](https://maps.app.goo.gl/YP74qg3Qj8Ugogus9) are mostly found in Kalimantan.",
+   "source": "https://www.plonkit.net/indonesia"
+  }
+ ]
+}
