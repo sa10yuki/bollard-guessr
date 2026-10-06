@@ -216,7 +216,17 @@ function renderFeedback(q: Question, v: Verdict) {
   link.className = 'source';
   link.textContent = `Plonk It の「${nameOf(q.country)}」ガイドを開く ↗`;
 
-  f.replaceChildren(verdict, facts, explain, details, link);
+  const credit = document.createElement('p');
+  credit.className = 'item-credit';
+  credit.append('画像・説明: Plonk It（');
+  const cc = document.createElement('a');
+  cc.href = 'https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ja';
+  cc.target = '_blank';
+  cc.rel = 'noopener';
+  cc.textContent = 'CC BY-NC-SA 4.0';
+  credit.append(cc, '）。画像はトリミング、説明は翻訳・要約して使用。');
+
+  f.replaceChildren(verdict, facts, explain, details, link, credit);
 }
 
 /** Renders Plonk It's light markdown (**bold**, [text](url)) as DOM nodes without innerHTML. */

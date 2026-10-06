@@ -19,7 +19,11 @@ npm run dev
 
 ## データ
 
-ボラードの画像と説明は [Plonk It](https://www.plonkit.net/guide) のガイドから取得している。Plonk It のコンテンツなので、**個人利用の範囲で使う**こと（一般公開する場合は Plonk It の許可を取る）。国境データは [Natural Earth](https://www.naturalearthdata.com/)（パブリックドメイン）。
+ボラードの画像と説明は [Plonk It](https://www.plonkit.net/guide)（© 2021-2026 Plonk It）のガイドから取得し、[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) のもとで使用している。画像はトリミング（地図部分を除去）し、説明は日本語に翻訳・要約した。この改変版も CC BY-NC-SA 4.0 で提供する（**非営利に限る**。広告や有料化はしない）。非公式のファンメイドツールで、Plonk It とは関係ない。国境データは [Natural Earth](https://www.naturalearthdata.com/)（パブリックドメイン）。
+
+ライセンス: コードは [MIT](LICENSE)、データは [CC BY-NC-SA 4.0](LICENSE-DATA.md)。
+
+公開版: https://sa10yuki.github.io/bollard-guessr/ （`main` に push すると GitHub Actions で自動デプロイ）
 
 | ファイル | 内容 |
 | --- | --- |
