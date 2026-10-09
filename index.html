@@ -5,19 +5,19 @@
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
     <meta name="theme-color" content="#1f2a30" />
-    <title>Bollard Guessr</title>
+    <title>Roadside Guessr</title>
   </head>
   <body>
     <div id="app">
       <header class="topbar">
-        <button class="brand" id="home-button" type="button">Bollard Guessr</button>
+        <button class="brand" id="home-button" type="button">Roadside Guessr</button>
         <span class="progress" id="progress"></span>
       </header>
 
       <main class="play" id="play" hidden>
         <section class="photo">
           <button class="photo-button" id="photo-button" type="button" aria-label="画像を拡大">
-            <img id="photo" alt="ボラードの写真" />
+            <img id="photo" alt="出題の写真" />
           </button>
         </section>
 
@@ -32,7 +32,7 @@
         </section>
 
         <section class="panel" id="panel">
-          <p class="prompt" id="prompt">このボラードが使われている国・地域を<strong>すべて</strong>選んでね</p>
+          <p class="prompt" id="prompt"></p>
           <div class="search" id="search-box">
             <input id="search" type="search" placeholder="国名で探す（例: ドイツ）" autocomplete="off" enterkeyhint="done" />
             <ul class="suggest" id="suggest" hidden></ul>
@@ -46,20 +46,15 @@
         </section>
       </main>
 
-      <section class="screen" id="start">
+      <section class="screen" id="top">
         <div class="card">
-          <h1>Bollard Guessr</h1>
+          <h1>Roadside Guessr</h1>
           <p>
-            ボラード（道路脇の反射ポール）の写真を見て、それが使われている国・地域を地図から全部選ぶゲーム。1セット5問。
+            ボラード・電柱・標識の写真を見て、それが使われている国・地域を地図から全部選ぶ、GeoGuessr の練習ゲーム。1セット5問。
           </p>
-          <div class="menu">
-            <button class="btn primary big" id="start-normal" type="button" disabled>スタート</button>
-            <button class="btn big" id="start-review" type="button" disabled>復習モード</button>
-            <button class="btn big" id="open-catalog" type="button" disabled>ボラード図鑑</button>
-          </div>
-          <p class="hint" id="review-hint"></p>
+          <ul class="genres" id="genres"></ul>
           <p class="credit">
-            ボラードの画像と説明は
+            画像と説明は
             <a href="https://www.plonkit.net/guide" target="_blank" rel="noopener">Plonk It</a>
             （© 2021-2026 Plonk It）のガイドを
             <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ja" target="_blank" rel="noopener">CC BY-NC-SA 4.0</a>
@@ -70,6 +65,24 @@
         </div>
       </section>
 
+      <section class="screen" id="menu" hidden>
+        <div class="card">
+          <h1 id="menu-title"></h1>
+          <p id="menu-description"></p>
+          <div class="kind-picker" id="menu-kinds-box" hidden>
+            <p class="kind-label">出題する種類</p>
+            <div class="filters wrap" id="menu-kinds" role="group" aria-label="出題する種類"></div>
+          </div>
+          <div class="menu">
+            <button class="btn primary big" id="start-normal" type="button">スタート</button>
+            <button class="btn big" id="start-review" type="button">復習モード</button>
+            <button class="btn big" id="open-catalog" type="button">図鑑</button>
+          </div>
+          <p class="hint" id="review-hint"></p>
+          <button class="link-button" id="menu-back" type="button">← ジャンル選択に戻る</button>
+        </div>
+      </section>
+
       <section class="screen" id="result" hidden>
         <div class="card">
           <h2 id="result-title">結果</h2>
@@ -77,18 +90,19 @@
           <div class="menu">
             <button class="btn primary big" id="again" type="button">もう一度</button>
             <button class="btn big" id="result-review" type="button">復習モード</button>
-            <button class="btn big" id="result-home" type="button">タイトルへ</button>
+            <button class="btn big" id="result-menu" type="button">メニューへ</button>
           </div>
         </div>
       </section>
 
       <section class="catalog" id="catalog" hidden>
         <div class="catalog-head">
-          <h1>ボラード図鑑</h1>
+          <h1 id="catalog-title"></h1>
           <div class="catalog-tools">
             <input id="catalog-search" type="search" placeholder="国名で絞り込む（例: にほん、Japan）" autocomplete="off" />
-            <label class="toggle"><input type="checkbox" id="catalog-similar" checked /> 似ているボラードも表示</label>
+            <label class="toggle"><input type="checkbox" id="catalog-similar" checked /> <span id="catalog-similar-label"></span></label>
           </div>
+          <div class="filters" id="catalog-kinds" role="group" aria-label="種類で絞り込む" hidden></div>
           <div class="filters" id="catalog-continents" role="group" aria-label="大陸で絞り込む"></div>
           <p class="catalog-count" id="catalog-count"></p>
         </div>
@@ -101,13 +115,13 @@
             <h2 id="detail-title"></h2>
             <form method="dialog"><button class="detail-close" aria-label="閉じる">×</button></form>
           </div>
-          <img id="detail-img" alt="ボラードの写真" />
+          <img id="detail-img" alt="写真" />
           <div class="detail-body" id="detail-body"></div>
         </div>
       </dialog>
 
       <div class="lightbox" id="lightbox" hidden>
-        <img id="lightbox-img" alt="ボラードの写真（拡大）" />
+        <img id="lightbox-img" alt="写真（拡大）" />
       </div>
     </div>
     <script type="module" src="/src/main.ts"></script>

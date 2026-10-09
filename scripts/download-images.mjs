@@ -1,12 +1,15 @@
-// Downloads the original image of every bollard item into .cache/images.
+// Downloads the original images of the quiz items into .cache/images.
 //
-// Usage: node scripts/download-images.mjs
-// Run after fetch-plonkit.mjs. Already downloaded images are skipped.
+// Usage: node scripts/download-images.mjs [category ...]
+// Without arguments every category is downloaded. Run after fetch-plonkit.mjs.
+// Already downloaded images, and items excluded in data/curation/<category>.json,
+// are skipped.
 //
 // The image URLs answer a Cloudflare page challenge when requested like a page,
 // but serve normally for image requests, so we send the headers an <img> tag would.
 import fs from 'node:fs';
 import path from 'node:path';
+import { CATEGORIES } from './categories.mjs';
 
 const ROOT = path.resolve(import.meta.dirname, '..');
 const OUT = path.join(ROOT, '.cache', 'images');
@@ -19,8 +22,17 @@ const HEADERS = {
   'Sec-Fetch-Dest': 'image',
 };
 
-const raw = JSON.parse(fs.readFileSync(path.join(ROOT, 'data', 'raw-bollards.json'), 'utf8'));
-const urls = [...new Set(raw.items.map((i) => i.imageUrl).filter(Boolean))];
+const categories = process.argv.slice(2).length ? process.argv.slice(2) : Object.keys(CATEGORIES);
+const urls = [];
+for (const cat of categories) {
+  const raw = JSON.parse(fs.readFileSync(path.join(ROOT, 'data', 'raw', `${cat}.json`), 'utf8'));
+  const curationFile = path.join(ROOT, 'data', 'curation', `${cat}.json`);
+  const curation = fs.existsSync(curationFile) ? JSON.parse(fs.readFileSync(curationFile, 'utf8')) : {};
+  for (const item of raw.items) {
+    if (curation[item.id]?.exclude) continue;
+    if (!urls.includes(item.imageUrl)) urls.push(item.imageUrl);
+  }
+}
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
 // On HTTP 429 the server wants us to slow down: wait (Retry-After, or an

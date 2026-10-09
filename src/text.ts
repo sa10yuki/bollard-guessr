@@ -45,18 +45,21 @@ function renderPlonkitText(text: string): Node[] {
 
 /**
  * The facts, explanation, original text, source link and license credit of a
- * bollard. `extraFacts` are appended to the facts list (e.g. the player's mistakes).
+ * quiz item. `extraFacts` are appended to the facts list (e.g. the player's mistakes).
  */
-export function renderBollardInfo(
+export function renderInfo(
   q: Question,
   nameOf: (id: string) => string,
+  kinds: Record<string, string> | null,
   extraFacts: [string, string][] = [],
 ): Node[] {
   const names = (ids: string[]) => ids.map(nameOf).join('、');
 
   const facts = document.createElement('dl');
   facts.className = 'facts';
-  const rows: [string, string][] = [['使われている国・地域', names(q.required)]];
+  const rows: [string, string][] = [];
+  if (q.kind && kinds) rows.push(['種類', kinds[q.kind] ?? q.kind]);
+  rows.push(['使われている国・地域', names(q.required)]);
   if (q.optional.length) rows.push(['似たものがある国（選んでもOK）', names(q.optional)]);
   if (q.region) rows.push(['見られる地域', q.region]);
   for (const [label, value] of [...rows, ...extraFacts]) {

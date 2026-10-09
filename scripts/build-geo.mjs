@@ -28,7 +28,7 @@ if (!fs.existsSync(SRC)) {
   fs.writeFileSync(SRC, Buffer.from(await (await fetch(NE_URL)).arrayBuffer()));
 }
 
-const raw = JSON.parse(fs.readFileSync(path.join(ROOT, 'data', 'raw-bollards.json'), 'utf8'));
+const raw = JSON.parse(fs.readFileSync(path.join(ROOT, 'data', 'raw', 'bollard.json'), 'utf8'));
 const slugByCode = Object.fromEntries(raw.countries.map((c) => [c.code, c.slug]));
 const titleBySlug = Object.fromEntries(raw.countries.map((c) => [c.slug, c.title]));
 

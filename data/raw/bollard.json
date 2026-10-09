@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-05T16:26:56.323Z",
+  "fetchedAt": "2026-10-09T13:51:53.506Z",
   "countries": [
     {
       "slug": "united-states",
@@ -827,6 +827,9 @@
       "continent": "North America",
       "stepIndex": 1,
       "stepTitle": "Regional and state-specific clues",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/united-states/15Nevada_bollard.png",
       "text": [
         "This bollard is found in **Nevada**. It consists of a reflector on a thin stick. The reflector is a vertical rectangle that consists of a white field surrounded by a black outline."
@@ -840,6 +843,9 @@
       "continent": "North America",
       "stepIndex": 1,
       "stepTitle": "Regional and state-specific clues",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/united-states/Wyoming_Bollard.png",
       "text": [
         "Bollards in Colorado and Wyoming often feature a dark metal post with a **white circular reflector**, but it is not fully on the top of the post; instead, **part of the post goes above the reflector**.",
@@ -854,6 +860,9 @@
       "continent": "North America",
       "stepIndex": 1,
       "stepTitle": "Regional and state-specific clues",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/united-states/washingtonbollard.png",
       "text": [
         "The state of Washington uses bollards that consist of a [white](https://maps.app.goo.gl/JWXyCzVvNiAQ4NVV8) or [brown](https://maps.app.goo.gl/rCAieVzcSH1mrbST9) post with a white rectangle on the front of the bollard, and** two smaller white or silver squares **on the back of the bollard."
@@ -867,6 +876,9 @@
       "continent": "North America",
       "stepIndex": 1,
       "stepTitle": "Regional and state-specific clues",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/united-states/Utah_bollard.png",
       "text": [
         "A bollard consisting of a **white square reflector** on top of a **black rectangle reflector** is unique to Utah."
@@ -880,6 +892,9 @@
       "continent": "North America",
       "stepIndex": 1,
       "stepTitle": "Regional and state-specific clues",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/united-states/Diamond_bollard.png",
       "text": [
         "The most common type of roadside bollard in South Dakota and Montana features a **white diamond **reflector on top.",
@@ -895,6 +910,9 @@
       "continent": "North America",
       "stepIndex": 1,
       "stepTitle": "Regional and state-specific clues",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/united-states/Oregon_bollard.png",
       "text": [
         "The most common type of bollard in Oregon has a very **long rectangular reflector** on top.",
@@ -909,6 +927,9 @@
       "continent": "North America",
       "stepIndex": 1,
       "stepTitle": "Regional and state-specific clues",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/united-states/black paddle bollard.png",
       "text": [
         "**Black colored** bollards with a **paddle shaped body** are common in Utah and Wyoming, and can also be found in Nebraska.",
@@ -923,6 +944,9 @@
       "continent": "North America",
       "stepIndex": 1,
       "stepTitle": "Regional and state-specific clues",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/united-states/NM_Bollard.png",
       "text": [
         "Bollards with **3 circular reflectors** attached to it are common in New Mexico."
@@ -936,6 +960,9 @@
       "continent": "North America",
       "stepIndex": 1,
       "stepTitle": "Regional and state-specific clues",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/united-states/Wisconsin_Bollard_Hint.png",
       "text": [
         "These simple **white** bollards with **black reflectors** are unique to Wisconsin."
@@ -949,6 +976,9 @@
       "continent": "North America",
       "stepIndex": 1,
       "stepTitle": "Regional and state-specific clues",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/united-states/Square_Bollard_3.png",
       "text": [
         "Bollards where the reflector is shaped like a **square** are common in Utah, Arizona, and Idaho.",
@@ -964,6 +994,10 @@
       "continent": "North America",
       "stepIndex": 1,
       "stepTitle": "Regional and state-specific clues",
+      "tags": [
+        "bollard",
+        "guardrail"
+      ],
       "imageUrl": "/images/united-states/38ne_bridge_markers_final.png",
       "text": [
         "Maine, New Hampshire, and Massachusetts use **small green and red rectangular signs** to mark the ends of bridges and guardrails.",
@@ -978,6 +1012,10 @@
       "continent": "North America",
       "stepIndex": 1,
       "stepTitle": "Regional and state-specific clues",
+      "tags": [
+        "bollard",
+        "guardrail"
+      ],
       "imageUrl": "/images/united-states/20mn_bridge_updated.png",
       "text": [
         "In Minnesota, these yellow signs with **vertical, black triangles** are placed before bridges at most major river crossings and at the beginnings and ends of guardrail sections on large highways."
@@ -991,6 +1029,9 @@
       "continent": "Africa",
       "stepIndex": 2,
       "stepTitle": "Spotlight",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/lesotho/White_construction_bollard.png",
       "text": [
         "Several sections of the A5 south of Nyakosoba are under construction. As a result, you will often see a sort of temporary “bollard” next to the road, consisting of a **stick** that is mostly painted** white**.",
@@ -1005,6 +1046,9 @@
       "continent": "Africa",
       "stepIndex": 0,
       "stepTitle": "Identifying Namibia",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/namibia/6.png",
       "text": [
         "You can spot these **small stone bollards** at intersections and on the sides of roads."
@@ -1018,6 +1062,9 @@
       "continent": "Africa",
       "stepIndex": 2,
       "stepTitle": "Spotlight",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/namibia/47.png",
       "text": [
         "The C34 looks like darker streaks of black sand surrounded by more sand as far as the eye can see. Some coastal shrubbery, and even the [coast](https://maps.app.goo.gl/iYzuJD2UtEKEzAh27) can be seen in some parts. [Unique white bollards](https://maps.app.goo.gl/A9USD6ywaLZWggcN8) with two yellow reflectors on the front, and one red in the back can also be seen along the road at regular intervals."
@@ -1031,6 +1078,10 @@
       "continent": "Africa",
       "stepIndex": 0,
       "stepTitle": "Identifying Réunion",
+      "tags": [
+        "pole",
+        "bollard"
+      ],
       "imageUrl": "/images/reunion/image.png",
       "text": [
         "Being a French Department, you will see **French infrastructure**, such as [signs](https://goo.gl/maps/g4Zs8JkqkiWbQYt28), [bollards](https://www.google.com/maps/@-21.2427103,55.3131219,3a,75y,99.88h,80.84t,358.51r/data=!3m6!1e1!3m4!1sfAEf2UYNe56no-OLI1RWoA!2e0!7i13312!8i6656?entry=ttu) and [poles](https://www.google.com/maps/@-21.281482,55.4317286,3a,90y,19.99h,96.64t/data=!3m6!1e1!3m4!1sm6b5qi8oScL85YCcGo5E_g!2e0!7i13312!8i6656?entry=ttu)."
@@ -1044,6 +1095,9 @@
       "continent": "Africa",
       "stepIndex": 2,
       "stepTitle": "Spotlight",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/reunion/City_Bollards.png",
       "text": [
         "The two largest towns in Réunion can be differentiated by their **bollards**, commonly seen at intersections. Saint Paul uses [black](https://goo.gl/maps/BCFWSpgwGXQNRTZG7) bollards, while Saint Denis uses [green](https://goo.gl/maps/zKaQEWScWPr9oF4z5) bollards, often with white balls on top. Saint Denis is also more built up, being the capital."
@@ -1057,6 +1111,10 @@
       "continent": "Africa",
       "stepIndex": 0,
       "stepTitle": "Identifying Senegal",
+      "tags": [
+        "pole",
+        "bollard"
+      ],
       "imageUrl": "/images/senegal/image__281_29.png",
       "text": [
         "Being a former French colony, Senegal uses French infrastructure such as **bollards**, **poles**, **signs** and **road** **lines**."
@@ -1070,6 +1128,9 @@
       "continent": "Oceania",
       "stepIndex": 0,
       "stepTitle": "Identifying Christmas Island",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/christmas-island/Christmas-Island-bollard.png",
       "text": [
         "Christmas Island uses the standard **Australian bollard**. It is a simple white bollard with a red reflector on the front, and a grey reflector on the back.",
@@ -1084,6 +1145,9 @@
       "continent": "Oceania",
       "stepIndex": 0,
       "stepTitle": "Identifying Australia",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/australia/Australian_bollard.png",
       "text": [
         "Australian bollards are white, with a **red reflector** on the front, and a grey reflector on the back.",
@@ -1098,6 +1162,9 @@
       "continent": "Oceania",
       "stepIndex": 1,
       "stepTitle": "Regional and state-specific clues",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/australia/short_bollard.png",
       "text": [
         "Reflectors that are **shorter **in height than the regular ones are most common in Queensland and South Australia.",
@@ -1112,6 +1179,9 @@
       "continent": "Oceania",
       "stepIndex": 1,
       "stepTitle": "Regional and state-specific clues",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/australia/WA_bollard.png",
       "text": [
         "Bollards with **brown paint** at the bottom are most commonly found in Western Australia.",
@@ -1126,6 +1196,9 @@
       "continent": "Oceania",
       "stepIndex": 1,
       "stepTitle": "Regional and state-specific clues",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/australia/WA_stripy_bollard.png",
       "text": [
         "These black-and-white **stripy **bollards are unique to Western Australia."
@@ -1139,6 +1212,9 @@
       "continent": "Oceania",
       "stepIndex": 1,
       "stepTitle": "Regional and state-specific clues",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/australia/qld_bollard.png",
       "text": [
         "This **black-and-yellow** bollard is exclusive to Queensland."
@@ -1152,6 +1228,9 @@
       "continent": "Oceania",
       "stepIndex": 0,
       "stepTitle": "Identifying New Zealand",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/new-zealand/NZ_Bollard.png",
       "text": [
         "Bollards in New Zealand have a **red strip** which wraps around the top of the bollard. This strip wraps the whole way around the back and part of the front. The front or back of the bollard often contains a [**thin yellow**** **](https://goo.gl/maps/DLQi1D8i9rwS1hTA9)**or white reflector**.",
@@ -1166,6 +1245,9 @@
       "continent": "Oceania",
       "stepIndex": 1,
       "stepTitle": "Regional clues",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/new-zealand/highway_numbering_darkmode_v2.png",
       "text": [
         "Two-digit state highway numbers follow a sequential pattern from North to South, making them easy to find. Single digit highways run through large parts of the country, but are easy to remember due to the small number of them.",
@@ -1181,6 +1263,9 @@
       "continent": "Oceania",
       "stepIndex": 1,
       "stepTitle": "Regional clues",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/new-zealand/nz_greenstripedbollard.png",
       "text": [
         "A typical bollard, but with a** green stripe**, is common in southern Canterbury, as well as in some pockets in eastern Southland."
@@ -1194,6 +1279,9 @@
       "continent": "Oceania",
       "stepIndex": 1,
       "stepTitle": "Regional clues",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/new-zealand/nz_blackstripedbollard.png",
       "text": [
         "A typical bollard but with a **black stripe** instead of a red one is commonly found in Wellington, especially in older Generation 3 coverage."
@@ -1207,6 +1295,9 @@
       "continent": "South America",
       "stepIndex": 0,
       "stepTitle": "Identifying Chile",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/chile/bollard.png",
       "text": [
         "Chilean bollards are similar to **Spanish style** bollards, with a white reflector at the front and a yellow-orange reflector at the back. They are not super common."
@@ -1220,6 +1311,9 @@
       "continent": "South America",
       "stepIndex": 0,
       "stepTitle": "Identifying Chile",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/chile/temporary_bollards.png",
       "text": [
         "While regular bollards are somewhat rare in Chile, you may sometimes find this **orange**, temporary bollard, with **two white stripes** at the top."
@@ -1233,6 +1327,9 @@
       "continent": "South America",
       "stepIndex": 0,
       "stepTitle": "Identifying Ecuador",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/ecuador/Bollards-EC.png",
       "text": [
         "Ecuador is one of the few Latin American countries where bollards are very common.",
@@ -1251,6 +1348,9 @@
       "continent": "South America",
       "stepIndex": 0,
       "stepTitle": "Identifying Peru",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/peru/1.bollard.png",
       "text": [
         "Bollards in Peru are painted red or yellow, and the country mainly uses a variety of **triangular-shaped** concrete bollards. Occasionally you will also spot other designs, such as these [circular](https://www.google.com/maps/@-14.4839611,-70.9887188,3a,24.9y,19.81h,72.8t/data=!3m6!1e1!3m4!1sU37DGxXpc0hXg0BPOLhRRw!2e0!7i13312!8i6656) concrete variants."
@@ -1264,6 +1364,9 @@
       "continent": "South America",
       "stepIndex": 1,
       "stepTitle": "Region-specific clues",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/peru/2.moqueguabollard.png",
       "text": [
         "This cylindrical bollard, with a **black and yellow stripe at the top**, is unique to the state of Moquegua, which is located in the south of Peru."
@@ -1277,6 +1380,9 @@
       "continent": "South America",
       "stepIndex": 0,
       "stepTitle": "Identifying Uruguay",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/uruguay/Bollards_and_barriers.png",
       "text": [
         "These **white bollards**, with one side often painted [yellow](https://goo.gl/maps/Tt64mBZvxz5qYZhv9), and **stone barriers**, are specific to Uruguay."
@@ -1290,6 +1396,9 @@
       "continent": "North America",
       "stepIndex": 0,
       "stepTitle": "Identifying Costa Rica",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/costa-rica/cr_reflectors",
       "text": [
         "The equivalent of a bollard in Costa Rica would be these vertical **orange boards** with **3 black circles** on them."
@@ -1303,6 +1412,9 @@
       "continent": "North America",
       "stepIndex": 2,
       "stepTitle": "Spotlight",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/costa-rica/cr_rn32_bollards",
       "text": [
         "From the “Route 32 Toll” close to the San José and Heredia border until where it intersects RN 4 west of Guapiles, the road uses yellow bollards placed between the centre road lines."
@@ -1316,6 +1428,9 @@
       "continent": "North America",
       "stepIndex": 2,
       "stepTitle": "Spotlight",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/guatemala/gt_uniquebollardroad.png",
       "text": [
         "These small **white bollards** with **two black stripes** can be found on road 1 northeast of Quetzaltenango."
@@ -1329,6 +1444,10 @@
       "continent": "North America",
       "stepIndex": 1,
       "stepTitle": "Regional/province-specific clues",
+      "tags": [
+        "important",
+        "bollard"
+      ],
       "imageUrl": "/images/canada/Alberta_bollard.png",
       "text": [
         "Alberta has a unique **black and white **bollard that is often found at intersections. It has a **cylindrical **shape and two black bands that wrap all the way around. It is one of the most useful Canadian bollards to learn because it appears so frequently.",
@@ -1343,6 +1462,9 @@
       "continent": "North America",
       "stepIndex": 1,
       "stepTitle": "Regional/province-specific clues",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/canada/Canada_Map16.png",
       "text": [
         "Manitoba uses black and grey painted bollards. Most of the time an **orange stripe** will be present below the grey one.",
@@ -1358,6 +1480,9 @@
       "continent": "North America",
       "stepIndex": 1,
       "stepTitle": "Regional/province-specific clues",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/canada/Canada_Map18.png",
       "text": [
         "British Columbia has black-and-white bollards with a thin, slightly curved shape. It is most commonly found on Vancouver Island, but can be found all throughout the province.",
@@ -1372,6 +1497,10 @@
       "continent": "North America",
       "stepIndex": 1,
       "stepTitle": "Regional/province-specific clues",
+      "tags": [
+        "guardrail",
+        "bollard"
+      ],
       "imageUrl": "/images/canada/Quebec_bollard_v2.png",
       "text": [
         "Québec has unique bollards that are always attached to guardrails. They are long, thin white poles with a **red** or **green reflector** at the top."
@@ -1385,6 +1514,9 @@
       "continent": "North America",
       "stepIndex": 1,
       "stepTitle": "Regional/province-specific clues",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/canada/Untitled_design_1.png",
       "text": [
         "You can find these **rectangular markers** on the sides of the roads in Québec. The colours can vary.",
@@ -1399,6 +1531,10 @@
       "continent": "North America",
       "stepIndex": 1,
       "stepTitle": "Regional/province-specific clues",
+      "tags": [
+        "important",
+        "bollard"
+      ],
       "imageUrl": "/images/canada/Untitled_2200_1080_px_1.png",
       "text": [
         "You can find these **diamond-shaped markers** on the sides of the roads in Ontario. The colours can vary."
@@ -1412,6 +1548,9 @@
       "continent": "North America",
       "stepIndex": 1,
       "stepTitle": "Regional/province-specific clues",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/canada/NWT_bollard.png",
       "text": [
         "The Northwest Territories has a black and white bollard with a cylindrical shape and two **thick**, **black **bands.",
@@ -1426,6 +1565,9 @@
       "continent": "North America",
       "stepIndex": 2,
       "stepTitle": "Spotlight",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/canada/ca_nbtchwybollard.png",
       "text": [
         "These flat, **yellow bollards** can be found on the Trans-Canada highway in New Brunswick."
@@ -1439,6 +1581,9 @@
       "continent": "Asia",
       "stepIndex": 0,
       "stepTitle": "Identifying Bangladesh",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/bangladesh/bollard.png",
       "text": [
         "Bangladesh uses **red-and-white** concrete bollards throughout the whole country.",
@@ -1453,6 +1598,9 @@
       "continent": "Asia",
       "stepIndex": 0,
       "stepTitle": "Identifying Cambodia",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/cambodia/Bollards.png",
       "text": [
         "Cambodia has a variety of different **bollards**. The most common ones are:",
@@ -1469,6 +1617,9 @@
       "continent": "Asia",
       "stepIndex": 0,
       "stepTitle": "Identifying Cambodia",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/cambodia/Chevron.png",
       "text": [
         "Chevrons in Cambodia are **black with yellow arrows**.",
@@ -1484,6 +1635,9 @@
       "continent": "Asia",
       "stepIndex": 2,
       "stepTitle": "Spotlight",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/cambodia/Road_48_Thai_bollards.png",
       "text": [
         "**Black-and-white bollards** in Cambodia are only found on Road 48, between Tatai and the intersection with Road 4.",
@@ -1498,6 +1652,9 @@
       "continent": "Asia",
       "stepIndex": 2,
       "stepTitle": "Spotlight",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/cambodia/Triangular_bollards.png",
       "text": [
         "Unique **triangular bollards** with red stripes can be found in three places in Cambodia, all located in the same area in the southwest:",
@@ -1514,6 +1671,9 @@
       "continent": "Asia",
       "stepIndex": 0,
       "stepTitle": "Identifying Hong Kong",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/hong-kong/bollard_thing.png",
       "text": [
         "**Yellow **bollards with a white arrow in a blue circle are commonly seen at pedestrian crossings, but also elsewhere, indicating where cars should go. There is a flat and a cuboid version."
@@ -1527,6 +1687,9 @@
       "continent": "Asia",
       "stepIndex": 0,
       "stepTitle": "Identifying Laos",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/laos/Laos_bollards.png",
       "text": [
         "Laos uses square concrete **black and white bollards** with one or more black bands.",
@@ -1541,6 +1704,9 @@
       "continent": "Asia",
       "stepIndex": 0,
       "stepTitle": "Identifying Laos",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/laos/Laos_faraway_bollards.png",
       "text": [
         "A **red and white** painted cuboid concrete bollard can sometimes be seen a few metres off the side of the road."
@@ -1554,6 +1720,10 @@
       "continent": "Asia",
       "stepIndex": 0,
       "stepTitle": "Identifying Kazakhstan",
+      "tags": [
+        "pole",
+        "bollard"
+      ],
       "imageUrl": "/images/kazakhstan/Russian_Infra_Hint.png",
       "text": [
         "A lot of Kazakh infrastructure, from pedestrian signs, poles, houses, to bollards, is very similar to what you see in Russia."
@@ -1567,6 +1737,9 @@
       "continent": "Asia",
       "stepIndex": 0,
       "stepTitle": "Identifying Kazakhstan",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/kazakhstan/7.png",
       "text": [
         "Kazakhstan uses a variety of post-Soviet style bollards, as well as ones that resemble Turkish bollards. Notably, the bollards seemingly consisting of two thin bollards attached at a **90° angle** are unique to Kazakhstan."
@@ -1580,6 +1753,9 @@
       "continent": "Asia",
       "stepIndex": 0,
       "stepTitle": "Identifying Japan",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/japan/13.png",
       "text": [
         "Japan usually uses simple white bollards with **circular reflector(s)** on the top. However, sometimes these bollards are [black](https://goo.gl/maps/cejvLnBS8MeHHbuU8), or have [other extensions](https://goo.gl/maps/DaSsHqZhpkmU3Duq8). They can also have the city or prefecture written on it in kanji.",
@@ -1594,6 +1770,9 @@
       "continent": "Asia",
       "stepIndex": 1,
       "stepTitle": "Regional and prefecture-specific clues",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/japan/40.png",
       "text": [
         "This flat, white bollard, found on the island of Kyushu and in Yamaguchi Prefecture, will have a **series of separated orange reflectors** on one side, and the same white on the opposite.",
@@ -1608,6 +1787,10 @@
       "continent": "Asia",
       "stepIndex": 1,
       "stepTitle": "Regional and prefecture-specific clues",
+      "tags": [
+        "guardrail",
+        "bollard"
+      ],
       "imageUrl": "/images/japan/41.png",
       "text": [
         "Some bollards on the island of Shikoku can have a** black stripe** just under the reflector. They can be found normally, attached to [guardrails](https://goo.gl/maps/dMX9b98ZsCAwWVm27) or [walls](https://goo.gl/maps/ibVKyN6TkXVVCgNm7)."
@@ -1621,6 +1804,9 @@
       "continent": "Asia",
       "stepIndex": 1,
       "stepTitle": "Regional and prefecture-specific clues",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/japan/42.png",
       "text": [
         "This **thick**, white bollard, found in the Tohoku region, will have an **octagonal** reflector, and **yellow stripe** just underneath. In addition, you can find the same bollard, but with a [rectangular](https://goo.gl/maps/csG4xahLJ65kQnSf6) top.",
@@ -1635,6 +1821,9 @@
       "continent": "Asia",
       "stepIndex": 1,
       "stepTitle": "Regional and prefecture-specific clues",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/japan/43.png",
       "text": [
         "This bollard, much like Tohoku, will be a **thick**, white bollard with an **octagonal** reflector. However, this Akita prefecture variation will have **two yellow stripes **underneath the reflector."
@@ -1648,6 +1837,9 @@
       "continent": "Asia",
       "stepIndex": 1,
       "stepTitle": "Regional and prefecture-specific clues",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/japan/44.png",
       "text": [
         "The Toyama prefecture bollard has **one reflector**, is [**extendable**](https://goo.gl/maps/dYgsuVzTtVHRbVrj7) and has a **red stripe** underneath the reflector.",
@@ -1662,6 +1854,9 @@
       "continent": "Asia",
       "stepIndex": 1,
       "stepTitle": "Regional and prefecture-specific clues",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/japan/45.png",
       "text": [
         "This bollard, with an **octagonal** reflector, and **red stripe** underneath it, is exclusive to the Okayama prefecture. Additionally, there will be a sloped connection where the base meets the reflector."
@@ -1675,6 +1870,9 @@
       "continent": "Asia",
       "stepIndex": 1,
       "stepTitle": "Regional and prefecture-specific clues",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/japan/47.png",
       "text": [
         "This bollard, found in the Aomori prefecture, has **two yellow stripes**, a **single circular reflector**, and is **extendable**. Sometimes, only [one thicker stripe](https://goo.gl/maps/FznLNbxyMicDGqgaA) near the top may be present."
@@ -1688,6 +1886,9 @@
       "continent": "Asia",
       "stepIndex": 1,
       "stepTitle": "Regional and prefecture-specific clues",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/japan/48.png",
       "text": [
         "These striped bollards (which cover over the original) have a **thinner** top half, and **no reflectors**, and are common to the Tohoku region. They are especially common in Akita prefecture."
@@ -1701,6 +1902,9 @@
       "continent": "Asia",
       "stepIndex": 0,
       "stepTitle": "Identifying Kyrgyzstan",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/kyrgyzstan/Kyrgyzstan_Bollards.png",
       "text": [
         "Kyrgyzstan uses these simple white bollards with a diagonal black stripe near the top."
@@ -1714,6 +1918,9 @@
       "continent": "Asia",
       "stepIndex": 2,
       "stepTitle": "Spotlight",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/kyrgyzstan/Squiggle_Road_Section_1_2.png",
       "text": [
         "This **rocky dirt road** going to Chunkurchak is mostly high up in the snowy hills south of Bishkek. Some of the soil here has a **red tint** to it. On the [northern part](https://goo.gl/maps/v18zEDkdyTZVXwjc8) of the road, you can only see the snowy hills to the south. Also pay attention to the [red-and-white bollards](https://goo.gl/maps/fWt1rsU4FZ8wA5Z47) on the sides of the roads."
@@ -1727,6 +1934,9 @@
       "continent": "Asia",
       "stepIndex": 0,
       "stepTitle": "Identifying Malaysia",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/malaysia/Untitled_design__2823_29.png",
       "text": [
         "Malaysian bollards will often have the colours **black**, **white**, **grey** and **red**. Here are three examples of typical Malaysian bollards.",
@@ -1741,6 +1951,9 @@
       "continent": "Asia",
       "stepIndex": 0,
       "stepTitle": "Identifying Singapore",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/singapore/busstopbollard.png",
       "text": [
         "Moreover, all bus stops are protected by **concrete bollards** with unique black-and-yellow **warning bands**.",
@@ -1755,6 +1968,9 @@
       "continent": "Asia",
       "stepIndex": 0,
       "stepTitle": "Identifying Singapore",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/singapore/busleavingbox.png",
       "text": [
         "In addition to the concrete bollards on bus stops, Singapore sometimes has a unique and yellow **bus-leaving box** with an **arrow** on the street."
@@ -1768,6 +1984,9 @@
       "continent": "Asia",
       "stepIndex": 0,
       "stepTitle": "Identifying South Korea",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/south-korea/kr_regular_bollards.png",
       "text": [
         "You will sometimes see these black and white wedge-shaped bollards. They have a **round yellow reflector** on the front, and a grey one on the back."
@@ -1781,6 +2000,9 @@
       "continent": "Asia",
       "stepIndex": 1,
       "stepTitle": "Regional clues",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/qatar/Qatar_Bollards_Hint.png",
       "text": [
         "**Bollards **in Qatar are only found on a few roads, and you can easily tell them apart.",
@@ -1798,6 +2020,9 @@
       "continent": "Asia",
       "stepIndex": 0,
       "stepTitle": "Identifying Sri Lanka",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/sri-lanka/Bollard.png",
       "text": [
         "These short, wide **stone bollards** are unique to Sri Lanka. They have a tapered shape, with a black base and a white top."
@@ -1811,6 +2036,9 @@
       "continent": "Asia",
       "stepIndex": 0,
       "stepTitle": "Identifying Mongolia",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/mongolia/1._bollard.png",
       "text": [
         "Mongolia uniquely features white **bowling-pin shaped bollards** with two red stripes around the top."
@@ -1824,6 +2052,9 @@
       "continent": "Asia",
       "stepIndex": 0,
       "stepTitle": "Identifying Nepal",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/nepal/8.png",
       "text": [
         "Nepal mainly uses **black-and-white striped concrete bollards** that often have a **red marking** on the top. The amount of stripes vary from 3 to 5."
@@ -1837,6 +2068,10 @@
       "continent": "Asia",
       "stepIndex": 0,
       "stepTitle": "Identifying Taiwan",
+      "tags": [
+        "guardrail",
+        "bollard"
+      ],
       "imageUrl": "/images/taiwan/reflector.png",
       "text": [
         "Taiwan uses these bollards with either two or three **circular reflectors** on a black rectangle.",
@@ -1851,6 +2086,9 @@
       "continent": "Europe",
       "stepIndex": 0,
       "stepTitle": "Identifying Turkey",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/turkey/tr_bollard.png",
       "text": [
         "Turkish **bollards** have a simple design: rectangular, plain white, and with a red reflector on the front. They are thin when seen from the side.",
@@ -1866,6 +2104,9 @@
       "continent": "Asia",
       "stepIndex": 0,
       "stepTitle": "Identifying Thailand",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/thailand/2022-12-22_41.png",
       "text": [
         "The Thai bollard is square shaped with a pointed top, and has **black-and-white stripes**.",
@@ -1880,6 +2121,9 @@
       "continent": "Asia",
       "stepIndex": 1,
       "stepTitle": "Regional/province-specific clues",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/thailand/specialbollard.png",
       "text": [
         "This **black bollard** with **three large white reflectors** is most frequently seen in Chiang Mai and Mae Hong Son."
@@ -1893,6 +2137,9 @@
       "continent": "Europe",
       "stepIndex": 0,
       "stepTitle": "Identifying Andorra",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/andorra/bollard.png",
       "text": [
         "The Andorran bollard has an **orange** reflector and can be occasionally found on the main highways.",
@@ -1907,6 +2154,10 @@
       "continent": "Europe",
       "stepIndex": 0,
       "stepTitle": "Identifying the Azores",
+      "tags": [
+        "pole",
+        "bollard"
+      ],
       "imageUrl": "/images/azores/portugueseinfra_az.png",
       "text": [
         "Since the Azores is an autonomous region of Portugal, you will often come across various types of Portuguese infrastructure, such as poles, chevrons and bollards."
@@ -1920,6 +2171,9 @@
       "continent": "Europe",
       "stepIndex": 0,
       "stepTitle": "Identifying Albania",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/albania/Bollards.png",
       "text": [
         "Albanian bollards have a **black top** with a red and grey reflector. The bottom is painted white.",
@@ -1934,6 +2188,10 @@
       "continent": "Europe",
       "stepIndex": 0,
       "stepTitle": "Identifying Austria",
+      "tags": [
+        "pole",
+        "bollard"
+      ],
       "imageUrl": "/images/austria/Austria_or_Slovenia.png",
       "text": [
         "Austria uses white** **bollards, with a **black top**. The colour of the reflector is **(dark) red or dark grey**.",
@@ -1949,6 +2207,9 @@
       "continent": "Europe",
       "stepIndex": 0,
       "stepTitle": "Identifying Croatia",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/croatia/Croatia_bollard.png",
       "text": [
         "Croatian **bollards** are white with a black rectangle and red or white reflector. From the top, it is shaped like a triangle.",
@@ -1963,6 +2224,9 @@
       "continent": "Europe",
       "stepIndex": 0,
       "stepTitle": "Identifying Bulgaria",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/bulgaria/Bollard.png",
       "text": [
         "Bollards are generally **fairly rare** in Bulgaria.",
@@ -1977,6 +2241,9 @@
       "continent": "Europe",
       "stepIndex": 0,
       "stepTitle": "Identifying Denmark",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/denmark/Bollard.png",
       "text": [
         "Denmark has a very recognizable white bollard with a yellow reflector and a **dark orange stripe**. This bollard is unique to the country. You may also find this [green variant](https://maps.app.goo.gl/9N1oFxNmpXjCDc5G8).",
@@ -1991,6 +2258,9 @@
       "continent": "Europe",
       "stepIndex": 0,
       "stepTitle": "Identifying Denmark",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/denmark/Bicycle_Paths_Bollard.png",
       "text": [
         "You will rarely see these **stone bollards**, which may be painted red at the top, near bicycle paths."
@@ -2004,6 +2274,9 @@
       "continent": "Europe",
       "stepIndex": 0,
       "stepTitle": "Identifying Estonia",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/estonia/Estonian_bollards.png",
       "text": [
         "Estonian bollards have a **round, baton-like shape**.",
@@ -2020,6 +2293,9 @@
       "continent": "Europe",
       "stepIndex": 0,
       "stepTitle": "Identifying Czechia",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/czechia/cz_bollard.png",
       "text": [
         "Bollards in Czechia have **orange double reflectors** on the front and a single white reflector on the back. There are also rarer [blue](https://goo.gl/maps/Hcc6dNhyH4bVS86N6) and [red](https://goo.gl/maps/8C1jWJLNWKQLpDxY8) variants.",
@@ -2034,6 +2310,9 @@
       "continent": "Europe",
       "stepIndex": 0,
       "stepTitle": "Identifying the Faroe Islands",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/faroe-islands/fo5.png",
       "text": [
         "Faroese bollards are small wooden sticks that are mainly painted **yellow **and sometimes** red on the top. **"
@@ -2047,6 +2326,9 @@
       "continent": "Europe",
       "stepIndex": 0,
       "stepTitle": "Identifying Finland",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/finland/Untitled_design6.png",
       "text": [
         "Finland has **long black-and-white bollards** with a rectangular, white reflector on the front and two dots on the back. They can be either round or thin and curved. The black strip is typically diagonal.",
@@ -2061,6 +2343,9 @@
       "continent": "Europe",
       "stepIndex": 0,
       "stepTitle": "Identifying Hungary",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/hungary/hu_bollard.png",
       "text": [
         "Hungarian bollards are black-and-white, wedge-shaped, and typically have a **red** reflector at the front, and a white reflector at the back. [Blue reflectors](https://www.google.com/maps/@47.826971,20.8472466,3a,15y,282.66h,79.6t/data=!3m6!1e1!3m4!1s9lVB-fYRUINpTrMAYWvYZg!2e0!7i16384!8i8192) are also somewhat common.",
@@ -2075,6 +2360,9 @@
       "continent": "Europe",
       "stepIndex": 2,
       "stepTitle": "Spotlight",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/hungary/hu_snowroad.png",
       "text": [
         "The road east of Tornanadaska, right by the border to Slovakia, can be easily recognized by the **snow **on and along the road, combined with the bollards and the railway right next to the road."
@@ -2088,6 +2376,9 @@
       "continent": "Europe",
       "stepIndex": 0,
       "stepTitle": "Identifying Greece",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/greece/gr_bollard.png",
       "text": [
         "Greek bollards are wedge-shaped with **almost square reflectors**, being red on the front and white on the back."
@@ -2101,6 +2392,9 @@
       "continent": "Europe",
       "stepIndex": 0,
       "stepTitle": "Identifying Iceland",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/iceland/Iceland_Bollard.jpg",
       "text": [
         "Iceland has unique **yellow bollards **with a white reflector. These bollards are extremely common and can be found throughout the country on almost every section of rural road."
@@ -2114,6 +2408,9 @@
       "continent": "Europe",
       "stepIndex": 0,
       "stepTitle": "Identifying Germany",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/germany/Germany_Bollard_v2.png",
       "text": [
         "Germany uses these **black** and **white** bollards, with white and light-grey reflectors. The reflector will be [orange](https://maps.app.goo.gl/anxpwSBiE6Jfcntr5) on bollards next to intersections.** **They sometimes have plates containing the road number, and potentially other useful information. Many bollards also feature blue attachments on the side.",
@@ -2128,6 +2425,9 @@
       "continent": "Europe",
       "stepIndex": 0,
       "stepTitle": "Identifying Germany",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/germany/ui_remover.png",
       "text": [
         "You will find an excessive amount of bollards on most roads in Germany. Around every 50 metres to be exact."
@@ -2141,6 +2441,9 @@
       "continent": "Europe",
       "stepIndex": 1,
       "stepTitle": "Regional and state-specific clues",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/germany/Gray_Bollards.png",
       "text": [
         "Bollards with **darker reflectors** than usual are found in these regions."
@@ -2154,6 +2457,9 @@
       "continent": "Europe",
       "stepIndex": 1,
       "stepTitle": "Regional and state-specific clues",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/germany/NRW_Green_Caps_Hint.png",
       "text": [
         "Some bollards in North Rhine-Westphalia have a **green** bit at the top. The top can also be [another colour](https://goo.gl/maps/U6GkPR5z4NMDGqZc6)."
@@ -2167,6 +2473,9 @@
       "continent": "Europe",
       "stepIndex": 1,
       "stepTitle": "Regional and state-specific clues",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/germany/Bavarian_Bollard_Hint.png",
       "text": [
         "These **round wooden** bollards, which have a painted top, are found in Bavaria."
@@ -2180,6 +2489,9 @@
       "continent": "Europe",
       "stepIndex": 1,
       "stepTitle": "Regional and state-specific clues",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/germany/Odd_Bollard_Hint.png",
       "text": [
         "These irregular looking bollards, which do not have a white encasing on the bottom half, are found on K-roads in this region of **Lower Saxony**. K-Roads in this region will not have any other type of bollard."
@@ -2193,6 +2505,9 @@
       "continent": "Europe",
       "stepIndex": 1,
       "stepTitle": "Regional and state-specific clues",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/germany/White_Bollard_Plates.png",
       "text": [
         "These basic **white plates** on bollards can be found in these states."
@@ -2206,6 +2521,9 @@
       "continent": "Europe",
       "stepIndex": 1,
       "stepTitle": "Regional and state-specific clues",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/germany/Bollard_Disks_Hint.png",
       "text": [
         "Bollards standing on these **black disks** are commonly found in all of **eastern** Germany."
@@ -2219,6 +2537,9 @@
       "continent": "Europe",
       "stepIndex": 1,
       "stepTitle": "Regional and state-specific clues",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/germany/Rhineland_palatinate_Markers.png",
       "text": [
         "Rhineland-Palatinate is the only state where the plates on the bollards are **orange** instead of white."
@@ -2232,6 +2553,9 @@
       "continent": "Europe",
       "stepIndex": 1,
       "stepTitle": "Regional and state-specific clues",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/germany/Baden_bollard.png",
       "text": [
         "Similarly, Baden-Württemberg is the only state where the plates on the bollards can be **grey** instead of white."
@@ -2245,6 +2569,10 @@
       "continent": "Europe",
       "stepIndex": 0,
       "stepTitle": "Identifying France",
+      "tags": [
+        "important",
+        "bollard"
+      ],
       "imageUrl": "/images/france/Bollard.png",
       "text": [
         "The French bollard is extremely recognizable and appears very often. It is a **round white post with a pointed top** and a reflector band going all the way around. The band can be grey or red. Some rare variations have a [fully red top](https://maps.app.goo.gl/1zSoGbpiKic3nAxM6).",
@@ -2259,6 +2587,9 @@
       "continent": "Europe",
       "stepIndex": 0,
       "stepTitle": "Identifying France",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/france/Medium_bollard.png",
       "text": [
         "A different round white bollard, with two reflective indented bands, is unique to France.",
@@ -2273,6 +2604,9 @@
       "continent": "Europe",
       "stepIndex": 0,
       "stepTitle": "Identifying France",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/france/Rare_bollard.png",
       "text": [
         "Less common wedge**-**shaped bollards with **wide** **rectangular white reflectors** on both the front and back are also unique to France."
@@ -2286,6 +2620,9 @@
       "continent": "Europe",
       "stepIndex": 0,
       "stepTitle": "Identifying Cyprus",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/cyprus/cy_bollard.png",
       "text": [
         "Bollards are superficially similar to Turkish bollards, with a red reflector at the front and a white one at the back. However, unlike Turkish bollards, they are not flat but rather triangular, with a slanted top."
@@ -2299,6 +2636,9 @@
       "continent": "Europe",
       "stepIndex": 1,
       "stepTitle": "Regional clues",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/cyprus/Cyprus Paphos Forest.png",
       "text": [
         "The Paphos Forest nature reserve consists of windy mountain roads with red soil on the sides, passing through the mostly uninhabited Mediterranean forest. You will not see any bollards in the reserve, with few exceptions."
@@ -2312,6 +2652,9 @@
       "continent": "Europe",
       "stepIndex": 1,
       "stepTitle": "Regional clues",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/cyprus/Cyprus or Slovenia maybe Bonsia_.png",
       "text": [
         "A different kind of **bollard with a black top**, resembling those found in Slovenia for example, can sometimes be found in north-eastern Cyprus. ",
@@ -2326,6 +2669,9 @@
       "continent": "Europe",
       "stepIndex": 0,
       "stepTitle": "Identifying Isle of Man",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/isle-of-man/bollard.png",
       "text": [
         "These **blue bollards** can commonly be found in urban areas."
@@ -2339,6 +2685,9 @@
       "continent": "Europe",
       "stepIndex": 0,
       "stepTitle": "Identifying Ireland",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/ireland/Bollards.png",
       "text": [
         "These **green and white bollards** can be a good clue for Ireland. They are not entirely unique to the country, but they are especially helpful in 50-50s with the UK."
@@ -2352,6 +2701,9 @@
       "continent": "Europe",
       "stepIndex": 0,
       "stepTitle": "Identifying Latvia",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/latvia/Bollard.png",
       "text": [
         "Latvian bollards have a **thin, slightly curved shape**.",
@@ -2368,6 +2720,10 @@
       "continent": "Europe",
       "stepIndex": 0,
       "stepTitle": "Identifying Liechtenstein",
+      "tags": [
+        "guardrail",
+        "bollard"
+      ],
       "imageUrl": "/images/liechtenstein/2.png",
       "text": [
         "Liechtenstein uses **black-and-white **cylindrical bollards** **with a white or grey reflector and a rounded top. They also often have a blue attachment on the side.",
@@ -2383,6 +2739,9 @@
       "continent": "Europe",
       "stepIndex": 0,
       "stepTitle": "Identifying Lithuania",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/lithuania/Bollard.png",
       "text": [
         "Lithuanian bollards are **wedge-shaped**.",
@@ -2399,6 +2758,9 @@
       "continent": "Europe",
       "stepIndex": 0,
       "stepTitle": "Identifying Luxembourg",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/luxembourg/Bollards.png",
       "text": [
         "**Bollards** are black and white. They are wedge-shaped and have grey reflectors. Some have a distinctive [indent](https://goo.gl/maps/P4GMqrARAYXyAqRYA) in the lower half.",
@@ -2414,6 +2776,10 @@
       "continent": "Europe",
       "stepIndex": 0,
       "stepTitle": "Identifying Italy",
+      "tags": [
+        "important",
+        "bollard"
+      ],
       "imageUrl": "/images/italy/it_bollard.png",
       "text": [
         "Italian bollards are triangular in shape, and white with a **black top**. They have a red front and a white rear reflector.",
@@ -2428,6 +2794,9 @@
       "continent": "Europe",
       "stepIndex": 0,
       "stepTitle": "Identifying Montenegro",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/montenegro/Bollard.png",
       "text": [
         "The most common bollard is white with a red reflector on the front and a white one on the back. The bollard also has a black top.",
@@ -2442,6 +2811,10 @@
       "continent": "Europe",
       "stepIndex": 2,
       "stepTitle": "Spotlight",
+      "tags": [
+        "bollard",
+        "landscape"
+      ],
       "imageUrl": "/images/montenegro/Skadar_Lake_Bridge.png",
       "text": [
         "The Skadar Lake Bridge can be recognized by the **railway** and stone bollards next to the road."
@@ -2455,6 +2828,9 @@
       "continent": "Europe",
       "stepIndex": 0,
       "stepTitle": "Identifying Madeira",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/madeira/stonebollards.png",
       "text": [
         "Madeira commonly uses small and unique stone bollards with a red reflector. They are either cuboidal or cylindrical in shape."
@@ -2468,6 +2844,9 @@
       "continent": "Europe",
       "stepIndex": 0,
       "stepTitle": "Identifying North Macedonia",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/north-macedonia/Bollards.png",
       "text": [
         "North Macedonia uses two types of bollards. One is rounded and very **thin**, while the other one is wedge-shaped. They both are white and have **red** or **white reflectors**, typically on a black surface.",
@@ -2482,6 +2861,9 @@
       "continent": "Europe",
       "stepIndex": 0,
       "stepTitle": "Identifying Poland",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/poland/Poland-bollard.png",
       "text": [
         "Polish bollards have a **red strip** that wraps all the way around the bollard. This strip has a red reflector on the front (sometimes hard to see), and a white reflector on the back. Bollards sometimes have numbers on them.",
@@ -2497,6 +2879,9 @@
       "continent": "Europe",
       "stepIndex": 0,
       "stepTitle": "Identifying the Netherlands",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/netherlands/Dutch_bollard.png",
       "text": [
         "The Netherlands has a simple, white **bollard** with a red reflector.",
@@ -2511,6 +2896,9 @@
       "continent": "Europe",
       "stepIndex": 1,
       "stepTitle": "Regional and province-specific clues",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/netherlands/Hectometer_roads_with_attribution.png",
       "text": [
         "Some road markers (“**hectometre markers**”) have province-specific designs. This only applies to markers for regional N-roads, which have road numbers in yellow boxes.",
@@ -2528,6 +2916,9 @@
       "continent": "Europe",
       "stepIndex": 0,
       "stepTitle": "Identifying Portugal",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/portugal/bollard.png",
       "text": [
         "Portuguese bollards are either wedge-shaped with a noticeably thin white top, or flat with a wide reflector. While most reflectors will be white, you may also find [orange](https://goo.gl/maps/5tWaAjwR2XWPHigU8) reflectors. These are noticeably darker than the [yellow reflectors](https://www.google.com/maps/@41.9861981,-5.1213523,3a,19.2y,201.17h,74.37t/data=!3m6!1e1!3m4!1sJ3baT-DirwydAJfMwHD0Pg!2e0!7i16384!8i8192?entry=ttu) in Spain."
@@ -2541,6 +2932,9 @@
       "continent": "Europe",
       "stepIndex": 0,
       "stepTitle": "Identifying Norway",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/norway/no_bollard.png",
       "text": [
         "Norway uses thin, curved rectangular bollards with the reflector inside of a **black** parallelogram."
@@ -2554,6 +2948,9 @@
       "continent": "North America",
       "stepIndex": 0,
       "stepTitle": "Identifying Mexico",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/mexico/mx_bollard.png",
       "text": [
         "These small, **cylindrical** white bollards with a **black base** are unique to Mexico. A yellow reflector can sometimes be seen, as well as a flat version."
@@ -2567,6 +2964,9 @@
       "continent": "North America",
       "stepIndex": 1,
       "stepTitle": "Region-specific clues",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/mexico/mx_nayaritbollard.png",
       "text": [
         "Bollards with a **red band** near the top are unique to Nayarit, apart from [one exception](https://www.google.com/maps/@16.416407,-94.109672,3a,15y,95.28h,64.73t,0.03r/data=!3m7!1e1!3m5!1s_lRtg1MKWPSNX_dJch3kig!2e0!5s20220501T000000!7i16384!8i8192?entry=ttu) being Federal Highway 190 on the Oaxaca-Chiapas border."
@@ -2580,6 +2980,9 @@
       "continent": "North America",
       "stepIndex": 1,
       "stepTitle": "Region-specific clues",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/mexico/mx_jaliscobollard.png",
       "text": [
         "Jalisco bollards will sometimes have a **crown** and the text ‘**Jalisco**’ written on it. These are usually barely legible unless very close, however no other Mexican bollard will have writing on it."
@@ -2593,6 +2996,9 @@
       "continent": "Europe",
       "stepIndex": 0,
       "stepTitle": "Identifying San Marino",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/san-marino/San_Marino_Italian_infrastructure.png",
       "text": [
         "Road signs and bollards are **generally identical** to the ones used in Italy.",
@@ -2607,6 +3013,9 @@
       "continent": "Europe",
       "stepIndex": 0,
       "stepTitle": "Identifying Serbia",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/serbia/bollard.png",
       "text": [
         "Serbia has a few bollard designs, however most of them will have an **off-centred reflector.** The bollards are usually flat, with no depth to them."
@@ -2620,6 +3029,9 @@
       "continent": "Europe",
       "stepIndex": 0,
       "stepTitle": "Identifying Romania",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/romania/ro_bollard.png",
       "text": [
         "Romanian bollards are thin and white, with a **red vertical strip** near the top. It is worth noting that bollards in Romania are somewhat rare.",
@@ -2634,6 +3046,9 @@
       "continent": "Europe",
       "stepIndex": 0,
       "stepTitle": "Identifying Slovenia",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/slovenia/si_bollard.png",
       "text": [
         "Slovenian bollards are white with a black top. The front reflector will typically be **bright red**, while the back reflector will be **white**.",
@@ -2648,6 +3063,9 @@
       "continent": "Europe",
       "stepIndex": 0,
       "stepTitle": "Identifying Slovakia",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/slovakia/sk_bollard.png",
       "text": [
         "Bollards in Slovakia have **orange double reflectors** on the front and a single white reflector on the back. There are also rarer [blue](https://goo.gl/maps/fL3eA8AWB8PgX29w7) and [red](https://www.google.com/maps/@49.3226818,21.4268942,3a,15y,317.67h,81.45t/data=!3m6!1e1!3m4!1sgokBvrgl2ArrDdOa4ar-1A!2e0!7i16384!8i8192?entry=ttu) variants.",
@@ -2662,6 +3080,9 @@
       "continent": "Europe",
       "stepIndex": 0,
       "stepTitle": "Identifying Slovakia",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/slovakia/sk_newbollard.png",
       "text": [
         "Slovakia recently changed its standard bollard to a design very similar to the one found in [Hungary](https://www.google.se/maps/@47.1765642,18.80994,3a,19.3y,185.88h,68.68t/data=!3m7!1e1!3m5!1scybzctaIto3MgG1bEOvhmw!2e0!5s20220901T000000!7i16384!8i8192!5m1!1e4?entry=ttu): a standard European wedge-shaped bollard with a **red front reflector**. Note that for the time being, this bollard is still very rare."
@@ -2675,6 +3096,9 @@
       "continent": "Europe",
       "stepIndex": 0,
       "stepTitle": "Identifying Switzerland",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/switzerland/ch_bollard.png",
       "text": [
         "Swiss bollards are **black-and-white **with white or grey reflectors. They can be either wedge-shaped or cylindrical with a rounded top.",
@@ -2689,6 +3113,9 @@
       "continent": "Europe",
       "stepIndex": 1,
       "stepTitle": "Regional and canton-specific clues",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/switzerland/ch_thickwoodenbollard.png",
       "text": [
         "In the canton of Valais, you will often see thick wooden bollards, which can either be **square-shaped** or **cylindrical**."
@@ -2702,6 +3129,9 @@
       "continent": "Europe",
       "stepIndex": 1,
       "stepTitle": "Regional and canton-specific clues",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/switzerland/ch_fencereflectors.png",
       "text": [
         "In place of bollards, reflectors in the canton of Glarus will often be **attached to fences** following the road."
@@ -2715,6 +3145,9 @@
       "continent": "Europe",
       "stepIndex": 2,
       "stepTitle": "Spotlight",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/ukraine/Polish_bollards.png",
       "text": [
         "These **“Polish” bollards** can be found in the Zakarpattia Oblast. They have a red reflector that wraps around the bollard.",
@@ -2729,6 +3162,9 @@
       "continent": "Europe",
       "stepIndex": 0,
       "stepTitle": "Identifying Russia",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/russia/bollards.png",
       "text": [
         "Russia has three main types of bollards: a very thin type being attached to a stick, one with a black top section and a red vertical reflector below and a German-style bollard."
@@ -2742,6 +3178,9 @@
       "continent": "Europe",
       "stepIndex": 0,
       "stepTitle": "Identifying Russia",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/russia/bollardspam.png",
       "text": [
         "Near intersections in Russia you will commonly see a very **large number of bollards**."
@@ -2755,6 +3194,10 @@
       "continent": "Europe",
       "stepIndex": 0,
       "stepTitle": "Identifying Russia",
+      "tags": [
+        "bollard",
+        "roadline"
+      ],
       "imageUrl": "/images/russia/bigintersections.png",
       "text": [
         "Along with containing a large number of bollards, many intersections are **unusually wide** compared to other countries."
@@ -2768,6 +3211,9 @@
       "continent": "Europe",
       "stepIndex": 1,
       "stepTitle": "Regional clues",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/russia/Eastern_bollard.png",
       "text": [
         "Russian bollards that appear very thin and attached to a stick are usually found in the eastern part of the country, starting around Omsk. Note that [ordinary Russian bollards](https://goo.gl/maps/RnBNJE9kGwChsj9G7) are still plentiful in this part of the country."
@@ -2781,6 +3227,9 @@
       "continent": "Europe",
       "stepIndex": 2,
       "stepTitle": "Spotlight",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/russia/45.png",
       "text": [
         "This unique bollard, with a **grey rectangle** and **double red reflectors**, is specific to the P100 in Kostroma Oblast."
@@ -2794,6 +3243,9 @@
       "continent": "Europe",
       "stepIndex": 0,
       "stepTitle": "Identifying the United Kingdom",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/united-kingdom/Bollard.png",
       "text": [
         "The most common **bollard** in the UK looks like this. It has a rounded shape, with a red reflector on the front and a white one on the back. The base and top are black, with a white stripe in the middle."
@@ -2807,6 +3259,9 @@
       "continent": "Europe",
       "stepIndex": 0,
       "stepTitle": "Identifying the United Kingdom",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/united-kingdom/UK_bollard.png",
       "text": [
         "This **yellow traffic bollard** is commonly found in the UK."
@@ -2820,6 +3275,9 @@
       "continent": "Europe",
       "stepIndex": 1,
       "stepTitle": "Regional clues",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/united-kingdom/Indicator-template-UK1.png",
       "text": [
         "In Scotland, you can often find these **red and white bollards**. They are round, bulky, and have a red-and-grey reflector that wraps all the way around.",
@@ -2835,6 +3293,9 @@
       "continent": "Europe",
       "stepIndex": 0,
       "stepTitle": "Identifying Spain",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/spain/Spain_bollards.png",
       "text": [
         "The standard Spanish bollards have a **yellow-orange** reflector on the front and two white dots on the back (though the back can also be blank). They are typically hollow.",
@@ -2849,6 +3310,9 @@
       "continent": "Europe",
       "stepIndex": 1,
       "stepTitle": "Regional and province-specific clues",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/spain/Aragon_bollard.png",
       "text": [
         "In Aragón, it is common to see this bollard design on regional roads.",
@@ -2864,6 +3328,9 @@
       "continent": "Europe",
       "stepIndex": 1,
       "stepTitle": "Regional and province-specific clues",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/spain/Lleida_Tarragona_bollard.png",
       "text": [
         "Within mainland Spain, this bollard is almost exclusive to the provinces of Lleida and Tarragona in Catalonia.",
@@ -2880,6 +3347,9 @@
       "continent": "Europe",
       "stepIndex": 1,
       "stepTitle": "Regional and province-specific clues",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/spain/extremadura_bollard.png",
       "text": [
         "In the region of Extremadura, it is common to see the normal Spanish bollards with **green tops**. This bollard variant is exclusive to this region."
@@ -2893,6 +3363,9 @@
       "continent": "Europe",
       "stepIndex": 1,
       "stepTitle": "Regional and province-specific clues",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/spain/GC_bollard.png",
       "text": [
         "This **unique bollard design** is extremely common in the province of Las Palmas (which includes the islands of Gran Canaria, Fuerteventura and Lanzarote).",
@@ -2909,6 +3382,10 @@
       "continent": "Europe",
       "stepIndex": 2,
       "stepTitle": "Spotlight",
+      "tags": [
+        "guardrail",
+        "bollard"
+      ],
       "imageUrl": "/images/spain/AP-15_Bollard.png",
       "text": [
         "The AP-15 in Navarra features unique bollards with a simple flat design and a square red reflector. Guardrails also have [red reflectors](https://maps.app.goo.gl/c9X1ak7KB5EhdDqRA) unlike the rest of Spain."
@@ -2922,6 +3399,9 @@
       "continent": "Europe",
       "stepIndex": 0,
       "stepTitle": "Identifying Sweden",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/sweden/pollare.png",
       "text": [
         "Swedish bollards are **black-and-white**, typically with a grey reflector. Reflectors by intersections are commonly [orange](https://www.google.se/maps/@59.8512352,17.453607,3a,15y,166.33h,79.23t/data=!3m6!1e1!3m4!1sCGMaRAFZgTy9i6vPJzOdVw!2e0!7i13312!8i6656) instead. They can be either wedge-shaped, round, or [thin and curved](https://www.google.se/maps/@63.1586703,15.7505356,3a,17.6y,267.59h,81.22t/data=!3m6!1e1!3m4!1sZlG-VuwEFYfbbUAPnZQLUA!2e0!7i16384!8i8192)."
@@ -2935,6 +3415,9 @@
       "continent": "Europe",
       "stepIndex": 1,
       "stepTitle": "Regional clues",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/sweden/pollaretysk.png",
       "text": [
         "**Wedge-shaped bollards**, similar to those found in Germany, are most common in the southern regions of the country."
@@ -2948,6 +3431,9 @@
       "continent": "Europe",
       "stepIndex": 1,
       "stepTitle": "Regional clues",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/sweden/pollarerund.png",
       "text": [
         "**Cylindrical bollards**, with a completely **horizontal black section** near the top, are most commonly found near the west coast and in Värmland and southern Dalarna."
@@ -2961,6 +3447,9 @@
       "continent": "Europe",
       "stepIndex": 1,
       "stepTitle": "Regional clues",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/sweden/pollareplatt.png",
       "text": [
         "**Flat bollards**, or cylindrical bollards with a **black rectangle** containing the reflector are most commonly found on major roads in the northern half of the country.",
@@ -2975,6 +3464,9 @@
       "continent": "Europe",
       "stepIndex": 1,
       "stepTitle": "Regional clues",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/sweden/sk_C3_A5ne_pollare.png",
       "text": [
         "These small white bollards with either a blue or a red strip near the top can be found in the countryside of Skåne.",
@@ -2989,6 +3481,9 @@
       "continent": "Asia",
       "stepIndex": 0,
       "stepTitle": "Identifying Indonesia",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/indonesia/Dont_guess_Thailand_or_UK.png",
       "text": [
         "Indonesia commonly uses these **black-and-white** square or circular bollards, as well as these **yellow-and-black** ones, which can also have a red reflector. Other designs can also be found.",
@@ -3003,6 +3498,9 @@
       "continent": "Asia",
       "stepIndex": 1,
       "stepTitle": "Regional and province-specific clues",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/indonesia/Copy_of_Copy_of_Indonesia_hint_2.png",
       "text": [
         "Central Sulawesi features these unique bollards that are painted **black **on the bottom, **white **in the middle, and **yellow **on the top."
@@ -3016,6 +3514,9 @@
       "continent": "Europe",
       "stepIndex": 0,
       "stepTitle": "Identifying Belgium",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/belgium/Belgium_Bollards.png",
       "text": [
         "Belgium uses **white** bollards with a **yellow rectangular reflector **on the front and [white ](https://goo.gl/maps/dsvrRBcicD5XmBN59)on the back. A second type of bollard is [dark brown](https://goo.gl/maps/Wefn7bM6gmvjQ7DY7) with two red stripes at the top. Occasionally, other bollards can be seen.",
@@ -3030,6 +3531,9 @@
       "continent": "Africa",
       "stepIndex": 0,
       "stepTitle": "Identifying Rwanda",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/rwanda/Rwandan_Bollards.png",
       "text": [
         "Rwanda uses multiple different **red** and **white** **cylindrical** bollards."
@@ -3043,6 +3547,9 @@
       "continent": "Africa",
       "stepIndex": 2,
       "stepTitle": "Spotlight",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/rwanda/Nyungwe_Forest_National_Park_hint.png",
       "text": [
         "The Nyungwe Forest National Park goes through a **lush** and **hilly **landscape, which has 2 distinct covered roads; The yellow NR10 is paved, with roadlines. **French style bollards** and** green lamp posts** can be seen on the sides of the road. The[ white NR26](https://maps.app.goo.gl/DgoieDsNnmxKfitRA) going south is mostly paved, except for the [southernmost section](https://maps.app.goo.gl/xRs6onjfXYSi7hZS6). No roadlines are present.",
@@ -3057,6 +3564,9 @@
       "continent": "Asia",
       "stepIndex": 0,
       "stepTitle": "Identifying Vietnam",
+      "tags": [
+        "bollard"
+      ],
       "imageUrl": "/images/vietnam/vn_bollard.png",
       "text": [
         "The most common bollard type is a small square concrete bollard that is painted **white with a red top**."

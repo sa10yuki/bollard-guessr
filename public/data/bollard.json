@@ -1,5 +1,6 @@
 {
- "fetchedAt": "2026-10-05T16:26:56.323Z",
+ "fetchedAt": "2026-10-09T13:51:53.506Z",
+ "kinds": null,
  "guides": [
   {
    "id": "united-states",
@@ -550,7 +551,7 @@
   {
    "id": "united-states/y54R",
    "country": "united-states",
-   "image": "bollards/united-states-y54R.webp",
+   "image": "images/bollard/united-states-y54R.webp",
    "required": [
     "united-states"
    ],
@@ -563,7 +564,7 @@
   {
    "id": "united-states/FNeR",
    "country": "united-states",
-   "image": "bollards/united-states-FNeR.webp",
+   "image": "images/bollard/united-states-FNeR.webp",
    "required": [
     "united-states"
    ],
@@ -576,7 +577,7 @@
   {
    "id": "united-states/jNem",
    "country": "united-states",
-   "image": "bollards/united-states-jNem.webp",
+   "image": "images/bollard/united-states-jNem.webp",
    "required": [
     "united-states"
    ],
@@ -589,7 +590,7 @@
   {
    "id": "united-states/tH7v",
    "country": "united-states",
-   "image": "bollards/united-states-tH7v.webp",
+   "image": "images/bollard/united-states-tH7v.webp",
    "required": [
     "united-states"
    ],
@@ -602,7 +603,7 @@
   {
    "id": "united-states/ir1O",
    "country": "united-states",
-   "image": "bollards/united-states-ir1O.webp",
+   "image": "images/bollard/united-states-ir1O.webp",
    "required": [
     "united-states"
    ],
@@ -615,7 +616,7 @@
   {
    "id": "united-states/jDaH",
    "country": "united-states",
-   "image": "bollards/united-states-jDaH.webp",
+   "image": "images/bollard/united-states-jDaH.webp",
    "required": [
     "united-states"
    ],
@@ -628,7 +629,7 @@
   {
    "id": "united-states/Cusb",
    "country": "united-states",
-   "image": "bollards/united-states-Cusb.webp",
+   "image": "images/bollard/united-states-Cusb.webp",
    "required": [
     "united-states"
    ],
@@ -641,7 +642,7 @@
   {
    "id": "united-states/EhSf",
    "country": "united-states",
-   "image": "bollards/united-states-EhSf.webp",
+   "image": "images/bollard/united-states-EhSf.webp",
    "required": [
     "united-states"
    ],
@@ -654,7 +655,7 @@
   {
    "id": "united-states/95HC",
    "country": "united-states",
-   "image": "bollards/united-states-95HC.webp",
+   "image": "images/bollard/united-states-95HC.webp",
    "required": [
     "united-states"
    ],
@@ -667,7 +668,7 @@
   {
    "id": "united-states/6HTI",
    "country": "united-states",
-   "image": "bollards/united-states-6HTI.webp",
+   "image": "images/bollard/united-states-6HTI.webp",
    "required": [
     "united-states"
    ],
@@ -680,7 +681,7 @@
   {
    "id": "namibia/TqEE",
    "country": "namibia",
-   "image": "bollards/namibia-TqEE.webp",
+   "image": "images/bollard/namibia-TqEE.webp",
    "required": [
     "namibia"
    ],
@@ -693,7 +694,7 @@
   {
    "id": "namibia/OYpy",
    "country": "namibia",
-   "image": "bollards/namibia-OYpy.webp",
+   "image": "images/bollard/namibia-OYpy.webp",
    "required": [
     "namibia"
    ],
@@ -706,7 +707,7 @@
   {
    "id": "reunion/TYj8",
    "country": "reunion",
-   "image": "bollards/reunion-TYj8.webp",
+   "image": "images/bollard/reunion-TYj8.webp",
    "required": [
     "france",
     "reunion",
@@ -725,7 +726,7 @@
   {
    "id": "senegal/7wNV",
    "country": "senegal",
-   "image": "bollards/senegal-7wNV.webp",
+   "image": "images/bollard/senegal-7wNV.webp",
    "required": [
     "france",
     "reunion",
@@ -744,7 +745,7 @@
   {
    "id": "christmas-island/XuYJ",
    "country": "christmas-island",
-   "image": "bollards/christmas-island-XuYJ.webp",
+   "image": "images/bollard/christmas-island-XuYJ.webp",
    "required": [
     "australia",
     "christmas-island"
@@ -758,7 +759,7 @@
   {
    "id": "australia/Snwr",
    "country": "australia",
-   "image": "bollards/australia-Snwr.webp",
+   "image": "images/bollard/australia-Snwr.webp",
    "required": [
     "australia",
     "christmas-island"
@@ -772,7 +773,7 @@
   {
    "id": "australia/NeWE",
    "country": "australia",
-   "image": "bollards/australia-NeWE.webp",
+   "image": "images/bollard/australia-NeWE.webp",
    "required": [
     "australia"
    ],
@@ -787,7 +788,7 @@
   {
    "id": "australia/uo2W",
    "country": "australia",
-   "image": "bollards/australia-uo2W.webp",
+   "image": "images/bollard/australia-uo2W.webp",
    "required": [
     "australia"
    ],
@@ -800,7 +801,7 @@
   {
    "id": "australia/CAL4",
    "country": "australia",
-   "image": "bollards/australia-CAL4.webp",
+   "image": "images/bollard/australia-CAL4.webp",
    "required": [
     "australia"
    ],
@@ -813,7 +814,7 @@
   {
    "id": "australia/0nBQ",
    "country": "australia",
-   "image": "bollards/australia-0nBQ.webp",
+   "image": "images/bollard/australia-0nBQ.webp",
    "required": [
     "australia"
    ],
@@ -826,7 +827,7 @@
   {
    "id": "new-zealand/uxAD",
    "country": "new-zealand",
-   "image": "bollards/new-zealand-uxAD.webp",
+   "image": "images/bollard/new-zealand-uxAD.webp",
    "required": [
     "new-zealand"
    ],
@@ -839,7 +840,7 @@
   {
    "id": "new-zealand/P4oS",
    "country": "new-zealand",
-   "image": "bollards/new-zealand-P4oS.webp",
+   "image": "images/bollard/new-zealand-P4oS.webp",
    "required": [
     "new-zealand"
    ],
@@ -852,7 +853,7 @@
   {
    "id": "new-zealand/msuk",
    "country": "new-zealand",
-   "image": "bollards/new-zealand-msuk.webp",
+   "image": "images/bollard/new-zealand-msuk.webp",
    "required": [
     "new-zealand"
    ],
@@ -865,7 +866,7 @@
   {
    "id": "chile/tCeP",
    "country": "chile",
-   "image": "bollards/chile-tCeP.webp",
+   "image": "images/bollard/chile-tCeP.webp",
    "required": [
     "chile"
    ],
@@ -880,7 +881,7 @@
   {
    "id": "chile/DbSe",
    "country": "chile",
-   "image": "bollards/chile-DbSe.webp",
+   "image": "images/bollard/chile-DbSe.webp",
    "required": [
     "chile"
    ],
@@ -893,7 +894,7 @@
   {
    "id": "ecuador/cF1l",
    "country": "ecuador",
-   "image": "bollards/ecuador-cF1l.webp",
+   "image": "images/bollard/ecuador-cF1l.webp",
    "required": [
     "ecuador"
    ],
@@ -908,7 +909,7 @@
   {
    "id": "peru/xFoX",
    "country": "peru",
-   "image": "bollards/peru-xFoX.webp",
+   "image": "images/bollard/peru-xFoX.webp",
    "required": [
     "peru"
    ],
@@ -921,7 +922,7 @@
   {
    "id": "peru/NIjJ",
    "country": "peru",
-   "image": "bollards/peru-NIjJ.webp",
+   "image": "images/bollard/peru-NIjJ.webp",
    "required": [
     "peru"
    ],
@@ -934,7 +935,7 @@
   {
    "id": "uruguay/Pveh",
    "country": "uruguay",
-   "image": "bollards/uruguay-Pveh.webp",
+   "image": "images/bollard/uruguay-Pveh.webp",
    "required": [
     "uruguay"
    ],
@@ -947,7 +948,7 @@
   {
    "id": "costa-rica/KYKK",
    "country": "costa-rica",
-   "image": "bollards/costa-rica-KYKK.webp",
+   "image": "images/bollard/costa-rica-KYKK.webp",
    "required": [
     "costa-rica"
    ],
@@ -960,7 +961,7 @@
   {
    "id": "costa-rica/jFoY",
    "country": "costa-rica",
-   "image": "bollards/costa-rica-jFoY.webp",
+   "image": "images/bollard/costa-rica-jFoY.webp",
    "required": [
     "costa-rica"
    ],
@@ -973,7 +974,7 @@
   {
    "id": "guatemala/QYdU",
    "country": "guatemala",
-   "image": "bollards/guatemala-QYdU.webp",
+   "image": "images/bollard/guatemala-QYdU.webp",
    "required": [
     "guatemala"
    ],
@@ -986,7 +987,7 @@
   {
    "id": "canada/GAxI",
    "country": "canada",
-   "image": "bollards/canada-GAxI.webp",
+   "image": "images/bollard/canada-GAxI.webp",
    "required": [
     "canada"
    ],
@@ -999,7 +1000,7 @@
   {
    "id": "canada/GjWG",
    "country": "canada",
-   "image": "bollards/canada-GjWG.webp",
+   "image": "images/bollard/canada-GjWG.webp",
    "required": [
     "canada"
    ],
@@ -1012,7 +1013,7 @@
   {
    "id": "canada/8sEO",
    "country": "canada",
-   "image": "bollards/canada-8sEO.webp",
+   "image": "images/bollard/canada-8sEO.webp",
    "required": [
     "canada"
    ],
@@ -1025,7 +1026,7 @@
   {
    "id": "canada/X21k",
    "country": "canada",
-   "image": "bollards/canada-X21k.webp",
+   "image": "images/bollard/canada-X21k.webp",
    "required": [
     "canada"
    ],
@@ -1038,7 +1039,7 @@
   {
    "id": "canada/7Oi3",
    "country": "canada",
-   "image": "bollards/canada-7Oi3.webp",
+   "image": "images/bollard/canada-7Oi3.webp",
    "required": [
     "canada"
    ],
@@ -1051,7 +1052,7 @@
   {
    "id": "canada/s9c4",
    "country": "canada",
-   "image": "bollards/canada-s9c4.webp",
+   "image": "images/bollard/canada-s9c4.webp",
    "required": [
     "canada"
    ],
@@ -1064,7 +1065,7 @@
   {
    "id": "canada/BSBp",
    "country": "canada",
-   "image": "bollards/canada-BSBp.webp",
+   "image": "images/bollard/canada-BSBp.webp",
    "required": [
     "canada"
    ],
@@ -1077,7 +1078,7 @@
   {
    "id": "canada/3vxs",
    "country": "canada",
-   "image": "bollards/canada-3vxs.webp",
+   "image": "images/bollard/canada-3vxs.webp",
    "required": [
     "canada"
    ],
@@ -1090,7 +1091,7 @@
   {
    "id": "bangladesh/iyC8",
    "country": "bangladesh",
-   "image": "bollards/bangladesh-iyC8.webp",
+   "image": "images/bollard/bangladesh-iyC8.webp",
    "required": [
     "bangladesh"
    ],
@@ -1103,7 +1104,7 @@
   {
    "id": "cambodia/EFcY",
    "country": "cambodia",
-   "image": "bollards/cambodia-EFcY.webp",
+   "image": "images/bollard/cambodia-EFcY.webp",
    "required": [
     "cambodia"
    ],
@@ -1116,7 +1117,7 @@
   {
    "id": "cambodia/j4t2",
    "country": "cambodia",
-   "image": "bollards/cambodia-j4t2.webp",
+   "image": "images/bollard/cambodia-j4t2.webp",
    "required": [
     "thailand",
     "laos",
@@ -1133,7 +1134,7 @@
   {
    "id": "cambodia/xNF2",
    "country": "cambodia",
-   "image": "bollards/cambodia-xNF2.webp",
+   "image": "images/bollard/cambodia-xNF2.webp",
    "required": [
     "cambodia"
    ],
@@ -1146,7 +1147,7 @@
   {
    "id": "hong-kong/m242",
    "country": "hong-kong",
-   "image": "bollards/hong-kong-m242.webp",
+   "image": "images/bollard/hong-kong-m242.webp",
    "required": [
     "hong-kong"
    ],
@@ -1159,7 +1160,7 @@
   {
    "id": "laos/VMbz",
    "country": "laos",
-   "image": "bollards/laos-VMbz.webp",
+   "image": "images/bollard/laos-VMbz.webp",
    "required": [
     "laos",
     "thailand",
@@ -1176,7 +1177,7 @@
   {
    "id": "laos/IN2F",
    "country": "laos",
-   "image": "bollards/laos-IN2F.webp",
+   "image": "images/bollard/laos-IN2F.webp",
    "required": [
     "laos"
    ],
@@ -1189,7 +1190,7 @@
   {
    "id": "kazakhstan/O76W",
    "country": "kazakhstan",
-   "image": "bollards/kazakhstan-O76W.webp",
+   "image": "images/bollard/kazakhstan-O76W.webp",
    "required": [
     "kazakhstan"
    ],
@@ -1205,7 +1206,7 @@
   {
    "id": "japan/iauQ",
    "country": "japan",
-   "image": "bollards/japan-iauQ.webp",
+   "image": "images/bollard/japan-iauQ.webp",
    "required": [
     "japan"
    ],
@@ -1218,7 +1219,7 @@
   {
    "id": "japan/cwwN",
    "country": "japan",
-   "image": "bollards/japan-cwwN.webp",
+   "image": "images/bollard/japan-cwwN.webp",
    "required": [
     "japan"
    ],
@@ -1231,7 +1232,7 @@
   {
    "id": "japan/SR14",
    "country": "japan",
-   "image": "bollards/japan-SR14.webp",
+   "image": "images/bollard/japan-SR14.webp",
    "required": [
     "japan"
    ],
@@ -1244,7 +1245,7 @@
   {
    "id": "japan/YbtC",
    "country": "japan",
-   "image": "bollards/japan-YbtC.webp",
+   "image": "images/bollard/japan-YbtC.webp",
    "required": [
     "japan"
    ],
@@ -1257,7 +1258,7 @@
   {
    "id": "japan/1dQi",
    "country": "japan",
-   "image": "bollards/japan-1dQi.webp",
+   "image": "images/bollard/japan-1dQi.webp",
    "required": [
     "japan"
    ],
@@ -1270,7 +1271,7 @@
   {
    "id": "japan/YpAf",
    "country": "japan",
-   "image": "bollards/japan-YpAf.webp",
+   "image": "images/bollard/japan-YpAf.webp",
    "required": [
     "japan"
    ],
@@ -1283,7 +1284,7 @@
   {
    "id": "japan/wVGg",
    "country": "japan",
-   "image": "bollards/japan-wVGg.webp",
+   "image": "images/bollard/japan-wVGg.webp",
    "required": [
     "japan"
    ],
@@ -1296,7 +1297,7 @@
   {
    "id": "japan/uFy4",
    "country": "japan",
-   "image": "bollards/japan-uFy4.webp",
+   "image": "images/bollard/japan-uFy4.webp",
    "required": [
     "japan"
    ],
@@ -1309,7 +1310,7 @@
   {
    "id": "japan/p0xY",
    "country": "japan",
-   "image": "bollards/japan-p0xY.webp",
+   "image": "images/bollard/japan-p0xY.webp",
    "required": [
     "japan"
    ],
@@ -1322,7 +1323,7 @@
   {
    "id": "kyrgyzstan/EsCZ",
    "country": "kyrgyzstan",
-   "image": "bollards/kyrgyzstan-EsCZ.webp",
+   "image": "images/bollard/kyrgyzstan-EsCZ.webp",
    "required": [
     "kyrgyzstan"
    ],
@@ -1335,7 +1336,7 @@
   {
    "id": "malaysia/H5tX",
    "country": "malaysia",
-   "image": "bollards/malaysia-H5tX.webp",
+   "image": "images/bollard/malaysia-H5tX.webp",
    "required": [
     "malaysia"
    ],
@@ -1350,7 +1351,7 @@
   {
    "id": "singapore/RNhX",
    "country": "singapore",
-   "image": "bollards/singapore-RNhX.webp",
+   "image": "images/bollard/singapore-RNhX.webp",
    "required": [
     "singapore"
    ],
@@ -1365,7 +1366,7 @@
   {
    "id": "south-korea/uhX5",
    "country": "south-korea",
-   "image": "bollards/south-korea-uhX5.webp",
+   "image": "images/bollard/south-korea-uhX5.webp",
    "required": [
     "south-korea"
    ],
@@ -1378,7 +1379,7 @@
   {
    "id": "qatar/WcSv",
    "country": "qatar",
-   "image": "bollards/qatar-WcSv.webp",
+   "image": "images/bollard/qatar-WcSv.webp",
    "required": [
     "qatar"
    ],
@@ -1391,7 +1392,7 @@
   {
    "id": "sri-lanka/Yl3z",
    "country": "sri-lanka",
-   "image": "bollards/sri-lanka-Yl3z.webp",
+   "image": "images/bollard/sri-lanka-Yl3z.webp",
    "required": [
     "sri-lanka"
    ],
@@ -1404,7 +1405,7 @@
   {
    "id": "mongolia/U3HS",
    "country": "mongolia",
-   "image": "bollards/mongolia-U3HS.webp",
+   "image": "images/bollard/mongolia-U3HS.webp",
    "required": [
     "mongolia"
    ],
@@ -1417,7 +1418,7 @@
   {
    "id": "nepal/0YtE",
    "country": "nepal",
-   "image": "bollards/nepal-0YtE.webp",
+   "image": "images/bollard/nepal-0YtE.webp",
    "required": [
     "nepal"
    ],
@@ -1430,7 +1431,7 @@
   {
    "id": "taiwan/vpmY",
    "country": "taiwan",
-   "image": "bollards/taiwan-vpmY.webp",
+   "image": "images/bollard/taiwan-vpmY.webp",
    "required": [
     "taiwan"
    ],
@@ -1443,7 +1444,7 @@
   {
    "id": "turkey/qrJL",
    "country": "turkey",
-   "image": "bollards/turkey-qrJL.webp",
+   "image": "images/bollard/turkey-qrJL.webp",
    "required": [
     "turkey",
     "romania"
@@ -1457,7 +1458,7 @@
   {
    "id": "thailand/bTGN",
    "country": "thailand",
-   "image": "bollards/thailand-bTGN.webp",
+   "image": "images/bollard/thailand-bTGN.webp",
    "required": [
     "thailand",
     "laos",
@@ -1474,7 +1475,7 @@
   {
    "id": "thailand/2tIc",
    "country": "thailand",
-   "image": "bollards/thailand-2tIc.webp",
+   "image": "images/bollard/thailand-2tIc.webp",
    "required": [
     "thailand"
    ],
@@ -1487,7 +1488,7 @@
   {
    "id": "andorra/JMBH",
    "country": "andorra",
-   "image": "bollards/andorra-JMBH.webp",
+   "image": "images/bollard/andorra-JMBH.webp",
    "required": [
     "andorra",
     "spain"
@@ -1501,7 +1502,7 @@
   {
    "id": "azores/fva4",
    "country": "azores",
-   "image": "bollards/azores-fva4.webp",
+   "image": "images/bollard/azores-fva4.webp",
    "required": [
     "portugal",
     "azores"
@@ -1515,7 +1516,7 @@
   {
    "id": "albania/z0A7",
    "country": "albania",
-   "image": "bollards/albania-z0A7.webp",
+   "image": "images/bollard/albania-z0A7.webp",
    "required": [
     "albania",
     "italy",
@@ -1530,7 +1531,7 @@
   {
    "id": "austria/Z6SF",
    "country": "austria",
-   "image": "bollards/austria-Z6SF.webp",
+   "image": "images/bollard/austria-Z6SF.webp",
    "required": [
     "austria"
    ],
@@ -1546,7 +1547,7 @@
   {
    "id": "croatia/asMp",
    "country": "croatia",
-   "image": "bollards/croatia-asMp.webp",
+   "image": "images/bollard/croatia-asMp.webp",
    "required": [
     "croatia",
     "north-macedonia"
@@ -1563,7 +1564,7 @@
   {
    "id": "bulgaria/CLGi",
    "country": "bulgaria",
-   "image": "bollards/bulgaria-CLGi.webp",
+   "image": "images/bollard/bulgaria-CLGi.webp",
    "required": [
     "bulgaria"
    ],
@@ -1579,7 +1580,7 @@
   {
    "id": "denmark/6bR5",
    "country": "denmark",
-   "image": "bollards/denmark-6bR5.webp",
+   "image": "images/bollard/denmark-6bR5.webp",
    "required": [
     "denmark"
    ],
@@ -1592,7 +1593,7 @@
   {
    "id": "denmark/NemR",
    "country": "denmark",
-   "image": "bollards/denmark-NemR.webp",
+   "image": "images/bollard/denmark-NemR.webp",
    "required": [
     "denmark"
    ],
@@ -1605,7 +1606,7 @@
   {
    "id": "estonia/N6Ec",
    "country": "estonia",
-   "image": "bollards/estonia-N6Ec.webp",
+   "image": "images/bollard/estonia-N6Ec.webp",
    "required": [
     "estonia"
    ],
@@ -1618,7 +1619,7 @@
   {
    "id": "czechia/YKsZ",
    "country": "czechia",
-   "image": "bollards/czechia-YKsZ.webp",
+   "image": "images/bollard/czechia-YKsZ.webp",
    "required": [
     "czechia",
     "slovakia"
@@ -1632,7 +1633,7 @@
   {
    "id": "faroe-islands/u8Th",
    "country": "faroe-islands",
-   "image": "bollards/faroe-islands-u8Th.webp",
+   "image": "images/bollard/faroe-islands-u8Th.webp",
    "required": [
     "faroe-islands"
    ],
@@ -1645,7 +1646,7 @@
   {
    "id": "finland/cjgP",
    "country": "finland",
-   "image": "bollards/finland-cjgP.webp",
+   "image": "images/bollard/finland-cjgP.webp",
    "required": [
     "finland"
    ],
@@ -1658,7 +1659,7 @@
   {
    "id": "hungary/PvaK",
    "country": "hungary",
-   "image": "bollards/hungary-PvaK.webp",
+   "image": "images/bollard/hungary-PvaK.webp",
    "required": [
     "hungary"
    ],
@@ -1676,7 +1677,7 @@
   {
    "id": "greece/P33J",
    "country": "greece",
-   "image": "bollards/greece-P33J.webp",
+   "image": "images/bollard/greece-P33J.webp",
    "required": [
     "greece"
    ],
@@ -1689,7 +1690,7 @@
   {
    "id": "iceland/Et2D",
    "country": "iceland",
-   "image": "bollards/iceland-Et2D.webp",
+   "image": "images/bollard/iceland-Et2D.webp",
    "required": [
     "iceland"
    ],
@@ -1702,7 +1703,7 @@
   {
    "id": "germany/LIr8",
    "country": "germany",
-   "image": "bollards/germany-LIr8.webp",
+   "image": "images/bollard/germany-LIr8.webp",
    "required": [
     "germany",
     "luxembourg"
@@ -1719,7 +1720,7 @@
   {
    "id": "germany/0ZC9",
    "country": "germany",
-   "image": "bollards/germany-0ZC9.webp",
+   "image": "images/bollard/germany-0ZC9.webp",
    "required": [
     "germany"
    ],
@@ -1734,7 +1735,7 @@
   {
    "id": "germany/evf5",
    "country": "germany",
-   "image": "bollards/germany-evf5.webp",
+   "image": "images/bollard/germany-evf5.webp",
    "required": [
     "germany"
    ],
@@ -1747,7 +1748,7 @@
   {
    "id": "germany/443T",
    "country": "germany",
-   "image": "bollards/germany-443T.webp",
+   "image": "images/bollard/germany-443T.webp",
    "required": [
     "germany"
    ],
@@ -1760,7 +1761,7 @@
   {
    "id": "germany/rNPD",
    "country": "germany",
-   "image": "bollards/germany-rNPD.webp",
+   "image": "images/bollard/germany-rNPD.webp",
    "required": [
     "germany"
    ],
@@ -1773,7 +1774,7 @@
   {
    "id": "germany/xKwF",
    "country": "germany",
-   "image": "bollards/germany-xKwF.webp",
+   "image": "images/bollard/germany-xKwF.webp",
    "required": [
     "germany"
    ],
@@ -1786,7 +1787,7 @@
   {
    "id": "germany/njj7",
    "country": "germany",
-   "image": "bollards/germany-njj7.webp",
+   "image": "images/bollard/germany-njj7.webp",
    "required": [
     "germany"
    ],
@@ -1799,7 +1800,7 @@
   {
    "id": "germany/uRqh",
    "country": "germany",
-   "image": "bollards/germany-uRqh.webp",
+   "image": "images/bollard/germany-uRqh.webp",
    "required": [
     "germany"
    ],
@@ -1812,7 +1813,7 @@
   {
    "id": "germany/ucwE",
    "country": "germany",
-   "image": "bollards/germany-ucwE.webp",
+   "image": "images/bollard/germany-ucwE.webp",
    "required": [
     "germany"
    ],
@@ -1825,7 +1826,7 @@
   {
    "id": "france/eNYi",
    "country": "france",
-   "image": "bollards/france-eNYi.webp",
+   "image": "images/bollard/france-eNYi.webp",
    "required": [
     "france",
     "reunion",
@@ -1844,7 +1845,7 @@
   {
    "id": "france/NqvL",
    "country": "france",
-   "image": "bollards/france-NqvL.webp",
+   "image": "images/bollard/france-NqvL.webp",
    "required": [
     "france"
    ],
@@ -1859,7 +1860,7 @@
   {
    "id": "france/P6Wi",
    "country": "france",
-   "image": "bollards/france-P6Wi.webp",
+   "image": "images/bollard/france-P6Wi.webp",
    "required": [
     "france"
    ],
@@ -1874,7 +1875,7 @@
   {
    "id": "cyprus/blro",
    "country": "cyprus",
-   "image": "bollards/cyprus-blro.webp",
+   "image": "images/bollard/cyprus-blro.webp",
    "required": [
     "cyprus"
    ],
@@ -1887,7 +1888,7 @@
   {
    "id": "cyprus/ilC2",
    "country": "cyprus",
-   "image": "bollards/cyprus-ilC2.webp",
+   "image": "images/bollard/cyprus-ilC2.webp",
    "required": [
     "cyprus"
    ],
@@ -1904,7 +1905,7 @@
   {
    "id": "isle-of-man/fUGu",
    "country": "isle-of-man",
-   "image": "bollards/isle-of-man-fUGu.webp",
+   "image": "images/bollard/isle-of-man-fUGu.webp",
    "required": [
     "isle-of-man"
    ],
@@ -1917,7 +1918,7 @@
   {
    "id": "ireland/FO2a",
    "country": "ireland",
-   "image": "bollards/ireland-FO2a.webp",
+   "image": "images/bollard/ireland-FO2a.webp",
    "required": [
     "ireland"
    ],
@@ -1932,7 +1933,7 @@
   {
    "id": "latvia/uPlz",
    "country": "latvia",
-   "image": "bollards/latvia-uPlz.webp",
+   "image": "images/bollard/latvia-uPlz.webp",
    "required": [
     "latvia"
    ],
@@ -1945,7 +1946,7 @@
   {
    "id": "liechtenstein/p90S",
    "country": "liechtenstein",
-   "image": "bollards/liechtenstein-p90S.webp",
+   "image": "images/bollard/liechtenstein-p90S.webp",
    "required": [
     "liechtenstein",
     "switzerland"
@@ -1959,7 +1960,7 @@
   {
    "id": "lithuania/SYjp",
    "country": "lithuania",
-   "image": "bollards/lithuania-SYjp.webp",
+   "image": "images/bollard/lithuania-SYjp.webp",
    "required": [
     "lithuania"
    ],
@@ -1972,7 +1973,7 @@
   {
    "id": "luxembourg/90cv",
    "country": "luxembourg",
-   "image": "bollards/luxembourg-90cv.webp",
+   "image": "images/bollard/luxembourg-90cv.webp",
    "required": [
     "luxembourg",
     "germany"
@@ -1986,7 +1987,7 @@
   {
    "id": "italy/BBrE",
    "country": "italy",
-   "image": "bollards/italy-BBrE.webp",
+   "image": "images/bollard/italy-BBrE.webp",
    "required": [
     "italy",
     "albania",
@@ -2001,7 +2002,7 @@
   {
    "id": "montenegro/MYa5",
    "country": "montenegro",
-   "image": "bollards/montenegro-MYa5.webp",
+   "image": "images/bollard/montenegro-MYa5.webp",
    "required": [
     "montenegro",
     "slovenia"
@@ -2018,7 +2019,7 @@
   {
    "id": "madeira/CXPS",
    "country": "madeira",
-   "image": "bollards/madeira-CXPS.webp",
+   "image": "images/bollard/madeira-CXPS.webp",
    "required": [
     "madeira"
    ],
@@ -2031,7 +2032,7 @@
   {
    "id": "north-macedonia/jQXp",
    "country": "north-macedonia",
-   "image": "bollards/north-macedonia-jQXp.webp",
+   "image": "images/bollard/north-macedonia-jQXp.webp",
    "required": [
     "north-macedonia"
    ],
@@ -2047,7 +2048,7 @@
   {
    "id": "poland/vySo",
    "country": "poland",
-   "image": "bollards/poland-vySo.webp",
+   "image": "images/bollard/poland-vySo.webp",
    "required": [
     "poland",
     "ukraine"
@@ -2061,7 +2062,7 @@
   {
    "id": "netherlands/R6It",
    "country": "netherlands",
-   "image": "bollards/netherlands-R6It.webp",
+   "image": "images/bollard/netherlands-R6It.webp",
    "required": [
     "netherlands"
    ],
@@ -2074,7 +2075,7 @@
   {
    "id": "portugal/UKlQ",
    "country": "portugal",
-   "image": "bollards/portugal-UKlQ.webp",
+   "image": "images/bollard/portugal-UKlQ.webp",
    "required": [
     "portugal",
     "azores"
@@ -2088,7 +2089,7 @@
   {
    "id": "norway/0MXz",
    "country": "norway",
-   "image": "bollards/norway-0MXz.webp",
+   "image": "images/bollard/norway-0MXz.webp",
    "required": [
     "norway"
    ],
@@ -2101,7 +2102,7 @@
   {
    "id": "mexico/fEc6",
    "country": "mexico",
-   "image": "bollards/mexico-fEc6.webp",
+   "image": "images/bollard/mexico-fEc6.webp",
    "required": [
     "mexico"
    ],
@@ -2114,7 +2115,7 @@
   {
    "id": "mexico/PNuD",
    "country": "mexico",
-   "image": "bollards/mexico-PNuD.webp",
+   "image": "images/bollard/mexico-PNuD.webp",
    "required": [
     "mexico"
    ],
@@ -2127,7 +2128,7 @@
   {
    "id": "mexico/83dD",
    "country": "mexico",
-   "image": "bollards/mexico-83dD.webp",
+   "image": "images/bollard/mexico-83dD.webp",
    "required": [
     "mexico"
    ],
@@ -2140,7 +2141,7 @@
   {
    "id": "san-marino/9e8C",
    "country": "san-marino",
-   "image": "bollards/san-marino-9e8C.webp",
+   "image": "images/bollard/san-marino-9e8C.webp",
    "required": [
     "san-marino",
     "italy",
@@ -2155,7 +2156,7 @@
   {
    "id": "serbia/qGEx",
    "country": "serbia",
-   "image": "bollards/serbia-qGEx.webp",
+   "image": "images/bollard/serbia-qGEx.webp",
    "required": [
     "serbia"
    ],
@@ -2168,7 +2169,7 @@
   {
    "id": "romania/6jeS",
    "country": "romania",
-   "image": "bollards/romania-6jeS.webp",
+   "image": "images/bollard/romania-6jeS.webp",
    "required": [
     "romania",
     "turkey"
@@ -2182,7 +2183,7 @@
   {
    "id": "slovenia/9Pxm",
    "country": "slovenia",
-   "image": "bollards/slovenia-9Pxm.webp",
+   "image": "images/bollard/slovenia-9Pxm.webp",
    "required": [
     "slovenia",
     "montenegro"
@@ -2199,7 +2200,7 @@
   {
    "id": "slovakia/3quH",
    "country": "slovakia",
-   "image": "bollards/slovakia-3quH.webp",
+   "image": "images/bollard/slovakia-3quH.webp",
    "required": [
     "slovakia",
     "czechia"
@@ -2213,7 +2214,7 @@
   {
    "id": "slovakia/j8QN",
    "country": "slovakia",
-   "image": "bollards/slovakia-j8QN.webp",
+   "image": "images/bollard/slovakia-j8QN.webp",
    "required": [
     "slovakia",
     "hungary"
@@ -2227,7 +2228,7 @@
   {
    "id": "switzerland/lPuj",
    "country": "switzerland",
-   "image": "bollards/switzerland-lPuj.webp",
+   "image": "images/bollard/switzerland-lPuj.webp",
    "required": [
     "switzerland",
     "liechtenstein"
@@ -2241,7 +2242,7 @@
   {
    "id": "switzerland/DapV",
    "country": "switzerland",
-   "image": "bollards/switzerland-DapV.webp",
+   "image": "images/bollard/switzerland-DapV.webp",
    "required": [
     "switzerland"
    ],
@@ -2254,7 +2255,7 @@
   {
    "id": "switzerland/V7Ou",
    "country": "switzerland",
-   "image": "bollards/switzerland-V7Ou.webp",
+   "image": "images/bollard/switzerland-V7Ou.webp",
    "required": [
     "switzerland"
    ],
@@ -2267,7 +2268,7 @@
   {
    "id": "ukraine/Wve0",
    "country": "ukraine",
-   "image": "bollards/ukraine-Wve0.webp",
+   "image": "images/bollard/ukraine-Wve0.webp",
    "required": [
     "ukraine",
     "poland"
@@ -2281,7 +2282,7 @@
   {
    "id": "russia/zEsz",
    "country": "russia",
-   "image": "bollards/russia-zEsz.webp",
+   "image": "images/bollard/russia-zEsz.webp",
    "required": [
     "russia"
    ],
@@ -2298,7 +2299,7 @@
   {
    "id": "russia/h2Gm",
    "country": "russia",
-   "image": "bollards/russia-h2Gm.webp",
+   "image": "images/bollard/russia-h2Gm.webp",
    "required": [
     "russia"
    ],
@@ -2313,7 +2314,7 @@
   {
    "id": "russia/4DR5",
    "country": "russia",
-   "image": "bollards/russia-4DR5.webp",
+   "image": "images/bollard/russia-4DR5.webp",
    "required": [
     "russia"
    ],
@@ -2328,7 +2329,7 @@
   {
    "id": "russia/344J",
    "country": "russia",
-   "image": "bollards/russia-344J.webp",
+   "image": "images/bollard/russia-344J.webp",
    "required": [
     "russia"
    ],
@@ -2341,7 +2342,7 @@
   {
    "id": "united-kingdom/ecrT",
    "country": "united-kingdom",
-   "image": "bollards/united-kingdom-ecrT.webp",
+   "image": "images/bollard/united-kingdom-ecrT.webp",
    "required": [
     "united-kingdom"
    ],
@@ -2356,7 +2357,7 @@
   {
    "id": "united-kingdom/Qaei",
    "country": "united-kingdom",
-   "image": "bollards/united-kingdom-Qaei.webp",
+   "image": "images/bollard/united-kingdom-Qaei.webp",
    "required": [
     "united-kingdom"
    ],
@@ -2369,7 +2370,7 @@
   {
    "id": "united-kingdom/RtMf",
    "country": "united-kingdom",
-   "image": "bollards/united-kingdom-RtMf.webp",
+   "image": "images/bollard/united-kingdom-RtMf.webp",
    "required": [
     "united-kingdom"
    ],
@@ -2384,7 +2385,7 @@
   {
    "id": "spain/v8wo",
    "country": "spain",
-   "image": "bollards/spain-v8wo.webp",
+   "image": "images/bollard/spain-v8wo.webp",
    "required": [
     "spain"
    ],
@@ -2400,7 +2401,7 @@
   {
    "id": "spain/d6lH",
    "country": "spain",
-   "image": "bollards/spain-d6lH.webp",
+   "image": "images/bollard/spain-d6lH.webp",
    "required": [
     "spain"
    ],
@@ -2413,7 +2414,7 @@
   {
    "id": "spain/uZlj",
    "country": "spain",
-   "image": "bollards/spain-uZlj.webp",
+   "image": "images/bollard/spain-uZlj.webp",
    "required": [
     "spain"
    ],
@@ -2426,7 +2427,7 @@
   {
    "id": "spain/Ghny",
    "country": "spain",
-   "image": "bollards/spain-Ghny.webp",
+   "image": "images/bollard/spain-Ghny.webp",
    "required": [
     "spain"
    ],
@@ -2439,7 +2440,7 @@
   {
    "id": "spain/QsFO",
    "country": "spain",
-   "image": "bollards/spain-QsFO.webp",
+   "image": "images/bollard/spain-QsFO.webp",
    "required": [
     "spain"
    ],
@@ -2452,7 +2453,7 @@
   {
    "id": "spain/IsPo",
    "country": "spain",
-   "image": "bollards/spain-IsPo.webp",
+   "image": "images/bollard/spain-IsPo.webp",
    "required": [
     "spain"
    ],
@@ -2465,7 +2466,7 @@
   {
    "id": "sweden/mJ0O",
    "country": "sweden",
-   "image": "bollards/sweden-mJ0O.webp",
+   "image": "images/bollard/sweden-mJ0O.webp",
    "required": [
     "sweden"
    ],
@@ -2478,7 +2479,7 @@
   {
    "id": "sweden/ZGJn",
    "country": "sweden",
-   "image": "bollards/sweden-ZGJn.webp",
+   "image": "images/bollard/sweden-ZGJn.webp",
    "required": [
     "sweden"
    ],
@@ -2494,7 +2495,7 @@
   {
    "id": "sweden/5aMv",
    "country": "sweden",
-   "image": "bollards/sweden-5aMv.webp",
+   "image": "images/bollard/sweden-5aMv.webp",
    "required": [
     "sweden"
    ],
@@ -2507,7 +2508,7 @@
   {
    "id": "sweden/eFK9",
    "country": "sweden",
-   "image": "bollards/sweden-eFK9.webp",
+   "image": "images/bollard/sweden-eFK9.webp",
    "required": [
     "sweden"
    ],
@@ -2520,7 +2521,7 @@
   {
    "id": "sweden/9Rd5",
    "country": "sweden",
-   "image": "bollards/sweden-9Rd5.webp",
+   "image": "images/bollard/sweden-9Rd5.webp",
    "required": [
     "sweden"
    ],
@@ -2533,7 +2534,7 @@
   {
    "id": "indonesia/u0Sw",
    "country": "indonesia",
-   "image": "bollards/indonesia-u0Sw.webp",
+   "image": "images/bollard/indonesia-u0Sw.webp",
    "required": [
     "indonesia"
    ],
@@ -2550,7 +2551,7 @@
   {
    "id": "indonesia/W7JT",
    "country": "indonesia",
-   "image": "bollards/indonesia-W7JT.webp",
+   "image": "images/bollard/indonesia-W7JT.webp",
    "required": [
     "indonesia"
    ],
@@ -2563,7 +2564,7 @@
   {
    "id": "belgium/LF07",
    "country": "belgium",
-   "image": "bollards/belgium-LF07.webp",
+   "image": "images/bollard/belgium-LF07.webp",
    "required": [
     "belgium"
    ],
@@ -2579,7 +2580,7 @@
   {
    "id": "rwanda/g5Yq",
    "country": "rwanda",
-   "image": "bollards/rwanda-g5Yq.webp",
+   "image": "images/bollard/rwanda-g5Yq.webp",
    "required": [
     "rwanda"
    ],
@@ -2592,7 +2593,7 @@
   {
    "id": "vietnam/nJ04",
    "country": "vietnam",
-   "image": "bollards/vietnam-nJ04.webp",
+   "image": "images/bollard/vietnam-nJ04.webp",
    "required": [
     "vietnam"
    ],

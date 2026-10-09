@@ -1,17 +1,24 @@
 import './style.css';
-import { judge, loadReview, pickSet, updateReview, type Question, type Verdict } from './game';
 import { Catalog } from './catalog';
+import { CATEGORIES, type Category, type CategoryData, type CategoryId } from './categories';
+import { judge, loadReview, pickSet, updateReview, type Question, type Verdict } from './game';
 import { AreaMap, type AreaProps } from './map';
-import { normalize, renderBollardInfo } from './text';
+import { normalize, renderInfo } from './text';
 
 const $ = <T extends HTMLElement = HTMLElement>(id: string) => document.getElementById(id) as T;
 
 const el = {
   progress: $('progress'),
   play: $('play'),
-  start: $('start'),
+  top: $('top'),
+  menu: $('menu'),
   result: $('result'),
   catalog: $('catalog'),
+  genres: $('genres'),
+  menuTitle: $('menu-title'),
+  menuDescription: $('menu-description'),
+  menuKindsBox: $('menu-kinds-box'),
+  menuKinds: $('menu-kinds'),
   photo: $<HTMLImageElement>('photo'),
   photoButton: $('photo-button'),
   lightbox: $('lightbox'),
@@ -27,18 +34,23 @@ const el = {
   feedback: $('feedback'),
   legend: $('legend'),
   reviewHint: $('review-hint'),
+  startNormal: $<HTMLButtonElement>('start-normal'),
   startReview: $<HTMLButtonElement>('start-review'),
   resultReview: $<HTMLButtonElement>('result-review'),
   resultTitle: $('result-title'),
   resultList: $('result-list'),
 };
 
-let questions: Question[] = [];
 let geo: GeoJSON.FeatureCollection<GeoJSON.MultiPolygon, AreaProps>;
 const areas = new Map<string, AreaProps>();
+const datasets = new Map<CategoryId, CategoryData>();
 // Created on first use: Leaflet needs a visible container to lay out the map.
 let areaMap: AreaMap;
 let catalog: Catalog;
+
+let category: Category = CATEGORIES[0];
+/** Sign kind to quiz on, or "all". */
+let quizKind = 'all';
 
 type Mode = 'normal' | 'review';
 let mode: Mode = 'normal';
@@ -48,14 +60,14 @@ let selected = new Set<string>();
 let results: { q: Question; correct: boolean }[] = [];
 
 const nameOf = (id: string) => areas.get(id)?.name ?? id;
+const data = () => datasets.get(category.id)!;
 
 // ---------- screens ----------
 
-function show(screen: 'start' | 'play' | 'result' | 'catalog') {
-  el.start.hidden = screen !== 'start';
-  el.catalog.hidden = screen !== 'catalog';
-  el.result.hidden = screen !== 'result';
-  el.play.hidden = screen !== 'play';
+type Screen = 'top' | 'menu' | 'play' | 'result' | 'catalog';
+
+function show(screen: Screen) {
+  for (const s of ['top', 'menu', 'play', 'result', 'catalog'] as const) el[s].hidden = s !== screen;
   if (screen === 'play') {
     if (!areaMap) {
       areaMap = new AreaMap($('map'), geo);
@@ -63,14 +75,93 @@ function show(screen: 'start' | 'play' | 'result' | 'catalog') {
     }
     areaMap.invalidate();
   }
-  if (screen === 'catalog') catalog.render();
+  if (screen === 'catalog') {
+    catalog.load(data(), category.name, quizKind);
+    catalog.render();
+  }
+  if (screen === 'top') renderGenres();
   if (screen !== 'play') el.progress.textContent = '';
   refreshReviewButtons();
+  window.scrollTo(0, 0);
+}
+
+function renderGenres() {
+  el.genres.replaceChildren(
+    ...CATEGORIES.map((c) => {
+      const d = datasets.get(c.id);
+      const li = document.createElement('li');
+      const b = document.createElement('button');
+      b.type = 'button';
+      b.className = 'genre';
+      b.disabled = !d?.questions.length;
+      const icon = document.createElement('span');
+      icon.className = 'genre-icon';
+      icon.textContent = c.icon;
+      const name = document.createElement('strong');
+      name.textContent = c.name;
+      const desc = document.createElement('small');
+      desc.textContent = d?.questions.length ? `${c.description}・${d.questions.length}問` : '準備中';
+      b.append(icon, name, desc);
+      b.onclick = () => openMenu(c);
+      li.append(b);
+      return li;
+    }),
+  );
+}
+
+function openMenu(c: Category) {
+  category = c;
+  quizKind = 'all';
+  el.menuTitle.textContent = `${c.icon} ${c.name}`;
+  el.menuDescription.textContent = `${c.name}の写真を見て、それが使われている国・地域を地図から全部選んでね。`;
+  $('open-catalog').textContent = `${c.name}図鑑`;
+  renderMenuKinds();
+  show('menu');
+}
+
+/** Kind picker for categories with kinds (signs). */
+function renderMenuKinds() {
+  const kinds = data().kinds;
+  el.menuKindsBox.hidden = !kinds;
+  if (!kinds) return;
+  const counts = new Map<string, number>();
+  for (const q of data().questions) counts.set(q.kind!, (counts.get(q.kind!) ?? 0) + 1);
+  const options: [string, string][] = [
+    ['all', `すべて（${data().questions.length}）`],
+    ...Object.entries(kinds)
+      .filter(([key]) => counts.has(key))
+      .map(([key, label]): [string, string] => [key, `${label}（${counts.get(key)}）`]),
+  ];
+  el.menuKinds.replaceChildren(
+    ...options.map(([key, label]) => {
+      const b = document.createElement('button');
+      b.type = 'button';
+      b.className = 'filter';
+      b.textContent = label;
+      b.setAttribute('aria-pressed', String(key === quizKind));
+      b.onclick = () => {
+        quizKind = key;
+        renderMenuKinds();
+        refreshReviewButtons();
+      };
+      return b;
+    }),
+  );
+}
+
+/** Questions of the current category, narrowed to the chosen kind. */
+function pool() {
+  return data().questions.filter((q) => quizKind === 'all' || q.kind === quizKind);
+}
+
+function reviewPool() {
+  const ids = new Set(loadReview(category.id));
+  return pool().filter((q) => ids.has(q.id));
 }
 
 function refreshReviewButtons() {
-  const ids = new Set(questions.map((q) => q.id));
-  const n = loadReview().filter((id) => ids.has(id)).length;
+  if (!datasets.has(category.id)) return;
+  const n = reviewPool().length;
   for (const b of [el.startReview, el.resultReview]) {
     b.disabled = n === 0;
     b.textContent = n ? `復習モード（${n}問）` : '復習モード';
@@ -79,15 +170,11 @@ function refreshReviewButtons() {
 }
 
 function startSet(m: Mode) {
-  let pool = questions;
-  if (m === 'review') {
-    const ids = new Set(loadReview());
-    pool = questions.filter((q) => ids.has(q.id));
-    // Everything has been cleared: fall back to a normal set.
-    if (!pool.length) [m, pool] = ['normal', questions];
-  }
+  let questions = m === 'review' ? reviewPool() : pool();
+  // Everything has been cleared: fall back to a normal set.
+  if (!questions.length) [m, questions] = ['normal', pool()];
   mode = m;
-  set = pickSet(pool);
+  set = pickSet(questions);
   if (!set.length) return;
   index = 0;
   results = [];
@@ -100,9 +187,11 @@ function startSet(m: Mode) {
 function showQuestion() {
   const q = set[index];
   selected = new Set();
-  el.progress.textContent = `${mode === 'review' ? '復習 ' : ''}${index + 1} / ${set.length}`;
+  el.progress.textContent = `${category.name}${mode === 'review' ? '（復習）' : ''} ${index + 1} / ${set.length}`;
   el.photo.src = q.image;
+  el.photo.alt = `${category.name}の写真`;
   el.lightboxImg.src = q.image;
+  el.prompt.replaceChildren(`この${category.name}が使われている国・地域を`, strong('すべて'), '選んでね');
   el.feedback.hidden = true;
   el.feedback.replaceChildren();
   el.legend.hidden = true;
@@ -117,6 +206,12 @@ function showQuestion() {
   renderChips();
   areaMap.showSelection(selected);
   areaMap.resetView();
+}
+
+function strong(text: string) {
+  const s = document.createElement('strong');
+  s.textContent = text;
+  return s;
 }
 
 function toggle(id: string) {
@@ -159,7 +254,7 @@ function submit() {
   const q = set[index];
   const v = judge(q, selected);
   results.push({ q, correct: v.correct });
-  updateReview(q.id, v.correct);
+  updateReview(category.id, q.id, v.correct);
 
   renderChips(v);
   el.legend.hidden = false;
@@ -191,7 +286,7 @@ function renderFeedback(q: Question, v: Verdict) {
   if (v.missed.length) mistakes.push(['選び忘れ', names(v.missed)]);
   if (v.wrong.length) mistakes.push(['違う国', names(v.wrong)]);
 
-  el.feedback.replaceChildren(verdict, ...renderBollardInfo(q, nameOf, mistakes));
+  el.feedback.replaceChildren(verdict, ...renderInfo(q, nameOf, data().kinds, mistakes));
 }
 
 function nextQuestion() {
@@ -202,7 +297,7 @@ function nextQuestion() {
 
 function showResult() {
   const n = results.filter((r) => r.correct).length;
-  el.resultTitle.textContent = `${set.length}問中 ${n}問 正解`;
+  el.resultTitle.textContent = `${category.name}: ${set.length}問中 ${n}問 正解`;
   el.resultList.replaceChildren(
     ...results.map(({ q, correct }) => {
       const li = document.createElement('li');
@@ -266,28 +361,33 @@ function pickFromSearch(id: string) {
 
 // ---------- boot ----------
 
+async function loadCategory(id: CategoryId) {
+  const r = await fetch(`data/${id}.json`);
+  // A category whose data hasn't been built yet is shown as "coming soon".
+  if (!r.ok) return;
+  datasets.set(id, await r.json());
+}
+
 async function boot() {
-  const [world, data] = await Promise.all([
+  const [world] = await Promise.all([
     fetch('data/world.geojson').then((r) => r.json()),
-    fetch('data/bollards.json').then((r) => r.json()),
+    ...CATEGORIES.map((c) => loadCategory(c.id).catch(() => {})),
   ]);
   geo = world;
   for (const f of geo.features) areas.set(f.properties.id, f.properties);
-  questions = data.questions;
   searchIndex = [...areas.values()].map((area) => ({
     area,
     keys: [normalize(area.name), normalize(area.nameEn)],
   }));
 
-  const startNormal = $<HTMLButtonElement>('start-normal');
-  startNormal.onclick = () => startSet('normal');
-  startNormal.disabled = false; // start-review is handled by refreshReviewButtons()
-
   catalog = new Catalog(
     {
+      title: $('catalog-title'),
       search: $<HTMLInputElement>('catalog-search'),
+      kinds: $('catalog-kinds'),
       continents: $('catalog-continents'),
       similar: $<HTMLInputElement>('catalog-similar'),
+      similarLabel: $('catalog-similar-label'),
       count: $('catalog-count'),
       list: $('catalog-list'),
       dialog: $<HTMLDialogElement>('detail'),
@@ -295,18 +395,17 @@ async function boot() {
       dialogTitle: $('detail-title'),
       dialogBody: $('detail-body'),
     },
-    data.guides,
-    questions,
     areas,
   );
-  const openCatalog = $<HTMLButtonElement>('open-catalog');
-  openCatalog.onclick = () => show('catalog');
-  openCatalog.disabled = false;
+
+  el.startNormal.onclick = () => startSet('normal');
   el.startReview.onclick = () => startSet('review');
+  $('open-catalog').onclick = () => show('catalog');
+  $('menu-back').onclick = () => show('top');
   $('again').onclick = () => startSet(mode);
   el.resultReview.onclick = () => startSet('review');
-  $('result-home').onclick = () => show('start');
-  $('home-button').onclick = () => show('start');
+  $('result-menu').onclick = () => show('menu');
+  $('home-button').onclick = () => show('top');
   el.answer.onclick = submit;
   el.next.onclick = nextQuestion;
   el.photoButton.onclick = () => (el.lightbox.hidden = false);
@@ -325,7 +424,7 @@ async function boot() {
     if (e.key === 'Escape') el.lightbox.hidden = true;
   });
 
-  show('start');
+  show('top');
 }
 
 boot().catch((e) => {

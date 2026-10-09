@@ -7,6 +7,8 @@ export interface Question {
   /** Areas that may be selected without making the answer wrong. */
   optional: string[];
   region: string | null;
+  /** Sub-type within the category (signs only). */
+  kind?: string;
   ja: string;
   en: string;
   source: string;
@@ -63,25 +65,36 @@ export function pickSet(pool: Question[], size = SET_SIZE): Question[] {
   return [...picked, ...rest].slice(0, size);
 }
 
-// --- review list (questions answered wrong), kept in localStorage ---
+// --- review list (questions answered wrong), kept in localStorage per category ---
 
-const REVIEW_KEY = 'bollard-guessr:review';
+const reviewKey = (category: string) => `bollard-guessr:review:${category}`;
 
-export function loadReview(): string[] {
+// Before categories existed, the bollard review list was stored without a suffix.
+try {
+  const legacy = localStorage.getItem('bollard-guessr:review');
+  if (legacy !== null) {
+    if (localStorage.getItem(reviewKey('bollard')) === null) localStorage.setItem(reviewKey('bollard'), legacy);
+    localStorage.removeItem('bollard-guessr:review');
+  }
+} catch {
+  // storage unavailable
+}
+
+export function loadReview(category: string): string[] {
   try {
-    const v = JSON.parse(localStorage.getItem(REVIEW_KEY) ?? '[]');
+    const v = JSON.parse(localStorage.getItem(reviewKey(category)) ?? '[]');
     return Array.isArray(v) ? v.filter((x) => typeof x === 'string') : [];
   } catch {
     return [];
   }
 }
 
-export function updateReview(id: string, correct: boolean): void {
-  const ids = new Set(loadReview());
+export function updateReview(category: string, id: string, correct: boolean): void {
+  const ids = new Set(loadReview(category));
   if (correct) ids.delete(id);
   else ids.add(id);
   try {
-    localStorage.setItem(REVIEW_KEY, JSON.stringify([...ids]));
+    localStorage.setItem(reviewKey(category), JSON.stringify([...ids]));
   } catch {
     // storage unavailable (private mode etc.): review just won't persist
   }
