@@ -1,7 +1,7 @@
 {
  "fetchedAt": "2026-10-09T13:51:53.506Z",
  "kinds": null,
- "pending": 374,
+ "pending": 339,
  "guides": [
   {
    "id": "united-states",
@@ -1118,6 +1118,426 @@
    "ja": "長い円筒形の銀色のポッサム除け。ニュージーランドのサウスランド地方の多くの電柱に付いている。",
    "en": "Many of the utility poles in Southland feature a **long cylindrical silver possum guard**. These are also more rarely found in western Otago.",
    "source": "https://www.plonkit.net/new-zealand"
+  },
+  {
+   "id": "new-zealand/NyjD",
+   "country": "new-zealand",
+   "image": "images/pole/new-zealand-NyjD.webp",
+   "required": [
+    "new-zealand"
+   ],
+   "optional": [],
+   "region": "サウスランド地方・オークランド周辺",
+   "ja": "穴の開いたコンクリートの電柱（ホーリーポール）。ニュージーランドのサウスランド地方とオークランド周辺で最も多い。",
+   "en": "**Holey poles** are found most commonly in Southland and around Auckland.",
+   "source": "https://www.plonkit.net/new-zealand"
+  },
+  {
+   "id": "new-zealand/NrdM",
+   "country": "new-zealand",
+   "image": "images/pole/new-zealand-NrdM.webp",
+   "required": [
+    "new-zealand"
+   ],
+   "optional": [],
+   "region": "サウスランド地方など",
+   "ja": "ふつうのくぼみがない四角いコンクリートの電柱。ニュージーランドのサウスランド地方で最も多く、オタゴ、タラナキ、マナワツ・ワンガヌイにもある。",
+   "en": "**Square concrete poles **without the usual indent are most common in Southland, but can also be found in Otago, Taranaki and Manawatū-Whanganui.",
+   "source": "https://www.plonkit.net/new-zealand"
+  },
+  {
+   "id": "new-zealand/eYDd",
+   "country": "new-zealand",
+   "image": "images/pole/new-zealand-eYDd.webp",
+   "required": [
+    "new-zealand"
+   ],
+   "optional": [],
+   "region": "ワイカト地方",
+   "ja": "真ん中の碍子が高い金属の棒の上に付いた電柱。ニュージーランドのオークランドとワイカトの境やワイカト地方でよく見られる。",
+   "en": "Poles with the middle insulator being installed on top of a **tall metal bar** are often found along the Auckland Waikato border, as well as in other parts of Waikato.\nNOTE: Insulators installed on significantly [shorter vertical bars](https://maps.app.goo.gl/ka3aMJFraGfTTKWT9) are rarer and can be found all across the country.",
+   "source": "https://www.plonkit.net/new-zealand"
+  },
+  {
+   "id": "new-zealand/2dwa",
+   "country": "new-zealand",
+   "image": "images/pole/new-zealand-2dwa.webp",
+   "required": [
+    "new-zealand"
+   ],
+   "optional": [],
+   "region": "ワイカト地方東部・ワンガヌイなど",
+   "ja": "木の腕木の真ん中が白く塗られたコンクリートの電柱。ニュージーランドのワイカト地方東部やワンガヌイで見られる。",
+   "en": "Some concrete poles in eastern Waikato and Whanganui city have **white paint** on the middle part of their wooden crossbars. This white painted crossbar can also be found in parts of western Bay of Plenty, Taranaki, Manawatū-Whanganui and eastern Wellington.",
+   "source": "https://www.plonkit.net/new-zealand"
+  },
+  {
+   "id": "new-zealand/pIF3",
+   "country": "new-zealand",
+   "image": "images/pole/new-zealand-pIF3.webp",
+   "required": [
+    "new-zealand"
+   ],
+   "optional": [],
+   "region": "ギズボーン",
+   "ja": "牛の耳標のような黄色いタグ。ニュージーランドのギズボーンのほとんどの電柱に付いている。",
+   "en": "A **yellow tag**, similar in appearance to a cow-tag, is found on most poles in Gisborne. It is also found in a few spots on the South Island, as well as over the border in northern Hawke’s Bay.",
+   "source": "https://www.plonkit.net/new-zealand"
+  },
+  {
+   "id": "new-zealand/dIFU",
+   "country": "new-zealand",
+   "image": "images/pole/new-zealand-dIFU.webp",
+   "required": [
+    "new-zealand"
+   ],
+   "optional": [],
+   "region": "ホークスベイ・タウポ〜ロトルアなど",
+   "ja": "2つの白い長方形の間に黄色い危険の三角形が入った警告ステッカー。ニュージーランドのホークスベイ、タウポ湖からロトルア湖、ワイカト北部などで見られる。",
+   "en": "A warning sticker attached to poles, which has a **yellow danger triangle between** **two white rectangles**, is found in Hawke’s Bay, from lake Taupo to lake Rotorua, in northern Waikato and south of Auckland city.",
+   "source": "https://www.plonkit.net/new-zealand"
+  },
+  {
+   "id": "new-zealand/rFlV",
+   "country": "new-zealand",
+   "image": "images/pole/new-zealand-rFlV.webp",
+   "required": [
+    "new-zealand"
+   ],
+   "optional": [],
+   "region": "ウェストコースト・タスマン・カンタベリー南部・ノースランド南部",
+   "ja": "5桁の数字が書かれた中くらいの黒い縦長のステッカー。ニュージーランドのウェストコースト、タスマン、カンタベリー南部、ノースランド南部で見られる。",
+   "en": "A medium sized **black vertical** **sticker** with **5 digits** is found in West Coast, Tasman, southern Canterbury and southern Northland.",
+   "source": "https://www.plonkit.net/new-zealand"
+  },
+  {
+   "id": "new-zealand/Wlc1",
+   "country": "new-zealand",
+   "image": "images/pole/new-zealand-Wlc1.webp",
+   "required": [
+    "new-zealand"
+   ],
+   "optional": [],
+   "region": "ティマル周辺",
+   "ja": "「DANGER LIVE WIRES」と書かれた縦長のオレンジ色の塗装。ニュージーランドのティマル周辺の電柱に多い。",
+   "en": "Poles near Timaru often have a **tall rectangle of** **orange paint** on them with the text “DANGER LIVE WIRES”.",
+   "source": "https://www.plonkit.net/new-zealand"
+  },
+  {
+   "id": "new-zealand/Z6C1",
+   "country": "new-zealand",
+   "image": "images/pole/new-zealand-Z6C1.webp",
+   "required": [
+    "new-zealand"
+   ],
+   "optional": [],
+   "region": "タラナキ・ウェリントン",
+   "ja": "数字が書かれた小さな黒い横長のステッカー。ニュージーランドのタラナキやウェリントンでよく見られる。",
+   "en": "A **small black horizontal pole sticker**, with several numbers, is often found in Taranaki and Wellington. The sticker may rarely be found in parts of Manawatū-Whanganui, Waikato, and southern Hawke's Bay.",
+   "source": "https://www.plonkit.net/new-zealand"
+  },
+  {
+   "id": "new-zealand/XoPE",
+   "country": "new-zealand",
+   "image": "images/pole/new-zealand-XoPE.webp",
+   "required": [
+    "new-zealand"
+   ],
+   "optional": [],
+   "region": "北島の一部",
+   "ja": "数字が書かれた小さな白い横長のステッカー（角が丸くないもの）。ニュージーランド北島の一部で見られる。角が丸いものは全国にある。",
+   "en": "Similarly, a **small white horizontal pole sticker** with several numbers is found in several parts of the North Island.\nNOTE: The edges of the plate must be straight, meaning they cannot be rounded. Rounded plates are seen [all across the country](https://maps.app.goo.gl/YSsMro3M3HUAyV6t7).",
+   "source": "https://www.plonkit.net/new-zealand"
+  },
+  {
+   "id": "new-zealand/SVyX",
+   "country": "new-zealand",
+   "image": "images/pole/new-zealand-SVyX.webp",
+   "required": [
+    "new-zealand"
+   ],
+   "optional": [],
+   "region": "オタゴ半島",
+   "ja": "腕木が中心からずれた電柱。ニュージーランドのオタゴ半島でよく見られる。",
+   "en": "The Otago peninsula east of Dunedin is recognizable from its combination of plants such as [cabbage trees](https://en.wikipedia.org/wiki/Cordyline_australis), [yellow flowered bushes](https://en.wikipedia.org/wiki/Ulex_europaeus), small groves of [cone-shaped pine trees](https://maps.app.goo.gl/62xUM4q8p2f4hsad7), and [New Zealand flax](https://en.wikipedia.org/wiki/Phormium_tenax). Additionally, the peninsula’s poles often have [off-centre crossbars](https://maps.app.goo.gl/twAx6yizxoiVJ3rm6).",
+   "source": "https://www.plonkit.net/new-zealand"
+  },
+  {
+   "id": "argentina/97t1",
+   "country": "argentina",
+   "image": "images/pole/argentina-97t1.webp",
+   "required": [
+    "argentina"
+   ],
+   "optional": [
+    "bolivia"
+   ],
+   "region": null,
+   "ja": "3本の電線を互い違いに支える丸いコンクリートの電柱は、アルゼンチンでとても多い。2本並んだ電柱もアルゼンチンのよい手がかり（ボリビアにもときどきある）。",
+   "en": "Round concrete poles sustaining three electricity lines in an **alternating pattern** are very common in Argentina.\n**Doubled up poles** like in the second image is also a good clue for Argentina.\nNOTE: Similar doubled concrete poles can occasionally be found throughout [Bolivia](https://goo.gl/maps/9soPnAuBufSD1GmH7).",
+   "source": "https://www.plonkit.net/argentina"
+  },
+  {
+   "id": "argentina/ouvs",
+   "country": "argentina",
+   "image": "images/pole/argentina-ouvs.webp",
+   "required": [
+    "argentina"
+   ],
+   "optional": [],
+   "region": null,
+   "ja": "アルゼンチンでは木の電柱もわりとよくある。A字形の木の電柱は、南アメリカではアルゼンチンだけ。",
+   "en": "Wooden poles are somewhat common in Argentina, they can be found either with a crossbar or without.\nNOTE: Wooden A-frame poles in South America are only found in Argentina.",
+   "source": "https://www.plonkit.net/argentina"
+  },
+  {
+   "id": "argentina/XFL6",
+   "country": "argentina",
+   "image": "images/pole/argentina-XFL6.webp",
+   "required": [
+    "argentina"
+   ],
+   "optional": [],
+   "region": "ラ・リオハ州・メンドーサ州",
+   "ja": "ラトビアにあるようなフック付きの木の電柱。アルゼンチンではラ・リオハ州とメンドーサ州だけで見られる。",
+   "en": "Within Argentina, these Latvian style **wooden** hook poles are unique to La Rioja and Mendoza.",
+   "source": "https://www.plonkit.net/argentina"
+  },
+  {
+   "id": "argentina/NUPv",
+   "country": "argentina",
+   "image": "images/pole/argentina-NUPv.webp",
+   "required": [
+    "argentina"
+   ],
+   "optional": [],
+   "region": "メンドーサ州",
+   "ja": "碍子が1つだけ電柱の横に付いた電柱。アルゼンチンのメンドーサ州で見られる。",
+   "en": "In Mendoza, poles with a **single insulator **attached to the side of the pole can be found.",
+   "source": "https://www.plonkit.net/argentina"
+  },
+  {
+   "id": "argentina/i6k7",
+   "country": "argentina",
+   "image": "images/pole/argentina-i6k7.webp",
+   "required": [
+    "argentina"
+   ],
+   "optional": [],
+   "region": "トゥクマン州",
+   "ja": "数字が書かれた白い縦長のステッカー。アルゼンチンのトゥクマン州で見られる。",
+   "en": "**White** **vertical pole stickers** with several **digits** can be found in Tucumán.",
+   "source": "https://www.plonkit.net/argentina"
+  },
+  {
+   "id": "bolivia/eNja",
+   "country": "bolivia",
+   "image": "images/pole/bolivia-eNja.webp",
+   "required": [
+    "bolivia"
+   ],
+   "optional": [],
+   "region": null,
+   "ja": "ボリビアでは、てっぺん近くに小さな穴がある丸いコンクリートの電柱と、木の電柱の2種類が多い。ただし電柱はかなりばらばらなので、頼りすぎないように。",
+   "en": "Two types of **utility poles** are common in Bolivia:\n- Round concrete poles, often with small pinholes near the top.\n- Wooden poles.\nPoles in Bolivia are very inconsistent and should not be relied on too much. Poles can have a variety of pole tops. On rare occasions, you can find [Argentina-style concrete poles](https://goo.gl/maps/UythNAbXVFHvDYp56).",
+   "source": "https://www.plonkit.net/bolivia"
+  },
+  {
+   "id": "bolivia/qTVY",
+   "country": "bolivia",
+   "image": "images/pole/bolivia-qTVY.webp",
+   "required": [
+    "bolivia"
+   ],
+   "optional": [],
+   "region": null,
+   "ja": "ボリビアの東部では、その土地の木の幹をそのまま使ったような、ぐねぐね曲がった木の電柱が多い。極端に曲がった電柱はボリビアのよい手がかり。",
+   "en": "Many wooden utility poles, particularly in the eastern parts of Bolivia’s Street View coverage, are noticeably **curvy **and look like they are made from locally sourced tree trunks.\nNOTE: While you may see slightly bent poles in other places, extremely curvy poles are a very good clue for Bolivia.",
+   "source": "https://www.plonkit.net/bolivia"
+  },
+  {
+   "id": "chile/y9xj",
+   "country": "chile",
+   "image": "images/pole/chile-y9xj.webp",
+   "required": [
+    "chile"
+   ],
+   "optional": [
+    "brazil"
+   ],
+   "region": null,
+   "ja": "チリの電柱は、両側にくぼみがある四角いコンクリート製。ブラジルのものに似ているが、くぼみの中の横の補強が少ない。上部には小さな穴がある。木の電柱もわりと多い。",
+   "en": "Chile uses square concrete poles with an **indent** on both sides. They are somewhat similar to Brazilian poles, however have fewer horizontal supports in the indent. The upper part typically has small pinholes.\nWooden poles are also fairly common.",
+   "source": "https://www.plonkit.net/chile"
+  },
+  {
+   "id": "chile/PgUw",
+   "country": "chile",
+   "image": "images/pole/chile-PgUw.webp",
+   "required": [
+    "chile"
+   ],
+   "optional": [],
+   "region": "アリカ（アタカマ砂漠の都市）",
+   "ja": "白い塗装に黒い番号の電柱はチリのアリカのもの。アタカマ砂漠のほかの都市では黄色い塗装。",
+   "en": "Poles in Arica feature **white** paint with a black number, while the other cities in the Atacama Desert feature poles with [**yellow**](https://goo.gl/maps/xfQm8JHGpC6VCDR47) paint. Keep in mind the paint may have faded, making it look white.",
+   "source": "https://www.plonkit.net/chile"
+  },
+  {
+   "id": "chile/YLxR",
+   "country": "chile",
+   "image": "images/pole/chile-YLxR.webp",
+   "required": [
+    "chile"
+   ],
+   "optional": [],
+   "region": "エル・サルバドール",
+   "ja": "黒く塗られた丸い電柱。チリのエル・サルバドールの町で見られる。",
+   "en": "**Round** poles with black paint can be seen in the town of El Salvador.",
+   "source": "https://www.plonkit.net/chile"
+  },
+  {
+   "id": "brazil/YM9a",
+   "country": "brazil",
+   "image": "images/pole/brazil-YM9a.webp",
+   "required": [
+    "brazil"
+   ],
+   "optional": [],
+   "region": null,
+   "ja": "ブラジルで最も多い電柱は、下のほうがはしごのように見える長方形のコンクリート製で、上部に小さな穴がある。パラグアイにも似た電柱がある。",
+   "en": "The most common poles in Brazil have some resemblance to a **ladder **in the bottom portion. They are rectangular, have long segments running through the bottom, and small holes near the top.\nNOTE: Paraguay uses similar poles.",
+   "source": "https://www.plonkit.net/brazil"
+  },
+  {
+   "id": "brazil/P82L",
+   "country": "brazil",
+   "image": "images/pole/brazil-P82L.webp",
+   "required": [
+    "brazil"
+   ],
+   "optional": [],
+   "region": "トカンチンス州・サンタカタリーナ州・ミナスジェライス州",
+   "ja": "支えが1本の電柱。ブラジルのトカンチンス州、サンタカタリーナ州、ミナスジェライス州で最も多い。",
+   "en": "Poles with a **single support **are most commonly found in the states of Tocantins, Santa Catarina, and Minas Gerais.",
+   "source": "https://www.plonkit.net/brazil"
+  },
+  {
+   "id": "brazil/GWCv",
+   "country": "brazil",
+   "image": "images/pole/brazil-GWCv.webp",
+   "required": [
+    "brazil"
+   ],
+   "optional": [],
+   "region": "バイーア州・ペルナンブーコ州",
+   "ja": "黒い番号が入った長い黄色の塗装（電柱番号）。番号がアルファベットで始まるものは、ブラジルのバイーア州とペルナンブーコ州。",
+   "en": "Markings on poles are used by the electricity companies to identify them. This pole ID is **long**, **yellow** **pole paint **with a black code. The ones that start with a letter are found in Bahia and Pernambuco.",
+   "source": "https://www.plonkit.net/brazil"
+  },
+  {
+   "id": "brazil/iKjV",
+   "country": "brazil",
+   "image": "images/pole/brazil-iKjV.webp",
+   "required": [
+    "brazil"
+   ],
+   "optional": [],
+   "region": "ゴイアス州",
+   "ja": "黒い番号が入った長い黄色の塗装で、番号が必ず数字で始まる。ブラジルのゴイアス州のもの。",
+   "en": "Similar to the Bahia and Pernambuco poles, Goiás poles also use **long, yellow pole paint **with a black paint code, but it always starts with a number. They also have a rarer yellow on black pole ID, which can be either paint or a plate.",
+   "source": "https://www.plonkit.net/brazil"
+  },
+  {
+   "id": "brazil/PA88",
+   "country": "brazil",
+   "image": "images/pole/brazil-PA88.webp",
+   "required": [
+    "brazil"
+   ],
+   "optional": [],
+   "region": "リオグランデ・ド・ノルテ州・ペルナンブーコ州",
+   "ja": "細い金属や結束バンドで留められた小さな黄色やオレンジの番号プレート。ブラジルのリオグランデ・ド・ノルテ州とペルナンブーコ州で見られる。",
+   "en": "This **small yellow or orange plate** attached onto the pole by thin metal or zip tie is found in Rio Grande do Norte and Pernambuco. This ID is usually much higher up the pole in Pernambuco than in Rio Grande do Norte.",
+   "source": "https://www.plonkit.net/brazil"
+  },
+  {
+   "id": "brazil/zZ1A",
+   "country": "brazil",
+   "image": "images/pole/brazil-zZ1A.webp",
+   "required": [
+    "brazil"
+   ],
+   "optional": [],
+   "region": "パラナ州",
+   "ja": "黒い塗装に黄色や白の文字の電柱番号。ブラジルのパラナ州で多い。",
+   "en": "Pole IDs in Paraná are usually made up of **black paint** and yellow or white painted text.",
+   "source": "https://www.plonkit.net/brazil"
+  },
+  {
+   "id": "brazil/kO6H",
+   "country": "brazil",
+   "image": "images/pole/brazil-kO6H.webp",
+   "required": [
+    "brazil"
+   ],
+   "optional": [],
+   "region": "マラニョン州",
+   "ja": "数字が埋め込まれた小さなベージュのプレート。ブラジルのマラニョン州のほとんどの電柱に付いている。",
+   "en": "Most poles in Maranhão have a **small beige plate with numbers** built into the surface of the pole. This pole ID can be found in Pará and Piauí more rarely.",
+   "source": "https://www.plonkit.net/brazil"
+  },
+  {
+   "id": "brazil/UO4B",
+   "country": "brazil",
+   "image": "images/pole/brazil-UO4B.webp",
+   "required": [
+    "brazil"
+   ],
+   "optional": [],
+   "region": "パラナ州",
+   "ja": "交差点の電柱に道路名が塗られていることがある。ブラジルのパラナ州で見られる。",
+   "en": "Utility poles in Paraná on intersections are sometimes **painted with the street name**. This can sometimes extend to Santa Catarina or Rio Grande do Sul if there are ladder poles in the city.",
+   "source": "https://www.plonkit.net/brazil"
+  },
+  {
+   "id": "brazil/6v5Y",
+   "country": "brazil",
+   "image": "images/pole/brazil-6v5Y.webp",
+   "required": [
+    "brazil"
+   ],
+   "optional": [],
+   "region": "サンパウロ州など",
+   "ja": "左右非対称の腕木と、その長い側の真ん中まで伸びる支えがある電柱のてっぺん。ブラジルのサンパウロ州で最も多い。",
+   "en": "This poletop, consisting of an **asymmetrical crossbar** and a **support** reaching to the middle of the longer** **part of the crossbar, is the most common poletop in the state of São Paulo. It can also be frequently seen in the states of Rio Grande do Sul, Rio de Janeiro and Mato Grosso do Sul.",
+   "source": "https://www.plonkit.net/brazil"
+  },
+  {
+   "id": "brazil/u4vX",
+   "country": "brazil",
+   "image": "images/pole/brazil-u4vX.webp",
+   "required": [
+    "brazil"
+   ],
+   "optional": [],
+   "region": "セアラー州・ロンドニア州",
+   "ja": "支えのない左右非対称の腕木。ブラジルのセアラー州とロンドニア州だけで見られる。",
+   "en": "This **asymmetrical** **crossbar** with **no supports** is exclusive to Ceara and Rondonia.\nNOTE: While the crossbar in Ceara is usually made of concrete, the [Rondonian variation](https://maps.app.goo.gl/nXUtLu6sWXvN4zfF8) features a metal crossbar, and is far less common.",
+   "source": "https://www.plonkit.net/brazil"
+  },
+  {
+   "id": "brazil/VBQt",
+   "country": "brazil",
+   "image": "images/pole/brazil-VBQt.webp",
+   "required": [
+    "brazil"
+   ],
+   "optional": [],
+   "region": "セアラー州・ロライマ州",
+   "ja": "平らな腕木の上にジグザグの棒が乗った電柱。ブラジルのセアラー州とロライマ州だけで見られ、ふつうの電柱よりずっと大きい。",
+   "en": "This pole configuration, featuring a zigzag-shaped top bar resting atop a flat crossbar, is exclusive to Ceara and Roraima. The pole is usually much larger than a regular electricity pole.",
+   "source": "https://www.plonkit.net/brazil"
   }
  ]
 }

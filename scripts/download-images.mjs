@@ -23,15 +23,27 @@ const HEADERS = {
 };
 
 const categories = process.argv.slice(2).length ? process.argv.slice(2) : Object.keys(CATEGORIES);
-const urls = [];
+
+// Downloads are slow (the server allows a few dozen images per hour), so the
+// order matters: take one image per country and category in turn, so that
+// every country gets some questions early instead of finishing one country
+// after another.
+const queues = []; // one queue of image URLs per category + country
 for (const cat of categories) {
   const raw = JSON.parse(fs.readFileSync(path.join(ROOT, 'data', 'raw', `${cat}.json`), 'utf8'));
   const curationFile = path.join(ROOT, 'data', 'curation', `${cat}.json`);
   const curation = fs.existsSync(curationFile) ? JSON.parse(fs.readFileSync(curationFile, 'utf8')) : {};
+  const byCountry = new Map();
   for (const item of raw.items) {
     if (curation[item.id]?.exclude) continue;
-    if (!urls.includes(item.imageUrl)) urls.push(item.imageUrl);
+    if (!byCountry.has(item.country)) byCountry.set(item.country, []);
+    byCountry.get(item.country).push(item.imageUrl);
   }
+  queues.push(...byCountry.values());
+}
+const urls = [];
+for (let round = 0; queues.some((q) => q.length > round); round++) {
+  for (const q of queues) if (q[round] && !urls.includes(q[round])) urls.push(q[round]);
 }
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
