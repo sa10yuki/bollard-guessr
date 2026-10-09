@@ -100,7 +100,9 @@ function renderGenres() {
       const name = document.createElement('strong');
       name.textContent = c.name;
       const desc = document.createElement('small');
-      desc.textContent = d?.questions.length ? `${c.description}・${d.questions.length}問` : '準備中';
+      desc.textContent = d?.questions.length
+        ? `${c.description}・${d.questions.length}問${d.pending ? '（追加中）' : ''}`
+        : '準備中';
       b.append(icon, name, desc);
       b.onclick = () => openMenu(c);
       li.append(b);

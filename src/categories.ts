@@ -12,6 +12,8 @@ export interface Guide {
 export interface CategoryData {
   /** Sub-types (signs only): key -> Japanese label. */
   kinds: Record<string, string> | null;
+  /** Items still waiting for image review (more questions are coming). */
+  pending?: number;
   guides: Guide[];
   questions: Question[];
 }

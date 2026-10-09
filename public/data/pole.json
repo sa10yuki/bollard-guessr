@@ -1,0 +1,1123 @@
+{
+ "fetchedAt": "2026-10-09T13:51:53.506Z",
+ "kinds": null,
+ "pending": 374,
+ "guides": [
+  {
+   "id": "united-states",
+   "continent": "North America"
+  },
+  {
+   "id": "botswana",
+   "continent": "Africa"
+  },
+  {
+   "id": "egypt",
+   "continent": "Africa"
+  },
+  {
+   "id": "eswatini",
+   "continent": "Africa"
+  },
+  {
+   "id": "ghana",
+   "continent": "Africa"
+  },
+  {
+   "id": "kenya",
+   "continent": "Africa"
+  },
+  {
+   "id": "lesotho",
+   "continent": "Africa"
+  },
+  {
+   "id": "madagascar",
+   "continent": "Africa"
+  },
+  {
+   "id": "mali",
+   "continent": "Africa"
+  },
+  {
+   "id": "namibia",
+   "continent": "Africa"
+  },
+  {
+   "id": "reunion",
+   "continent": "Africa"
+  },
+  {
+   "id": "sao-tome-and-principe",
+   "continent": "Africa"
+  },
+  {
+   "id": "senegal",
+   "continent": "Africa"
+  },
+  {
+   "id": "south-africa",
+   "continent": "Africa"
+  },
+  {
+   "id": "tanzania",
+   "continent": "Africa"
+  },
+  {
+   "id": "tunisia",
+   "continent": "Africa"
+  },
+  {
+   "id": "nigeria",
+   "continent": "Africa"
+  },
+  {
+   "id": "uganda",
+   "continent": "Africa"
+  },
+  {
+   "id": "antarctica",
+   "continent": "Antarctica"
+  },
+  {
+   "id": "south-georgia-sandwich-islands",
+   "continent": "South America"
+  },
+  {
+   "id": "american-samoa",
+   "continent": "Oceania"
+  },
+  {
+   "id": "christmas-island",
+   "continent": "Oceania"
+  },
+  {
+   "id": "cocos-islands",
+   "continent": "Oceania"
+  },
+  {
+   "id": "guam",
+   "continent": "Oceania"
+  },
+  {
+   "id": "northern-mariana-islands",
+   "continent": "Oceania"
+  },
+  {
+   "id": "australia",
+   "continent": "Oceania"
+  },
+  {
+   "id": "pitcairn-islands",
+   "continent": "Oceania"
+  },
+  {
+   "id": "vanuatu",
+   "continent": "Oceania"
+  },
+  {
+   "id": "new-zealand",
+   "continent": "Oceania"
+  },
+  {
+   "id": "argentina",
+   "continent": "South America"
+  },
+  {
+   "id": "bolivia",
+   "continent": "South America"
+  },
+  {
+   "id": "chile",
+   "continent": "South America"
+  },
+  {
+   "id": "brazil",
+   "continent": "South America"
+  },
+  {
+   "id": "curacao",
+   "continent": "South America"
+  },
+  {
+   "id": "colombia",
+   "continent": "South America"
+  },
+  {
+   "id": "falkland-islands",
+   "continent": "South America"
+  },
+  {
+   "id": "ecuador",
+   "continent": "South America"
+  },
+  {
+   "id": "peru",
+   "continent": "South America"
+  },
+  {
+   "id": "uruguay",
+   "continent": "South America"
+  },
+  {
+   "id": "bermuda",
+   "continent": "North America"
+  },
+  {
+   "id": "alaska",
+   "continent": "North America"
+  },
+  {
+   "id": "dominican-republic",
+   "continent": "North America"
+  },
+  {
+   "id": "costa-rica",
+   "continent": "North America"
+  },
+  {
+   "id": "martinique",
+   "continent": "North America"
+  },
+  {
+   "id": "guatemala",
+   "continent": "North America"
+  },
+  {
+   "id": "hawaii",
+   "continent": "North America"
+  },
+  {
+   "id": "puerto-rico",
+   "continent": "North America"
+  },
+  {
+   "id": "saint-pierre-and-miquelon",
+   "continent": "North America"
+  },
+  {
+   "id": "us-minor-outlying-islands",
+   "continent": "North America"
+  },
+  {
+   "id": "panama",
+   "continent": "North America"
+  },
+  {
+   "id": "canada",
+   "continent": "North America"
+  },
+  {
+   "id": "us-virgin-islands",
+   "continent": "North America"
+  },
+  {
+   "id": "greenland",
+   "continent": "North America"
+  },
+  {
+   "id": "british-indian-ocean-territory",
+   "continent": "Asia"
+  },
+  {
+   "id": "bhutan",
+   "continent": "Asia"
+  },
+  {
+   "id": "china",
+   "continent": "Asia"
+  },
+  {
+   "id": "bangladesh",
+   "continent": "Asia"
+  },
+  {
+   "id": "iraq",
+   "continent": "Asia"
+  },
+  {
+   "id": "cambodia",
+   "continent": "Asia"
+  },
+  {
+   "id": "hong-kong",
+   "continent": "Asia"
+  },
+  {
+   "id": "jordan",
+   "continent": "Asia"
+  },
+  {
+   "id": "laos",
+   "continent": "Asia"
+  },
+  {
+   "id": "israel-west-bank",
+   "continent": "Asia"
+  },
+  {
+   "id": "kazakhstan",
+   "continent": "Asia"
+  },
+  {
+   "id": "japan",
+   "continent": "Asia"
+  },
+  {
+   "id": "kyrgyzstan",
+   "continent": "Asia"
+  },
+  {
+   "id": "macau",
+   "continent": "Asia"
+  },
+  {
+   "id": "malaysia",
+   "continent": "Asia"
+  },
+  {
+   "id": "singapore",
+   "continent": "Asia"
+  },
+  {
+   "id": "pakistan",
+   "continent": "Asia"
+  },
+  {
+   "id": "south-korea",
+   "continent": "Asia"
+  },
+  {
+   "id": "qatar",
+   "continent": "Asia"
+  },
+  {
+   "id": "philippines",
+   "continent": "Asia"
+  },
+  {
+   "id": "sri-lanka",
+   "continent": "Asia"
+  },
+  {
+   "id": "mongolia",
+   "continent": "Asia"
+  },
+  {
+   "id": "oman",
+   "continent": "Asia"
+  },
+  {
+   "id": "united-arab-emirates",
+   "continent": "Asia"
+  },
+  {
+   "id": "nepal",
+   "continent": "Asia"
+  },
+  {
+   "id": "taiwan",
+   "continent": "Asia"
+  },
+  {
+   "id": "turkey",
+   "continent": "Europe"
+  },
+  {
+   "id": "thailand",
+   "continent": "Asia"
+  },
+  {
+   "id": "andorra",
+   "continent": "Europe"
+  },
+  {
+   "id": "belarus",
+   "continent": "Europe"
+  },
+  {
+   "id": "azores",
+   "continent": "Europe"
+  },
+  {
+   "id": "albania",
+   "continent": "Europe"
+  },
+  {
+   "id": "austria",
+   "continent": "Europe"
+  },
+  {
+   "id": "croatia",
+   "continent": "Europe"
+  },
+  {
+   "id": "bulgaria",
+   "continent": "Europe"
+  },
+  {
+   "id": "denmark",
+   "continent": "Europe"
+  },
+  {
+   "id": "estonia",
+   "continent": "Europe"
+  },
+  {
+   "id": "czechia",
+   "continent": "Europe"
+  },
+  {
+   "id": "faroe-islands",
+   "continent": "Europe"
+  },
+  {
+   "id": "gibraltar",
+   "continent": "Europe"
+  },
+  {
+   "id": "finland",
+   "continent": "Europe"
+  },
+  {
+   "id": "hungary",
+   "continent": "Europe"
+  },
+  {
+   "id": "greece",
+   "continent": "Europe"
+  },
+  {
+   "id": "iceland",
+   "continent": "Europe"
+  },
+  {
+   "id": "germany",
+   "continent": "Europe"
+  },
+  {
+   "id": "france",
+   "continent": "Europe"
+  },
+  {
+   "id": "cyprus",
+   "continent": "Europe"
+  },
+  {
+   "id": "isle-of-man",
+   "continent": "Europe"
+  },
+  {
+   "id": "ireland",
+   "continent": "Europe"
+  },
+  {
+   "id": "jersey",
+   "continent": "Europe"
+  },
+  {
+   "id": "latvia",
+   "continent": "Europe"
+  },
+  {
+   "id": "liechtenstein",
+   "continent": "Europe"
+  },
+  {
+   "id": "lithuania",
+   "continent": "Europe"
+  },
+  {
+   "id": "luxembourg",
+   "continent": "Europe"
+  },
+  {
+   "id": "italy",
+   "continent": "Europe"
+  },
+  {
+   "id": "monaco",
+   "continent": "Europe"
+  },
+  {
+   "id": "malta",
+   "continent": "Europe"
+  },
+  {
+   "id": "montenegro",
+   "continent": "Europe"
+  },
+  {
+   "id": "madeira",
+   "continent": "Europe"
+  },
+  {
+   "id": "north-macedonia",
+   "continent": "Europe"
+  },
+  {
+   "id": "poland",
+   "continent": "Europe"
+  },
+  {
+   "id": "netherlands",
+   "continent": "Europe"
+  },
+  {
+   "id": "portugal",
+   "continent": "Europe"
+  },
+  {
+   "id": "norway",
+   "continent": "Europe"
+  },
+  {
+   "id": "india",
+   "continent": "Asia"
+  },
+  {
+   "id": "mexico",
+   "continent": "North America"
+  },
+  {
+   "id": "san-marino",
+   "continent": "Europe"
+  },
+  {
+   "id": "serbia",
+   "continent": "Europe"
+  },
+  {
+   "id": "romania",
+   "continent": "Europe"
+  },
+  {
+   "id": "slovenia",
+   "continent": "Europe"
+  },
+  {
+   "id": "svalbard",
+   "continent": "Europe"
+  },
+  {
+   "id": "slovakia",
+   "continent": "Europe"
+  },
+  {
+   "id": "switzerland",
+   "continent": "Europe"
+  },
+  {
+   "id": "ukraine",
+   "continent": "Europe"
+  },
+  {
+   "id": "russia",
+   "continent": "Europe"
+  },
+  {
+   "id": "united-kingdom",
+   "continent": "Europe"
+  },
+  {
+   "id": "spain",
+   "continent": "Europe"
+  },
+  {
+   "id": "sweden",
+   "continent": "Europe"
+  },
+  {
+   "id": "indonesia",
+   "continent": "Asia"
+  },
+  {
+   "id": "belgium",
+   "continent": "Europe"
+  },
+  {
+   "id": "rwanda",
+   "continent": "Africa"
+  },
+  {
+   "id": "lebanon",
+   "continent": "Asia"
+  },
+  {
+   "id": "vietnam",
+   "continent": "Asia"
+  }
+ ],
+ "questions": [
+  {
+   "id": "united-states/wUyE",
+   "country": "united-states",
+   "image": "images/pole/united-states-wUyE.webp",
+   "required": [
+    "united-states",
+    "canada"
+   ],
+   "optional": [
+    "alaska",
+    "hawaii"
+   ],
+   "region": null,
+   "ja": "北アメリカは主に木の電柱。アメリカとカナダの電柱には、金属の大きな円筒形のトランス（変圧器）が付いているのが特徴で、ヨーロッパでは見られない。",
+   "en": "North America primarily uses **wooden utility poles**. \nSeveral European countries also primarily use wooden utility poles. However, a concrete pole in particular is mostly associated with Europe.\nIn addition, the US and Canada use transformers that are **large metallic cylinders**. This will never be seen in European countries.",
+   "source": "https://www.plonkit.net/united-states"
+  },
+  {
+   "id": "united-states/ggsD",
+   "country": "united-states",
+   "image": "images/pole/united-states-ggsD.webp",
+   "required": [
+    "united-states",
+    "canada"
+   ],
+   "optional": [
+    "alaska",
+    "hawaii"
+   ],
+   "region": null,
+   "ja": "電柱のてっぺんから少し持ち上がった位置に付いた碍子（がいし）。アメリカとカナダの手がかりになり、ヨーロッパではあまり見ない。碍子が1つだけのシンプルな電柱で特にわかりやすい。",
+   "en": "This style of **insulator**, which is raised slightly **on top** of the utility pole, can be a good clue for the US and Canada. It is not typically found in Europe. It is especially apparent on simple poles with a single insulator.",
+   "source": "https://www.plonkit.net/united-states"
+  },
+  {
+   "id": "united-states/tVFe",
+   "country": "united-states",
+   "image": "images/pole/united-states-tVFe.webp",
+   "required": [
+    "united-states"
+   ],
+   "optional": [],
+   "region": "カリフォルニア州（オレゴン州グランツパスにも）",
+   "ja": "根元に3本の黄色い線が入った電柱。カリフォルニア州のほぼ全域で見られる（北東部のモドック郡・ラッセン郡は例外）。オレゴン州のグランツパスにもある。",
+   "en": "Utility poles in most of California have markings at the bottom of the pole that consist of **3 yellow stripes**. Modoc County and Lassen County in the Northeast of the state are the main exceptions.\nThis design can also be found in the city of [Grants Pass, Oregon](https://maps.app.goo.gl/NQuKzUpPAgSQFZos6).",
+   "source": "https://www.plonkit.net/united-states"
+  },
+  {
+   "id": "united-states/R1je",
+   "country": "united-states",
+   "image": "images/pole/united-states-R1je.webp",
+   "required": [
+    "united-states"
+   ],
+   "optional": [],
+   "region": "ウィスコンシン州・ミシガン州アッパー半島",
+   "ja": "オレンジの長方形とひし形が入った白い長方形の金属プレート。ウィスコンシン州とミシガン州アッパー半島のほとんどの電柱に付いている。",
+   "en": "A rectangular **white** metal plate, with an orange rectangle and diamond, can be seen on most poles in Wisconsin and the Upper Peninsula of Michigan.",
+   "source": "https://www.plonkit.net/united-states"
+  },
+  {
+   "id": "united-states/QHSQ",
+   "country": "united-states",
+   "image": "images/pole/united-states-QHSQ.webp",
+   "required": [
+    "united-states"
+   ],
+   "optional": [],
+   "region": "オレゴン州・アイダホ州東部・ユタ州・ワイオミング州",
+   "ja": "浮き出た文字か黒い文字が入った、太くて黄色い横長の金属プレート（PacifiCorp社の電柱番号）。オレゴン州、アイダホ州東部、ユタ州、ワイオミング州で見られる。",
+   "en": "PacificCorp pole markings are **thick, yellow, horizontal metal plates** with raised lettering or [black lettering](https://maps.app.goo.gl/pxJzZtogJE7MoRNy6). They can be found alone or with [multiple plates on one pole](https://maps.app.goo.gl/PYQjVQX1akDg5Wzh8). They are found in Oregon, eastern Idaho, Utah, and Wyoming, and less commonly in California and Washington.",
+   "source": "https://www.plonkit.net/united-states"
+  },
+  {
+   "id": "eswatini/Os75",
+   "country": "eswatini",
+   "image": "images/pole/eswatini-Os75.webp",
+   "required": [
+    "eswatini"
+   ],
+   "optional": [
+    "south-africa",
+    "lesotho"
+   ],
+   "region": null,
+   "ja": "エスワティニの電柱は濃い茶色の木製で、シンプルなデザイン。碍子は主に横に付いている。南部アフリカでは、碍子が3つ付いた電柱はエスワティニで多い。",
+   "en": "Poles in Eswatini are made of **dark brown wood** and follow a simple design. The insulators are mostly mounted on the side.\nNOTE: In Southern Africa, three insulators on the pole are more commonly found in Eswatini.",
+   "source": "https://www.plonkit.net/eswatini"
+  },
+  {
+   "id": "ghana/m5GG",
+   "country": "ghana",
+   "image": "images/pole/ghana-m5GG.webp",
+   "required": [
+    "ghana"
+   ],
+   "optional": [
+    "kenya"
+   ],
+   "region": null,
+   "ja": "ガーナの電柱は、金属の腕木に碍子が3つ付いた木製のものが多い。ケニアにも似た電柱がある。",
+   "en": "Ghana typically uses **wooden **poles with **3 insulators** on a metallic crossbar.\nNOTE: Kenya has a similar [pole](https://maps.app.goo.gl/Wn9yQGnjHhFSLjG37).",
+   "source": "https://www.plonkit.net/ghana"
+  },
+  {
+   "id": "kenya/dndL",
+   "country": "kenya",
+   "image": "images/pole/kenya-dndL.webp",
+   "required": [
+    "kenya"
+   ],
+   "optional": [
+    "ghana"
+   ],
+   "region": null,
+   "ja": "ケニアの電柱はコンクリートか木製で、L字形の腕木が付いている。ガーナにも似た電柱がある。",
+   "en": "Kenyan poles are either made of concrete or wood, and have an** L shaped crossbar**. \nNOTE: A [similar pole](https://maps.app.goo.gl/tZNFYkUB6yvXdjgn6) can be found in Ghana",
+   "source": "https://www.plonkit.net/kenya"
+  },
+  {
+   "id": "kenya/BMtm",
+   "country": "kenya",
+   "image": "images/pole/kenya-BMtm.webp",
+   "required": [
+    "kenya"
+   ],
+   "optional": [],
+   "region": null,
+   "ja": "ドクロと危険の文字が書かれた電柱の表示。ケニアでよく見かける。",
+   "en": "You will often see pole markings with a **skull** and a **danger message** on it.",
+   "source": "https://www.plonkit.net/kenya"
+  },
+  {
+   "id": "reunion/TYj8",
+   "country": "reunion",
+   "image": "images/pole/reunion-TYj8.webp",
+   "required": [
+    "france",
+    "reunion"
+   ],
+   "optional": [
+    "martinique"
+   ],
+   "region": null,
+   "ja": "フランス式の電柱。フランスの海外県レユニオンでは、標識やボラードと同じく電柱もフランス本土と同じものが使われる。",
+   "en": "Being a French Department, you will see **French infrastructure**, such as [signs](https://goo.gl/maps/g4Zs8JkqkiWbQYt28), [bollards](https://www.google.com/maps/@-21.2427103,55.3131219,3a,75y,99.88h,80.84t,358.51r/data=!3m6!1e1!3m4!1sfAEf2UYNe56no-OLI1RWoA!2e0!7i13312!8i6656?entry=ttu) and [poles](https://www.google.com/maps/@-21.281482,55.4317286,3a,90y,19.99h,96.64t/data=!3m6!1e1!3m4!1sm6b5qi8oScL85YCcGo5E_g!2e0!7i13312!8i6656?entry=ttu).",
+   "source": "https://www.plonkit.net/reunion"
+  },
+  {
+   "id": "sao-tome-and-principe/8u6S",
+   "country": "sao-tome-and-principe",
+   "image": "images/pole/sao-tome-and-principe-8u6S.webp",
+   "required": [
+    "sao-tome-and-principe",
+    "portugal"
+   ],
+   "optional": [],
+   "region": null,
+   "ja": "ポルトガルの影響で、サントメ・プリンシペではポルトガルと同じはしご形の電柱が使われる。",
+   "en": "On top of the language, the Portuguese influence can also be seen in infrastructure, such as ladder poles and pedestrian signs with the same design as in Portugal.",
+   "source": "https://www.plonkit.net/sao-tome-and-principe"
+  },
+  {
+   "id": "sao-tome-and-principe/0mhZ",
+   "country": "sao-tome-and-principe",
+   "image": "images/pole/sao-tome-and-principe-0mhZ.webp",
+   "required": [
+    "sao-tome-and-principe"
+   ],
+   "optional": [],
+   "region": null,
+   "ja": "根元が青く塗られた木の電柱で、「CST」の文字が読めることもある。サントメ・プリンシペのもの。",
+   "en": "Some wooden poles are painted **blue **on the bottom. You can also read the letters **CST **on them.",
+   "source": "https://www.plonkit.net/sao-tome-and-principe"
+  },
+  {
+   "id": "sao-tome-and-principe/5C59",
+   "country": "sao-tome-and-principe",
+   "image": "images/pole/sao-tome-and-principe-5C59.webp",
+   "required": [
+    "sao-tome-and-principe"
+   ],
+   "optional": [],
+   "region": "トリニダーデ",
+   "ja": "赤と白に塗られた電柱。サントメ・プリンシペのトリニダーデの町で見られる。",
+   "en": "The town of Trinidade has poles with **red and white** pole paint.",
+   "source": "https://www.plonkit.net/sao-tome-and-principe"
+  },
+  {
+   "id": "senegal/7wNV",
+   "country": "senegal",
+   "image": "images/pole/senegal-7wNV.webp",
+   "required": [
+    "senegal",
+    "france"
+   ],
+   "optional": [],
+   "region": null,
+   "ja": "旧フランス植民地のセネガルでは、ボラードや標識と同じく、電柱もフランス式。",
+   "en": "Being a former French colony, Senegal uses French infrastructure such as **bollards**, **poles**, **signs** and **road** **lines**.",
+   "source": "https://www.plonkit.net/senegal"
+  },
+  {
+   "id": "south-africa/riHx",
+   "country": "south-africa",
+   "image": "images/pole/south-africa-riHx.webp",
+   "required": [
+    "south-africa"
+   ],
+   "optional": [],
+   "region": null,
+   "ja": "南アフリカで最も一般的な電柱は、1〜5本の横棒に細い白い碍子が並んだもので、鳥が並んでいるように見えるので「バードポール」と呼ばれている。",
+   "en": "The most common type of pole in South Africa features 1 to 5 horizontal bars with thin white insulators that resemble rows of birds, which is why they are referred to as “**bird poles**” in the community.\nNOTE: South Africa has a wide variety of other poles and pole tops. Some of these are (mostly) limited to a certain region; you can learn more about them in the region guessing section.",
+   "source": "https://www.plonkit.net/south-africa"
+  },
+  {
+   "id": "south-africa/UxL1",
+   "country": "south-africa",
+   "image": "images/pole/south-africa-UxL1.webp",
+   "required": [
+    "south-africa"
+   ],
+   "optional": [],
+   "region": "西ケープ州",
+   "ja": "3本の棒で「A」の字を作り、下の碍子が横棒の端に付いた電柱。南アフリカの西ケープ州でほぼ独占的に見られる。",
+   "en": "Poles with 3 bars forming the letter **‘A’**, with the bottom insulators being attached at the edges of a horizontal bar, can be found almost exclusively in Western Cape, and rarely in bordering provinces.",
+   "source": "https://www.plonkit.net/south-africa"
+  },
+  {
+   "id": "south-africa/Prjw",
+   "country": "south-africa",
+   "image": "images/pole/south-africa-Prjw.webp",
+   "required": [
+    "south-africa"
+   ],
+   "optional": [],
+   "region": "東ケープ州",
+   "ja": "西ケープ州のものに似たA字形の電柱だが、Aの幅が広く、下の碍子がA字に直接付いている。南アフリカの東ケープ州で見られる。",
+   "en": "A similar poletop can be found in Eastern Cape, however the A-shape is noticeably wider and the bottom insulators are attached directly to the ‘A’ rather than a horizontal bar.",
+   "source": "https://www.plonkit.net/south-africa"
+  },
+  {
+   "id": "south-africa/RWlO",
+   "country": "south-africa",
+   "image": "images/pole/south-africa-RWlO.webp",
+   "required": [
+    "south-africa"
+   ],
+   "optional": [],
+   "region": "クワズール・ナタール州",
+   "ja": "三叉の矛（トライデント）のような形の電柱のてっぺんは、南アフリカのクワズール・ナタール州でほぼ独占的に見られる。",
+   "en": "**Trident pole tops** are almost unique to KwaZulu-Natal.",
+   "source": "https://www.plonkit.net/south-africa"
+  },
+  {
+   "id": "south-africa/KDMw",
+   "country": "south-africa",
+   "image": "images/pole/south-africa-KDMw.webp",
+   "required": [
+    "south-africa"
+   ],
+   "optional": [],
+   "region": "北部4州（リンポポ州・ハウテン州・北西州・ムプマランガ州）",
+   "ja": "てっぺんから3つの碍子が互い違いに横向きに突き出た電柱。南アフリカ北部4州で多く、北ケープ州でもときどき見られる。",
+   "en": "Poles with **3 alternating insulators **sticking out horizontally at the top are mostly seen in the four northern provinces of Limpopo, Gauteng, North West and Mpumalanga. They can also sometimes be found in Northern Cape. In the rest of the country, these pole tops are exceedingly rare.",
+   "source": "https://www.plonkit.net/south-africa"
+  },
+  {
+   "id": "south-africa/Fho0",
+   "country": "south-africa",
+   "image": "images/pole/south-africa-Fho0.webp",
+   "required": [
+    "south-africa"
+   ],
+   "optional": [],
+   "region": "リンポポ州・北西州など北東部",
+   "ja": "2本の斜めの棒が「<」の形を作る電柱。南アフリカ北東部の州、特にリンポポ州と北西州で多い。",
+   "en": "Poles with 2 **diagonal bars **forming a ‘<’ shape can be found mostly in the northeastern provinces, most commonly in Limpopo and North West.",
+   "source": "https://www.plonkit.net/south-africa"
+  },
+  {
+   "id": "south-africa/D9sE",
+   "country": "south-africa",
+   "image": "images/pole/south-africa-D9sE.webp",
+   "required": [
+    "south-africa"
+   ],
+   "optional": [],
+   "region": "ムプマランガ州",
+   "ja": "碍子を支える金属のアームが1〜2本付いた電柱。南アフリカのムプマランガ州で最も多い。",
+   "en": "Poles with **1 or 2 metal arms** holding up insulators are most commonly seen in Mpumalanga.",
+   "source": "https://www.plonkit.net/south-africa"
+  },
+  {
+   "id": "south-africa/Oy3D",
+   "country": "south-africa",
+   "image": "images/pole/south-africa-Oy3D.webp",
+   "required": [
+    "south-africa"
+   ],
+   "optional": [],
+   "region": "北ケープ州北部",
+   "ja": "電柱のてっぺんにある大きな鳥の巣。南アフリカの北ケープ州北部でよく見られる。",
+   "en": "Big **bird nests** on top of poles are commonly seen in the northern part of the Northern Cape Province.",
+   "source": "https://www.plonkit.net/south-africa"
+  },
+  {
+   "id": "south-africa/ISiU",
+   "country": "south-africa",
+   "image": "images/pole/south-africa-ISiU.webp",
+   "required": [
+    "south-africa"
+   ],
+   "optional": [],
+   "region": "ヨハネスブルグ",
+   "ja": "3本の反射テープが巻かれた信号機や横断歩道の柱。南アフリカのヨハネスブルグで見られる。",
+   "en": "Traffic lights and pedestrian crossing poles in Johannesburg are encircled by three strips of **reflective tape**.",
+   "source": "https://www.plonkit.net/south-africa"
+  },
+  {
+   "id": "nigeria/xB4U",
+   "country": "nigeria",
+   "image": "images/pole/nigeria-xB4U.webp",
+   "required": [
+    "nigeria"
+   ],
+   "optional": [
+    "brazil"
+   ],
+   "region": null,
+   "ja": "ナイジェリアの電柱の多くはコンクリート製で、くぼみの中にいくつか横の補強がある。ブラジルのものに似ているが、穴が貫通していない。",
+   "en": "Most Nigerian poles are made of concrete, have **indents **with a few **horizontal supports**, and are similar to the ones used in Brazil, but do not have holes through them.",
+   "source": "https://www.plonkit.net/nigeria"
+  },
+  {
+   "id": "guam/04NE",
+   "country": "guam",
+   "image": "images/pole/guam-04NE.webp",
+   "required": [
+    "guam"
+   ],
+   "optional": [],
+   "region": null,
+   "ja": "グアムの電柱はほぼ必ずコンクリート製で、太いことが多い。北マリアナ諸島はふつう木製。",
+   "en": "Poles on Guam are almost always **concrete** and commonly very thick.\nNOTE: Northern Mariana Islands typically have wooden poles.",
+   "source": "https://www.plonkit.net/guam"
+  },
+  {
+   "id": "northern-mariana-islands/H2l8",
+   "country": "northern-mariana-islands",
+   "image": "images/pole/northern-mariana-islands-H2l8.webp",
+   "required": [
+    "northern-mariana-islands"
+   ],
+   "optional": [],
+   "region": null,
+   "ja": "北マリアナ諸島の電柱は木製で、てっぺんに腕木が付いていることが多い。グアムはふつうコンクリート製。",
+   "en": "Northern Mariana Islands have **wooden poles**, frequently with a crossbar at the top.\nNOTE: Guam typically has concrete poles.",
+   "source": "https://www.plonkit.net/northern-mariana-islands"
+  },
+  {
+   "id": "australia/xuhU",
+   "country": "australia",
+   "image": "images/pole/australia-xuhU.webp",
+   "required": [
+    "australia"
+   ],
+   "optional": [],
+   "region": "南オーストラリア州（タスマニア州にも少し）",
+   "ja": "鉄とコンクリートでできた有名な「ストービー・ポール」は南オーストラリア州のもの。三叉や横倒しの「E」形のてっぺんも独特。タスマニア州などにも少しある。",
+   "en": "The iconic **Stobie pole**, made of steel and concrete, is specific to South Australia. The [pole tops](https://goo.gl/maps/Le5eiGxw9bRT1UQJA) (trident or rotated letter “E”) are also unique.\nNOTE: A few thousand of these poles can be found in other states, most notably Tasmania.",
+   "source": "https://www.plonkit.net/australia"
+  },
+  {
+   "id": "australia/Pbiz",
+   "country": "australia",
+   "image": "images/pole/australia-Pbiz.webp",
+   "required": [
+    "australia"
+   ],
+   "optional": [],
+   "region": "ノーザンテリトリー（西オーストラリア州北部にも）",
+   "ja": "穴がたくさん開いた、さびた金属の電柱。オーストラリアのノーザンテリトリー独自のもので、西オーストラリア州北部のウィンダムなどにもある。",
+   "en": "These **rusty metal poles**, containing several holes, are unique to the Northern Territory.\nNOTE: These poles can also sometimes be found in some areas of northern WA, such as Wyndham.",
+   "source": "https://www.plonkit.net/australia"
+  },
+  {
+   "id": "australia/fako",
+   "country": "australia",
+   "image": "images/pole/australia-fako.webp",
+   "required": [
+    "australia"
+   ],
+   "optional": [],
+   "region": "西オーストラリア州・ビクトリア州",
+   "ja": "三叉のような電柱のてっぺん。西オーストラリア州とビクトリア州で見られ、西オーストラリア州では赤い碍子と黒く塗られた腕木のことが多い。3つの碍子すべてが腕木に付いている必要がある。",
+   "en": "A **trident-like** pole top can sometimes be seen in Western Australia and Victoria. In Western Australia, the pole will often have red insulators and black paint on the crossbar (shown in the image).\nFor the meta to work, all 3 insulators must be connected to the crossbar. This [link ](https://maps.app.goo.gl/LLZCJkuNYMoqU13m6)shows a similar looking pole that is incorrect, as the middle insulator is connected to the pole itself rather than to the crossbar.",
+   "source": "https://www.plonkit.net/australia"
+  },
+  {
+   "id": "australia/dHGl",
+   "country": "australia",
+   "image": "images/pole/australia-dHGl.webp",
+   "required": [
+    "australia"
+   ],
+   "optional": [],
+   "region": "クイーンズランド州",
+   "ja": "両側のコイルが上向きに傾いた独特な電柱のてっぺん。オーストラリアのクイーンズランド州のもの。",
+   "en": "Queensland features these unique pole tops with coils that are **angled upwards** on the sides.",
+   "source": "https://www.plonkit.net/australia"
+  },
+  {
+   "id": "australia/B6K8",
+   "country": "australia",
+   "image": "images/pole/australia-B6K8.webp",
+   "required": [
+    "australia"
+   ],
+   "optional": [],
+   "region": "ビクトリア州",
+   "ja": "両側に2つ、上に縦向きに1つ、計3つの円形のコイルが付いた電柱のてっぺん。オーストラリアのビクトリア州のもの。",
+   "en": "Victorian pole tops feature 3 circular coils; 2 on the sides, and 1 vertical one at the top. At times, other [extensions](https://goo.gl/maps/p8m8EP5gHfnEgxyV7) can be seen on these poles.",
+   "source": "https://www.plonkit.net/australia"
+  },
+  {
+   "id": "australia/FQEn",
+   "country": "australia",
+   "image": "images/pole/australia-FQEn.webp",
+   "required": [
+    "australia"
+   ],
+   "optional": [],
+   "region": "タスマニア州",
+   "ja": "細い金属の腕木を90度に曲げてL字形にした電柱のてっぺん。オーストラリアのタスマニア州で多い（ふつうの腕木は木製）。",
+   "en": "Poletops in Tasmania often consist of a **thin metal crossbar** **bent 90 degrees** to form an **L-shape.**\nNOTE: Regular Australian crossbars are usually made out of [wood](https://maps.app.goo.gl/d3nvo8eN8rPtWV9B9).",
+   "source": "https://www.plonkit.net/australia"
+  },
+  {
+   "id": "australia/tILb",
+   "country": "australia",
+   "image": "images/pole/australia-tILb.webp",
+   "required": [
+    "australia"
+   ],
+   "optional": [
+    "france"
+   ],
+   "region": "クイーンズランド州",
+   "ja": "丸い青いステッカーが貼られた電柱。オーストラリアのクイーンズランド州で見られる。フランスの電柱にも青いステッカーがある。",
+   "en": "Circular **blue** stickers can be found on Queensland poles. You may occasionally see the same type of sticker in a [different colour](https://maps.app.goo.gl/UsntugJachBVdzvp6), or with the colour almost [completely faded](https://goo.gl/maps/buTdGYBCeYaShRgs5).\nNOTE: Blue stickers can also be found on French poles.",
+   "source": "https://www.plonkit.net/australia"
+  },
+  {
+   "id": "australia/Aujv",
+   "country": "australia",
+   "image": "images/pole/australia-Aujv.webp",
+   "required": [
+    "australia"
+   ],
+   "optional": [],
+   "region": "クイーンズランド州南東部（ゴールドコースト・ブリスベン・サンシャインコースト）",
+   "ja": "黒いマーキングの電柱で、斜めの数字が添えられていることが多い。オーストラリアのゴールドコースト、ブリスベン、サンシャインコーストの一帯で見られる。",
+   "en": "These **black markings** are specific to electricity poles in the region encompassing the cities of Gold Coast, Brisbane, and Sunshine Coast in Queensland. They are often accompanied by diagonal numbers.",
+   "source": "https://www.plonkit.net/australia"
+  },
+  {
+   "id": "australia/Y0nT",
+   "country": "australia",
+   "image": "images/pole/australia-Y0nT.webp",
+   "required": [
+    "australia"
+   ],
+   "optional": [],
+   "region": "タスマニア州",
+   "ja": "オリーブグリーンのポッサム除け。ポッサム除け自体はオーストラリア全土にあるが、この色はタスマニア州だけ。",
+   "en": "**Olive-green possum guards** are only found on electricity poles in Tasmania.\nNOTE: Possum guards are found all over Australia. The colour is what distinguishes them.",
+   "source": "https://www.plonkit.net/australia"
+  },
+  {
+   "id": "australia/RFNj",
+   "country": "australia",
+   "image": "images/pole/australia-RFNj.webp",
+   "required": [
+    "australia"
+   ],
+   "optional": [],
+   "region": "西オーストラリア州",
+   "ja": "根元が緑に塗られた電柱で、白いステッカーや赤白の帯が付いていることもある。西オーストラリア州でよく見られる。",
+   "en": "Poles in Western Australia often have **green **painted bases, and sometimes a white sticker or a [red and white](https://goo.gl/maps/3G4CJepKWTr6Zw1e7) band attached.",
+   "source": "https://www.plonkit.net/australia"
+  },
+  {
+   "id": "australia/X5tc",
+   "country": "australia",
+   "image": "images/pole/australia-X5tc.webp",
+   "required": [
+    "australia"
+   ],
+   "optional": [],
+   "region": "ビクトリア州",
+   "ja": "上に青い丸と赤い部分がある白い消火栓の柱。オーストラリアのビクトリア州で見られる。",
+   "en": "You can find these white hydrant poles that feature a** blue circle** and a red section on top of it in Victoria.",
+   "source": "https://www.plonkit.net/australia"
+  },
+  {
+   "id": "australia/OgUS",
+   "country": "australia",
+   "image": "images/pole/australia-OgUS.webp",
+   "required": [
+    "australia"
+   ],
+   "optional": [],
+   "region": "メルボルン",
+   "ja": "中に小さな青い四角が入った白い長方形のステッカーが貼られた電柱。オーストラリアのメルボルンでよく見られる。",
+   "en": "Melbourne poles commonly feature these white, rectangular stickers, with a smaller **blue square **inside it.",
+   "source": "https://www.plonkit.net/australia"
+  },
+  {
+   "id": "australia/khBq",
+   "country": "australia",
+   "image": "images/pole/australia-khBq.webp",
+   "required": [
+    "australia"
+   ],
+   "optional": [],
+   "region": "ニューサウスウェールズ州ブロークンヒル",
+   "ja": "南オーストラリア州式のストービー・ポール。ニューサウスウェールズ州のブロークンヒルの町でも見られる。",
+   "en": "South Australian style **Stobie poles** can sometimes be found in the NSW town of Broken Hill.",
+   "source": "https://www.plonkit.net/australia"
+  },
+  {
+   "id": "new-zealand/Meh7",
+   "country": "new-zealand",
+   "image": "images/pole/new-zealand-Meh7.webp",
+   "required": [
+    "new-zealand"
+   ],
+   "optional": [],
+   "region": null,
+   "ja": "ニュージーランドで最も多い電柱は、上のほうまで長いくぼみが1本走るコンクリート製。多くの電柱に小さな銀色のポッサム除けが付いている。",
+   "en": "The most common pole type found in New Zealand is made of concrete and has **one long indent** which runs most of the way up the pole. Most concrete poles have small **silver **possum guards. Circular [wooden poles](https://maps.app.goo.gl/e4UYn9u6VSd4wSE36) can also be found, but are less common. You can also see concrete [holey poles](https://maps.app.goo.gl/e3uB7rNoVtCMmrzz8) in New Zealand.",
+   "source": "https://www.plonkit.net/new-zealand"
+  },
+  {
+   "id": "new-zealand/qFtc",
+   "country": "new-zealand",
+   "image": "images/pole/new-zealand-qFtc.webp",
+   "required": [
+    "new-zealand"
+   ],
+   "optional": [],
+   "region": "マールボロ地方",
+   "ja": "長くて四角いオリーブブラウンのポッサム除け。ニュージーランドのマールボロ地方のほとんどの電柱に付いている。",
+   "en": "Most utility poles in the Marlborough region have a long** square shaped olive-brown possum guard**. These can appear alongside the usual shorter silver possum guards.",
+   "source": "https://www.plonkit.net/new-zealand"
+  },
+  {
+   "id": "new-zealand/3BCb",
+   "country": "new-zealand",
+   "image": "images/pole/new-zealand-3BCb.webp",
+   "required": [
+    "new-zealand"
+   ],
+   "optional": [],
+   "region": "サウスランド地方（オタゴ地方西部にも）",
+   "ja": "長い円筒形の銀色のポッサム除け。ニュージーランドのサウスランド地方の多くの電柱に付いている。",
+   "en": "Many of the utility poles in Southland feature a **long cylindrical silver possum guard**. These are also more rarely found in western Otago.",
+   "source": "https://www.plonkit.net/new-zealand"
+  }
+ ]
+}

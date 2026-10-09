@@ -13,7 +13,9 @@
 //
 // Curation entries, keyed by item id ("<country slug>/<item id>"):
 //   { "exclude": "why" }                 not used as a question
-//   { "crop": [x0, y0, x1, y1],          fractions of the original image, default whole image
+//   { "crop": [x0, y0, x1, y1],          fractions of the original image
+//     "checked": true,                   the image was reviewed and needs no crop
+//                                        (an entry needs crop or checked to become a question)
 //     "required": ["slug", ...],         countries that must all be selected, default [own country]
 //     "optional": ["slug", ...],         countries that may be selected without penalty
 //     "region": "...",                   where inside the country, for regional items
@@ -42,6 +44,7 @@ for (const cat of categories) {
 
   const problems = [];
   const questions = [];
+  let unreviewed = 0;
   const rawIds = new Set(raw.items.map((i) => i.id));
   for (const id of Object.keys(curation)) {
     if (!rawIds.has(id)) problems.push(`curation entry for unknown item ${id} (removed from Plonk It?)`);
@@ -54,6 +57,10 @@ for (const cat of categories) {
       continue;
     }
     if (c.exclude) continue;
+    if (!c.crop && !c.checked) {
+      unreviewed++;
+      continue;
+    }
 
     const required = c.required ?? [item.country];
     const optional = c.optional ?? [];
@@ -107,9 +114,9 @@ for (const cat of categories) {
   const guides = raw.countries.map((c) => ({ id: c.slug, continent: c.continent }));
   fs.writeFileSync(
     path.join(ROOT, 'public', 'data', `${cat}.json`),
-    JSON.stringify({ fetchedAt: raw.fetchedAt, kinds: kinds ?? null, guides, questions }, null, 1),
+    JSON.stringify({ fetchedAt: raw.fetchedAt, kinds: kinds ?? null, pending: unreviewed, guides, questions }, null, 1),
   );
-  console.log(`${cat}: ${questions.length} questions written`);
+  console.log(`${cat}: ${questions.length} questions written${unreviewed ? ` (${unreviewed} items waiting for image review)` : ''}`);
   if (problems.length) {
     failed = true;
     console.warn(`  ${problems.length} problem(s):`);
