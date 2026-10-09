@@ -1,0 +1,3668 @@
+{
+  "united-states/a9Az": {
+    "kind": "speed",
+    "optional": [
+      "alaska",
+      "hawaii"
+    ],
+    "ja": "アメリカの速度制限標識は「SPEED LIMIT」と書かれた白い長方形。単位はマイルなので、カナダ（「MAXIMUM」表記、キロ）より数字が小さめで、5で終わる数字も多い。"
+  },
+  "united-states/IcHf": {
+    "kind": "warning",
+    "optional": [
+      "alaska",
+      "hawaii"
+    ],
+    "ja": "アメリカの標識は文字が多めなのが特徴。たとえば踏切の標識には「RAILROAD CROSSING」と文字で書かれている（カナダはふつう文字なし）。黄色いひし形の警戒標識でも同じ傾向がある。"
+  },
+  "united-states/SykO": {
+    "exclude": "言語・単位の説明"
+  },
+  "united-states/qnm6": {
+    "kind": "warning",
+    "optional": [
+      "alaska",
+      "hawaii"
+    ],
+    "ja": "「NO PASSING ZONE」と書かれた黄色い三角形（横向きのペナント形）の標識は、アメリカだけで見られる。"
+  },
+  "united-states/fz5Q": {
+    "kind": "warning",
+    "optional": [
+      "alaska",
+      "hawaii"
+    ],
+    "ja": "1本または2本の矢印が描かれた長方形の分岐標識はアメリカのもの。カナダはひし形の分岐標識を使う。"
+  },
+  "united-states/OEtX": {
+    "kind": "giveway",
+    "optional": [
+      "alaska",
+      "hawaii"
+    ],
+    "ja": "赤い縁に白地、「YIELD」と書かれた逆三角形がアメリカの「譲れ」標識。カナダのものは似ているが文字がない。"
+  },
+  "united-states/mvHr": {
+    "kind": "other",
+    "optional": [
+      "alaska",
+      "hawaii"
+    ],
+    "ja": "アメリカの一方通行標識は、白い矢印の入った横長の黒い長方形で、必ず「ONE WAY」と書かれている。市街地では「ONE WAY」の下に矢印がある縦長の白い標識も使われる。"
+  },
+  "united-states/SyqR": {
+    "kind": "direction",
+    "optional": [
+      "canada",
+      "alaska",
+      "hawaii"
+    ],
+    "ja": "アメリカの大きな高速道路では、角の丸い大きな緑色の金属板に白文字の標識で、出口や距離、道路名を示す。カナダも似ているが、角が四角いことが多い。"
+  },
+  "united-states/z0ci": {
+    "kind": "direction",
+    "optional": [
+      "canada",
+      "alaska",
+      "hawaii"
+    ],
+    "ja": "高速道路の出口の手前にある、食事・宿泊・ガソリンなどのサービスを示す大きな青い長方形の標識。アメリカでよく見かけ、カナダの一部の高速道路にも似たものがある。"
+  },
+  "united-states/jGVD": {
+    "kind": "other",
+    "optional": [
+      "canada",
+      "alaska",
+      "hawaii"
+    ],
+    "ja": "アメリカの駐車規制標識は、赤・緑・黒の文字が入った白い金属板で、駐車できる時間や方向が矢印で示される。カナダも似たスタイルと配色。"
+  },
+  "united-states/Ir2p": {
+    "exclude": "信号機の支柱で、標識の見た目ではない"
+  },
+  "united-states/Vjto": {
+    "kind": "back",
+    "optional": [
+      "alaska",
+      "hawaii"
+    ],
+    "ja": "アメリカでは細い金属の支柱がよく使われる。小さな穴がたくさん開いているか、U字型の断面になっている。"
+  },
+  "united-states/wJ5Q": {
+    "exclude": "州ごとの地図つき解説図"
+  },
+  "united-states/Okab": {
+    "kind": "route",
+    "region": "一部の州",
+    "ja": "青と黄色の盾形は郡道（カウンティ・ロード）の路線番号標識で、アメリカの一部の州で見られる。"
+  },
+  "united-states/8jCA": {
+    "kind": "other",
+    "region": "西部の国立公園",
+    "ja": "アメリカの国立公園では、ガードレールや標識、支柱が茶色く塗られていることが多い。国立公園は西部に多い。"
+  },
+  "united-states/7mOi": {
+    "kind": "other",
+    "region": "メイン州・ニューハンプシャー州・マサチューセッツ州",
+    "ja": "橋やガードレールの端を示す、緑と赤の小さな長方形の標識。メイン州、ニューハンプシャー州、マサチューセッツ州で使われる。"
+  },
+  "united-states/TrbD": {
+    "kind": "warning",
+    "region": "ミネソタ州",
+    "ja": "黒い縦向きの三角形が描かれた黄色い標識。ミネソタ州の大きな川を渡る橋の手前や、幹線道路のガードレールの始まりと終わりに置かれる。"
+  },
+  "united-states/5v2z": {
+    "kind": "route",
+    "region": "ウィスコンシン州・ミズーリ州",
+    "ja": "郡道にアルファベット（A〜ZZZ）を使うのはウィスコンシン州とミズーリ州だけ。ウィスコンシン州の標識は文字の上に「COUNTY」と書かれていることが多い。"
+  },
+  "united-states/iftd": {
+    "kind": "speed",
+    "region": "オレゴン州",
+    "ja": "オレゴン州の速度標識は、標準の「SPEED LIMIT」ではなく「SPEED」だけのことが多い。"
+  },
+  "united-states/PJKL": {
+    "kind": "back",
+    "optional": [
+      "hawaii"
+    ],
+    "region": "テキサス州",
+    "ja": "テキサス州では支柱に黄色や赤の帯が巻かれていることが多い。ハワイなどほかの州でもまれに見られる。"
+  },
+  "united-states/U1Mv": {
+    "kind": "other",
+    "region": "ウィスコンシン州・ミシガン州アッパー半島",
+    "ja": "私道の入り口に立つ青・赤・緑の横長の標識。家の番地と町名や道路名が書かれている。ウィスコンシン州とミシガン州のアッパー半島で多い。"
+  },
+  "united-states/fzDT": {
+    "kind": "back",
+    "region": "ミシガン州・オハイオ州・ミネソタ州・ニューヨーク州",
+    "ja": "2本の支柱で支えられた標識は、ミシガン州、オハイオ州、ミネソタ州、ニューヨーク州でよく見られる。"
+  },
+  "united-states/gGzS": {
+    "kind": "street",
+    "region": "ウェストバージニア州",
+    "ja": "円の中に分数のような記号が入った道路名標識は、ウェストバージニア州で見られる。"
+  },
+  "united-states/S13A": {
+    "kind": "street",
+    "region": "ノースカロライナ州",
+    "ja": "道路名に加えて番地の数字と矢印が書かれた道路名標識は、ノースカロライナ州でよく使われる。"
+  },
+  "united-states/Wa4g": {
+    "kind": "other",
+    "region": "オクラホマ州",
+    "ja": "地方の交差点で、一時停止標識の裏に3段の数字が書かれた緑の長方形の標識が付いていることがある。オクラホマ州のもの。"
+  },
+  "united-states/R6mQ": {
+    "kind": "other",
+    "region": "ウィスコンシン州",
+    "ja": "緑色の「ATV Route」標識はウィスコンシン州独自のもの。"
+  },
+  "united-states/lESA": {
+    "kind": "route",
+    "region": "ペンシルベニア州",
+    "ja": "交差点の支柱に付けられた白い長方形の標識で、上部に合流する州道の番号が書かれている。ペンシルベニア州のもの。"
+  },
+  "united-states/c26l": {
+    "kind": "route",
+    "region": "バージニア州",
+    "ja": "交差点で見かける白い長方形の標識。バージニア州のもの。"
+  },
+  "united-states/wGfP": {
+    "kind": "route",
+    "region": "ノースカロライナ州",
+    "ja": "支柱に付けられた白い標識。ノースカロライナ州でよく見られる。"
+  },
+  "united-states/CeHA": {
+    "kind": "street",
+    "region": "サウスカロライナ州",
+    "ja": "白文字の黒い道路名標識は、サウスカロライナ州の交差点でよく見られる。"
+  },
+  "united-states/Pvk9": {
+    "kind": "other",
+    "region": "ニューヨーク州・バーモント州",
+    "ja": "3段の数字が書かれた小さな緑の長方形の標識。いちばん上の数字はその道路の番号。2段目が0で始まればほぼバーモント州。"
+  },
+  "united-states/3KOY": {
+    "kind": "other",
+    "region": "ニューハンプシャー州",
+    "ja": "「E-2」と書かれた白い金属の標識。ニューハンプシャー州の橋の両端などで見られる。"
+  },
+  "united-states/HIKl": {
+    "kind": "back",
+    "region": "ミネソタ州",
+    "ja": "地方の一時停止標識の支柱に、白黒のマーカーが横向きに付いていることがある。ミネソタ州のもの。"
+  },
+  "united-states/dSRB": {
+    "kind": "back",
+    "region": "カンザス州",
+    "ja": "支柱に付いた白い反射材はカンザス州独自のもの。地方の一時停止標識でよく見られる。"
+  },
+  "united-states/aAVg": {
+    "exclude": "信号機の吊り下げ方の説明"
+  },
+  "united-states/kaMy": {
+    "kind": "direction",
+    "region": "アリゾナ州の州間高速道路19号線",
+    "ja": "ツーソンからメキシコ国境までの州間高速道路19号線は、出口や距離の標識にキロメートルを使う、アメリカで唯一の区間。速度制限はマイルのまま。"
+  },
+  "botswana/jxYh": {
+    "exclude": "言語の説明"
+  },
+  "botswana/qs9y": {
+    "kind": "back",
+    "ja": "ボツワナ独自の、黒と黄色の縞模様の支柱。まれに赤と白のものもある。南部アフリカでこの支柱があるのはボツワナだけ。"
+  },
+  "botswana/ejAj": {
+    "kind": "chevron",
+    "required": [
+      "botswana",
+      "south-africa"
+    ],
+    "ja": "道路脇に立つ、赤と白の小さなシェブロン。ボツワナでときどき見られ、南アフリカではとてもよく見かける。"
+  },
+  "botswana/d1xZ": {
+    "kind": "direction",
+    "optional": [
+      "south-africa",
+      "namibia",
+      "lesotho",
+      "eswatini"
+    ],
+    "ja": "南部アフリカ共通の緑の案内標識。ボツワナの主要道路は「A」で始まる番号で、案内標識によく書かれている（南アフリカの道路番号はAで始まらない）。"
+  },
+  "botswana/BrtG": {
+    "kind": "other",
+    "ja": "青地の道路標識。白地の標識が導入される前の古いスタイルで、ボツワナ特有のもの。今はほとんど白地の新しい標識。"
+  },
+  "egypt/vPJa": {
+    "exclude": "言語の説明"
+  },
+  "ghana/sHFU": {
+    "exclude": "ほかの国にもある支柱で決め手にならない"
+  },
+  "kenya/Af01": {
+    "kind": "direction",
+    "ja": "白い縁取りと白文字の緑の案内標識。白や黄色で道路番号が書かれていることが多い。ケニアのもの。"
+  },
+  "kenya/aCQP": {
+    "kind": "other",
+    "ja": "ケニアの道路標識は数は少ないが、ほとんどが赤と白。"
+  },
+  "kenya/LuwZ": {
+    "exclude": "看板の文字の説明"
+  },
+  "kenya/Nnps": {
+    "exclude": "郵便番号の説明"
+  },
+  "madagascar/V2nD": {
+    "exclude": "言語の説明"
+  },
+  "namibia/7cMz": {
+    "kind": "direction",
+    "optional": [
+      "south-africa",
+      "botswana",
+      "lesotho",
+      "eswatini"
+    ],
+    "ja": "黄色い道路番号が入った緑の案内標識。南部アフリカ共通のスタイルで、ナミビアの道路番号はA・B・C・D・M（まれにF）で始まる。"
+  },
+  "namibia/IOve": {
+    "exclude": "地域の風景の説明"
+  },
+  "namibia/HF3M": {
+    "exclude": "都市の説明"
+  },
+  "namibia/CqNa": {
+    "exclude": "都市の説明"
+  },
+  "namibia/nOBK": {
+    "exclude": "都市の説明"
+  },
+  "namibia/ZxG0": {
+    "exclude": "都市の説明"
+  },
+  "reunion/TYj8": {
+    "kind": "direction",
+    "required": [
+      "france",
+      "reunion"
+    ],
+    "optional": [
+      "martinique"
+    ],
+    "ja": "フランス式の案内標識。フランスの海外県レユニオンでは、標識もボラードも電柱もフランス本土と同じものが使われる。"
+  },
+  "sao-tome-and-principe/8u6S": {
+    "kind": "pedestrian",
+    "required": [
+      "sao-tome-and-principe",
+      "portugal"
+    ],
+    "ja": "ポルトガルの影響で、サントメ・プリンシペの横断歩道標識はポルトガルと同じデザイン。"
+  },
+  "senegal/7wNV": {
+    "exclude": "一般的な警戒標識で決め手にならない"
+  },
+  "senegal/lPzT": {
+    "kind": "other",
+    "ja": "太いピンクの縁取りと太い黒文字の白い町名標識。セネガルの町の入り口にある標識の多くがこのデザイン。"
+  },
+  "south-africa/x5Nk": {
+    "kind": "direction",
+    "optional": [
+      "namibia",
+      "botswana",
+      "lesotho",
+      "eswatini"
+    ],
+    "ja": "黄色い道路番号が入った緑の案内標識。南部アフリカ共通のスタイルで、「N」と「R」で始まる道路番号は南アフリカだけ。"
+  },
+  "south-africa/Hx3k": {
+    "exclude": "一般的な三角形の警戒標識で決め手にならない"
+  },
+  "south-africa/Ud2I": {
+    "kind": "chevron",
+    "optional": [
+      "botswana",
+      "eswatini",
+      "lesotho",
+      "namibia"
+    ],
+    "ja": "南アフリカは白と赤のシェブロンを使う。案内標識の下にも同じ模様が付いていることがある。矢印が1つの細いシェブロンも多い。"
+  },
+  "south-africa/pE0c": {
+    "exclude": "道路地図"
+  },
+  "south-africa/u08Z": {
+    "kind": "back",
+    "region": "東ケープ州周辺",
+    "ja": "標識の裏に貼られた四角い赤いステッカー。南アフリカの東ケープ州と、その近くの北ケープ州・フリーステイト州でよく見られる。"
+  },
+  "south-africa/eJUt": {
+    "kind": "back",
+    "region": "ケープ地方",
+    "ja": "シェブロンの裏に貼られた白いステッカー。南アフリカのケープ地方でよく見られる。"
+  },
+  "south-africa/IPzM": {
+    "kind": "route",
+    "region": "ポートエリザベス・ダーバン",
+    "ja": "都市周辺の主要道路「メトロポリタン・ルート」は「M」で示される。独特なM路線の標識はポートエリザベス（グケベラ）とダーバンでよく見られる。"
+  },
+  "tunisia/64G4": {
+    "exclude": "言語の説明"
+  },
+  "tunisia/2bxW": {
+    "kind": "direction",
+    "ja": "白地に町名がアラビア文字とラテン文字で書かれた案内標識。ラテン文字のフォントがかなり独特。チュニジアのもの。"
+  },
+  "tunisia/2b6O": {
+    "kind": "stop",
+    "optional": [
+      "jordan",
+      "united-arab-emirates"
+    ],
+    "ja": "アラビア文字とラテン文字が書かれた、チュニジア独特の一時停止標識。ヨルダンやUAEにも似たものがある（イスラエル・パレスチナは手のマークの独自デザイン）。"
+  },
+  "uganda/x1Nk": {
+    "exclude": "都市の説明"
+  },
+  "uganda/xDJj": {
+    "exclude": "都市の説明"
+  },
+  "antarctica/gvxD": {
+    "exclude": "南極点の名所の説明"
+  },
+  "christmas-island/XuYJ": {
+    "exclude": "ボラードの項目"
+  },
+  "christmas-island/p88a": {
+    "exclude": "名所の説明"
+  },
+  "guam/Gyzt": {
+    "kind": "street",
+    "ja": "グアムは緑の道路名標識を使う。北マリアナ諸島は青。"
+  },
+  "guam/hxXB": {
+    "kind": "back",
+    "region": "アプラ・ビュー周辺",
+    "ja": "アプラ・ビューの町の近くでは、支柱が黄色く塗られていることがある。グアムのもの。"
+  },
+  "northern-mariana-islands/jle0": {
+    "kind": "street",
+    "ja": "北マリアナ諸島は青い道路名標識を使う。グアムは緑。"
+  },
+  "australia/YdCf": {
+    "kind": "giveway",
+    "optional": [
+      "christmas-island"
+    ],
+    "ja": "オーストラリアの「譲れ（GIVE WAY）」標識は白い縁取りに黒い文字。ニュージーランドのものは文字が赤い。"
+  },
+  "australia/iPl5": {
+    "kind": "chevron",
+    "optional": [
+      "christmas-island"
+    ],
+    "ja": "オーストラリアのシェブロンは黒地に白、または黄色地に黒。ニュージーランドも同じ配色だが、黄色いものには細い黒い縁取りがある。"
+  },
+  "australia/C2EJ": {
+    "kind": "direction",
+    "ja": "交差点にある、両端に白い矢印が付いた緑の標識で、近くの町までの方向を示す。距離のキロ数が書かれていることも。オーストラリアの道路番号はA2、C222のような英数字。"
+  },
+  "australia/kYwE": {
+    "kind": "speed",
+    "optional": [
+      "christmas-island"
+    ],
+    "ja": "オーストラリアの速度制限標識は、大きな白い長方形の上に、赤い丸と黒い数字。ニュージーランドのものは白い長方形の背景がないのがふつう。"
+  },
+  "australia/QQZc": {
+    "kind": "back",
+    "region": "西オーストラリア州",
+    "ja": "黄色い支柱は西オーストラリア州特有。南オーストラリア州でもバス停の支柱は黄色。"
+  },
+  "australia/11H1": {
+    "kind": "back",
+    "region": "南オーストラリア州・西オーストラリア州",
+    "ja": "丸ではなく平らな支柱。南オーストラリア州と西オーストラリア州で見られる（西オーストラリア州では黄色が多い）。"
+  },
+  "australia/Oh44": {
+    "kind": "back",
+    "region": "ノーザンテリトリー",
+    "ja": "支柱に貼られた黄色いステッカー。オーストラリアのノーザンテリトリーで見られる。"
+  },
+  "australia/17uG": {
+    "kind": "other",
+    "region": "クイーンズランド州",
+    "ja": "蛍光色の縁取りがある道路標識は、ほぼクイーンズランド州だけ。"
+  },
+  "australia/W6mM": {
+    "kind": "other",
+    "region": "ニューサウスウェールズ州",
+    "ja": "赤い「No Stopping」標識を使うのはニューサウスウェールズ州だけ。ほかの州は白。"
+  },
+  "australia/e2I1": {
+    "kind": "other",
+    "region": "首都特別地域（キャンベラ）",
+    "ja": "文字入りの白い「No Stopping」「No Parking」標識は、オーストラリア首都特別地域独自のもの。"
+  },
+  "australia/cAlQ": {
+    "kind": "direction",
+    "region": "タスマニア州",
+    "ja": "白い案内標識はタスマニア州だけで見られる。"
+  },
+  "australia/2kHn": {
+    "kind": "other",
+    "region": "ニューサウスウェールズ州・クイーンズランド州・ノーザンテリトリー",
+    "ja": "矢印のない細いタイプの「Keep Left」標識。ニューサウスウェールズ州、クイーンズランド州、ノーザンテリトリーで使われる。"
+  },
+  "australia/nO8C": {
+    "kind": "street",
+    "region": "ブリスベン市",
+    "ja": "ブリスベン市独自の道路名標識。"
+  },
+  "australia/vjrK": {
+    "kind": "street",
+    "region": "ゴールドコースト市",
+    "ja": "ゴールドコースト市独自の道路名標識。"
+  },
+  "australia/zB6F": {
+    "kind": "street",
+    "region": "シドニー市",
+    "ja": "シドニー市独自の道路名標識。"
+  },
+  "new-zealand/oCAJ": {
+    "kind": "giveway",
+    "ja": "ニュージーランドの「譲れ（GIVE WAY）」標識は白い縁取りに赤い文字。オーストラリアのものは黒い文字。"
+  },
+  "new-zealand/xku9": {
+    "kind": "warning",
+    "optional": [
+      "australia"
+    ],
+    "ja": "ニュージーランドの案内標識や警戒標識は、ほとんど白い支柱に付いている。警戒標識は黄色いひし形。"
+  },
+  "new-zealand/hXrt": {
+    "kind": "street",
+    "ja": "ニュージーランドでは、特に地方で白文字の青い道路名標識がよく使われる。オーストラリアで青い道路名標識はほとんど見ない。"
+  },
+  "new-zealand/Ce48": {
+    "kind": "chevron",
+    "ja": "ニュージーランドのシェブロンは、黄色地に黒で、細い黒い縁取りがある。オーストラリアも同じ配色だが縁取りがない。"
+  },
+  "new-zealand/KqxA": {
+    "kind": "direction",
+    "ja": "ニュージーランドの案内標識は緑。国道上では、国道番号が必ず赤い盾形の中に書かれている。茶色い標識は名所への案内。"
+  },
+  "new-zealand/3zI5": {
+    "kind": "other",
+    "ja": "ニュージーランドのほとんどの舗装道路には橋のマーカーがある。国道では白いマーカーに赤い盾形の国道番号、黄色いマーカーには川や橋の名前が書かれている。"
+  },
+  "new-zealand/8lMO": {
+    "exclude": "地図つき解説図"
+  },
+  "new-zealand/WY9A": {
+    "exclude": "都市ごとの解説図"
+  },
+  "new-zealand/6R0C": {
+    "exclude": "都市ごとの解説図"
+  },
+  "new-zealand/Pwwm": {
+    "exclude": "都市ごとの解説図"
+  },
+  "argentina/GzEE": {
+    "kind": "chevron",
+    "ja": "白地に赤のシェブロン。南北アメリカでこのシェブロンを使うのはアルゼンチンだけ。"
+  },
+  "argentina/06ge": {
+    "kind": "warning",
+    "region": "ラ・パンパ州",
+    "ja": "丁字路にある黄色い長方形の標識で、下にシェブロン模様、上に道路番号と両側の矢印。アルゼンチンのラ・パンパ州で見られる。"
+  },
+  "bolivia/IcXQ": {
+    "kind": "back",
+    "ja": "ボリビアでは、白くてがっしりした四角い支柱がよく使われる。ペルーは白黒の縞模様（ゼブラ）の支柱。"
+  },
+  "bolivia/k1TC": {
+    "exclude": "旗の説明"
+  },
+  "chile/dkLn": {
+    "kind": "back",
+    "ja": "チリでは、支柱の上部に切れ込み（スロット）が入っていることが多い。"
+  },
+  "chile/fmHE": {
+    "kind": "chevron",
+    "optional": [
+      "peru",
+      "bolivia",
+      "ecuador",
+      "colombia",
+      "uruguay"
+    ],
+    "ja": "チリのシェブロンは黄色地に黒い矢印。南アメリカの多くの国が同じ配色。アルゼンチンは白地に赤。"
+  },
+  "chile/jKZj": {
+    "kind": "street",
+    "region": "ランコ・マラルウエ",
+    "ja": "オレンジ色の道路名標識は、チリのランコの町のほぼすべての交差点にあり、近くのマラルウエでもときどき見られる。"
+  },
+  "chile/c7Jz": {
+    "exclude": "村の風景の説明"
+  },
+  "brazil/dpxG": {
+    "kind": "back",
+    "ja": "ブラジルの道路標識の多くは、裏が黒く塗られている。パラグアイでもよく見られる。"
+  },
+  "brazil/N06x": {
+    "kind": "chevron",
+    "ja": "ブラジルのシェブロンは黒地に黄色。南アメリカの多くの国は黄色地に黒。"
+  },
+  "brazil/sjAl": {
+    "exclude": "郵便番号の説明"
+  },
+  "brazil/AThg": {
+    "kind": "street",
+    "region": "カンポ・グランデ・ジョインヴィレ",
+    "ja": "交差点の柱にステッカーとして巻かれた道路名標識。ブラジルのカンポ・グランデとジョインヴィレで見られ、カンポ・グランデのものは赤と黄色の線が入っている。"
+  },
+  "curacao/zAfQ": {
+    "kind": "back",
+    "ja": "標識の色付きの縁取り（赤や青）が裏面まで続いている。キュラソーで見られる。"
+  },
+  "curacao/C1Qn": {
+    "kind": "street",
+    "ja": "黄色い支柱の上に付いた青い道路名標識。キュラソーでよく見られる。"
+  },
+  "colombia/JMPO": {
+    "kind": "back",
+    "optional": [
+      "brazil"
+    ],
+    "ja": "コロンビアの支柱は白い金属製で、標識の裏で十字に組み合わさっている。ブラジルにも白い金属の支柱があるが、たいてい幅が広い。"
+  },
+  "ecuador/ynOS": {
+    "kind": "chevron",
+    "optional": [
+      "colombia"
+    ],
+    "ja": "エクアドルはカーブにシェブロンをとても多く並べる（シェブロンスパム）。コロンビアでもときどき見られる。"
+  },
+  "ecuador/LwpU": {
+    "kind": "other",
+    "ja": "白地の四角い道路標識。エクアドルではこのデザインがよく使われる。"
+  },
+  "ecuador/rhiO": {
+    "kind": "back",
+    "ja": "標識の裏が青緑（ティール）色に塗られていることがある。支柱は細い金属製。中南米で青緑の裏面を使うのはエクアドルだけ。"
+  },
+  "ecuador/F7Tj": {
+    "kind": "other",
+    "optional": [
+      "dominican-republic",
+      "puerto-rico"
+    ],
+    "ja": "一方通行・対面通行を示すエクアドルの標識。矢印の中に文字が入った似た標識を使うのは、中南米ではドミニカ共和国とプエルトリコだけ。"
+  },
+  "peru/8cvB": {
+    "kind": "back",
+    "ja": "白黒の縞模様の支柱を使うのは、南アメリカではペルーだけ。地域によっては黒と黄色の支柱もある。"
+  },
+  "peru/sBQ3": {
+    "kind": "back",
+    "ja": "ペルーの金属製の支柱は、根元にコンクリートのブロックが付いている。南アメリカでこうなっているのはペルーだけ。"
+  },
+  "uruguay/07Np": {
+    "kind": "back",
+    "optional": [
+      "bolivia"
+    ],
+    "ja": "白く塗られた太い木製の支柱で、裏に最大4つの長方形の切り欠きがあることが多い。ウルグアイのもので、ボリビアにも太い木製の支柱がある。"
+  },
+  "uruguay/rYkI": {
+    "kind": "chevron",
+    "optional": [
+      "chile",
+      "peru",
+      "bolivia",
+      "ecuador",
+      "colombia"
+    ],
+    "ja": "中南米の多くの国と同じく、黄色地に黒い矢印のシェブロン。白地に赤い矢印を使うアルゼンチンとの区別に役立つ。"
+  },
+  "dominican-republic/jcOp": {
+    "kind": "stop",
+    "required": [
+      "dominican-republic",
+      "puerto-rico",
+      "argentina",
+      "bolivia",
+      "brazil",
+      "chile",
+      "colombia",
+      "ecuador",
+      "peru",
+      "uruguay"
+    ],
+    "ja": "中米にありながら、ドミニカ共和国の一時停止標識は南アメリカと同じ「PARE」。黄色い支柱に付いていることが多い。「PARE」は南アメリカ全域とプエルトリコでも使われる。"
+  },
+  "dominican-republic/EOjT": {
+    "exclude": "信号機の柱の説明"
+  },
+  "dominican-republic/jtB1": {
+    "exclude": "文字の説明"
+  },
+  "costa-rica/h4cR": {
+    "kind": "stop",
+    "required": [
+      "costa-rica",
+      "mexico",
+      "guatemala"
+    ],
+    "optional": [
+      "panama"
+    ],
+    "ja": "コスタリカの一時停止標識は、メキシコ・グアテマラ・パナマと同じ「ALTO」。パナマのものは字が太い。ほかのスペイン語圏の中南米は「PARE」。"
+  },
+  "costa-rica/K2iz": {
+    "kind": "back",
+    "optional": [
+      "colombia"
+    ],
+    "ja": "標識の裏にはっきりした十字の補強が付いていることが多い（特にひし形の警戒標識）。コスタリカのもの。コロンビアもほぼ必ず十字があるが、支柱が白い。"
+  },
+  "costa-rica/OMhy": {
+    "exclude": "州名の説明"
+  },
+  "costa-rica/RsZ0": {
+    "kind": "street",
+    "region": "サンホセ",
+    "ja": "紋章入りの白い長方形が付いた緑の道路名標識。サンホセ市全域で使われている。"
+  },
+  "costa-rica/jSmB": {
+    "exclude": "名所の説明"
+  },
+  "guatemala/mgoz": {
+    "kind": "stop",
+    "required": [
+      "guatemala",
+      "mexico",
+      "costa-rica"
+    ],
+    "optional": [
+      "panama"
+    ],
+    "ja": "メキシコ・パナマ・コスタリカと同じく、グアテマラの一時停止標識は「ALTO」。"
+  },
+  "hawaii/mHA9": {
+    "exclude": "言語の説明"
+  },
+  "hawaii/bZoK": {
+    "kind": "route",
+    "ja": "ハワイの州道の盾形はギターのピックのような形で、数字が下のほうに書かれている。ハワイの多くの標識は黄色い支柱に付いている。"
+  },
+  "puerto-rico/avsT": {
+    "exclude": "言語の説明"
+  },
+  "puerto-rico/nXMf": {
+    "kind": "speed",
+    "ja": "プエルトリコの速度制限標識は、形も大きさもアメリカ本土と同じだが、必ずスペイン語で書かれている。"
+  },
+  "puerto-rico/MALI": {
+    "kind": "stop",
+    "required": [
+      "puerto-rico",
+      "dominican-republic",
+      "argentina",
+      "bolivia",
+      "brazil",
+      "chile",
+      "colombia",
+      "ecuador",
+      "peru",
+      "uruguay"
+    ],
+    "ja": "プエルトリコの一時停止標識は「STOP」ではなく「PARE」。「PARE」は南アメリカ全域とドミニカ共和国でも使われる。"
+  },
+  "panama/ofuG": {
+    "kind": "stop",
+    "optional": [
+      "mexico",
+      "costa-rica",
+      "guatemala"
+    ],
+    "ja": "パナマの一時停止標識はスペイン語の「ALTO」。メキシコ・コスタリカ・グアテマラも「ALTO」だが、字が細い。"
+  },
+  "panama/yg2P": {
+    "kind": "other",
+    "ja": "妙にリアルな目が描かれた赤い八角形の標識は、パナマ独自のもの。"
+  },
+  "canada/DqvA": {
+    "kind": "speed",
+    "ja": "カナダの速度標識には「MAXIMUM」と書かれている。キロ表示なのでアメリカより数字が大きめで、遠くからでも区別できる。アメリカは「SPEED LIMIT」。"
+  },
+  "canada/uDWd": {
+    "kind": "warning",
+    "ja": "カナダの道路標識はアメリカより文字が少ない。たとえば踏切や「譲れ」の標識は、アメリカでは文字入りだが、カナダではふつう文字がない。"
+  },
+  "canada/zycw": {
+    "kind": "warning",
+    "ja": "ひし形の丁字路標識はカナダ独自のもので、世界でカナダだけ。アメリカは長方形の丁字路標識を使う。"
+  },
+  "canada/ThNh": {
+    "exclude": "信号機の支柱で、標識の見た目ではない"
+  },
+  "canada/KYOQ": {
+    "kind": "back",
+    "optional": [
+      "united-states"
+    ],
+    "ja": "カナダでは細い金属の支柱がよく使われる。小さな穴がたくさん開いているか、U字型の断面になっている。"
+  },
+  "canada/hHgh": {
+    "exclude": "言語の説明"
+  },
+  "canada/wU9H": {
+    "kind": "speed",
+    "region": "オンタリオ州・ブリティッシュコロンビア州・ケベック州",
+    "ja": "州によって速度標識が違う。オンタリオ州は下部に「km/h」や「begins」と白字で書かれた黒い部分があることがある。ブリティッシュコロンビア州は「km/h」入りだが黒い部分がない。ケベック州はフランス語のことも。"
+  },
+  "canada/dCuR": {
+    "kind": "back",
+    "region": "ケベック州",
+    "ja": "ケベック州では、支柱のてっぺんに黄色い消火栓マーカーが付いていることが多い。ケベック市では青い長方形付き、トロワリヴィエールでは小さめ。"
+  },
+  "canada/iRPW": {
+    "kind": "warning",
+    "region": "ケベック州",
+    "ja": "ケベック州の丁字路標識には、市松模様がない。"
+  },
+  "canada/yepj": {
+    "kind": "warning",
+    "region": "ニューファンドランド・ラブラドール州",
+    "ja": "ニューファンドランドの丁字路標識は、ひし形のまわりに黄色い長方形の枠がある。"
+  },
+  "canada/J4W5": {
+    "kind": "back",
+    "region": "ブリティッシュコロンビア州（プリンスエドワードアイランド州にも）",
+    "ja": "ブリティッシュコロンビア州の標識は裏が緑色のことがある。プリンスエドワードアイランド州でもわりとよく見られる。"
+  },
+  "canada/DPnH": {
+    "kind": "back",
+    "region": "ブリティッシュコロンビア州",
+    "ja": "ブリティッシュコロンビア州では、独特な支柱から標識が吊り下げられていることがある。"
+  },
+  "canada/Xhjx": {
+    "kind": "back",
+    "region": "マニトバ州",
+    "ja": "マニトバ州の支柱には、緑と白の縞模様のステッカーが貼られていることがある。"
+  },
+  "canada/JWTI": {
+    "kind": "back",
+    "region": "サスカチュワン州",
+    "ja": "サスカチュワン州の支柱には白い三角形が付いていることがある（数はいろいろ）。"
+  },
+  "canada/bfXS": {
+    "kind": "stop",
+    "region": "ケベック州",
+    "ja": "「ARRÊT」と書かれた一時停止標識はケベック州独自のもの。"
+  },
+  "canada/C7EA": {
+    "kind": "stop",
+    "region": "ニューブランズウィック州",
+    "ja": "「STOP」と「ARRÊT」の両方が書かれた一時停止標識は、ニューブランズウィック州で最も多い。ほかの州でもまれに見られる。"
+  },
+  "canada/Qvdu": {
+    "kind": "street",
+    "region": "ニューブランズウィック州など",
+    "ja": "ニューブランズウィック州の道路名標識は2言語表記。一時停止標識と違って、カナダのほかのフランス語圏の地域でも見られる。"
+  },
+  "canada/f2ba": {
+    "exclude": "道路番号の仕組みの説明"
+  },
+  "canada/gj69": {
+    "exclude": "ガードレールの柱の説明"
+  },
+  "canada/D1Vh": {
+    "kind": "other",
+    "region": "ニューファンドランド・ラブラドール州",
+    "ja": "ニューファンドランドでは、消火栓の横にひし形のマーカーが立っていることが多い。"
+  },
+  "canada/Izqw": {
+    "kind": "back",
+    "region": "ニューファンドランド・ラブラドール州",
+    "ja": "ニューファンドランド・ラブラドール州では、標識を支える木の箱が見られる。"
+  },
+  "canada/tfjm": {
+    "kind": "chevron",
+    "region": "ケベック州",
+    "ja": "赤と白のシェブロンを使うのは、カナダではケベック州だけ。ほかの州は黄色と黒。"
+  },
+  "canada/ivWy": {
+    "kind": "street",
+    "region": "ヌナブト準州イカルイト",
+    "ja": "ヌナブト準州の州都イカルイトでは、2言語表記のターコイズ色の道路名標識が使われる。速度標識も2言語表記。"
+  },
+  "canada/9HIG": {
+    "kind": "street",
+    "region": "マニトバ州チャーチル",
+    "ja": "マニトバ州北部の町チャーチルには、独特な道路名標識がある。"
+  },
+  "us-virgin-islands/Nfmm": {
+    "exclude": "言語の説明"
+  },
+  "bhutan/3qFe": {
+    "kind": "other",
+    "ja": "ブータンの都市でよく見かける赤や青の標識。今いる町の名前が書かれていることが多い。"
+  },
+  "bhutan/tkrk": {
+    "kind": "back",
+    "required": [
+      "bhutan",
+      "bangladesh",
+      "malaysia",
+      "sri-lanka",
+      "nepal",
+      "india"
+    ],
+    "ja": "白黒の縞模様の支柱。アジアでは、ブータン、バングラデシュ、マレーシア、スリランカ、ネパール、インドで見られる。ほかの手がかりも確認しよう。"
+  },
+  "bangladesh/kiNu": {
+    "kind": "back",
+    "required": [
+      "bangladesh",
+      "bhutan",
+      "malaysia",
+      "sri-lanka",
+      "nepal",
+      "india"
+    ],
+    "ja": "白黒の縞模様の支柱。アジアでは、バングラデシュ、ブータン、マレーシア、スリランカ、ネパール、インドで見られる。ほかの手がかりも確認しよう。"
+  },
+  "cambodia/1PXc": {
+    "kind": "chevron",
+    "ja": "カンボジアのシェブロンは黒地に黄色い矢印。シェブロン自体は少なめで、カーブにはボラードを使うことが多い。東南アジアのほかの国はすべて逆の配色（黄色地に黒）。"
+  },
+  "cambodia/llUG": {
+    "exclude": "政党の看板"
+  },
+  "cambodia/2RXL": {
+    "exclude": "言語の説明"
+  },
+  "hong-kong/cYCy": {
+    "exclude": "言語の説明"
+  },
+  "hong-kong/HC1Y": {
+    "kind": "direction",
+    "ja": "香港の道路標識は、太い黒枠で囲まれた白い長方形で、2言語表記。"
+  },
+  "hong-kong/2RUz": {
+    "kind": "giveway",
+    "ja": "香港の「譲れ」標識は、太い赤枠の白い逆三角形で、2言語表記。"
+  },
+  "hong-kong/M4e3": {
+    "exclude": "タクシーの説明"
+  },
+  "jordan/pOx9": {
+    "exclude": "言語の説明"
+  },
+  "jordan/gP2h": {
+    "kind": "chevron",
+    "ja": "ヨルダンのシェブロンは白地に赤い矢印。イスラエルとの区別に使える（イスラエルは黒地に白）。"
+  },
+  "laos/3hIR": {
+    "kind": "stop",
+    "ja": "ラオス文字が書かれた一時停止標識。下にラテン文字で「STOP」と書かれていることも。ラオスの標識は文字が2つ、タイは3つ。"
+  },
+  "laos/Vgk1": {
+    "kind": "back",
+    "region": "ルアンパバーン",
+    "ja": "ラオスで青い標識の裏面が見られるのはルアンパバーンだけ。"
+  },
+  "laos/ootv": {
+    "exclude": "町の説明"
+  },
+  "israel-west-bank/LiS4": {
+    "kind": "chevron",
+    "ja": "イスラエルのシェブロンは黒地に白。"
+  },
+  "israel-west-bank/QlFr": {
+    "kind": "stop",
+    "ja": "イスラエルの一時停止標識は、「止まれ」の文字ではなく手のマークが描かれている。"
+  },
+  "israel-west-bank/5SOq": {
+    "kind": "warning",
+    "ja": "電柱によく付いている黄色い警告標識。イスラエルで見られる。"
+  },
+  "israel-west-bank/rMis": {
+    "kind": "street",
+    "region": "エルサレム",
+    "ja": "細い青枠の白い長方形の標識は、主にエルサレムで見られる。"
+  },
+  "israel-west-bank/5VTI": {
+    "kind": "back",
+    "region": "キルヤト・モツキン",
+    "ja": "黄色いフェンスと支柱はキルヤト・モツキン独自のもの。"
+  },
+  "israel-west-bank/0SY5": {
+    "kind": "street",
+    "region": "ベツレヘム",
+    "ja": "左上にアラビア数字、右下に東アラビア数字、間に斜線が入った青い番地表示。ベツレヘムで見られ、道路名標識も同じ形式。"
+  },
+  "israel-west-bank/ohFr": {
+    "kind": "other",
+    "region": "ラアナナ",
+    "ja": "とても分厚い、または大きな立方体に付いたロータリー標識。イスラエルのラアナナで見られる。"
+  },
+  "kazakhstan/V4BR": {
+    "exclude": "インフラ全般の比較画像"
+  },
+  "kazakhstan/tkTf": {
+    "kind": "street",
+    "ja": "建物に付いた青い道路名標識で、上下に白い模様が入っている。2〜3言語表記で、QRコード付きのことも。カザフスタンのもの。同じ町でもデザインはばらばら。"
+  },
+  "kazakhstan/PuS7": {
+    "kind": "chevron",
+    "ja": "近隣の国と違い、カザフスタンは主に黄色と黒のシェブロンを使う。ただし丁字路では一般的な赤と白のシェブロン。"
+  },
+  "kazakhstan/TwXs": {
+    "exclude": "QRコードの説明"
+  },
+  "kazakhstan/Dsyl": {
+    "exclude": "都市ごとの解説"
+  },
+  "japan/f6X5": {
+    "exclude": "言語の説明"
+  },
+  "japan/or2V": {
+    "kind": "route",
+    "ja": "日本の県道は六角形の標識で示される。番号の下に県名が漢字で書かれていることが多い。"
+  },
+  "japan/JhXh": {
+    "kind": "other",
+    "ja": "日本でよく見かけるインフラ：独特な一時停止標識（逆三角形の「止まれ」）、通学路の横断歩道標識、カーブミラー。"
+  },
+  "japan/qIFc": {
+    "kind": "back",
+    "region": "都道府県ごと",
+    "ja": "日本の多くの都道府県では、支柱に独自のステッカーが貼られている。"
+  },
+  "japan/yMq5": {
+    "exclude": "ガードレールのステッカー"
+  },
+  "japan/yru1": {
+    "kind": "other",
+    "region": "香川県",
+    "ja": "黄色い丸が2つ付いた黒い標識。香川県で見られる。積み重なったものや、矢印付きのものもある。"
+  },
+  "japan/tF8q": {
+    "exclude": "言語の説明"
+  },
+  "kyrgyzstan/qgtB": {
+    "exclude": "風景の説明"
+  },
+  "macau/3QHj": {
+    "kind": "street",
+    "ja": "中国語とポルトガル語が書かれた、青い縁取りの白い道路名標識。マカオ独自のもの。"
+  },
+  "malaysia/rEQ4": {
+    "kind": "stop",
+    "ja": "「BERHENTI」の一時停止標識と「BERI LALUAN」の譲れ標識は、マレーシア独自のもの。"
+  },
+  "malaysia/LlHN": {
+    "kind": "direction",
+    "ja": "マレーシアの典型的な案内標識。黄色い六角形の高速道路番号はマレーシア独自のもの。"
+  },
+  "malaysia/X4Fj": {
+    "kind": "back",
+    "required": [
+      "malaysia",
+      "bhutan",
+      "bangladesh",
+      "sri-lanka",
+      "nepal",
+      "india"
+    ],
+    "ja": "マレーシアの支柱はほぼ必ず白黒の縞模様。アジアでは、ブータン、バングラデシュ、スリランカ、ネパール、インドでも見られる。"
+  },
+  "malaysia/4IWF": {
+    "exclude": "郵便番号の説明"
+  },
+  "malaysia/lopw": {
+    "kind": "street",
+    "region": "ジョホール州（ヌグリ・スンビラン州南部にも）",
+    "ja": "黒い縁取りの黄色い道路名標識はジョホール州のもの。矢印形の道路名標識はマレーシア独自。ヌグリ・スンビラン州南部にも黄色いものがあるが、矢印の先だけが黒い。"
+  },
+  "malaysia/m7su": {
+    "kind": "street",
+    "region": "サバ州",
+    "ja": "左側に「JKR」と書かれた黄色い六角形が付いた、矢印形の緑の道路名標識。サバ州で見られる。"
+  },
+  "singapore/oACN": {
+    "kind": "street",
+    "ja": "シンガポールの道路名標識はすべて同じ形式。角の丸い緑の板に、独特な白い文字。"
+  },
+  "singapore/9Mue": {
+    "kind": "direction",
+    "ja": "シンガポールの案内標識も緑に白文字で、英語表記。高速道路はTPEのような3文字の略号で示される。"
+  },
+  "singapore/gJnM": {
+    "kind": "other",
+    "ja": "シンガポールの道路標識は、必ず四角い白い背景板の上に描かれている。ほかの国ではまず見ない。"
+  },
+  "singapore/sB3c": {
+    "exclude": "地名の説明"
+  },
+  "singapore/KPH6": {
+    "exclude": "島の風景の説明"
+  },
+  "south-korea/58U2": {
+    "kind": "warning",
+    "ja": "韓国の三角形の警戒標識は黄色地。速度制限などの丸い規制標識や、譲れ標識は白地。"
+  },
+  "south-korea/8REn": {
+    "kind": "street",
+    "ja": "韓国の道路名標識は青い矢印形で、電柱に取り付けた金属の棒から吊り下げられていることが多い。"
+  },
+  "south-korea/eD76": {
+    "kind": "direction",
+    "ja": "韓国の案内標識は緑地に白文字。"
+  },
+  "south-korea/emG8": {
+    "kind": "pedestrian",
+    "ja": "韓国の横断歩道標識は、五角形と青い背景の組み合わせで簡単に見分けられる。"
+  },
+  "south-korea/zUjA": {
+    "exclude": "番地表示の地域解説"
+  },
+  "qatar/XQGn": {
+    "kind": "chevron",
+    "ja": "カタールのシェブロンは赤地に白、または青地に白。"
+  },
+  "qatar/Bcaj": {
+    "kind": "pedestrian",
+    "ja": "カタールの横断歩道標識には、トーブ（白い民族衣装）を着た男性が描かれている。"
+  },
+  "qatar/eMIV": {
+    "exclude": "地図つき解説図"
+  },
+  "qatar/IrTG": {
+    "kind": "street",
+    "region": "エデュケーション・シティ",
+    "ja": "地面に固定されていることが多い茶色い道路名標識。カタールのエデュケーション・シティで見られる。"
+  },
+  "philippines/DIih": {
+    "kind": "chevron",
+    "ja": "フィリピンのシェブロンは、白地に赤がふつう。"
+  },
+  "philippines/aUOw": {
+    "kind": "back",
+    "ja": "フィリピンの支柱は、赤・オレンジ・黄色に塗られていることが多い。"
+  },
+  "philippines/NKYi": {
+    "exclude": "言語の説明"
+  },
+  "philippines/KVEg": {
+    "exclude": "州名の説明"
+  },
+  "sri-lanka/mWPv": {
+    "kind": "back",
+    "required": [
+      "sri-lanka",
+      "bhutan",
+      "bangladesh",
+      "malaysia",
+      "nepal",
+      "india"
+    ],
+    "ja": "スリランカでは白黒の縞模様の支柱がよく使われる。南アジア・東南アジアでは、バングラデシュ、ブータン、インド、ネパール、マレーシアでも見られる。"
+  },
+  "sri-lanka/I2B3": {
+    "exclude": "宗教の説明"
+  },
+  "sri-lanka/1YKV": {
+    "exclude": "言語の説明"
+  },
+  "mongolia/2q6G": {
+    "kind": "stop",
+    "ja": "モンゴルのインフラはロシアの影響が強いが、「ЗОГС」と書かれた一時停止標識はモンゴル独自のもの。"
+  },
+  "mongolia/vVxd": {
+    "exclude": "都市の説明"
+  },
+  "mongolia/HXZm": {
+    "exclude": "都市の説明"
+  },
+  "oman/5QM5": {
+    "exclude": "言語の説明"
+  },
+  "oman/WjNO": {
+    "kind": "direction",
+    "optional": [
+      "united-arab-emirates",
+      "qatar"
+    ],
+    "ja": "オマーンの案内標識は青地に白文字で、アラビア語と英語の2言語表記が多い。UAEとカタールも似た標識を使う。"
+  },
+  "oman/hxXh": {
+    "kind": "back",
+    "required": [
+      "oman",
+      "united-arab-emirates"
+    ],
+    "ja": "白黒の縞模様の支柱。中東でこの支柱があるのはオマーンとUAEだけ。"
+  },
+  "oman/80ME": {
+    "kind": "chevron",
+    "ja": "オマーンのシェブロンは黒と黄色で、矢印の数がやけに多い。"
+  },
+  "oman/XuIA": {
+    "exclude": "ゴミ箱のステッカー"
+  },
+  "oman/HxCO": {
+    "exclude": "道路の風景の説明"
+  },
+  "united-arab-emirates/oJYL": {
+    "exclude": "言語の説明"
+  },
+  "united-arab-emirates/lRZb": {
+    "kind": "back",
+    "required": [
+      "united-arab-emirates",
+      "oman"
+    ],
+    "ja": "白黒の縞模様の支柱。中東ではUAEとオマーンで見られる。"
+  },
+  "united-arab-emirates/b44v": {
+    "kind": "street",
+    "region": "ドバイ",
+    "ja": "細い金属の縁取りがある青い道路名標識は、ドバイのもの。"
+  },
+  "nepal/8n9O": {
+    "kind": "back",
+    "required": [
+      "nepal",
+      "bhutan",
+      "bangladesh",
+      "malaysia",
+      "sri-lanka",
+      "india"
+    ],
+    "ja": "ネパールの白黒の縞模様の支柱。南アジア・東南アジアでは、インド、ブータン、バングラデシュ、スリランカ、マレーシアでも使われる。"
+  },
+  "taiwan/m9ZV": {
+    "kind": "chevron",
+    "optional": [
+      "thailand",
+      "malaysia",
+      "indonesia",
+      "vietnam",
+      "laos"
+    ],
+    "ja": "台湾のシェブロンは黄色地に黒。東南アジアの多くの国も同じ配色。"
+  },
+  "taiwan/3RIG": {
+    "exclude": "郡ごとの文字の解説図"
+  },
+  "taiwan/t3mm": {
+    "kind": "back",
+    "region": "屏東県・高雄市・台東県",
+    "ja": "黒と黄色の縞模様のステッカーが2本貼られた、曲がった標識・シェブロンの支柱。台湾の屏東県、高雄市、台東県だけで見られる。"
+  },
+  "turkey/QOm1": {
+    "kind": "chevron",
+    "optional": [
+      "bulgaria",
+      "romania",
+      "north-macedonia"
+    ],
+    "ja": "トルコのシェブロンはふつう白地に赤。矢印の先がシェブロンの端に届いていないことが多い。蛍光黄色の縁取りが付いたものもある。"
+  },
+  "turkey/qFBV": {
+    "kind": "chevron",
+    "ja": "交差点でよく見かける、上向きの矢印がいくつも並んだ黒と黄色の独特なシェブロン。トルコのもの。"
+  },
+  "turkey/ccW4": {
+    "kind": "chevron",
+    "required": [
+      "turkey",
+      "south-africa"
+    ],
+    "ja": "赤と白の細いシェブロン。トルコでときどき見られ、南アフリカにもほぼ同じものがある。"
+  },
+  "turkey/9RlL": {
+    "kind": "direction",
+    "ja": "トルコの案内標識は、字間がとても広い独特なフォントで見分けられる。"
+  },
+  "turkey/eM9J": {
+    "kind": "stop",
+    "ja": "「DUR」と書かれた一時停止標識は、トルコ独自のもの。"
+  },
+  "turkey/Zdx7": {
+    "exclude": "キロポストの番号の解説"
+  },
+  "turkey/n73Y": {
+    "kind": "chevron",
+    "region": "バルケシル県周辺・カルス県",
+    "ja": "黒地に黄色のシェブロン。トルコ西部のバルケシル県周辺と、東端のカルス県で主に見られる。"
+  },
+  "turkey/niOS": {
+    "kind": "chevron",
+    "region": "イズミル以北",
+    "ja": "黄色地に黒のシェブロン。トルコのイズミルより北で主に見られる。"
+  },
+  "turkey/ZAFL": {
+    "kind": "street",
+    "region": "アンカラ県（まれにギレスン）",
+    "ja": "上部が小さく丸い青い道路名標識。トルコのアンカラ県のもので、まれにギレスンでも見られる。新しいものは赤いこともある。"
+  },
+  "turkey/wPss": {
+    "kind": "street",
+    "region": "イズミル県",
+    "ja": "外側にふくらんだ濃い青の道路名標識で、上部に白いイズミルの紋章が入っていることが多い。トルコのイズミル県のもの。"
+  },
+  "turkey/5hkj": {
+    "kind": "other",
+    "region": "ボズジャアダ島",
+    "ja": "水色とグレーの観光案内標識（矢印形、または上部が半円の長方形）。トルコのボズジャアダ島で見られる。"
+  },
+  "turkey/bl0n": {
+    "kind": "street",
+    "region": "イスタンブールなど",
+    "ja": "下部に色付きの帯がある赤い道路名標識。右下の白い矢印が両方向を向いていて、矢じりが1つならほぼイスタンブール。"
+  },
+  "turkey/xnIM": {
+    "kind": "street",
+    "region": "トラブゾン・ヤルバチ",
+    "ja": "赤い楕円形の道路名標識。トルコのトラブゾンとヤルバチで見られ、番地表示も同じデザイン。"
+  },
+  "turkey/NL3Y": {
+    "kind": "street",
+    "region": "ブルサ",
+    "ja": "文字が少し浮き出た緑の道路名標識。トルコのブルサのもので、フェンスやガードレールも緑のことがある。"
+  },
+  "turkey/l1rB": {
+    "kind": "street",
+    "region": "ボル",
+    "ja": "完全に平らで縁取りのない緑の道路名標識。トルコのボルで見られる。"
+  },
+  "thailand/LKJb": {
+    "kind": "back",
+    "ja": "タイの支柱は四角くてがっしりした白い柱で、根元が黒く塗られていることが多い。東南アジアではタイ独自のデザイン。"
+  },
+  "thailand/1K3M": {
+    "kind": "direction",
+    "ja": "小さな道路のタイの案内標識は白く、下の矢印の板と上の情報の板の2枚組。地名がないときは道路番号とガルーダの紋章だけ。幹線道路の標識は緑。"
+  },
+  "thailand/ahtf": {
+    "kind": "stop",
+    "ja": "タイの一時停止標識はタイ文字で書かれている。ラオスの標識も似た文字だが、文字数が2つ（タイは3つ）。"
+  },
+  "thailand/xPZV": {
+    "kind": "other",
+    "ja": "タイの小さな村などでよく見かける独特な緑の標識。ほかの国では見られない。"
+  },
+  "thailand/03iF": {
+    "exclude": "県の略称の解説"
+  },
+  "thailand/UnwR": {
+    "exclude": "言語・宗教の説明"
+  },
+  "thailand/nnts": {
+    "kind": "street",
+    "region": "バンコク・ノンタブリー",
+    "ja": "青い部分の下に小さな緑の部分がある道路名標識。タイのバンコクとノンタブリーで見られる。"
+  },
+  "thailand/V83y": {
+    "kind": "street",
+    "region": "パタヤ",
+    "ja": "兜のような形の道路名標識は、タイのパタヤ市だけ。"
+  },
+  "thailand/uY5m": {
+    "kind": "street",
+    "region": "チェンライ",
+    "ja": "金色の装飾の縁取りが付いた赤い道路名標識。タイのチェンライ市で見られる（同じ縁取りの青いものもある）。"
+  },
+  "andorra/LHX7": {
+    "kind": "pedestrian",
+    "required": [
+      "andorra",
+      "spain"
+    ],
+    "ja": "アンドラの横断歩道標識は縞が8本。ヨーロッパで8本縞なのはアンドラとスペインだけ。"
+  },
+  "belarus/nIJX": {
+    "exclude": "言語の説明"
+  },
+  "belarus/USRk": {
+    "kind": "street",
+    "region": "ミンスク中心部",
+    "ja": "ミンスク中心部の道路名標識は青緑色で、ほぼどこでも見られる。近づけばベラルーシ語で「通り」を意味する「вул」が読める。"
+  },
+  "azores/fva4": {
+    "exclude": "ポルトガル式インフラ全般の比較画像"
+  },
+  "azores/159s": {
+    "kind": "street",
+    "ja": "アゾレス諸島の道路名標識は、ほぼすべて青い文字のタイル絵で、ふちに装飾模様がある。"
+  },
+  "azores/rdxB": {
+    "kind": "back",
+    "required": [
+      "azores",
+      "madeira"
+    ],
+    "ja": "アゾレス諸島の支柱はよく縞模様に塗られている。マデイラ諸島でも見られる。"
+  },
+  "albania/83ib": {
+    "kind": "chevron",
+    "required": [
+      "albania",
+      "italy",
+      "greece",
+      "spain"
+    ],
+    "optional": [
+      "israel-west-bank"
+    ],
+    "ja": "黒地に白のシェブロン。南ヨーロッパではアルバニア、イタリア、ギリシャ、スペインで使われる。モンテネグロは白地に黒、黄色地に赤。"
+  },
+  "albania/Ndso": {
+    "kind": "back",
+    "required": [
+      "albania",
+      "italy",
+      "romania"
+    ],
+    "ja": "道路標識の裏が黒く塗られていることが多い。アルバニア、イタリア、ルーマニアで見られる。"
+  },
+  "albania/QA4i": {
+    "kind": "stop",
+    "required": [
+      "albania",
+      "italy"
+    ],
+    "ja": "アルバニアの一時停止標識の「S」は独特で、両端が短く、真ん中と同じ角度になっている。イタリアの標識も同じ字形。"
+  },
+  "albania/IKcR": {
+    "kind": "speed",
+    "ja": "アルバニアの速度標識の数字は太字。モンテネグロのものはずっと細い。"
+  },
+  "austria/0Ecv": {
+    "kind": "chevron",
+    "optional": [
+      "germany"
+    ],
+    "ja": "オーストリアのシェブロンは赤地に白、または黄色地に赤。ドイツは主に白地に赤で、まれに黄色地に赤。"
+  },
+  "austria/W0XX": {
+    "kind": "direction",
+    "ja": "オーストリアの案内標識は、白地に青い縁取りで、独特なフォント。"
+  },
+  "austria/xfLD": {
+    "kind": "street",
+    "ja": "オーストリアの町の入り口にも、同じく白地に青い縁取り、独特なフォントの標識がある。ドイツの町名標識は黄色に黒い縁取り。"
+  },
+  "austria/jkM9": {
+    "kind": "direction",
+    "ja": "地元の施設への道を示す緑の標識。オーストリアでよく見られる。"
+  },
+  "austria/aurF": {
+    "kind": "pedestrian",
+    "ja": "オーストリアの横断歩道標識は独特で、縞模様の代わりに横向きの破線が2本。周辺の国はすべて縞模様。"
+  },
+  "austria/KsHC": {
+    "kind": "back",
+    "ja": "オーストリアの標識は4つの金属のクリップで留められていることがある。中央ヨーロッパではオーストリアだけ（ほかの留め方も多い）。"
+  },
+  "austria/zEpW": {
+    "kind": "other",
+    "ja": "オーストリアのキロポストは青地に白い数字で、小数点にコンマを使うのでわかりやすい。スロベニアは白、ドイツは細い白い縁取り付き。"
+  },
+  "austria/nkbT": {
+    "kind": "other",
+    "optional": [
+      "germany"
+    ],
+    "ja": "黄色と緑の丸に「H」が入ったバス停標識。ヨーロッパではかなり独特で、似たものがあるのはドイツだけ。"
+  },
+  "austria/wkwt": {
+    "kind": "other",
+    "ja": "「EINBAHN」と書かれた一方通行標識はオーストリア独自のもの。ドイツは「Einbahnstraße」。"
+  },
+  "austria/Aj8O": {
+    "kind": "other",
+    "ja": "オーストリアの駐停車禁止標識には、「Anfang（始まり）」「Ende（終わり）」と書かれていることが多い。"
+  },
+  "austria/Lxtx": {
+    "kind": "other",
+    "optional": [
+      "switzerland"
+    ],
+    "ja": "白い逆さのT字が描かれたシンプルな行き止まり標識は、ほぼオーストリア独自。スイスの古いカバレッジでも見られる。"
+  },
+  "austria/6K4Z": {
+    "kind": "back",
+    "region": "フォアアールベルク州",
+    "ja": "電柱や支柱に巻かれた黄色と白の縞模様は、オーストリアのフォアアールベルク州のもの。"
+  },
+  "austria/yHR2": {
+    "kind": "other",
+    "region": "ブルゲンラント州",
+    "ja": "緑の「Güterweg（農道）」標識は、オーストリアのブルゲンラント州で見られる。"
+  },
+  "austria/FhCj": {
+    "kind": "other",
+    "region": "オーバーエスターライヒ州",
+    "ja": "黒い縁取りの白い「Güterweg（農道）」標識は、主にオーストリアのオーバーエスターライヒ州で見られる。"
+  },
+  "austria/byhm": {
+    "kind": "other",
+    "region": "ニーダーエスターライヒ州",
+    "ja": "州旗の色と同じ、黄色と青の縁取りの標識。オーストリアのニーダーエスターライヒ州で見られる。"
+  },
+  "austria/auEK": {
+    "exclude": "地図つき解説図"
+  },
+  "austria/whoL": {
+    "exclude": "都市ごとの解説図"
+  },
+  "croatia/eUrn": {
+    "kind": "chevron",
+    "ja": "クロアチアのシェブロンは、黄色または白地に赤い矢印。"
+  },
+  "croatia/uILw": {
+    "kind": "direction",
+    "optional": [
+      "slovenia",
+      "serbia",
+      "montenegro",
+      "north-macedonia"
+    ],
+    "ja": "黄色地に黒い縁取りの案内標識で、先が鉛筆のようにとがっていることが多い。クロアチアのもの。旧ユーゴスラビアのスロベニア、セルビア、モンテネグロ、北マケドニアにも似た標識がある。"
+  },
+  "croatia/mubM": {
+    "kind": "pedestrian",
+    "ja": "クロアチアの横断歩道標識は、ベルトをした歩行者と5本の縞。スロベニアの歩行者はベルトをしていない。"
+  },
+  "croatia/79X3": {
+    "kind": "street",
+    "region": "イストリア半島",
+    "ja": "クロアチア語とイタリア語の2言語の道路名標識。主にイストリア半島、特に西部の町で見られる。"
+  },
+  "bulgaria/AxEF": {
+    "exclude": "言語の説明"
+  },
+  "bulgaria/D7we": {
+    "exclude": "言語の説明"
+  },
+  "bulgaria/rCxW": {
+    "kind": "chevron",
+    "required": [
+      "bulgaria",
+      "romania",
+      "turkey",
+      "north-macedonia"
+    ],
+    "ja": "ブルガリアのシェブロンはふつう白地に赤。近隣ではルーマニア、トルコ、北マケドニアも同じ。ギリシャとセルビアは白黒。"
+  },
+  "bulgaria/IGYS": {
+    "kind": "direction",
+    "ja": "ブルガリアの案内標識は青い矢印形で、キリル文字とラテン文字の2行表記。遠くからでも2行あることがわかる。"
+  },
+  "bulgaria/lskQ": {
+    "kind": "street",
+    "ja": "ブルガリアの町の入り口の標識はシンプルな白で、キリル文字とラテン文字の2行表記。"
+  },
+  "bulgaria/ZCSx": {
+    "kind": "pedestrian",
+    "ja": "ブルガリアの横断歩道標識は縞が4本で、歩行者が帽子をかぶっている。東・中央ヨーロッパで4本縞はブルガリアだけ。"
+  },
+  "bulgaria/7hxS": {
+    "kind": "street",
+    "region": "ソフィア",
+    "ja": "上の一部と下に赤い帯が2本入った白い道路名標識。ブルガリアのソフィアで見られる。"
+  },
+  "bulgaria/sB8m": {
+    "kind": "street",
+    "region": "スタラ・ザゴラ",
+    "ja": "明るい黄色の文字の茶色い道路名標識。ブルガリアのスタラ・ザゴラで見られる。"
+  },
+  "denmark/SVbg": {
+    "kind": "direction",
+    "ja": "デンマークの案内標識はとても独特。地面に近い低い位置にあり、パイプの枠に囲まれている。赤と白、または青と白で、背景に方向の矢印が組み込まれている。"
+  },
+  "denmark/qCU5": {
+    "kind": "street",
+    "ja": "デンマークの道路名は「vej（通り）」で終わるものが多い。道路名標識は青地に白文字が最も多い。"
+  },
+  "denmark/X28G": {
+    "kind": "back",
+    "ja": "パイプの枠が標識のまわりで曲げられた支柱は、デンマーク独自のもの。"
+  },
+  "denmark/sRx7": {
+    "kind": "pedestrian",
+    "ja": "デンマークの横断歩道標識は5本縞で、1本目と5本目が白い三角形の端に接しているのが独特。スウェーデンは4本、ノルウェーもほぼ4本。"
+  },
+  "denmark/UVfB": {
+    "kind": "street",
+    "ja": "デンマークで町に入るときに見かける独特な標識。町を出るときは赤い斜線が入る。"
+  },
+  "denmark/ulal": {
+    "kind": "other",
+    "ja": "デンマークのバス停標識は黒と黄色。柱の上に小さな標識が付き、その下に時刻表がある。古い青と白のバージョンもある。"
+  },
+  "denmark/bHDl": {
+    "kind": "chevron",
+    "ja": "デンマークの赤と白のシェブロン。地面に近い低い位置にあることが多い。"
+  },
+  "denmark/cK6E": {
+    "exclude": "地域ごとの解説図"
+  },
+  "denmark/PXr5": {
+    "kind": "other",
+    "region": "ボーンホルム島",
+    "ja": "緑の自転車用標識は、デンマークのボーンホルム島で見られる。"
+  },
+  "estonia/eXbS": {
+    "kind": "chevron",
+    "required": [
+      "estonia",
+      "russia",
+      "ukraine"
+    ],
+    "ja": "赤地に白い矢印のシェブロン。エストニア、ロシア、ウクライナで使われる。ラトビアとリトアニアは逆の配色（白地に赤）。"
+  },
+  "estonia/hkpv": {
+    "kind": "warning",
+    "ja": "エストニアの警戒標識・速度標識は、細い赤い縁取りが標識の端まで続いていて、外側に白い縁がない。バルト三国でそれぞれ縁の形が少し違う。"
+  },
+  "estonia/Kvsf": {
+    "kind": "pedestrian",
+    "optional": [
+      "lithuania"
+    ],
+    "ja": "エストニアの横断歩道標識は3本縞で、歩行者の絵が細かい（靴や頭まで描かれている）。リトアニアも3本縞だが絵が簡素。ラトビアは5本縞。"
+  },
+  "estonia/DexW": {
+    "kind": "other",
+    "required": [
+      "estonia",
+      "lithuania"
+    ],
+    "ja": "バスの窓が4つのバス停標識。エストニアとリトアニアで使われる。ラトビアは窓が5つ。"
+  },
+  "estonia/Amwu": {
+    "kind": "back",
+    "required": [
+      "estonia",
+      "finland",
+      "sweden"
+    ],
+    "ja": "支柱に巻かれた青と白のラッピング。エストニアでとてもよく見られ、フィンランドやスウェーデンでも多い。"
+  },
+  "estonia/0aRY": {
+    "kind": "direction",
+    "optional": [
+      "lithuania"
+    ],
+    "ja": "エストニアの案内標識は、白文字と白い縁取りの青地。フィンランドは矢印が白い縁取りに組み込まれ、ラトビアは矢印のデザインがより凝っている。"
+  },
+  "estonia/lh3B": {
+    "exclude": "言語の説明"
+  },
+  "czechia/7uBV": {
+    "kind": "back",
+    "required": [
+      "czechia",
+      "slovakia"
+    ],
+    "ja": "赤と白の縞模様の仮設の四角い支柱。チェコとスロバキアでよく見られる。"
+  },
+  "czechia/t6TO": {
+    "kind": "chevron",
+    "required": [
+      "czechia",
+      "slovakia"
+    ],
+    "optional": [
+      "bulgaria",
+      "romania",
+      "turkey",
+      "north-macedonia"
+    ],
+    "ja": "チェコとスロバキアのシェブロンは白地に赤い矢印。黄色地に赤のものもまれにある。"
+  },
+  "czechia/ShNI": {
+    "kind": "other",
+    "required": [
+      "czechia",
+      "slovakia"
+    ],
+    "optional": [
+      "poland",
+      "hungary"
+    ],
+    "ja": "白い帯2本の間に色付きの帯が1本入ったハイキングの道しるべ。チェコとスロバキアで特によく見られ、ポーランドやハンガリーなどにも似たものがある。"
+  },
+  "czechia/AWb6": {
+    "kind": "other",
+    "ja": "第4世代のカバレッジで、橋の端によくある黒い標識。左側に道路番号が書かれている。チェコのもの。"
+  },
+  "czechia/k92w": {
+    "kind": "direction",
+    "ja": "先端が塗りつぶされた矢印形の案内標識。形が独特なので裏からでもわかる。チェコのもの（スロバキアは小さな白い矢印）。"
+  },
+  "czechia/GIEo": {
+    "kind": "other",
+    "ja": "チェコの道路標識の縁取りは、ほぼ必ず端から少し離れていて、外側に地の色の帯がある。スロバキアは縁取りが端にあることが多い。"
+  },
+  "czechia/Csne": {
+    "kind": "direction",
+    "ja": "チェコの高速道路標識は青または緑で、細い白い縁取りがあり、その外側にもう一重、地の色の縁がある。スロバキアは白い縁取りが端にある。"
+  },
+  "czechia/CR8x": {
+    "kind": "street",
+    "ja": "チェコで最も一般的な道路名標識は、壁に貼られた横長、または支柱に付いた細い、鮮やかな赤い標識。青いものもよくある。"
+  },
+  "czechia/ZA6H": {
+    "kind": "other",
+    "ja": "チェコの番地表示は、細い白い縁取りの青または赤の板が一般的。スロバキアは赤か黒の細い縁取りの白い板。"
+  },
+  "czechia/PETs": {
+    "kind": "back",
+    "ja": "チェコの支柱には、ふつう太くて黒いキャップが付いている。スロバキアにはほぼない。"
+  },
+  "czechia/47QH": {
+    "kind": "pedestrian",
+    "ja": "チェコの横断歩道標識は5本縞。スロバキアの標識は縞が小さめで、外側の縞と三角形の端の間に余白がある。"
+  },
+  "czechia/tF8d": {
+    "kind": "other",
+    "optional": [
+      "germany",
+      "luxembourg"
+    ],
+    "ja": "チェコの道路標識はフォントがかなり細い。スロバキアはずっと太い。ドイツやルクセンブルクも同じフォント。"
+  },
+  "czechia/AhNO": {
+    "kind": "other",
+    "ja": "チェコの自転車用標識は黄色。白の代わりに黄色の帯を使った、ハイキングの道しるべに似たマークもある。"
+  },
+  "czechia/laf3": {
+    "kind": "warning",
+    "ja": "チェコの踏切標識には背景の板がない。スロバキアのものは白い長方形の背景がある。"
+  },
+  "czechia/b6fI": {
+    "kind": "street",
+    "region": "東部（特にオストラヴァ）",
+    "ja": "青い道路名標識は国内のどこにでもあるが、東部に多い。主要都市で青を主に使うのはオストラヴァだけ。"
+  },
+  "czechia/qmvg": {
+    "kind": "street",
+    "region": "スロバキア国境付近",
+    "ja": "青い文字と赤い縁取りの白い道路名標識（スロバキアでよく見るタイプ）があれば、チェコのスロバキア国境付近。"
+  },
+  "czechia/Ilr9": {
+    "kind": "street",
+    "region": "東部・南部（ブルノなど）",
+    "ja": "赤い文字の白い道路名標識。チェコの東部や南端で多く、ブルノがこのデザイン。"
+  },
+  "czechia/nepH": {
+    "kind": "street",
+    "region": "東部・中北部",
+    "ja": "青い文字の白い道路名標識。チェコの東部で最も多く、中北部でも見られる。"
+  },
+  "czechia/zEn7": {
+    "kind": "street",
+    "region": "南東部",
+    "ja": "黒い文字の白い道路名標識。チェコの南東部で多い。青い文字のものとよく似ている。"
+  },
+  "czechia/JvWn": {
+    "kind": "street",
+    "region": "チェスキー・チェシーン",
+    "ja": "ポーランド語との2言語の道路名標識。チェコのチェスキー・チェシーンで見られる。"
+  },
+  "czechia/xxAw": {
+    "kind": "street",
+    "region": "シュンペルク",
+    "ja": "文字が標識いっぱいに書かれた青い道路名標識。チェコのシュンペルクのもの。"
+  },
+  "faroe-islands/AtU1": {
+    "kind": "direction",
+    "optional": [
+      "iceland"
+    ],
+    "ja": "細い黒い縁取りと金属の枠が付いた黄色い案内標識。フェロー諸島のもので、アイスランドのものとよく似ている。"
+  },
+  "gibraltar/iUcf": {
+    "exclude": "言語の説明"
+  },
+  "finland/dvdW": {
+    "kind": "street",
+    "ja": "フィンランドの道路名は「tie」や「katu」で終わるものが多い。道路名標識は白地に黒文字が最も多い。"
+  },
+  "finland/n3ab": {
+    "kind": "warning",
+    "required": [
+      "finland",
+      "sweden",
+      "iceland"
+    ],
+    "ja": "黄色地の道路標識。フィンランド、スウェーデン、アイスランドで使われる。ノルウェーは白地。"
+  },
+  "finland/XM2x": {
+    "kind": "other",
+    "ja": "赤い縁取りの交通標識の端に細い黄色の線が入っている。北欧ではフィンランドだけ。"
+  },
+  "finland/a1ax": {
+    "kind": "pedestrian",
+    "ja": "フィンランドの横断歩道標識は5本縞。スウェーデンとノルウェーはふつう4本（ノルウェーではまれに5本）。"
+  },
+  "finland/6iou": {
+    "kind": "direction",
+    "ja": "フィンランドの案内標識は、青地に白文字で、白い縁取りに案内の矢印が組み込まれている。"
+  },
+  "finland/jfJU": {
+    "kind": "chevron",
+    "optional": [
+      "norway",
+      "iceland"
+    ],
+    "ja": "フィンランドのシェブロンは黒地に黄色い矢印。ノルウェーやアイスランドも似た配色。スウェーデンは独特な青と黄色。"
+  },
+  "finland/A2lU": {
+    "kind": "back",
+    "required": [
+      "finland",
+      "sweden"
+    ],
+    "optional": [
+      "estonia"
+    ],
+    "ja": "支柱に付いた青と白の縞模様のマーキング。フィンランドとスウェーデンで見られる。エストニアにも同じ配色があるが、幅が広めでゆるく巻かれている。"
+  },
+  "finland/zktw": {
+    "kind": "other",
+    "ja": "フィンランドのバス停標識は、青と白、黄色と黒の2種類。スウェーデンは種類が多く、停留所名入りのものがほとんど。"
+  },
+  "finland/lvu5": {
+    "exclude": "道路番号の地域解説"
+  },
+  "finland/T6ca": {
+    "exclude": "言語の説明"
+  },
+  "finland/JnNg": {
+    "kind": "pedestrian",
+    "region": "オーランド諸島",
+    "ja": "オーランド諸島の一部の横断歩道標識は4本縞で、スウェーデンとまったく同じデザイン。ただし多くはフィンランド式。"
+  },
+  "finland/6M6z": {
+    "kind": "other",
+    "region": "オーランド諸島",
+    "ja": "オーランド諸島のバス停には4桁の数字が書かれた白い板があり、上に半円の標識が付くこともある。"
+  },
+  "finland/oIBv": {
+    "kind": "other",
+    "region": "タンペレ",
+    "ja": "丸い六角形を形作る7つの金色または暗赤色の突起が付いた赤い長方形の金属板。フィンランドのタンペレの家や街灯、支柱に付いている。"
+  },
+  "finland/APDJ": {
+    "kind": "street",
+    "region": "セイナヨキ・イソキュロ",
+    "ja": "白文字の青い道路名標識。フィンランドのセイナヨキとイソキュロ独自のスタイル。"
+  },
+  "finland/9y8k": {
+    "kind": "street",
+    "region": "ラハティ（まれにクオピオ）",
+    "ja": "黒い縁取りで全部大文字の道路名標識。フィンランドのラハティはほぼこのデザイン。クオピオには太くて詰まったフォントの似た標識がある。"
+  },
+  "finland/ndHC": {
+    "kind": "street",
+    "region": "ケラヴァ",
+    "ja": "左上に青と黄色の紋章が入った道路名標識。フィンランドのケラヴァ市のもの。"
+  },
+  "finland/VWG8": {
+    "kind": "street",
+    "region": "ヤルヴェンパー",
+    "ja": "左上に青とグレーの紋章が入った道路名標識。フィンランドのヤルヴェンパー市のもので、道路名の上に地区名も書かれている。"
+  },
+  "hungary/Vhaj": {
+    "kind": "chevron",
+    "required": [
+      "hungary",
+      "estonia",
+      "russia",
+      "ukraine"
+    ],
+    "ja": "赤地に白い矢印のシェブロン。ハンガリーでよく使われ、エストニア・ロシア・ウクライナも同じ配色。ハンガリーには白黒のシェブロンもあるが少なめ。"
+  },
+  "hungary/N7yw": {
+    "kind": "back",
+    "ja": "ハンガリーの支柱はとても高いことが多く、ストリートビューのカメラより高いこともよくある。"
+  },
+  "hungary/bxAw": {
+    "kind": "back",
+    "ja": "ハンガリーの標識は、縦長の長方形に並んだ4本のボルトで支柱に留められていることが多い。東ヨーロッパのほかの国ではあまり見ない。"
+  },
+  "hungary/Tbty": {
+    "kind": "pedestrian",
+    "ja": "ハンガリーの横断歩道標識は5本縞で、ベルトをした歩行者。ベルトの位置が妙に低いのがハンガリー独特。4本縞でかばんを持った歩行者のタイプもある。"
+  },
+  "hungary/s2B8": {
+    "kind": "route",
+    "ja": "ハンガリーの番号付き道路は、緑の標識の一般道と、「M」で始まる青い標識の高速道路の2種類。番号は小さな盾形の中に書かれている。"
+  },
+  "hungary/XwNR": {
+    "kind": "direction",
+    "ja": "ハンガリーの案内標識はほとんど緑で、内側に白い縁、外側に緑の縁がある。M番号の高速道路では青地。"
+  },
+  "hungary/xpQW": {
+    "kind": "street",
+    "region": "西部",
+    "ja": "太い金属の枠で囲まれた道路名標識があれば、ハンガリー西部の可能性が高い。"
+  },
+  "hungary/8FCa": {
+    "kind": "street",
+    "region": "サボルチ・サトマール・ベレグ県",
+    "ja": "電柱や街灯に付いた青や緑の矢印形の道路名標識。ハンガリーのサボルチ・サトマール・ベレグ県で多い。"
+  },
+  "hungary/gMof": {
+    "exclude": "都市ごとの解説図"
+  },
+  "greece/UvYA": {
+    "kind": "chevron",
+    "required": [
+      "greece",
+      "albania",
+      "italy"
+    ],
+    "optional": [
+      "united-kingdom",
+      "spain"
+    ],
+    "ja": "黒地に白い矢印のシェブロン。ギリシャのもので、アルバニアやイタリアも似ている。イギリスも似た配色で、スペインは矢印が2つか4つのことがほとんど。"
+  },
+  "greece/ZlI6": {
+    "kind": "warning",
+    "ja": "ギリシャの警戒標識は、赤い縁取りに黄色い地。"
+  },
+  "greece/Mulx": {
+    "kind": "direction",
+    "optional": [
+      "cyprus"
+    ],
+    "ja": "ギリシャの案内標識はふつう青い矢印形。地名がギリシャ語は黄色い文字、英語は白い文字で書かれているのが特徴。"
+  },
+  "greece/ui2d": {
+    "kind": "street",
+    "ja": "上下に太い青い帯が入った白い町名標識。ギリシャの町の入り口にある。"
+  },
+  "greece/9dRJ": {
+    "kind": "pedestrian",
+    "ja": "ギリシャの横断歩道標識は、縦の縞ではなく横向きの点線が2本。"
+  },
+  "iceland/X4vj": {
+    "kind": "direction",
+    "ja": "アイスランドの案内標識は黄色。白い枠の中に道路番号が書かれていて、枠が破線なら近くの別の道路の番号。"
+  },
+  "iceland/sZf3": {
+    "kind": "pedestrian",
+    "ja": "アイスランドの横断歩道標識は4本縞で、少し黄色がかっていることが多い。黄色地の横断歩道標識を使うのはヨーロッパでアイスランドだけ。"
+  },
+  "iceland/F8Gs": {
+    "kind": "street",
+    "ja": "アイスランドの道路名標識は白地に黒文字。細い金属の縁があり、街灯や信号機に取り付けられていることが多い。"
+  },
+  "iceland/oi9u": {
+    "kind": "chevron",
+    "optional": [
+      "norway",
+      "finland"
+    ],
+    "ja": "アイスランドのシェブロンは黒地に黄色い矢印。ノルウェーやフィンランドも似た配色。スウェーデンは独特な青と黄色。"
+  },
+  "iceland/1WGJ": {
+    "kind": "warning",
+    "required": [
+      "iceland",
+      "sweden",
+      "finland"
+    ],
+    "ja": "スウェーデンやフィンランドと同じく、アイスランドの標識は黄色地。"
+  },
+  "iceland/C9oY": {
+    "exclude": "道路番号の説明"
+  },
+  "iceland/VW5n": {
+    "exclude": "風景の説明"
+  },
+  "germany/2QHh": {
+    "kind": "back",
+    "optional": [
+      "italy",
+      "romania",
+      "albania"
+    ],
+    "ja": "ドイツの標識の裏はいろいろだが、黒や濃いグレーが多く、これはヨーロッパでは珍しい。黒い長方形に赤い逆三角形のステッカーもよく貼られている。イタリア・ルーマニア・アルバニアにも黒い裏面がある。"
+  },
+  "germany/iiZK": {
+    "kind": "street",
+    "ja": "ドイツの町の入り口の標識は、金属の枠付きの黄色い板に黒い文字。上に町名、真ん中に自治体名、下に郡名が書かれている。"
+  },
+  "germany/6qzp": {
+    "kind": "pedestrian",
+    "required": [
+      "germany",
+      "luxembourg"
+    ],
+    "ja": "ドイツの横断歩道標識は5本縞で、歩行者がベルトをしている。ルクセンブルクも同じデザイン。"
+  },
+  "germany/OO0W": {
+    "kind": "other",
+    "ja": "「Einbahnstraße」と書かれた一方通行標識はドイツ独自のもの。オーストリアは「EINBAHN」。"
+  },
+  "germany/gWFG": {
+    "kind": "other",
+    "ja": "ドイツの駐停車禁止標識には、白い矢印が描かれていることが多い。"
+  },
+  "germany/n3r2": {
+    "kind": "direction",
+    "region": "ハンブルク・ノルトライン＝ヴェストファーレン州など",
+    "ja": "ドイツの自転車用案内標識はふつう白地に緑の文字。ハンブルク、ノルトライン＝ヴェストファーレン州、ニーダーザクセン州の一部では赤い文字。ザールラント州は濃い緑地に白文字。"
+  },
+  "germany/FDU2": {
+    "exclude": "地域ごとの解説図"
+  },
+  "germany/Yoh4": {
+    "exclude": "地域ごとの解説図"
+  },
+  "germany/SDqs": {
+    "exclude": "都市ごとの解説図"
+  },
+  "germany/ZowM": {
+    "exclude": "言語の説明"
+  },
+  "germany/wnBA": {
+    "exclude": "都市ごとの解説図"
+  },
+  "france/AuxP": {
+    "kind": "route",
+    "ja": "道路番号が書かれた小さな黄色い標識で、番号はふつう「D」で始まる。フランス独自のもので、案内標識や町名標識の上によく付いている。"
+  },
+  "france/NqvK": {
+    "kind": "direction",
+    "ja": "フランスの案内標識はふつう白地で、端から少し内側に黒い縁取りがある。矢印のような形で、先端ほど縁取りが太い。高速道路方面は青や緑の地。"
+  },
+  "france/4OYB": {
+    "kind": "street",
+    "ja": "フランスの町の入り口の標識は、赤い縁取りに細い白い外枠。"
+  },
+  "france/b14O": {
+    "kind": "other",
+    "ja": "フランスの道路標識は、赤い縁取りの外側に細い白い縁がある。標識の下に黒文字の白い長方形の補助標識が付くことが多い。スペインは太い赤い縁取りが端まである。"
+  },
+  "france/yTq3": {
+    "kind": "back",
+    "ja": "フランスでは平らな長方形の支柱がよく使われる。支柱や裏面がほかの国より変わった色に塗られていることも多い。"
+  },
+  "france/NtOc": {
+    "kind": "back",
+    "ja": "とても短い支柱の交通標識は、フランスでよく見られる。"
+  },
+  "france/gORW": {
+    "kind": "chevron",
+    "optional": [
+      "spain"
+    ],
+    "ja": "フランスのシェブロンは青地に白い矢印で、矢印は1〜5つといろいろ。ヨーロッパで同じ配色なのはスペインだけで、スペインは矢印が2つか4つ。"
+  },
+  "france/CNdg": {
+    "kind": "pedestrian",
+    "ja": "フランスの横断歩道標識は5本縞で、歩行者の頭が体から離れている。フランス式の白い縁取りがある。横向きの破線2本のデザインもまれにある。"
+  },
+  "france/IaD0": {
+    "kind": "other",
+    "ja": "フランスのキロポストは、白い長方形の上に黄色や赤の半円が乗ったものが多い。石の道標や平らな板のタイプがある。"
+  },
+  "france/mVDK": {
+    "kind": "other",
+    "ja": "オーストリアの国旗の色（赤・白・赤）の細長い長方形の目印が、棒の先に付いて道路沿いに並んでいる。フランスだけで見られる。"
+  },
+  "france/rdKk": {
+    "exclude": "番地表示で決め手にならない"
+  },
+  "france/lVS8": {
+    "exclude": "県のロゴの解説"
+  },
+  "france/A0j5": {
+    "exclude": "旗の説明"
+  },
+  "france/rGE0": {
+    "kind": "back",
+    "region": "ブルターニュ・パリ周辺・南部の一部",
+    "ja": "濃い緑の支柱と裏面。フランスのブルターニュとパリ周辺、南部の一部で最もよく見られる。"
+  },
+  "france/xp6R": {
+    "kind": "back",
+    "region": "ウール＝エ＝ロワール県",
+    "ja": "濃い緑の裏面に、県のロゴの緑のステッカーが貼られている。フランスのウール＝エ＝ロワール県のもので、支柱の色はそろっていない。"
+  },
+  "france/6TPW": {
+    "kind": "route",
+    "region": "ウール＝エ＝ロワール県",
+    "ja": "右肩に小さな数字が付いたD道路の番号。フランスのウール＝エ＝ロワール県で最も多く、地図では「D134.10」のような小数で表される。"
+  },
+  "france/zDEN": {
+    "kind": "back",
+    "region": "ブルターニュ・ピレネー＝アトランティック県",
+    "ja": "灰緑色の裏面に、より濃い緑の支柱。フランスのブルターニュ（コート＝ダルモール県など）、ピレネー＝アトランティック県、まれにアルプス付近で見られる。"
+  },
+  "france/NnH1": {
+    "kind": "back",
+    "region": "パ＝ド＝カレー県",
+    "ja": "濃い緑の支柱に、抹茶色〜青緑の明るい緑の裏面。フランスのパ＝ド＝カレー県で見られる。"
+  },
+  "france/jkin": {
+    "kind": "back",
+    "region": "セーヌ＝エ＝マルヌ県",
+    "ja": "支柱も裏面も茶色に塗られた標識。フランスのセーヌ＝エ＝マルヌ県で最も多い。"
+  },
+  "france/Wop3": {
+    "kind": "direction",
+    "region": "オート＝ガロンヌ県",
+    "ja": "ワインレッドの留め具や飾りが付いた案内標識。フランスのオート＝ガロンヌ県で見られ、黄色い支柱と組み合わさることもある。"
+  },
+  "france/drHI": {
+    "kind": "street",
+    "region": "マルヌ県",
+    "ja": "町の入口と出口の標識が1つの分厚いブロックにまとまっている。フランスのマルヌ県の多くの町がこの形式。"
+  },
+  "france/4ocl": {
+    "kind": "street",
+    "region": "パリ都市圏",
+    "ja": "市の名前まで書かれたモダンなデザインの道路名標識。フランスのパリ都市圏でよく見られる。"
+  },
+  "france/7oyS": {
+    "exclude": "言語の説明"
+  },
+  "france/OE0N": {
+    "exclude": "言語の説明"
+  },
+  "france/AXar": {
+    "exclude": "言語の説明"
+  },
+  "france/2v01": {
+    "exclude": "言語の説明"
+  },
+  "france/rDFi": {
+    "exclude": "言語の説明"
+  },
+  "france/aay7": {
+    "kind": "street",
+    "region": "パリ・リヨン・マルセイユ",
+    "ja": "区（arrondissement）が書かれた道路名標識。フランスで区に分かれているのはパリ、リヨン、マルセイユの3都市だけ。"
+  },
+  "france/ZUqh": {
+    "kind": "street",
+    "optional": [
+      "romania"
+    ],
+    "region": "パリ",
+    "ja": "上部がアーチ形の、緑とプルシアンブルーの有名な道路名標識。パリのもので、ブカレストにも同じデザインがある。"
+  },
+  "france/mcDH": {
+    "kind": "street",
+    "region": "リヨン",
+    "ja": "四隅のボルトと、区の番号やボルトの部分に切り欠きがある途切れない白い内枠が特徴の道路名標識。フランスのリヨンのもの。"
+  },
+  "france/o8dK": {
+    "kind": "street",
+    "region": "マルセイユ",
+    "ja": "市の紋章（ギリシャ十字の一種）が入った道路名標識。フランスのマルセイユのもので、十字がなくても白い枠の上部が途切れている。"
+  },
+  "france/MGk9": {
+    "kind": "street",
+    "region": "ボルドー",
+    "ja": "小さな別の板に「Arrᵗ」と書かれた道路名標識。区に分かれていないのに、フランスのボルドーで見られる。"
+  },
+  "france/umtN": {
+    "kind": "street",
+    "region": "モンペリエ",
+    "ja": "左上の白地に青い「M」が入った道路名標識。フランスのモンペリエのもの。"
+  },
+  "france/CIlO": {
+    "kind": "street",
+    "region": "リール",
+    "ja": "赤い斜めのフルール・ド・リス（ユリの紋章）が入った道路名標識は、フランスのリール独自のもの。"
+  },
+  "france/d3xx": {
+    "kind": "back",
+    "region": "ボルドー郊外",
+    "ja": "ボルドーワインのような赤に塗られた四角い支柱。フランスのボルドー郊外で見られる（赤い支柱自体はほかの地域にもある）。"
+  },
+  "france/CuZO": {
+    "kind": "back",
+    "region": "コート・ダジュール",
+    "ja": "紺碧（アジュール）色に塗られた支柱。フランスのコート・ダジュールで見られ、カーニュ＝シュル＝メールはより明るい水色。"
+  },
+  "cyprus/4Jsq": {
+    "exclude": "インフラ全般の説明"
+  },
+  "cyprus/qUjp": {
+    "kind": "direction",
+    "optional": [
+      "greece"
+    ],
+    "ja": "キプロスの案内標識はギリシャのものとよく似ているが、ギリシャ語が全部大文字で書かれているのが違い。"
+  },
+  "cyprus/e6Mi": {
+    "kind": "street",
+    "ja": "赤い縁取りの黄色い長方形、またはギリシャ語と英語で町名が書かれた小さな白い長方形の町名標識。上に速度標識が付いている。キプロス独自のデザイン。"
+  },
+  "cyprus/8xv2": {
+    "exclude": "郵便番号の説明"
+  },
+  "cyprus/Suab": {
+    "exclude": "言語の説明"
+  },
+  "isle-of-man/smmi": {
+    "kind": "street",
+    "region": "ラムジー",
+    "ja": "楕円形の紋章が入った道路名標識。マン島のラムジーで多い。"
+  },
+  "isle-of-man/lysj": {
+    "kind": "street",
+    "region": "ポート・エリン",
+    "ja": "文字の上に紋章が入った道路名標識。マン島のポート・エリンで多い。"
+  },
+  "ireland/Avrb": {
+    "kind": "warning",
+    "ja": "アイルランドは、ヨーロッパで唯一、黄色いひし形の警戒標識を使う国。円形や逆三角形の規制標識は、ほかのヨーロッパと同じ赤い縁取りの白地。"
+  },
+  "ireland/q0Q1": {
+    "kind": "chevron",
+    "optional": [
+      "luxembourg",
+      "finland",
+      "norway",
+      "iceland",
+      "portugal"
+    ],
+    "ja": "アイルランドのシェブロンは黒地に黄色。矢印は1つのものも複数のものもよくある。イギリスは黒地に白。"
+  },
+  "ireland/Xamt": {
+    "kind": "giveway",
+    "ja": "アイルランドの譲れ標識には「YIELD」と書かれている。イギリスは「GIVE WAY」。"
+  },
+  "ireland/koXg": {
+    "kind": "pedestrian",
+    "required": [
+      "ireland",
+      "united-kingdom"
+    ],
+    "ja": "アイルランドでは横断歩道標識が少なく、代わりに上に黄色い球が付いた白黒の柱（ベリシャ・ビーコン）をよく見かける。イギリスもまったく同じ柱を使う。"
+  },
+  "jersey/Y2Eu": {
+    "exclude": "インフラ全般の説明"
+  },
+  "jersey/gRdF": {
+    "exclude": "言語の説明"
+  },
+  "jersey/mfYy": {
+    "kind": "other",
+    "ja": "ジャージーには自転車ルートが多く、「Green Lane」の始まりや終わりを示す標識や、島の地図が入った青いルートマーカーをよく見かける。"
+  },
+  "jersey/1Tin": {
+    "kind": "back",
+    "optional": [
+      "united-kingdom"
+    ],
+    "ja": "支柱に左右非対称に取り付けられた標識。イギリス本土よりジャージーで多い（ただし少数派）。"
+  },
+  "jersey/VFkp": {
+    "exclude": "教区ごとの解説図"
+  },
+  "latvia/xypN": {
+    "kind": "chevron",
+    "required": [
+      "latvia",
+      "lithuania",
+      "poland"
+    ],
+    "optional": [
+      "czechia",
+      "slovakia",
+      "bulgaria",
+      "romania",
+      "turkey",
+      "north-macedonia"
+    ],
+    "ja": "白地に赤い矢印のシェブロン。ラトビアのもので、リトアニアやポーランドなど多くのヨーロッパの国が同じ。エストニア・ロシア・ウクライナは逆の配色。"
+  },
+  "latvia/15Re": {
+    "kind": "warning",
+    "ja": "ラトビアの警戒標識・速度標識は、太い赤い縁取りの外側に細い白い縁がある。バルト三国でそれぞれ縁の形が少し違う。"
+  },
+  "latvia/xps4": {
+    "kind": "pedestrian",
+    "ja": "ラトビアの横断歩道標識は5本縞で、バルト三国ではラトビアだけ。歩行者の脚がほかの国より目立って長い。"
+  },
+  "latvia/RplU": {
+    "kind": "other",
+    "ja": "バスの窓が5つのバス停標識。バルト三国ではラトビアだけ（エストニアとリトアニアは4つ）。"
+  },
+  "latvia/6Wew": {
+    "kind": "direction",
+    "ja": "ラトビアの案内標識は青地に白文字。矢印のデザインがエストニアやリトアニアより凝っている。"
+  },
+  "liechtenstein/ci1R": {
+    "kind": "other",
+    "ja": "黒い金属の枠が付いた緑と白のバス停標識で、上に「LIEMOBIL」と書かれている。リヒテンシュタインのもの。"
+  },
+  "liechtenstein/qb5C": {
+    "kind": "direction",
+    "required": [
+      "liechtenstein",
+      "switzerland"
+    ],
+    "ja": "スイスと同じく、リヒテンシュタインの案内標識は白（小さな道）か青（大きな道）で、色の違う矢じり形の先端がある。"
+  },
+  "liechtenstein/Ctc1": {
+    "kind": "pedestrian",
+    "required": [
+      "liechtenstein",
+      "switzerland"
+    ],
+    "ja": "リヒテンシュタインの横断歩道標識は7本縞で、妙に縦長の長方形。スイスも同じ標識。"
+  },
+  "liechtenstein/ndYF": {
+    "kind": "other",
+    "optional": [
+      "switzerland",
+      "germany"
+    ],
+    "ja": "リヒテンシュタインの道路標識には、丸いグレーの金属の縁が付いていることが多い。スイスやドイツにも似たものがある。"
+  },
+  "liechtenstein/gG0N": {
+    "kind": "other",
+    "region": "ファドゥーツ",
+    "ja": "ファドゥーツでは赤いバス停標識が使われることがある。リヒテンシュタインのほかの地域にはない。"
+  },
+  "liechtenstein/BTob": {
+    "kind": "other",
+    "region": "バルザース",
+    "ja": "バルザースでは黒いバス停標識が使われることがある。リヒテンシュタインのほかの地域にはない。"
+  },
+  "liechtenstein/iJBv": {
+    "kind": "street",
+    "region": "南部・北部のバンデルン周辺",
+    "ja": "細い白い縁取りの青い道路名標識。リヒテンシュタインの南部か、北部のバンデルン周辺。"
+  },
+  "liechtenstein/t5Ye": {
+    "kind": "street",
+    "region": "エッシェン",
+    "ja": "縁取りのない青い道路名標識。リヒテンシュタインのエッシェンで見られる。"
+  },
+  "liechtenstein/PSiM": {
+    "kind": "street",
+    "region": "東部",
+    "ja": "平らな黒い道路名標識。リヒテンシュタイン東部で見られる。"
+  },
+  "liechtenstein/mKMX": {
+    "kind": "street",
+    "region": "シャーン",
+    "ja": "白い縁取りに浮き彫りの文字が入った黒い道路名標識。リヒテンシュタインのシャーンで見られる。"
+  },
+  "liechtenstein/UTf6": {
+    "kind": "street",
+    "region": "ファドゥーツ・北部の町",
+    "ja": "伝統的なドイツ書体のようなフォントと白い縁取りの茶色い道路名標識。リヒテンシュタインのファドゥーツと北部の町で見られる。"
+  },
+  "liechtenstein/9VvC": {
+    "kind": "street",
+    "region": "ルッゲル",
+    "ja": "矢印のデザインが入った茶色い道路名標識は、リヒテンシュタインのルッゲル独自のもの。"
+  },
+  "liechtenstein/Q2Ay": {
+    "kind": "street",
+    "region": "プランケン",
+    "ja": "普通っぽいフォントの茶色い道路名標識。リヒテンシュタインのプランケンで見られる。"
+  },
+  "lithuania/Uc6g": {
+    "kind": "chevron",
+    "required": [
+      "lithuania",
+      "latvia",
+      "poland"
+    ],
+    "optional": [
+      "czechia",
+      "slovakia",
+      "bulgaria",
+      "romania",
+      "turkey",
+      "north-macedonia"
+    ],
+    "ja": "白地に赤い矢印のシェブロン。リトアニアの小さな単独のシェブロンは、端に赤い縁取りがあることが多い。ラトビアやポーランドも同じ配色（縁取りなし）。"
+  },
+  "lithuania/0iED": {
+    "kind": "other",
+    "required": [
+      "lithuania"
+    ],
+    "optional": [
+      "latvia",
+      "estonia"
+    ],
+    "ja": "バルト三国はどこも同じ青いキロポストを使うが、道路に対する角度で見分けられる。リトアニアは道路に対して45度で、L字形。"
+  },
+  "lithuania/q5r2": {
+    "kind": "warning",
+    "ja": "リトアニアの警戒標識・速度標識は、比較的細い赤い縁取りの外側に細い白い縁がある。"
+  },
+  "lithuania/tXGz": {
+    "kind": "pedestrian",
+    "required": [
+      "lithuania",
+      "russia",
+      "ukraine"
+    ],
+    "optional": [
+      "estonia"
+    ],
+    "ja": "リトアニアの横断歩道標識は3本縞で、歩行者の絵が簡素。ロシアとウクライナも同じデザイン。エストニアも3本縞だが絵が細かい。ラトビアは5本縞。"
+  },
+  "lithuania/sIcK": {
+    "kind": "other",
+    "required": [
+      "lithuania",
+      "estonia"
+    ],
+    "ja": "バスの窓が4つのバス停標識。リトアニアとエストニアで使われる。ラトビアは窓が5つ。"
+  },
+  "lithuania/5FSb": {
+    "kind": "street",
+    "ja": "リトアニア語で「通り」は「gatvė」で、標識では「g.」と略されることが多い。ほぼリトアニア独自の単語。"
+  },
+  "lithuania/GkfG": {
+    "kind": "direction",
+    "optional": [
+      "estonia"
+    ],
+    "ja": "リトアニアの案内標識は青地に白文字。ラトビアは矢印のデザインがより凝っている。"
+  },
+  "lithuania/fAPZ": {
+    "exclude": "画像のぼかしの説明"
+  },
+  "lithuania/1lsP": {
+    "exclude": "言語の説明"
+  },
+  "luxembourg/DmBj": {
+    "kind": "chevron",
+    "optional": [
+      "ireland",
+      "finland",
+      "norway",
+      "iceland",
+      "portugal"
+    ],
+    "ja": "ルクセンブルクのシェブロンは黒地に黄色い矢印（まれに青と黄色）。周辺の国にはない配色で、ヨーロッパでは景色のまったく違うアイスランド、ノルウェー、フィンランド、アイルランド、ポルトガルなどで使われる。"
+  },
+  "luxembourg/MrJA": {
+    "exclude": "言語の説明"
+  },
+  "luxembourg/2Qmq": {
+    "kind": "direction",
+    "ja": "ルクセンブルクの案内標識は、細い黒い縁取りの黄色い板で、町名は大文字。先がとがっていて、全体が枠で囲まれている。"
+  },
+  "luxembourg/gJw2": {
+    "kind": "street",
+    "ja": "ルクセンブルクの町の入り口の標識も黄色で枠付き。2言語の町名が多く、上に道路番号と速度標識が付いていることが多い。"
+  },
+  "luxembourg/kWxo": {
+    "kind": "back",
+    "optional": [
+      "france"
+    ],
+    "ja": "ルクセンブルクの道路標識は、ほぼすべて白い支柱に付いている。フランスにも白い支柱があるが、ずっと少ない。"
+  },
+  "luxembourg/e5yT": {
+    "kind": "street",
+    "ja": "ルクセンブルクの道路名標識はたいてい短く、白地が多い。デザインは町ごとに違うが、青い斜めの角が入ったタイプがよく見られる。"
+  },
+  "luxembourg/D1t5": {
+    "kind": "back",
+    "optional": [
+      "sweden",
+      "finland"
+    ],
+    "ja": "青と白の模様が入った、ずんぐりした丸い反射材付きの支柱。ルクセンブルクで見られる。スウェーデンやフィンランドにも似たものがあるが、景色で区別できる。"
+  },
+  "luxembourg/b7NW": {
+    "kind": "pedestrian",
+    "optional": [
+      "germany"
+    ],
+    "ja": "ルクセンブルクの横断歩道標識は縦の縞が5本。ベルギーは横向きの縞が2本。"
+  },
+  "luxembourg/yx10": {
+    "kind": "other",
+    "ja": "ルクセンブルクのバス停標識は青で、必ずこのデザイン。バスの窓は6つ。ベルギーやオランダのものとはまったく違う。"
+  },
+  "italy/clmq": {
+    "exclude": "言語の説明"
+  },
+  "italy/RnwF": {
+    "kind": "back",
+    "required": [
+      "italy",
+      "albania",
+      "romania"
+    ],
+    "optional": [
+      "germany"
+    ],
+    "ja": "イタリアの道路標識は、裏が黒や濃いグレーのことがとても多い。アルバニアやルーマニアも同じで、ドイツにも多い。"
+  },
+  "italy/hAqF": {
+    "kind": "direction",
+    "ja": "イタリアの案内標識は、白い矢印の入った青い板で、文字はすべて大文字。"
+  },
+  "italy/7iSX": {
+    "kind": "direction",
+    "ja": "イタリアの国道（Strada Statale）の案内標識は、白と青の縁取りの青い板。高速道路（Autostrade）は白と緑の縁取りの緑の板。"
+  },
+  "italy/q7lg": {
+    "kind": "other",
+    "ja": "イタリアのキロポストは白い四角で、上にローマ数字、下にアラビア数字。アラビア数字がキロ数、ローマ数字が100メートル単位。"
+  },
+  "italy/AHSj": {
+    "kind": "route",
+    "ja": "イタリアの道路番号はふつう「SS」「SR」「SP」で始まる。2文字目で国道（S）、州道（R）、県道（P）を見分けられる。"
+  },
+  "italy/7zlG": {
+    "kind": "chevron",
+    "required": [
+      "italy",
+      "albania",
+      "greece",
+      "spain"
+    ],
+    "optional": [
+      "switzerland"
+    ],
+    "ja": "イタリアのシェブロンは黒地に白い矢印。南ヨーロッパでは、スペイン、ギリシャ、アルバニアにもある。"
+  },
+  "italy/TyCh": {
+    "kind": "street",
+    "ja": "イタリアの道路名標識は、ふつう細い青い縁取りの白地に黒文字。"
+  },
+  "italy/TXiT": {
+    "kind": "pedestrian",
+    "ja": "イタリアの横断歩道標識は5本縞で、ベルトをしていないシンプルな歩行者。"
+  },
+  "italy/aDjA": {
+    "kind": "other",
+    "ja": "「passo carrabile（車両出入口）」と書かれた駐車禁止標識。イタリアの市街地でよく見かけ、上部には自治体名が書かれている。"
+  },
+  "italy/ZxGw": {
+    "exclude": "言語の説明"
+  },
+  "italy/IZSl": {
+    "exclude": "言語の説明"
+  },
+  "italy/UJSC": {
+    "exclude": "言語の説明"
+  },
+  "malta/CkGF": {
+    "kind": "street",
+    "ja": "マルタ語で「通り」は「triq」。マルタのほぼすべての道路名標識にこの単語がある。"
+  },
+  "malta/CXV5": {
+    "kind": "street",
+    "region": "バレッタ",
+    "ja": "青い標識は、マルタの首都バレッタ独自のもの。"
+  },
+  "montenegro/ESKL": {
+    "kind": "chevron",
+    "optional": [
+      "serbia",
+      "slovenia",
+      "north-macedonia"
+    ],
+    "ja": "モンテネグロのシェブロンは白地に黒、または黄色地に赤。アルバニアは黒地に白。"
+  },
+  "madeira/qA1O": {
+    "exclude": "ポルトガル式インフラ全般の比較画像"
+  },
+  "madeira/yIaR": {
+    "kind": "other",
+    "ja": "黒・白・黄色の配色のバス停標識は、マデイラ諸島独自のもの。"
+  },
+  "madeira/kfwz": {
+    "kind": "speed",
+    "ja": "マデイラ諸島の高速道路にある独特な速度制限標識。"
+  },
+  "madeira/ooPx": {
+    "kind": "back",
+    "required": [
+      "madeira",
+      "azores"
+    ],
+    "ja": "マデイラ諸島の支柱はよく縞模様に塗られている。アゾレス諸島でも見られる。"
+  },
+  "madeira/4VKJ": {
+    "kind": "warning",
+    "ja": "マデイラ諸島の標高の高い道路では、放牧の牛に注意する警戒標識が見られる。マデイラの牛は茶色に白いぶち、アゾレスは白黒が多い。"
+  },
+  "north-macedonia/Gary": {
+    "kind": "direction",
+    "optional": [
+      "serbia",
+      "slovenia",
+      "croatia",
+      "montenegro"
+    ],
+    "ja": "北マケドニアの案内標識はふつう黄色で、町名がラテン文字とキリル文字の両方で書かれている。セルビア、スロベニア、クロアチア、モンテネグロも似ているが、2種類の文字で書くのはセルビアだけ。"
+  },
+  "north-macedonia/k3sg": {
+    "exclude": "言語の説明"
+  },
+  "north-macedonia/wBz4": {
+    "kind": "warning",
+    "required": [
+      "north-macedonia",
+      "greece"
+    ],
+    "optional": [
+      "slovenia"
+    ],
+    "ja": "北マケドニアの警戒標識はふつう黄色地。ヨーロッパの多くは白地。南東ヨーロッパではギリシャも黄色地が多く、スロベニアにもときどきある。"
+  },
+  "poland/LdxT": {
+    "kind": "warning",
+    "ja": "細い赤い縁取りに黄色地の三角形の警戒標識。ヨーロッパでこの組み合わせはポーランドだけ。"
+  },
+  "poland/Pahm": {
+    "kind": "other",
+    "ja": "ポーランドの禁止標識は円形で、太い赤い縁取りの白地。警戒標識の黄色地とは違う。"
+  },
+  "poland/htL5": {
+    "kind": "pedestrian",
+    "ja": "ポーランドの横断歩道標識は独特で、縞模様の代わりに横線が1本だけ。オーストリアとベルギーも横線だが2本。"
+  },
+  "poland/WkuT": {
+    "kind": "direction",
+    "ja": "ポーランドの一般的な案内標識は緑地で、独特なフォント。高速道路は青地。"
+  },
+  "poland/6stB": {
+    "kind": "street",
+    "ja": "ポーランドの町の入り口の標識は2種類。町名入りの緑の標識と、町並みのイラストが描かれた白黒の標識。独特なフォントも特徴。"
+  },
+  "poland/4nMB": {
+    "kind": "chevron",
+    "required": [
+      "poland",
+      "latvia",
+      "lithuania"
+    ],
+    "optional": [
+      "czechia",
+      "slovakia",
+      "bulgaria",
+      "romania",
+      "turkey",
+      "north-macedonia",
+      "slovenia"
+    ],
+    "ja": "ポーランドのシェブロンは白地に赤い矢印。"
+  },
+  "poland/OH23": {
+    "exclude": "道路番号の地域解説"
+  },
+  "poland/gxrJ": {
+    "exclude": "言語の説明"
+  },
+  "poland/v82S": {
+    "kind": "street",
+    "region": "ビャウィストク",
+    "ja": "下に地区名が入ったターコイズ色の道路名標識。ポーランドのビャウィストクで見られる。"
+  },
+  "poland/blym": {
+    "kind": "street",
+    "region": "シュチェチン",
+    "ja": "緑と青のカラフルな道路名標識で、下に地区名が入る。ポーランドのシュチェチンのもの。"
+  },
+  "poland/EruS": {
+    "kind": "street",
+    "region": "ポズナン",
+    "ja": "主に黒く、下の青い部分に地区名が入った道路名標識。ポーランドのポズナンのもの。"
+  },
+  "netherlands/eSJE": {
+    "kind": "street",
+    "ja": "オランダの道路名標識は、ほぼ必ず青地に白文字。道路名は「straat」「weg」「laan」「pad」「plein」などで終わることが多い。"
+  },
+  "netherlands/B3Dg": {
+    "kind": "direction",
+    "ja": "オランダの案内標識は青地に白文字。自転車用は赤い縁取りの白い標識。"
+  },
+  "netherlands/nqei": {
+    "kind": "street",
+    "ja": "オランダの町の入り口の標識は青。枠や補助標識付きの凝ったデザインのこともある。「gemeente（自治体）」の名前が書かれていることも多い。"
+  },
+  "netherlands/Cw0P": {
+    "kind": "back",
+    "ja": "オランダの道路標識は、縁が裏側まで折り返されていて、裏から見ても縁取りが見える（標識の色のままのことも）。オランダならではの特徴。"
+  },
+  "netherlands/ChWn": {
+    "kind": "back",
+    "ja": "オランダの多くの支柱には、白黒や青と白の縞模様のマーキングが付いている。"
+  },
+  "netherlands/xEO9": {
+    "kind": "back",
+    "ja": "中央分離帯の島にある標識には、ずんぐりした黄色い支柱がよく使われる。オランダのもの。"
+  },
+  "netherlands/PKNI": {
+    "exclude": "ボラードと共通の解説図"
+  },
+  "netherlands/Jaik": {
+    "exclude": "言語の説明"
+  },
+  "netherlands/ABWw": {
+    "kind": "street",
+    "region": "アムステルダム",
+    "ja": "道路名の下に、小さめの文字で区の名前が入った道路名標識。オランダのアムステルダムのもので、ほかではあまり見ない。"
+  },
+  "netherlands/FqgZ": {
+    "kind": "street",
+    "region": "オーフストヘースト",
+    "ja": "赤地に黄色い文字の、とても読みにくい道路名標識。オランダのオーフストヘーストで使われている。"
+  },
+  "netherlands/oG0B": {
+    "exclude": "町の説明"
+  },
+  "portugal/DGfn": {
+    "kind": "other",
+    "ja": "赤と白の狩猟区域の標識。ひし形か長方形で、ポルトガルの田舎でよく見かける。スペインの狩猟標識は白と黒。"
+  },
+  "portugal/aXLK": {
+    "kind": "direction",
+    "ja": "ポルトガルの案内標識はふつう白地で、黒い矢印が標識の縁に接していない。スペインは道路番号がカラフルな枠に入っていて、黒い矢印はない。"
+  },
+  "portugal/FxrH": {
+    "kind": "other",
+    "ja": "ポルトガルのキロポストは横長の長方形で、左側の色付きの部分が白い部分と斜めに分かれている。1キロごとに、上半分が色付きで道路番号入りの大きな四角い標識がある。"
+  },
+  "portugal/67d6": {
+    "kind": "stop",
+    "ja": "ポルトガルの一時停止標識は、文字がかなり大きい。スペインは小さく詰まった文字。"
+  },
+  "portugal/QBnA": {
+    "kind": "chevron",
+    "required": [
+      "portugal",
+      "azores",
+      "madeira"
+    ],
+    "optional": [
+      "finland",
+      "norway",
+      "iceland",
+      "ireland",
+      "luxembourg"
+    ],
+    "ja": "ポルトガルのシェブロンは黒地に黄色い矢印。地中海沿岸の国でこの配色はポルトガルだけ。"
+  },
+  "portugal/x15t": {
+    "kind": "pedestrian",
+    "ja": "ポルトガルの横断歩道標識は5本縞で、歩行者のベルトの位置が目立って高い。スペインは8本縞、イタリアはベルトなし、ギリシャは点線2本。"
+  },
+  "portugal/Ug6C": {
+    "kind": "other",
+    "ja": "ポルトガルの道路標識は、ふつう白い縁で囲まれている。スペインの標識の多くは白い縁がない。"
+  },
+  "portugal/gIlH": {
+    "kind": "street",
+    "region": "ポルト",
+    "ja": "ライムグリーンの道路名標識は、ポルトガルのポルトで見られる。"
+  },
+  "norway/hWzL": {
+    "kind": "pedestrian",
+    "ja": "ノルウェーの横断歩道標識はふつう4本縞で、歩行者の絵がとてもシンプル。5本縞のものや、帽子をかぶった細かい絵のものもある。"
+  },
+  "norway/MAXX": {
+    "kind": "direction",
+    "ja": "ノルウェーの案内標識は、黒い縁取りの黄色い板。ヨーロッパ道路や主要道路の番号は緑の枠、小さな道路の番号は白い枠に書かれている。"
+  },
+  "norway/HlLb": {
+    "kind": "other",
+    "optional": [
+      "sweden"
+    ],
+    "ja": "小さな道路でよく見かける、大きな白い「M」が書かれた青い標識（待避所）。ノルウェーのもの。スウェーデンにも似たものがあるが、「M」の真ん中が下まで届かない。"
+  },
+  "norway/hUl3": {
+    "kind": "other",
+    "ja": "白いバスが描かれた小さな青いバス停標識。ノルウェーのもの。スウェーデンのバス停はどれも違うデザイン。"
+  },
+  "norway/0UKk": {
+    "kind": "speed",
+    "ja": "速度制限と一緒に「Sone」と書かれた白い標識。ノルウェーの市街地でよく見られる。"
+  },
+  "norway/0YsK": {
+    "kind": "street",
+    "ja": "ノルウェーの道路名標識は、ふつう支柱の上に中央をそろえて付いている。スウェーデンは支柱や街灯の横に付いている。"
+  },
+  "norway/oDKo": {
+    "kind": "warning",
+    "ja": "ノルウェーの交通標識は赤い縁取りに白地。スウェーデンとフィンランドは黄色地。"
+  },
+  "norway/IYC5": {
+    "kind": "warning",
+    "ja": "明るい黄色地の道路工事の標識。ノルウェーで見られる。"
+  },
+  "norway/FI4P": {
+    "kind": "back",
+    "ja": "ノルウェーの小さな標識は、縦長の長方形に並んだ4本のボルトで留められていることが多い。市街地では枠付きのものもある。"
+  },
+  "norway/Yy1U": {
+    "kind": "chevron",
+    "optional": [
+      "finland",
+      "iceland",
+      "ireland",
+      "luxembourg",
+      "portugal"
+    ],
+    "ja": "ノルウェーのシェブロンは黒地に黄色い矢印。"
+  },
+  "norway/raUu": {
+    "kind": "route",
+    "ja": "道路番号と最寄りの町までの距離が書かれた小さな白い四角い標識。ノルウェーの中規模の道路沿いでよく見かける。番号の前には「R」か「F」が付く。"
+  },
+  "norway/4foM": {
+    "exclude": "言語の説明"
+  },
+  "norway/0l1i": {
+    "exclude": "言語の説明"
+  },
+  "india/vs2g": {
+    "kind": "back",
+    "required": [
+      "india",
+      "bangladesh",
+      "nepal",
+      "sri-lanka"
+    ],
+    "optional": [
+      "bhutan",
+      "malaysia"
+    ],
+    "ja": "インドの支柱はふつう白黒の縞模様。バングラデシュ、ネパール、スリランカも白黒の支柱を使う。"
+  },
+  "india/RjU1": {
+    "kind": "other",
+    "region": "チャンディーガル",
+    "ja": "地区や工業地区を示す青い標識。計画都市チャンディーガルには、独自のインフラがたくさんある。"
+  },
+  "mexico/hWCI": {
+    "kind": "direction",
+    "ja": "メキシコの案内標識は、白い大文字のフォントがとても大きい。"
+  },
+  "mexico/ctfG": {
+    "kind": "stop",
+    "required": [
+      "mexico",
+      "costa-rica",
+      "guatemala"
+    ],
+    "optional": [
+      "panama"
+    ],
+    "ja": "メキシコの一時停止標識は「ALTO」。パナマ・コスタリカ・グアテマラも「ALTO」で、南アメリカとプエルトリコは「PARE」。"
+  },
+  "mexico/LWLO": {
+    "kind": "other",
+    "ja": "メキシコの標識の矢印は、目立って太い。"
+  },
+  "mexico/sf65": {
+    "exclude": "郵便番号の地図"
+  },
+  "mexico/baRr": {
+    "kind": "back",
+    "region": "チワワ州",
+    "ja": "標識の裏に太い十字の補強がある。メキシコのチワワ州で見られる。"
+  },
+  "san-marino/9e8C": {
+    "exclude": "地名で答えがわかる画像"
+  },
+  "san-marino/XqN5": {
+    "kind": "chevron",
+    "ja": "黄色地にワインレッドの矢印のシェブロン。この配色を使うのは世界でサンマリノだけ。"
+  },
+  "san-marino/RCBb": {
+    "kind": "pedestrian",
+    "ja": "青く塗られた横断歩道と、吊り下げ式の標識がある凝った横断歩道。サンマリノ独自のもの。"
+  },
+  "serbia/WqwF": {
+    "kind": "chevron",
+    "required": [
+      "serbia",
+      "slovenia",
+      "montenegro",
+      "north-macedonia"
+    ],
+    "ja": "セルビアのシェブロンは白地に黒い矢印。ヨーロッパでは、スロベニア、モンテネグロ、北マケドニアにもある。"
+  },
+  "serbia/ajNO": {
+    "exclude": "言語の説明"
+  },
+  "romania/eXuS": {
+    "kind": "direction",
+    "ja": "ルーマニアの案内標識は、白い縁取りのある青い矢印形。道路番号が赤や青で書かれていることが多い。"
+  },
+  "romania/QdP9": {
+    "kind": "street",
+    "ja": "ルーマニアの町の入り口の標識で最も多いのは、速度制限と町並みのイラストが描かれた黄色い標識と、その下の町名入りの白い標識の組み合わせ。"
+  },
+  "romania/khtk": {
+    "kind": "back",
+    "required": [
+      "romania",
+      "italy",
+      "albania"
+    ],
+    "optional": [
+      "germany"
+    ],
+    "ja": "ルーマニアの標識の裏は黒いことが多い。イタリア、アルバニア、ドイツでもよく見られる。"
+  },
+  "romania/QZba": {
+    "kind": "chevron",
+    "optional": [
+      "bulgaria",
+      "turkey",
+      "north-macedonia"
+    ],
+    "ja": "ルーマニアのシェブロンは白地に赤で、黄色い枠が付いていることが多い。中東欧には白地に赤のシェブロンが多いが、黄色い枠はルーマニアで圧倒的に多い。"
+  },
+  "romania/7f9M": {
+    "kind": "giveway",
+    "ja": "とても太い赤い縁取りと細い白い外枠の譲れ標識。ルーマニア独自のもの（ほかのタイプもある）。"
+  },
+  "romania/MZtj": {
+    "exclude": "言語の説明"
+  },
+  "romania/kGpN": {
+    "exclude": "都市ごとの解説図"
+  },
+  "slovenia/LTMm": {
+    "kind": "direction",
+    "optional": [
+      "croatia",
+      "north-macedonia",
+      "serbia",
+      "montenegro"
+    ],
+    "ja": "スロベニアの案内標識は、黒い縁取りの黄色い板。クロアチア、北マケドニア、セルビア、モンテネグロにも似たものがある。オーストリアは青い縁取りの白い板。"
+  },
+  "slovenia/Dzth": {
+    "kind": "chevron",
+    "optional": [
+      "czechia",
+      "slovakia",
+      "poland",
+      "latvia",
+      "lithuania",
+      "serbia",
+      "montenegro",
+      "north-macedonia"
+    ],
+    "ja": "スロベニアのシェブロンはふつう白地に赤い矢印。白地に黒い矢印のものもある。オーストリアは赤地に白、または黄色地に赤。"
+  },
+  "slovenia/t32B": {
+    "kind": "pedestrian",
+    "ja": "スロベニアの横断歩道標識は5本縞で、ベルトをしていないシンプルな歩行者。オーストリアは点線2本、クロアチアはベルトをした歩行者。"
+  },
+  "slovenia/d0cG": {
+    "kind": "street",
+    "ja": "スロベニアの道路名標識は、支柱に付いた金属の縁取りの白い標識か、家の壁に付いた赤い標識が多い。チェコの赤い標識に似ているが、スロベニアの道路名には「ulica」が入ることが多い。"
+  },
+  "slovenia/t0v8": {
+    "exclude": "言語の説明"
+  },
+  "slovenia/y26n": {
+    "kind": "other",
+    "region": "リュブリャナ",
+    "ja": "リュブリャナでは、ふつうの赤い番地表示の代わりに緑の番地表示が使われる。道路名標識も緑のことがある。"
+  },
+  "slovenia/HIaX": {
+    "kind": "street",
+    "region": "ツェリェ",
+    "ja": "3つの黄色い星が入った青い盾の紋章が付いた道路名標識。スロベニアのツェリェのもの。"
+  },
+  "svalbard/Hxz3": {
+    "exclude": "言語の説明"
+  },
+  "slovakia/otzr": {
+    "kind": "back",
+    "required": [
+      "slovakia",
+      "czechia"
+    ],
+    "ja": "赤と白の縞模様の仮設の四角い支柱。スロバキアとチェコでよく見られる。"
+  },
+  "slovakia/G4Pu": {
+    "kind": "chevron",
+    "required": [
+      "slovakia",
+      "czechia"
+    ],
+    "optional": [
+      "bulgaria",
+      "romania",
+      "turkey",
+      "north-macedonia",
+      "poland",
+      "latvia",
+      "lithuania"
+    ],
+    "ja": "スロバキアとチェコのシェブロンは白地に赤い矢印。黄色地に赤のものもまれにある。"
+  },
+  "slovakia/9icq": {
+    "kind": "other",
+    "required": [
+      "slovakia",
+      "czechia"
+    ],
+    "optional": [
+      "poland",
+      "hungary"
+    ],
+    "ja": "白い帯2本の間に色付きの帯が1本入ったハイキングの道しるべ。スロバキアとチェコで特によく見られ、ポーランドやハンガリーなどにも似たものがある。"
+  },
+  "slovakia/cWSf": {
+    "kind": "other",
+    "required": [
+      "slovakia",
+      "czechia"
+    ],
+    "ja": "第4世代のカバレッジで、橋の端によくある黒い標識。左側に道路番号が書かれている。スロバキアとチェコで見られる。"
+  },
+  "slovakia/EpW7": {
+    "kind": "direction",
+    "ja": "スロバキアの案内標識は青地で、小さな白い矢印。チェコは大きな塗りつぶしの矢印。"
+  },
+  "slovakia/p6ai": {
+    "kind": "other",
+    "ja": "スロバキアの道路標識は、塗られた縁取りが標識の端ぴったりにあることが多い。チェコは端から少し離れている。"
+  },
+  "slovakia/nCyZ": {
+    "kind": "direction",
+    "ja": "スロバキアの高速道路標識は青または緑で、白い縁取りが端ぴったりにある。チェコは端から離れている。"
+  },
+  "slovakia/dcqy": {
+    "kind": "street",
+    "ja": "青い文字と細い赤い縁取りの白い道路名標識は、スロバキアで圧倒的に多い。チェコのスロバキア国境付近にもあるが、チェコの道路名に「ulica」は入らない。"
+  },
+  "slovakia/1BOY": {
+    "kind": "other",
+    "ja": "スロバキアの番地表示は、ふつう赤か黒の細い縁取りの白い板。"
+  },
+  "slovakia/u6tR": {
+    "kind": "back",
+    "ja": "スロバキアの支柱のてっぺんは、開いているか、グレーの金属のキャップか、細い黒いキャップ。チェコはほとんど太い黒いキャップ。"
+  },
+  "slovakia/L3Hc": {
+    "kind": "pedestrian",
+    "optional": [
+      "germany",
+      "hungary"
+    ],
+    "ja": "スロバキアの横断歩道標識は主に2種類で、どちらも5本縞。1つはベルトをしたシンプルな歩行者、もう1つは縞の間隔がとても狭い。ドイツにも同じベルト付きのデザインがあり、ハンガリーのものはベルトがずっと低い。"
+  },
+  "slovakia/nJkZ": {
+    "kind": "other",
+    "ja": "スロバキアの道路標識は、ふつうとても太いフォント。チェコはずっと細い。"
+  },
+  "slovakia/VV2G": {
+    "kind": "other",
+    "ja": "スロバキアの自転車用標識は「C」の文字が目印で、スロバキア独自のもの。ハイキングの道しるべと同じ見た目で、案内標識には黄色い支柱が付く。"
+  },
+  "slovakia/dpYP": {
+    "kind": "warning",
+    "ja": "スロバキアの踏切標識には白い長方形の背景がある。チェコは背景なし。"
+  },
+  "slovakia/mWBL": {
+    "kind": "back",
+    "ja": "小さな標識が2本の支柱で支えられていることがスロバキアではわりとよくある。チェコでは小さな標識が2本支柱になることはまれ。"
+  },
+  "slovakia/4BtX": {
+    "exclude": "言語の説明"
+  },
+  "slovakia/5dso": {
+    "exclude": "言語の説明"
+  },
+  "slovakia/NtUD": {
+    "kind": "street",
+    "region": "スカリツァ",
+    "ja": "チェコでよく見るものに似た赤い道路名標識だが、少し凝ったフォント。スロバキア北西端のスカリツァのもの。"
+  },
+  "switzerland/9CSb": {
+    "kind": "direction",
+    "required": [
+      "switzerland",
+      "liechtenstein"
+    ],
+    "ja": "スイスの案内標識の色は道路の種類を表していて、主要道路は青、脇道は白。大きな地名は青い標識に多い。"
+  },
+  "switzerland/e1U8": {
+    "kind": "pedestrian",
+    "required": [
+      "switzerland",
+      "liechtenstein"
+    ],
+    "ja": "スイスの横断歩道標識は7本縞で、ヨーロッパではほぼ独自。ヨーロッパの多くの正方形ではなく、縦長の青い長方形。リヒテンシュタインも同じ。"
+  },
+  "switzerland/PEET": {
+    "kind": "other",
+    "required": [
+      "switzerland",
+      "liechtenstein"
+    ],
+    "optional": [
+      "denmark"
+    ],
+    "ja": "スイスの道路標識には、丸いグレーの金属の縁が付いていることが多い。リヒテンシュタインの案内標識もほぼ同じで、デンマークの一部にも似た縁がある。"
+  },
+  "switzerland/waGu": {
+    "kind": "street",
+    "ja": "スイスの町の入り口の標識は、金属の枠付きの白または青の板。裏には近くの大きな町までの距離が、下には州の略号が書かれていることが多い。"
+  },
+  "switzerland/JMIW": {
+    "kind": "chevron",
+    "optional": [
+      "liechtenstein",
+      "italy",
+      "albania",
+      "greece",
+      "spain"
+    ],
+    "ja": "スイスのシェブロンは黒地に白い矢印。白地に黒のものもまれにある。オーストリアは赤と白、または赤と黄色。"
+  },
+  "switzerland/kRj5": {
+    "kind": "other",
+    "ja": "太い金属の支柱がまわりを囲むバス停標識は、スイス独自のもの。"
+  },
+  "switzerland/ARS4": {
+    "kind": "speed",
+    "region": "言語圏ごと",
+    "ja": "スイスの速度制限標識の文字は、地域の公用語（ドイツ語・フランス語・イタリア語）によって変わる。"
+  },
+  "switzerland/hhwq": {
+    "exclude": "州の略号の説明"
+  },
+  "switzerland/JkUC": {
+    "kind": "street",
+    "region": "ヴォー州",
+    "ja": "大きな町名標識。スイスのヴォー州でときどき見られる。"
+  },
+  "switzerland/H9pK": {
+    "kind": "back",
+    "region": "バーゼル＝ラント準州",
+    "ja": "オリーブグリーンの支柱・縁取り・裏面。スイスのバーゼル＝ラント準州で見られる。"
+  },
+  "switzerland/5c2b": {
+    "kind": "street",
+    "region": "ザンクト・ガレン",
+    "ja": "左右の端が丸い青い道路名標識は、スイスのザンクト・ガレン市独自のもの。"
+  },
+  "switzerland/bd1S": {
+    "kind": "street",
+    "region": "バーゼル",
+    "ja": "デンマークの案内標識のような、低い2本の支柱に付いた大きな青い道路名標識。スイスのバーゼルで見られる。"
+  },
+  "ukraine/iXrj": {
+    "kind": "chevron",
+    "required": [
+      "ukraine",
+      "russia",
+      "estonia"
+    ],
+    "ja": "ウクライナのシェブロンは赤地に白い矢印。ロシアとエストニアも同じ。"
+  },
+  "ukraine/ffx5": {
+    "kind": "pedestrian",
+    "required": [
+      "ukraine",
+      "russia",
+      "estonia",
+      "lithuania"
+    ],
+    "ja": "ウクライナの横断歩道標識は3本縞。ロシア、エストニア、リトアニアも3本縞。"
+  },
+  "ukraine/mASo": {
+    "kind": "street",
+    "ja": "ウクライナの町の入り口の標識は白。"
+  },
+  "ukraine/NPC1": {
+    "exclude": "言語の説明"
+  },
+  "russia/bXD0": {
+    "kind": "back",
+    "required": [
+      "russia",
+      "kazakhstan"
+    ],
+    "ja": "ロシアの支柱は、根元が黒く塗られていることが多い。カザフスタンでもよく見られる。"
+  },
+  "russia/jZWe": {
+    "kind": "pedestrian",
+    "required": [
+      "russia",
+      "ukraine",
+      "lithuania",
+      "mongolia",
+      "kazakhstan",
+      "kyrgyzstan"
+    ],
+    "ja": "ロシアの横断歩道標識は、シンプルな歩行者と3本縞で、明るい黄色の縁取りが付いていることが多い。ウクライナ、リトアニア、モンゴル、カザフスタン、キルギスも同じデザイン。"
+  },
+  "russia/hjXS": {
+    "kind": "back",
+    "region": "スタヴロポリ地方・チェチェン・ダゲスタン西部",
+    "ja": "黒い交通標識の下部。ロシアのスタヴロポリ地方、チェチェン、ダゲスタン西部で主に見られる。"
+  },
+  "russia/EN2b": {
+    "kind": "back",
+    "region": "レニングラード州・サンクトペテルブルク",
+    "ja": "支柱の端に付いたクリップ。ロシアのレニングラード州とサンクトペテルブルクで見られる。"
+  },
+  "russia/sKGo": {
+    "exclude": "言語の説明"
+  },
+  "russia/BhB9": {
+    "kind": "direction",
+    "region": "モスクワ州と周辺の州",
+    "ja": "観光名所への道を示す茶色い標識。ロシアのモスクワ州とその周辺の州でよく見られる。"
+  },
+  "russia/tmTL": {
+    "kind": "other",
+    "region": "モスクワ",
+    "ja": "主要な観光名所の英語訳が入った青い標識。ロシアのモスクワだけで見られる。"
+  },
+  "russia/wFmP": {
+    "kind": "street",
+    "region": "サンクトペテルブルク",
+    "ja": "黒い背景にラテン文字の表記が入った道路名標識。ロシアのサンクトペテルブルク中心部で見られる。"
+  },
+  "russia/ZPuK": {
+    "kind": "street",
+    "region": "サランスク",
+    "ja": "最大4言語で道路名が書かれた円形の道路名標識。ロシアのサランスク独自のもの。"
+  },
+  "russia/vEQX": {
+    "exclude": "言語の説明"
+  },
+  "russia/O98Q": {
+    "exclude": "言語の説明"
+  },
+  "russia/mcGi": {
+    "exclude": "言語の説明"
+  },
+  "russia/BBhW": {
+    "exclude": "言語の説明"
+  },
+  "russia/eXFX": {
+    "exclude": "言語の説明"
+  },
+  "russia/OENY": {
+    "kind": "back",
+    "region": "ムルマンスク・カレリア",
+    "ja": "2本の黄色い帯が巻かれた支柱。ロシアのムルマンスクの幹線道路（第4世代）や、カレリアの一部の道路で見られる。"
+  },
+  "russia/kMlj": {
+    "kind": "pedestrian",
+    "region": "チェリャビンスク",
+    "ja": "U字形のフックで柱に付けられた横断歩道標識は、ロシアのチェリャビンスク独自のもの。"
+  },
+  "russia/PzBt": {
+    "kind": "pedestrian",
+    "region": "プスコフ州",
+    "ja": "装飾的なデザインの横断歩道標識のホルダー。ロシアのプスコフ州のもの。"
+  },
+  "russia/kBRg": {
+    "kind": "pedestrian",
+    "region": "ニジネヴァルトフスク",
+    "ja": "吊り下げ式の独特な横断歩道標識。ロシアのニジネヴァルトフスクのもの。"
+  },
+  "united-kingdom/zRI4": {
+    "kind": "chevron",
+    "optional": [
+      "greece",
+      "albania",
+      "italy",
+      "spain"
+    ],
+    "ja": "イギリスのシェブロンは黒地に白い矢印。アイルランドは黒地に黄色、フランスは青地に白。"
+  },
+  "united-kingdom/MQvy": {
+    "kind": "warning",
+    "required": [
+      "united-kingdom"
+    ],
+    "optional": [
+      "isle-of-man",
+      "jersey"
+    ],
+    "ja": "イギリスの警戒標識は、ヨーロッパの多くと同じく赤い縁取りの白い三角形。黄色いひし形のアイルランドとの区別に役立つ。"
+  },
+  "united-kingdom/Vq5E": {
+    "kind": "direction",
+    "optional": [
+      "isle-of-man",
+      "jersey"
+    ],
+    "ja": "イギリスの案内標識は青、緑、白。主要道路は「A」か「M」、小さな道路は「B」で始まる番号。アイルランドの案内標識はアイルランド語との2言語表記なので区別できる。"
+  },
+  "united-kingdom/WwWL": {
+    "kind": "street",
+    "ja": "地面に近い低い位置に、2本の小さな支柱で付けられた、黒文字の白い道路名標識。イギリスでよく見られ、郊外では行き止まりのマークが入っていることが多い。"
+  },
+  "united-kingdom/Bhjy": {
+    "kind": "giveway",
+    "optional": [
+      "isle-of-man",
+      "jersey"
+    ],
+    "ja": "イギリスの譲れ標識には「GIVE WAY」と書かれている。アイルランドは「YIELD」。"
+  },
+  "united-kingdom/IJy2": {
+    "kind": "pedestrian",
+    "required": [
+      "united-kingdom",
+      "ireland"
+    ],
+    "ja": "イギリスには横断歩道標識がほとんどなく、代わりに上に黄色い球が付いた白黒縞の柱（ベリシャ・ビーコン）がある。アイルランドでもよく見られる。"
+  },
+  "united-kingdom/Jiou": {
+    "kind": "other",
+    "region": "スコットランド",
+    "ja": "ひし形の「Passing Place（待避所）」標識。イギリスのスコットランドで最も多い。"
+  },
+  "united-kingdom/qc5P": {
+    "exclude": "言語の説明"
+  },
+  "united-kingdom/YFrb": {
+    "exclude": "言語の説明"
+  },
+  "united-kingdom/iLwq": {
+    "kind": "street",
+    "region": "ロンドン",
+    "ja": "黒い文字の道路名の後に、赤い文字で郵便番号と区名が入った道路名標識。ロンドンのもの。"
+  },
+  "united-kingdom/5w6L": {
+    "kind": "street",
+    "region": "アバディーン・アバディーンシャー",
+    "ja": "白文字のシンプルな青い道路名標識。スコットランドのアバディーンとアバディーンシャーで多い。"
+  },
+  "united-kingdom/36tt": {
+    "kind": "street",
+    "region": "北アイルランド西部",
+    "ja": "道路名の下に緑の文字でタウンランド（地区名）が書かれた道路名標識。北アイルランドの西部で見られる。"
+  },
+  "united-kingdom/X0Ns": {
+    "kind": "street",
+    "region": "ウェイクフィールド",
+    "ja": "白い縁取りと白い文字の黒い道路名標識。イングランドのウェイクフィールドで多い。"
+  },
+  "united-kingdom/XahW": {
+    "kind": "back",
+    "region": "バーミンガム",
+    "ja": "黄色いテープやペンキが巻かれた柱や支柱。イングランドのバーミンガムでよく見られる。"
+  },
+  "united-kingdom/93V0": {
+    "kind": "speed",
+    "region": "グラスゴー周辺",
+    "ja": "「Twenty's Plenty」と書かれた緑の縁取りの速度標識。スコットランドのグラスゴー周辺で多い。"
+  },
+  "spain/0bDx": {
+    "kind": "other",
+    "ja": "スペインの田舎でよく見かける狩猟区域の標識。「coto」で始まり「caza」で終わる文字が入った白い標識と、白黒に斜めに分かれた標識の2種類で、どちらもスペイン独自。"
+  },
+  "spain/JLZT": {
+    "kind": "pedestrian",
+    "required": [
+      "spain",
+      "andorra"
+    ],
+    "ja": "スペインの横断歩道標識は8本縞で、ヨーロッパで最も多い。ほかに8本縞なのはアンドラだけ。"
+  },
+  "spain/xE7c": {
+    "kind": "stop",
+    "ja": "スペインの一時停止標識は、文字が小さめで独特。ポルトガルの標識はもっと大きな文字。"
+  },
+  "spain/lZxf": {
+    "kind": "other",
+    "ja": "スペインの道路標識は、赤い縁取りが標識の端まである。フランス、イタリア、ポルトガルは外側に細い白い縁がある。"
+  },
+  "spain/t0On": {
+    "kind": "back",
+    "required": [
+      "spain"
+    ],
+    "optional": [
+      "portugal",
+      "france",
+      "andorra"
+    ],
+    "ja": "スペインの交通標識、キロポスト、シェブロン、一部の案内標識は、ほぼすべて平らな支柱。ヨーロッパではポルトガル、フランス、アンドラにも平らな支柱がある。"
+  },
+  "spain/4Xxl": {
+    "kind": "chevron",
+    "optional": [
+      "france",
+      "italy",
+      "greece",
+      "albania"
+    ],
+    "ja": "スペインのシェブロンは黒地に白い矢印と、青地に白い矢印の2種類。矢印が1つのものは少ない。青地に白のシェブロンを使うのは、ヨーロッパではほかにフランスだけ。"
+  },
+  "spain/4F9m": {
+    "kind": "direction",
+    "ja": "スペインの案内標識は白地で、カラフルな枠に入った道路番号が目印。高速道路の標識は青地。"
+  },
+  "spain/Pfi5": {
+    "kind": "other",
+    "ja": "車庫や門の前にある「Vado permanente」と書かれた駐車禁止標識。「Ayuntamiento de」の後に自治体名が書かれていることが多い。イタリアは「Passo carrabile」。"
+  },
+  "spain/CAu9": {
+    "exclude": "地域コードの解説図"
+  },
+  "spain/lQAo": {
+    "kind": "other",
+    "region": "カタルーニャ語圏",
+    "ja": "「Gual permanent」と書かれた駐車禁止標識。スペインのカタルーニャやバレアレス諸島などカタルーニャ語圏で見られる。"
+  },
+  "spain/yAfo": {
+    "exclude": "言語の説明"
+  },
+  "spain/lFNR": {
+    "kind": "other",
+    "region": "バスク州・ナバラ州",
+    "ja": "太い黒い縁取りの2言語の補助標識。スペインのバスク州とナバラ州で多い。"
+  },
+  "spain/4l5N": {
+    "exclude": "言語の説明"
+  },
+  "spain/NyOz": {
+    "exclude": "言語の説明"
+  },
+  "spain/Sxg8": {
+    "kind": "other",
+    "region": "ガリシア州",
+    "ja": "上部に自治体名が書かれた緑や青の帯がある標識。スペインのガリシア州の町でよく使われる。"
+  },
+  "spain/vcUq": {
+    "kind": "back",
+    "region": "カタルーニャ州（バスク州・バレアレス諸島にも）",
+    "ja": "丸くて波形の支柱。スペインのカタルーニャ州で多く、特に案内標識で使われる。バスク州やバレアレス諸島にも似たものがある。"
+  },
+  "spain/IRH5": {
+    "kind": "other",
+    "region": "カタルーニャ州・バレアレス諸島",
+    "ja": "「Àrea privada de Caça」とカタルーニャ語で書かれた狩猟区域の標識。スペインのカタルーニャ州などで見られる。"
+  },
+  "spain/Pptg": {
+    "kind": "chevron",
+    "region": "カタルーニャ州",
+    "ja": "矢印が1つの大きな四角いシェブロン。スペインのカタルーニャ州でよく見られる。"
+  },
+  "spain/iLYe": {
+    "kind": "chevron",
+    "region": "ムルシア州",
+    "ja": "白地に赤い矢印の小さな四角いシェブロンは、スペインのムルシア州だけで見られる。"
+  },
+  "spain/Ug5F": {
+    "kind": "other",
+    "region": "アンダルシア州",
+    "ja": "左側に緑の帯が入った、アンダルシア州政府の標識。自然保護区のまわりには、緑の支柱の小さいバージョンも多い。"
+  },
+  "spain/RGJT": {
+    "kind": "other",
+    "region": "サンティアゴ巡礼路",
+    "ja": "青地に黄色いホタテ貝のマークは、サンティアゴ巡礼路の道しるべ。スペインに多いが、ヨーロッパ各地の巡礼路にもある。"
+  },
+  "spain/GGQR": {
+    "kind": "street",
+    "region": "ビルバオ",
+    "ja": "とても凝った装飾の枠が付いた道路名標識。スペインのビルバオ独自のもの。"
+  },
+  "sweden/YK4r": {
+    "kind": "pedestrian",
+    "optional": [
+      "norway"
+    ],
+    "ja": "スウェーデンの横断歩道標識は4本縞。女性のシルエットのバージョンもある。フィンランドとデンマークは5本縞で、ノルウェーはふつう4本。"
+  },
+  "sweden/Nhg0": {
+    "kind": "direction",
+    "ja": "スウェーデンの案内標識は主に白い文字と縁取りの青地で、細い矢印で方向を示す。黒文字に赤い縁取りの黄色い標識もよくあり、こちらには小さな地名が書かれている。"
+  },
+  "sweden/JUZe": {
+    "kind": "warning",
+    "required": [
+      "sweden",
+      "finland",
+      "iceland"
+    ],
+    "ja": "スウェーデンの道路標識は赤い縁取りに黄色地。フィンランドは赤い縁取りの外側にも細い黄色の縁がある。"
+  },
+  "sweden/sN4Z": {
+    "kind": "chevron",
+    "optional": [
+      "luxembourg"
+    ],
+    "ja": "黄色い矢印に青地のシェブロンを使うのは、ヨーロッパでスウェーデンだけ（ルクセンブルクにもごくまれにある）。"
+  },
+  "sweden/FJkx": {
+    "kind": "other",
+    "optional": [
+      "norway"
+    ],
+    "ja": "小さな道路でよく見かける、大きな白い「M」が書かれた青い標識（待避所）。スウェーデンのもので、「M」の真ん中が下まで届く。ノルウェーにも似たものがあるがフォントが違う。"
+  },
+  "sweden/esbg": {
+    "kind": "back",
+    "optional": [
+      "finland",
+      "estonia"
+    ],
+    "ja": "スウェーデンの支柱には縞模様のマーキングがよくある。青と白、赤と黄色が最も多い。青と白はフィンランドやエストニアにもある。"
+  },
+  "sweden/5n8T": {
+    "kind": "other",
+    "ja": "スウェーデンでは、道路工事の標識やバリケードなどの道路インフラが赤と黄色に塗られていることが多い。赤と黄色のシェブロンもある。"
+  },
+  "sweden/4Tj8": {
+    "kind": "street",
+    "ja": "スウェーデンの道路名は「vägen」「gatan」で終わるものが多く、標識では「v」「g」と略されることも多い。"
+  },
+  "sweden/LTfr": {
+    "exclude": "地域ごとの解説図"
+  },
+  "sweden/Kgx2": {
+    "exclude": "地域ごとの解説図"
+  },
+  "sweden/9XCt": {
+    "exclude": "ID番号の地域解説"
+  },
+  "sweden/wyog": {
+    "exclude": "言語の説明"
+  },
+  "sweden/GOZR": {
+    "exclude": "言語の説明"
+  },
+  "sweden/AWak": {
+    "exclude": "都市ごとの解説図"
+  },
+  "sweden/3eFT": {
+    "kind": "other",
+    "region": "リンシェーピン・ノルシェーピン・ヨンシェーピン",
+    "ja": "蛍光黄色のスクールバスの停留所標識。スウェーデンのリンシェーピン、ノルシェーピン、ヨンシェーピンで多い。"
+  },
+  "sweden/aX6G": {
+    "kind": "street",
+    "region": "ストックホルム",
+    "ja": "黒い線で上下2段に分かれ、黒い縁取りのない道路名標識。ストックホルムで見られる（イェヴレ中心部にもまれにある）。"
+  },
+  "sweden/mqbt": {
+    "kind": "street",
+    "region": "ヨーテボリ",
+    "ja": "ヨーテボリ市全体で使われている独特な青い道路名標識。ほとんど2行。"
+  },
+  "sweden/tJBR": {
+    "kind": "street",
+    "region": "マルメ",
+    "ja": "角が黒い、ちょっと古風な白い道路名標識。スウェーデンのマルメ全域で見られる。"
+  },
+  "sweden/gtqn": {
+    "kind": "street",
+    "region": "イースタッド",
+    "ja": "マルメのものに似た、黄色地の道路名標識。スウェーデンのイースタッドで見られる。"
+  },
+  "sweden/zhtp": {
+    "kind": "street",
+    "region": "ヴェリンゲ",
+    "ja": "ヨーテボリのものに似た青い道路名標識だが、ふつう1行。スウェーデンのヴェリンゲで見られる。"
+  },
+  "sweden/TkCB": {
+    "kind": "street",
+    "region": "ファルシェーピング",
+    "ja": "シンプルな黄色い道路名標識。スウェーデンのファルシェーピングで見られる。"
+  },
+  "sweden/Dbca": {
+    "kind": "street",
+    "region": "シェーピング",
+    "ja": "細い黒い縁取りの青い道路名標識。スウェーデンのシェーピングで見られる。"
+  },
+  "sweden/lOhm": {
+    "exclude": "言語の説明"
+  },
+  "sweden/cfRa": {
+    "kind": "back",
+    "region": "カールスタッド",
+    "ja": "支柱や街灯に巻かれた3本の黄色い帯。スウェーデンのカールスタッドで見られる（ストックホルムの信号機にもある）。"
+  },
+  "sweden/d2KD": {
+    "kind": "other",
+    "region": "ストックホルム郊外",
+    "ja": "木の伐採を知らせる小さな黄色い標識。ストックホルム郊外の電柱や街灯によく付いている。"
+  },
+  "sweden/OvOv": {
+    "exclude": "町の説明"
+  },
+  "indonesia/WGZd": {
+    "exclude": "地名の説明"
+  },
+  "indonesia/HlrS": {
+    "exclude": "郵便番号の説明"
+  },
+  "indonesia/0rmy": {
+    "exclude": "宗教の説明"
+  },
+  "belgium/rJDM": {
+    "kind": "direction",
+    "ja": "ベルギーの案内標識は、主に青か白。"
+  },
+  "belgium/ahrj": {
+    "kind": "other",
+    "ja": "ベルギーの道路標識には、小さな青い補助標識が付いていることが多い。ほかのヨーロッパの国では、補助標識はふつう白。"
+  },
+  "belgium/Bf5S": {
+    "kind": "pedestrian",
+    "ja": "ベルギーの横断歩道標識には縞がなく、横向きの点線が2本。歩行者の頭が四角い。フランスとオランダは縦の5本縞。"
+  },
+  "belgium/73Bz": {
+    "kind": "chevron",
+    "required": [
+      "belgium",
+      "netherlands"
+    ],
+    "ja": "白地に赤い矢印のシェブロン。ベルギーとオランダで使われ、フランスでは見られない。"
+  },
+  "belgium/3Ooh": {
+    "kind": "back",
+    "ja": "ベルギーの支柱はオレンジ色のことが多く、標識の裏がオレンジのこともある。ベルギー独自の特徴。"
+  },
+  "belgium/5jYM": {
+    "kind": "street",
+    "ja": "ベルギーの道路名標識はとても多様で、町ごとに違うことが多い。白と濃い青が多く、町の名前が書かれていることが多い。縦長で短めのものが多い。"
+  },
+  "belgium/5MIw": {
+    "kind": "street",
+    "ja": "ベルギーの町の入り口の標識は、黒い縁取りの白い板に、太い黒文字で町名や自治体名が書かれている。"
+  },
+  "belgium/3xpW": {
+    "kind": "other",
+    "ja": "ベルギーの優先道路標識は、オレンジのひし形で、ほかの国よりずっと小さい。"
+  },
+  "belgium/9KhQ": {
+    "kind": "back",
+    "ja": "ベルギーのバス停には、必ず黄色い支柱が使われている。待合所の屋根も黄色いことが多い。"
+  },
+  "belgium/n3uG": {
+    "kind": "other",
+    "optional": [
+      "germany"
+    ],
+    "ja": "上に「H」の文字が付いた赤い消火栓標識。ベルギーのもので、ドイツにもある。"
+  },
+  "belgium/Wopz": {
+    "exclude": "言語の説明"
+  },
+  "belgium/t75X": {
+    "kind": "other",
+    "region": "フランデレン・ブリュッセル",
+    "ja": "上部に白い長方形があるバス停標識。ベルギーのフランデレン地域とブリュッセルのもので、ワロン地域は上部が黄色。"
+  },
+  "belgium/m1Lx": {
+    "kind": "warning",
+    "region": "フランデレン・ブリュッセル",
+    "ja": "白い縁のない太い赤い縁取りの警戒標識。ベルギーのフランデレン地域とブリュッセルの95%がこれで、ワロン地域は細い白い縁がある。"
+  },
+  "belgium/VtiH": {
+    "exclude": "都市ごとの地図"
+  },
+  "belgium/fihD": {
+    "exclude": "町の説明"
+  },
+  "rwanda/cXjQ": {
+    "exclude": "地区コードの説明"
+  },
+  "vietnam/aj5h": {
+    "kind": "back",
+    "ja": "ベトナムの道路標識の支柱は、ふつう赤と白の縞模様に塗られている。"
+  },
+  "vietnam/VjVL": {
+    "kind": "warning",
+    "ja": "ベトナムの道路標識は黄色〜オレンジ色の地。東南アジアではベトナムだけ。"
+  },
+  "vietnam/EDRU": {
+    "kind": "chevron",
+    "ja": "ベトナムのシェブロンは黄色地に黒、または赤地に白で、矢印はふつう1つだけ。"
+  },
+  "vietnam/BjVO": {
+    "kind": "direction",
+    "ja": "ベトナムの案内標識はふつう青地で、とても細い白い縁取りがあるか、縁取りなし。白い矢印が直角ではなく、ちょっと変な方向を向いていることが多い。"
+  },
+  "vietnam/aaUK": {
+    "exclude": "住所の説明"
+  },
+  "vietnam/sbhF": {
+    "exclude": "言語の説明"
+  }
+}

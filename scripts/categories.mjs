@@ -22,6 +22,7 @@ export const CATEGORIES = {
       direction: '案内標識',
       route: '路線番号',
       street: '道路名・地名標識',
+      back: '裏面・支柱',
       other: 'その他の標識',
     },
     // Plonk It tags only some sign items, so items that talk about signs are
