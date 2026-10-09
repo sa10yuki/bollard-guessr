@@ -55,6 +55,7 @@
           <div class="menu">
             <button class="btn primary big" id="start-normal" type="button" disabled>スタート</button>
             <button class="btn big" id="start-review" type="button" disabled>復習モード</button>
+            <button class="btn big" id="open-catalog" type="button" disabled>ボラード図鑑</button>
           </div>
           <p class="hint" id="review-hint"></p>
           <p class="credit">
@@ -80,6 +81,30 @@
           </div>
         </div>
       </section>
+
+      <section class="catalog" id="catalog" hidden>
+        <div class="catalog-head">
+          <h1>ボラード図鑑</h1>
+          <div class="catalog-tools">
+            <input id="catalog-search" type="search" placeholder="国名で絞り込む（例: にほん、Japan）" autocomplete="off" />
+            <label class="toggle"><input type="checkbox" id="catalog-similar" checked /> 似ているボラードも表示</label>
+          </div>
+          <div class="filters" id="catalog-continents" role="group" aria-label="大陸で絞り込む"></div>
+          <p class="catalog-count" id="catalog-count"></p>
+        </div>
+        <div class="catalog-list" id="catalog-list"></div>
+      </section>
+
+      <dialog class="detail" id="detail" aria-labelledby="detail-title">
+        <div class="detail-box">
+          <div class="detail-top">
+            <h2 id="detail-title"></h2>
+            <form method="dialog"><button class="detail-close" aria-label="閉じる">×</button></form>
+          </div>
+          <img id="detail-img" alt="ボラードの写真" />
+          <div class="detail-body" id="detail-body"></div>
+        </div>
+      </dialog>
 
       <div class="lightbox" id="lightbox" hidden>
         <img id="lightbox-img" alt="ボラードの写真（拡大）" />

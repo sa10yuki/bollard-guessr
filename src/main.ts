@@ -1,6 +1,8 @@
 import './style.css';
 import { judge, loadReview, pickSet, updateReview, type Question, type Verdict } from './game';
+import { Catalog } from './catalog';
 import { AreaMap, type AreaProps } from './map';
+import { normalize, renderBollardInfo } from './text';
 
 const $ = <T extends HTMLElement = HTMLElement>(id: string) => document.getElementById(id) as T;
 
@@ -9,6 +11,7 @@ const el = {
   play: $('play'),
   start: $('start'),
   result: $('result'),
+  catalog: $('catalog'),
   photo: $<HTMLImageElement>('photo'),
   photoButton: $('photo-button'),
   lightbox: $('lightbox'),
@@ -35,6 +38,7 @@ let geo: GeoJSON.FeatureCollection<GeoJSON.MultiPolygon, AreaProps>;
 const areas = new Map<string, AreaProps>();
 // Created on first use: Leaflet needs a visible container to lay out the map.
 let areaMap: AreaMap;
+let catalog: Catalog;
 
 type Mode = 'normal' | 'review';
 let mode: Mode = 'normal';
@@ -47,8 +51,9 @@ const nameOf = (id: string) => areas.get(id)?.name ?? id;
 
 // ---------- screens ----------
 
-function show(screen: 'start' | 'play' | 'result') {
+function show(screen: 'start' | 'play' | 'result' | 'catalog') {
   el.start.hidden = screen !== 'start';
+  el.catalog.hidden = screen !== 'catalog';
   el.result.hidden = screen !== 'result';
   el.play.hidden = screen !== 'play';
   if (screen === 'play') {
@@ -58,6 +63,7 @@ function show(screen: 'start' | 'play' | 'result') {
     }
     areaMap.invalidate();
   }
+  if (screen === 'catalog') catalog.render();
   if (screen !== 'play') el.progress.textContent = '';
   refreshReviewButtons();
 }
@@ -177,86 +183,15 @@ function names(ids: string[]) {
 }
 
 function renderFeedback(q: Question, v: Verdict) {
-  const f = el.feedback;
   const verdict = document.createElement('p');
   verdict.className = `verdict ${v.correct ? 'ok' : 'ng'}`;
   verdict.textContent = v.correct ? '正解！' : '残念…';
 
-  const facts = document.createElement('dl');
-  facts.className = 'facts';
-  const fact = (label: string, value: string) => {
-    const dt = document.createElement('dt');
-    dt.textContent = label;
-    const dd = document.createElement('dd');
-    dd.textContent = value;
-    facts.append(dt, dd);
-  };
-  fact('使われている国・地域', names(q.required));
-  if (q.optional.length) fact('似たものがある国（選んでもOK）', names(q.optional));
-  if (q.region) fact('見られる地域', q.region);
-  if (v.missed.length) fact('選び忘れ', names(v.missed));
-  if (v.wrong.length) fact('違う国', names(v.wrong));
+  const mistakes: [string, string][] = [];
+  if (v.missed.length) mistakes.push(['選び忘れ', names(v.missed)]);
+  if (v.wrong.length) mistakes.push(['違う国', names(v.wrong)]);
 
-  const explain = document.createElement('p');
-  explain.className = 'explain';
-  explain.textContent = q.ja;
-
-  const details = document.createElement('details');
-  const summary = document.createElement('summary');
-  summary.textContent = 'Plonk It の原文（英語）';
-  const en = document.createElement('div');
-  en.className = 'en';
-  en.append(...renderPlonkitText(q.en));
-  details.append(summary, en);
-
-  const link = document.createElement('a');
-  link.href = q.source;
-  link.target = '_blank';
-  link.rel = 'noopener';
-  link.className = 'source';
-  link.textContent = `Plonk It の「${nameOf(q.country)}」ガイドを開く ↗`;
-
-  const credit = document.createElement('p');
-  credit.className = 'item-credit';
-  credit.append('画像・説明: Plonk It（');
-  const cc = document.createElement('a');
-  cc.href = 'https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ja';
-  cc.target = '_blank';
-  cc.rel = 'noopener';
-  cc.textContent = 'CC BY-NC-SA 4.0';
-  credit.append(cc, '）。画像はトリミング、説明は翻訳・要約して使用。');
-
-  f.replaceChildren(verdict, facts, explain, details, link, credit);
-}
-
-/** Renders Plonk It's light markdown (**bold**, [text](url)) as DOM nodes without innerHTML. */
-function renderPlonkitText(text: string): Node[] {
-  return text.split('\n').map((line) => {
-    const p = document.createElement('p');
-    const re = /\*\*(.+?)\*\*|\[([^\]]+)\]\(([^)]+)\)/g;
-    let last = 0;
-    for (const m of line.matchAll(re)) {
-      p.append(line.slice(last, m.index));
-      if (m[1] !== undefined) {
-        const b = document.createElement('strong');
-        b.textContent = m[1];
-        p.append(b);
-      } else {
-        const a = document.createElement('a');
-        a.textContent = m[2];
-        const url = m[3].startsWith('/') ? `https://www.plonkit.net${m[3]}` : m[3];
-        if (/^https?:\/\//.test(url)) {
-          a.href = url;
-          a.target = '_blank';
-          a.rel = 'noopener';
-        }
-        p.append(a);
-      }
-      last = m.index + m[0].length;
-    }
-    p.append(line.slice(last).replace(/\*\*/g, ''));
-    return p;
-  });
+  el.feedback.replaceChildren(verdict, ...renderBollardInfo(q, nameOf, mistakes));
 }
 
 function nextQuestion() {
@@ -289,15 +224,6 @@ function showResult() {
 }
 
 // ---------- search ----------
-
-/** Hiragana -> katakana and lowercase, so "どいつ" and "ドイツ" both match. */
-function normalize(s: string) {
-  return s
-    .toLowerCase()
-    .normalize('NFKC')
-    .replace(/[ぁ-ゖ]/g, (c) => String.fromCharCode(c.charCodeAt(0) + 0x60))
-    .replace(/[\s・･·-]/g, '');
-}
 
 let searchIndex: { area: AreaProps; keys: string[] }[] = [];
 
@@ -356,6 +282,26 @@ async function boot() {
   const startNormal = $<HTMLButtonElement>('start-normal');
   startNormal.onclick = () => startSet('normal');
   startNormal.disabled = false; // start-review is handled by refreshReviewButtons()
+
+  catalog = new Catalog(
+    {
+      search: $<HTMLInputElement>('catalog-search'),
+      continents: $('catalog-continents'),
+      similar: $<HTMLInputElement>('catalog-similar'),
+      count: $('catalog-count'),
+      list: $('catalog-list'),
+      dialog: $<HTMLDialogElement>('detail'),
+      dialogImg: $<HTMLImageElement>('detail-img'),
+      dialogTitle: $('detail-title'),
+      dialogBody: $('detail-body'),
+    },
+    data.guides,
+    questions,
+    areas,
+  );
+  const openCatalog = $<HTMLButtonElement>('open-catalog');
+  openCatalog.onclick = () => show('catalog');
+  openCatalog.disabled = false;
   el.startReview.onclick = () => startSet('review');
   $('again').onclick = () => startSet(mode);
   el.resultReview.onclick = () => startSet('review');

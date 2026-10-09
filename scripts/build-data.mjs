@@ -89,9 +89,13 @@ for (const item of raw.items) {
   });
 }
 
+// Every Plonk It guide with its continent, so the catalog can also list the
+// guides that have no bollard at all.
+const guides = raw.countries.map((c) => ({ id: c.slug, continent: c.continent }));
+
 fs.writeFileSync(
   path.join(ROOT, 'public', 'data', 'bollards.json'),
-  JSON.stringify({ fetchedAt: raw.fetchedAt, questions }, null, 1),
+  JSON.stringify({ fetchedAt: raw.fetchedAt, guides, questions }, null, 1),
 );
 console.log(`${questions.length} questions written`);
 if (problems.length) {
