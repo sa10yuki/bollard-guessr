@@ -13,7 +13,7 @@
   "back": "裏面・支柱",
   "other": "その他の標識"
  },
- "pending": 514,
+ "pending": 495,
  "guides": [
   {
    "id": "united-states",
@@ -1145,6 +1145,109 @@
    "source": "https://www.plonkit.net/japan"
   },
   {
+   "id": "macau/3QHj",
+   "country": "macau",
+   "image": "images/sign/macau-3QHj.webp",
+   "required": [
+    "macau"
+   ],
+   "optional": [],
+   "region": null,
+   "kind": "street",
+   "ja": "中国語とポルトガル語が書かれた、青い縁取りの白い道路名標識。マカオ独自のもの。",
+   "en": "These **white** street signs with a **blue border** around the Chinese and Portuguese text are unique to Macau.",
+   "source": "https://www.plonkit.net/macau"
+  },
+  {
+   "id": "malaysia/rEQ4",
+   "country": "malaysia",
+   "image": "images/sign/malaysia-rEQ4.webp",
+   "required": [
+    "malaysia"
+   ],
+   "optional": [],
+   "region": null,
+   "kind": "stop",
+   "ja": "「BERHENTI」の一時停止標識と「BERI LALUAN」の譲れ標識は、マレーシア独自のもの。",
+   "en": "**BERHENTI** stop signs and **BERI LALUAN** yield signs are both unique to Malaysia.",
+   "source": "https://www.plonkit.net/malaysia"
+  },
+  {
+   "id": "singapore/oACN",
+   "country": "singapore",
+   "image": "images/sign/singapore-oACN.webp",
+   "required": [
+    "singapore"
+   ],
+   "optional": [],
+   "region": null,
+   "kind": "street",
+   "ja": "シンガポールの道路名標識はすべて同じ形式。角の丸い緑の板に、独特な白い文字。",
+   "en": "All street name signs in Singapore follow this **unique format**. They are green, with rounded edges and a distinct white font.",
+   "source": "https://www.plonkit.net/singapore"
+  },
+  {
+   "id": "south-korea/58U2",
+   "country": "south-korea",
+   "image": "images/sign/south-korea-58U2.webp",
+   "required": [
+    "south-korea"
+   ],
+   "optional": [],
+   "region": null,
+   "kind": "warning",
+   "ja": "韓国の三角形の警戒標識は黄色地。速度制限などの丸い規制標識や、譲れ標識は白地。",
+   "en": "Triangular warning signs have a **yellow** **background**.\nNote that circular prohibition signs, such as speed signs, have a white background. Yield signs also have a white background.",
+   "source": "https://www.plonkit.net/south-korea"
+  },
+  {
+   "id": "qatar/XQGn",
+   "country": "qatar",
+   "image": "images/sign/qatar-XQGn.webp",
+   "required": [
+    "qatar"
+   ],
+   "optional": [],
+   "region": null,
+   "kind": "chevron",
+   "ja": "カタールのシェブロンは赤地に白、または青地に白。",
+   "en": "Qatar uses **white on red** and **white on blue** chevrons.",
+   "source": "https://www.plonkit.net/qatar"
+  },
+  {
+   "id": "philippines/DIih",
+   "country": "philippines",
+   "image": "images/sign/philippines-DIih.webp",
+   "required": [
+    "philippines"
+   ],
+   "optional": [],
+   "region": null,
+   "kind": "chevron",
+   "ja": "フィリピンのシェブロンは、白地に赤がふつう。",
+   "en": "Chevrons are typically **red on white**.",
+   "source": "https://www.plonkit.net/philippines"
+  },
+  {
+   "id": "sri-lanka/mWPv",
+   "country": "sri-lanka",
+   "image": "images/sign/sri-lanka-mWPv.webp",
+   "required": [
+    "sri-lanka",
+    "bhutan",
+    "bangladesh",
+    "malaysia",
+    "nepal",
+    "india"
+   ],
+   "optional": [],
+   "region": null,
+   "kind": "back",
+   "ja": "スリランカでは白黒の縞模様の支柱がよく使われる。南アジア・東南アジアでは、バングラデシュ、ブータン、インド、ネパール、マレーシアでも見られる。",
+   "en": "Sri Lanka commonly uses **black and white** striped signposts.\nNOTE: Within South and Southeast Asia, such signposts are also found in Bangladesh, Bhutan, India, Nepal and Malaysia.",
+   "source": "https://www.plonkit.net/sri-lanka"
+  },
+  {
    "id": "mongolia/2q6G",
    "country": "mongolia",
    "image": "images/sign/mongolia-2q6G.webp",
@@ -1157,6 +1260,201 @@
    "ja": "モンゴルのインフラはロシアの影響が強いが、「ЗОГС」と書かれた一時停止標識はモンゴル独自のもの。",
    "en": "Mongolian infrastructure has clear Russian influence. Wooden poles with supporting stone blocks, [white lamp posts](https://www.google.com/maps/@46.677839,113.270184,3a,64.1y,330.3h,92.79t/data=!3m4!1e1!3m2!1sAv0lfNtDl5QLj3rxCnkYzA!2e0), and [three-striped** **pedestrian crossing signs](https://www.google.com/maps/@50.2393538,106.2025013,2a,60y,95.51h,75.52t/data=!3m6!1e1!3m4!1sXUNd4wtT71dkoiStvdsI-Q!2e0!7i13312!8i6656?entry=ttu) are common to see.\nUnique to Mongolia is the** **[**“ЗОГС”**](https://www.google.com/maps/@50.2286946,106.2131419,2a,15y,73.91h,86.02t/data=!3m6!1e1!3m4!1sDbSJ2KjqHFeQw_Vx-Muhyg!2e0!7i13312!8i6656?entry=ttu)** stop sign**.\nNOTE: Each town has unique lamp post designs, so learning them can be quite useful.",
    "source": "https://www.plonkit.net/mongolia"
+  },
+  {
+   "id": "oman/WjNO",
+   "country": "oman",
+   "image": "images/sign/oman-WjNO.webp",
+   "required": [
+    "oman"
+   ],
+   "optional": [
+    "united-arab-emirates",
+    "qatar"
+   ],
+   "region": null,
+   "kind": "direction",
+   "ja": "オマーンの案内標識は青地に白文字で、アラビア語と英語の2言語表記が多い。UAEとカタールも似た標識を使う。",
+   "en": "Directional signs are** blue with white text** and are usually in **Arabic and English**.\nNOTE: The UAE and Qatar use similar signs.",
+   "source": "https://www.plonkit.net/oman"
+  },
+  {
+   "id": "united-arab-emirates/lRZb",
+   "country": "united-arab-emirates",
+   "image": "images/sign/united-arab-emirates-lRZb.webp",
+   "required": [
+    "united-arab-emirates",
+    "oman"
+   ],
+   "optional": [],
+   "region": null,
+   "kind": "back",
+   "ja": "白黒の縞模様の支柱。中東ではUAEとオマーンで見られる。",
+   "en": "Many signposts in the UAE have **black-and-white stripes**.\nNOTE: Within the Middle East, striped signposts are also found in Oman.",
+   "source": "https://www.plonkit.net/united-arab-emirates"
+  },
+  {
+   "id": "nepal/8n9O",
+   "country": "nepal",
+   "image": "images/sign/nepal-8n9O.webp",
+   "required": [
+    "nepal",
+    "bhutan",
+    "bangladesh",
+    "malaysia",
+    "sri-lanka",
+    "india"
+   ],
+   "optional": [],
+   "region": null,
+   "kind": "back",
+   "ja": "ネパールの白黒の縞模様の支柱。南アジア・東南アジアでは、インド、ブータン、バングラデシュ、スリランカ、マレーシアでも使われる。",
+   "en": "Nepal uses black-and-white striped signposts.\nNOTE: Within South and Southeast Asia, India, Bhutan, Bangladesh, Sri Lanka and Malaysia also use black-and-white striped signposts.",
+   "source": "https://www.plonkit.net/nepal"
+  },
+  {
+   "id": "taiwan/m9ZV",
+   "country": "taiwan",
+   "image": "images/sign/taiwan-m9ZV.webp",
+   "required": [
+    "taiwan"
+   ],
+   "optional": [
+    "thailand",
+    "malaysia",
+    "indonesia",
+    "vietnam",
+    "laos"
+   ],
+   "region": null,
+   "kind": "chevron",
+   "ja": "台湾のシェブロンは黄色地に黒。東南アジアの多くの国も同じ配色。",
+   "en": "Taiwan uses **black on yellow** chevrons.",
+   "source": "https://www.plonkit.net/taiwan"
+  },
+  {
+   "id": "turkey/QOm1",
+   "country": "turkey",
+   "image": "images/sign/turkey-QOm1.webp",
+   "required": [
+    "turkey"
+   ],
+   "optional": [
+    "bulgaria",
+    "romania",
+    "north-macedonia"
+   ],
+   "region": null,
+   "kind": "chevron",
+   "ja": "トルコのシェブロンはふつう白地に赤。矢印の先がシェブロンの端に届いていないことが多い。蛍光黄色の縁取りが付いたものもある。",
+   "en": "Turkish chevrons are typically **red on white**. Beware that there are some other [regional variants](https://goo.gl/maps/c53U4ydsoRYVxGhk9).\nUsually, the tip of the arrow does not touch the edge of the chevron. Some chevrons have a [neon yellow border](https://goo.gl/maps/h52NSmYxDJA77zVD8).",
+   "source": "https://www.plonkit.net/turkey"
+  },
+  {
+   "id": "thailand/LKJb",
+   "country": "thailand",
+   "image": "images/sign/thailand-LKJb.webp",
+   "required": [
+    "thailand"
+   ],
+   "optional": [],
+   "region": null,
+   "kind": "back",
+   "ja": "タイの支柱は四角くてがっしりした白い柱で、根元が黒く塗られていることが多い。東南アジアではタイ独自のデザイン。",
+   "en": "Signposts in Thailand are square and bulky in shape, usually white, and often have the **bottom painted black**.\nNOTE: In Southeast Asia, this design is unique to Thailand.",
+   "source": "https://www.plonkit.net/thailand"
+  },
+  {
+   "id": "andorra/LHX7",
+   "country": "andorra",
+   "image": "images/sign/andorra-LHX7.webp",
+   "required": [
+    "andorra",
+    "spain"
+   ],
+   "optional": [],
+   "region": null,
+   "kind": "pedestrian",
+   "ja": "アンドラの横断歩道標識は縞が8本。ヨーロッパで8本縞なのはアンドラとスペインだけ。",
+   "en": "Pedestrian signs** **have **8 stripes**.\nNOTE: Spain is the only other European country that has pedestrian signs with 8 stripes.",
+   "source": "https://www.plonkit.net/andorra"
+  },
+  {
+   "id": "belarus/USRk",
+   "country": "belarus",
+   "image": "images/sign/belarus-USRk.webp",
+   "required": [
+    "belarus"
+   ],
+   "optional": [],
+   "region": "ミンスク中心部",
+   "kind": "street",
+   "ja": "ミンスク中心部の道路名標識は青緑色で、ほぼどこでも見られる。近づけばベラルーシ語で「通り」を意味する「вул」が読める。",
+   "en": "The Minsk centre street signs are **sea-green**, and can be seen almost everywhere.\nNOTE: If you are close enough to the sign, you can make out the Cyrillic letters “вул (vul)”, the Belarusian name for “street”.",
+   "source": "https://www.plonkit.net/belarus"
+  },
+  {
+   "id": "azores/159s",
+   "country": "azores",
+   "image": "images/sign/azores-159s.webp",
+   "required": [
+    "azores"
+   ],
+   "optional": [],
+   "region": null,
+   "kind": "street",
+   "ja": "アゾレス諸島の道路名標識は、ほぼすべて青い文字のタイル絵で、ふちに装飾模様がある。",
+   "en": "Street signs in the Azores are almost exclusively painted ceramic tiles, with blue letters and, typically, a decorative pattern around the edge.",
+   "source": "https://www.plonkit.net/azores"
+  },
+  {
+   "id": "albania/83ib",
+   "country": "albania",
+   "image": "images/sign/albania-83ib.webp",
+   "required": [
+    "albania",
+    "italy",
+    "greece",
+    "spain"
+   ],
+   "optional": [
+    "israel-west-bank"
+   ],
+   "region": null,
+   "kind": "chevron",
+   "ja": "黒地に白のシェブロン。南ヨーロッパではアルバニア、イタリア、ギリシャ、スペインで使われる。モンテネグロは白地に黒、黄色地に赤。",
+   "en": "Albanian chevrons are **white on black**.\nNOTE: Within southern Europe this chevron is also used by Italy, Greece, and Spain.\nMontenegro uses two chevrons, both of which are different from the Albanian chevron: black on white and red on yellow.",
+   "source": "https://www.plonkit.net/albania"
+  },
+  {
+   "id": "austria/0Ecv",
+   "country": "austria",
+   "image": "images/sign/austria-0Ecv.webp",
+   "required": [
+    "austria"
+   ],
+   "optional": [
+    "germany"
+   ],
+   "region": null,
+   "kind": "chevron",
+   "ja": "オーストリアのシェブロンは赤地に白、または黄色地に赤。ドイツは主に白地に赤で、まれに黄色地に赤。",
+   "en": "Austria uses two colour schemes for **chevrons**:\n- white on red\n- red on yellow\nNOTE: Germany mostly uses red on white chevrons, and rarely red on yellow.",
+   "source": "https://www.plonkit.net/austria"
+  },
+  {
+   "id": "croatia/eUrn",
+   "country": "croatia",
+   "image": "images/sign/croatia-eUrn.webp",
+   "required": [
+    "croatia"
+   ],
+   "optional": [],
+   "region": null,
+   "kind": "chevron",
+   "ja": "クロアチアのシェブロンは、黄色または白地に赤い矢印。",
+   "en": "Croatia features chevrons with a **red **arrow** **on a **yellow **or **white **background.",
+   "source": "https://www.plonkit.net/croatia"
   }
  ]
 }

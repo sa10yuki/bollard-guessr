@@ -1066,10 +1066,12 @@
     "exclude": "風景の説明"
   },
   "macau/3QHj": {
+    "checked": true,
     "kind": "street",
     "ja": "中国語とポルトガル語が書かれた、青い縁取りの白い道路名標識。マカオ独自のもの。"
   },
   "malaysia/rEQ4": {
+    "checked": true,
     "kind": "stop",
     "ja": "「BERHENTI」の一時停止標識と「BERI LALUAN」の譲れ標識は、マレーシア独自のもの。"
   },
@@ -1103,6 +1105,7 @@
     "ja": "左側に「JKR」と書かれた黄色い六角形が付いた、矢印形の緑の道路名標識。サバ州で見られる。"
   },
   "singapore/oACN": {
+    "checked": true,
     "kind": "street",
     "ja": "シンガポールの道路名標識はすべて同じ形式。角の丸い緑の板に、独特な白い文字。"
   },
@@ -1121,6 +1124,7 @@
     "exclude": "島の風景の説明"
   },
   "south-korea/58U2": {
+    "checked": true,
     "kind": "warning",
     "ja": "韓国の三角形の警戒標識は黄色地。速度制限などの丸い規制標識や、譲れ標識は白地。"
   },
@@ -1140,6 +1144,7 @@
     "exclude": "番地表示の地域解説"
   },
   "qatar/XQGn": {
+    "checked": true,
     "kind": "chevron",
     "ja": "カタールのシェブロンは赤地に白、または青地に白。"
   },
@@ -1156,6 +1161,7 @@
     "ja": "地面に固定されていることが多い茶色い道路名標識。カタールのエデュケーション・シティで見られる。"
   },
   "philippines/DIih": {
+    "checked": true,
     "kind": "chevron",
     "ja": "フィリピンのシェブロンは、白地に赤がふつう。"
   },
@@ -1170,6 +1176,7 @@
     "exclude": "州名の説明"
   },
   "sri-lanka/mWPv": {
+    "checked": true,
     "kind": "back",
     "required": [
       "sri-lanka",
@@ -1207,6 +1214,7 @@
     "exclude": "言語の説明"
   },
   "oman/WjNO": {
+    "checked": true,
     "kind": "direction",
     "optional": [
       "united-arab-emirates",
@@ -1236,6 +1244,7 @@
     "exclude": "言語の説明"
   },
   "united-arab-emirates/lRZb": {
+    "checked": true,
     "kind": "back",
     "required": [
       "united-arab-emirates",
@@ -1249,6 +1258,7 @@
     "ja": "細い金属の縁取りがある青い道路名標識は、ドバイのもの。"
   },
   "nepal/8n9O": {
+    "checked": true,
     "kind": "back",
     "required": [
       "nepal",
@@ -1261,6 +1271,7 @@
     "ja": "ネパールの白黒の縞模様の支柱。南アジア・東南アジアでは、インド、ブータン、バングラデシュ、スリランカ、マレーシアでも使われる。"
   },
   "taiwan/m9ZV": {
+    "checked": true,
     "kind": "chevron",
     "optional": [
       "thailand",
@@ -1280,6 +1291,7 @@
     "ja": "黒と黄色の縞模様のステッカーが2本貼られた、曲がった標識・シェブロンの支柱。台湾の屏東県、高雄市、台東県だけで見られる。"
   },
   "turkey/QOm1": {
+    "checked": true,
     "kind": "chevron",
     "optional": [
       "bulgaria",
@@ -1357,6 +1369,7 @@
     "ja": "完全に平らで縁取りのない緑の道路名標識。トルコのボルで見られる。"
   },
   "thailand/LKJb": {
+    "checked": true,
     "kind": "back",
     "ja": "タイの支柱は四角くてがっしりした白い柱で、根元が黒く塗られていることが多い。東南アジアではタイ独自のデザイン。"
   },
@@ -1394,6 +1407,7 @@
     "ja": "金色の装飾の縁取りが付いた赤い道路名標識。タイのチェンライ市で見られる（同じ縁取りの青いものもある）。"
   },
   "andorra/LHX7": {
+    "checked": true,
     "kind": "pedestrian",
     "required": [
       "andorra",
@@ -1405,6 +1419,7 @@
     "exclude": "言語の説明"
   },
   "belarus/USRk": {
+    "checked": true,
     "kind": "street",
     "region": "ミンスク中心部",
     "ja": "ミンスク中心部の道路名標識は青緑色で、ほぼどこでも見られる。近づけばベラルーシ語で「通り」を意味する「вул」が読める。"
@@ -1413,6 +1428,7 @@
     "exclude": "ポルトガル式インフラ全般の比較画像"
   },
   "azores/159s": {
+    "checked": true,
     "kind": "street",
     "ja": "アゾレス諸島の道路名標識は、ほぼすべて青い文字のタイル絵で、ふちに装飾模様がある。"
   },
@@ -1425,6 +1441,7 @@
     "ja": "アゾレス諸島の支柱はよく縞模様に塗られている。マデイラ諸島でも見られる。"
   },
   "albania/83ib": {
+    "checked": true,
     "kind": "chevron",
     "required": [
       "albania",
@@ -1459,6 +1476,7 @@
     "ja": "アルバニアの速度標識の数字は太字。モンテネグロのものはずっと細い。"
   },
   "austria/0Ecv": {
+    "checked": true,
     "kind": "chevron",
     "optional": [
       "germany"
@@ -1538,6 +1556,7 @@
     "exclude": "都市ごとの解説図"
   },
   "croatia/eUrn": {
+    "checked": true,
     "kind": "chevron",
     "ja": "クロアチアのシェブロンは、黄色または白地に赤い矢印。"
   },
