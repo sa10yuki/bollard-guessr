@@ -1,7 +1,7 @@
 {
  "fetchedAt": "2026-10-09T13:51:53.506Z",
  "kinds": null,
- "pending": 339,
+ "pending": 270,
  "guides": [
   {
    "id": "united-states",
@@ -1538,6 +1538,992 @@
    "ja": "平らな腕木の上にジグザグの棒が乗った電柱。ブラジルのセアラー州とロライマ州だけで見られ、ふつうの電柱よりずっと大きい。",
    "en": "This pole configuration, featuring a zigzag-shaped top bar resting atop a flat crossbar, is exclusive to Ceara and Roraima. The pole is usually much larger than a regular electricity pole.",
    "source": "https://www.plonkit.net/brazil"
+  },
+  {
+   "id": "curacao/wuzk",
+   "country": "curacao",
+   "image": "images/pole/curacao-wuzk.webp",
+   "required": [
+    "curacao"
+   ],
+   "optional": [
+    "brazil",
+    "south-africa",
+    "eswatini"
+   ],
+   "region": null,
+   "ja": "3つの碍子が横向きに互い違いに付いた木の電柱。キュラソーでよく見られ、ブラジル、南アフリカ、エスワティニにもある。",
+   "en": "Wooden poles with **three horizontal**, **alternating** insulators are common.\nNOTE: These poletops can also be found in Brazil, South Africa, and Eswatini.",
+   "source": "https://www.plonkit.net/curacao"
+  },
+  {
+   "id": "colombia/cSUD",
+   "country": "colombia",
+   "image": "images/pole/colombia-cSUD.webp",
+   "required": [
+    "colombia"
+   ],
+   "optional": [],
+   "region": null,
+   "ja": "黒と黄色、または黒とオレンジの縞模様のマーキングが付いたコロンビアの電柱。",
+   "en": "Colombian poles are often marked with unique **black-and-yellow** or black-and-orange stripes.",
+   "source": "https://www.plonkit.net/colombia"
+  },
+  {
+   "id": "ecuador/ki46",
+   "country": "ecuador",
+   "image": "images/pole/ecuador-ki46.webp",
+   "required": [
+    "ecuador"
+   ],
+   "optional": [],
+   "region": null,
+   "ja": "エクアドルの電柱の多くは丸いコンクリート製でありふれているが、はしごの段のような小さなくぼみがたくさんある「はしご電柱」は手がかりになる。",
+   "en": "Most poles in Ecuador are [round](https://goo.gl/maps/8mA5mVbq65jxoxuB9) and made of concrete. These poles are fairly generic and not all that useful to identify the country.\nHowever, sometimes you will see another, more useful type of concrete pole: the **ladder pole**. It has a lot of small indents – resembling the steps of a ladder. Within Latin America, these poles are more or less unique to Ecuador.\nNOTE: Brazilian waffle poles also have indents, but only a couple – as opposed to the large amount of indents that Ecuadorian ladder poles have.",
+   "source": "https://www.plonkit.net/ecuador"
+  },
+  {
+   "id": "peru/WEkO",
+   "country": "peru",
+   "image": "images/pole/peru-WEkO.webp",
+   "required": [
+    "peru"
+   ],
+   "optional": [
+    "argentina"
+   ],
+   "region": null,
+   "ja": "ペルーではコンクリートや木のいろいろな電柱が使われ、コンクリートの横棒が付いていることがある。アルゼンチンにもコンクリートの横棒がある。",
+   "en": "The country uses a variety of poles. They are made out of either **concrete** **or** **wood**, and sometimes feature distinct horizontal concrete bars.\nNOTE: Horizontal concrete bars are also found in Argentina.",
+   "source": "https://www.plonkit.net/peru"
+  },
+  {
+   "id": "uruguay/0wFk",
+   "country": "uruguay",
+   "image": "images/pole/uruguay-0wFk.webp",
+   "required": [
+    "uruguay"
+   ],
+   "optional": [
+    "brazil"
+   ],
+   "region": null,
+   "ja": "ウルグアイでとても多い「トライデント電柱」。3つの碍子が上向きに付いた独特なてっぺんが名前の由来。隣のブラジルのリオグランデ・ド・スル州にも似たものがある。",
+   "en": "Uruguay uses a handful of different utility poles. One very common and useful one are the so-called **trident poles**, which get their name from their distinctive pole tops with three insulators that point upwards.\nNOTE: Similar trident poles can be found in the neighbouring Brazilian state of Rio Grande do Sul.",
+   "source": "https://www.plonkit.net/uruguay"
+  },
+  {
+   "id": "dominican-republic/CWXA",
+   "country": "dominican-republic",
+   "image": "images/pole/dominican-republic-CWXA.webp",
+   "required": [
+    "dominican-republic"
+   ],
+   "optional": [
+    "puerto-rico",
+    "uruguay"
+   ],
+   "region": null,
+   "ja": "ドミニカ共和国の電柱の多くは四角いコンクリート製で、てっぺんが逆L字形。南北アメリカで四角い電柱を使うのは、ドミニカ共和国、プエルトリコ、ウルグアイだけ。",
+   "en": "Most electricity poles are **square and concrete**, with a reverse “L” shape at the top. Less commonly, round or octagonal poles are used.\nNOTE: Within the Americas, only the Dominican Republic, Puerto Rico and Uruguay use square poles.",
+   "source": "https://www.plonkit.net/dominican-republic"
+  },
+  {
+   "id": "costa-rica/iRIo",
+   "country": "costa-rica",
+   "image": "images/pole/costa-rica-iRIo.webp",
+   "required": [
+    "costa-rica"
+   ],
+   "optional": [
+    "panama",
+    "brazil"
+   ],
+   "region": null,
+   "ja": "コスタリカの電柱には、長い銀色の碍子が使われる。パナマやブラジルにも長い銀色の碍子がある。",
+   "en": "Costa Rica uses **long silver insulators**.\nNOTE: Panama uses a variety of insulators, some of which are also [long silver insulators](https://maps.app.goo.gl/fVdRraxxpbLSgzWdA), they also use [short silver](https://maps.app.goo.gl/15arUFZ8Zi7XbEii7), [long black](https://maps.app.goo.gl/Ch37q5EZoLi7Xe9z9), [UFO](https://maps.app.goo.gl/GbzUD5YTpd9RXAb27) and [white mushroom](https://maps.app.goo.gl/2fAxTEEveNTe6Pdd9) insulators. Additionally, Brazil can have long silver insulators. Lastly, Ecuador uses UFO and mushroom insulators.",
+   "source": "https://www.plonkit.net/costa-rica"
+  },
+  {
+   "id": "guatemala/kyzr",
+   "country": "guatemala",
+   "image": "images/pole/guatemala-kyzr.webp",
+   "required": [
+    "guatemala"
+   ],
+   "optional": [],
+   "region": null,
+   "ja": "ピンク、緑、またはその両方に塗られた電柱。グアテマラでとてもよく見かける。",
+   "en": "In Guatemala you will very commonly see poles painted with either **pink**, **green** or a combination of the two.",
+   "source": "https://www.plonkit.net/guatemala"
+  },
+  {
+   "id": "hawaii/N9Pk",
+   "country": "hawaii",
+   "image": "images/pole/hawaii-N9Pk.webp",
+   "required": [
+    "hawaii"
+   ],
+   "optional": [],
+   "region": null,
+   "ja": "ハワイの電柱には太い黄色い帯が巻かれていることがある。カリフォルニア州の3本線と混同しないように。",
+   "en": "Thick **yellow** bands can sometimes be seen on poles in Hawaii.\nNOTE: Make sure not to confuse this with the 3 stripes found on Californian poles.",
+   "source": "https://www.plonkit.net/hawaii"
+  },
+  {
+   "id": "panama/J34A",
+   "country": "panama",
+   "image": "images/pole/panama-J34A.webp",
+   "required": [
+    "panama"
+   ],
+   "optional": [],
+   "region": null,
+   "ja": "パナマの電柱は種類が多いが、最も多いのは碍子の数がいろいろな丸いコンクリートの電柱。プレートが付いていたり、青・白・赤の数字が塗られていることも多い。",
+   "en": "Panama uses a wide variety of poles, but the most common type is a **round concrete pole**, with a varying amount of insulators. Poles can also be wooden or metallic. They often have [plates](https://goo.gl/maps/5u2MsQ5wAd6cLHTt7) attached to them. [Blue](https://goo.gl/maps/wCUF3vx7iUtNgZjAA), [white](https://goo.gl/maps/4wmrWMk22ZnZtY3x5), or [red](https://goo.gl/maps/4tDyan7Qz2WnrPsX9) numbers are commonly painted on them as well.",
+   "source": "https://www.plonkit.net/panama"
+  },
+  {
+   "id": "canada/MwL1",
+   "country": "canada",
+   "image": "images/pole/canada-MwL1.webp",
+   "required": [
+    "canada",
+    "united-states"
+   ],
+   "optional": [
+    "alaska",
+    "hawaii"
+   ],
+   "region": null,
+   "ja": "北アメリカは主に木の電柱。カナダとアメリカの電柱には、金属の大きな円筒形のトランス（変圧器）が付いているのが特徴で、ヨーロッパでは見られない。",
+   "en": "North America primarily uses **wooden utility poles**. \nSeveral European countries also primarily use wooden utility poles. However, a concrete pole in particular is mostly associated with Europe.\nIn addition, the US and Canada use transformers that are **large metallic cylinders**. This will never be seen in European countries.",
+   "source": "https://www.plonkit.net/canada"
+  },
+  {
+   "id": "bhutan/M7LD",
+   "country": "bhutan",
+   "image": "images/pole/bhutan-M7LD.webp",
+   "required": [
+    "bhutan"
+   ],
+   "optional": [],
+   "region": null,
+   "ja": "根元が黒く塗られた細い金属の電柱。ブータンでときどき見られる。",
+   "en": "**Thin** **metal poles** are occasionally found in Bhutan. They are often painted black at the bottom.",
+   "source": "https://www.plonkit.net/bhutan"
+  },
+  {
+   "id": "cambodia/7UIH",
+   "country": "cambodia",
+   "image": "images/pole/cambodia-7UIH.webp",
+   "required": [
+    "cambodia"
+   ],
+   "optional": [
+    "vietnam"
+   ],
+   "region": null,
+   "ja": "カンボジアでは、はしごのようなくぼみのあるコンクリートの「はしご電柱」と、小さな穴がある丸いコンクリートの電柱の2種類が多い。丸いタイプはベトナムにも多い。",
+   "en": "Two types of poles are common:\n- Concrete** ladder** poles (so named because the indents and ridges resemble a ladder).\n- Round concrete poles with small **holes**.\nRarely, you might see simple [wooden poles](https://goo.gl/maps/ffGjZufAA38brtLg6).\nNOTE: The same type of round concrete pole is also common in [Vietnam](https://maps.app.goo.gl/mhQRGYEqaoehmkSr6).\nYou can easily distinguish between Thailand and Cambodia based on the poles. Thailand uses square concrete poles with rows of small pinholes on the sides. Such poles are very uncommon in Cambodia (but not [completely absent](https://goo.gl/maps/6YWqPhcJmHvYEFp78)).",
+   "source": "https://www.plonkit.net/cambodia"
+  },
+  {
+   "id": "hong-kong/Bt5r",
+   "country": "hong-kong",
+   "image": "images/pole/hong-kong-Bt5r.webp",
+   "required": [
+    "hong-kong"
+   ],
+   "optional": [],
+   "region": null,
+   "ja": "香港では市街地に電柱はないが、郊外では丸い木の電柱が見られる。1本または2本で、電気メーターやトランスが付いていることも。",
+   "en": "Utility poles will never be seen in urban rounds, however you might see **cylindrical wooden** poles in rural areas. The poles can be single or double, with electricity counters or transformers attached to them.",
+   "source": "https://www.plonkit.net/hong-kong"
+  },
+  {
+   "id": "jordan/Ol57",
+   "country": "jordan",
+   "image": "images/pole/jordan-Ol57.webp",
+   "required": [
+    "jordan"
+   ],
+   "optional": [],
+   "region": null,
+   "ja": "ヨルダンでよく見かける電柱。斜めの支えが付いた丸いコンクリートの電柱や、Y字形のてっぺんが3段の電柱、縦向きのコイルが3つ付いた細い金属の電柱など。",
+   "en": "These are three common electricity poles that you will find in Jordan. Rounded concrete poles have either a **diagonal support** or consist of three horizontal **Y pole tops.** You may additionally see thin, two support metal poles with three vertical coils.",
+   "source": "https://www.plonkit.net/jordan"
+  },
+  {
+   "id": "laos/rwz1",
+   "country": "laos",
+   "image": "images/pole/laos-rwz1.webp",
+   "required": [
+    "laos",
+    "thailand",
+    "sri-lanka"
+   ],
+   "optional": [
+    "cambodia"
+   ],
+   "region": null,
+   "ja": "上から下まで小さな穴が一列に並んだ四角いコンクリートの電柱。ラオスのもので、タイ、スリランカにも似た電柱があり、カンボジアにもまれにある。",
+   "en": "Laos uses **square concrete poles**, with small pinholes on the sides in a row from top to bottom.\nNOTE: Similar poles are found in Thailand, Sri Lanka, and less commonly, Cambodia.",
+   "source": "https://www.plonkit.net/laos"
+  },
+  {
+   "id": "israel-west-bank/ik9R",
+   "country": "israel-west-bank",
+   "image": "images/pole/israel-west-bank-ik9R.webp",
+   "required": [
+    "israel-west-bank"
+   ],
+   "optional": [],
+   "region": null,
+   "ja": "根元が白黒の縞模様に塗られた電柱。イスラエルでよく見られる。",
+   "en": "Utility poles commonly feature these painted **black and white striped** bottoms.",
+   "source": "https://www.plonkit.net/israel-west-bank"
+  },
+  {
+   "id": "japan/72uf",
+   "country": "japan",
+   "image": "images/pole/japan-72uf.webp",
+   "required": [
+    "japan"
+   ],
+   "optional": [],
+   "region": null,
+   "ja": "日本の電柱の多くは、ネジのような足場ボルトが付いた丸いコンクリート製。番号札や支線、反射材などが付いていて、地域を当てるヒントになる。",
+   "en": "Japan mostly uses these **round concrete** poles, which have these screw-like extensions. Other information can often be found on or attached to the pole including:\n- Electrical plates.\n- Guy-wires.\n- Pole reflectors.\nTherefore, they are a key asset in region guessing Japan.\n_You can learn more about plates, reflectors, and guy-wires in the region guessing section._",
+   "source": "https://www.plonkit.net/japan"
+  },
+  {
+   "id": "kyrgyzstan/vu1b",
+   "country": "kyrgyzstan",
+   "image": "images/pole/kyrgyzstan-vu1b.webp",
+   "required": [
+    "kyrgyzstan"
+   ],
+   "optional": [],
+   "region": null,
+   "ja": "木や電柱の根元が白く塗られている。キルギスでよく見られる。",
+   "en": "In Kyrgyzstan, you will often see trees and concrete poles that are **painted white** on the bottom.",
+   "source": "https://www.plonkit.net/kyrgyzstan"
+  },
+  {
+   "id": "malaysia/Dwit",
+   "country": "malaysia",
+   "image": "images/pole/malaysia-Dwit.webp",
+   "required": [
+    "malaysia"
+   ],
+   "optional": [],
+   "region": null,
+   "ja": "マレーシアの電柱には黒や白のステッカーが貼られていることが多い。黒いステッカーの下に、赤白や赤青の縞があることも。",
+   "en": "Electricity poles in Malaysia often have **black** or **white** stickers on them.\nSometimes you will also find red-and-white or red-and-blue stripes below the black sticker.",
+   "source": "https://www.plonkit.net/malaysia"
+  },
+  {
+   "id": "south-korea/2ft9",
+   "country": "south-korea",
+   "image": "images/pole/south-korea-2ft9.webp",
+   "required": [
+    "south-korea"
+   ],
+   "optional": [
+    "taiwan"
+   ],
+   "region": null,
+   "ja": "韓国の電柱には、ほぼ必ず根元近くに黒と黄色の斜め縞のマーキングがある。台湾のものに似ているが、韓国は縞が根元まで届かない。",
+   "en": "Utility poles almost always have these pole markings near the bottom, consisting of **black and yellow diagonal stripes**.\nThese markings look similar to the ones found in Taiwan. There are however two main differences:\n- In South Korea, the stripes do not reach all the way to the bottom, whereas in Taiwan they do.\n- In South Korea, the stripes are more yellow. In Taiwan, they have more of an orange tint.",
+   "source": "https://www.plonkit.net/south-korea"
+  },
+  {
+   "id": "qatar/IvYr",
+   "country": "qatar",
+   "image": "images/pole/qatar-IvYr.webp",
+   "required": [
+    "qatar"
+   ],
+   "optional": [],
+   "region": null,
+   "ja": "カタールの電柱は丸く、てっぺんに3つの碍子があり、真ん中が少し高い。腕木は2本の斜めの棒で柱とつながっている。",
+   "en": "Qatar uses **round** poles with 3 insulators on the pole top, with the middle one being slightly higher. The crossbar also has 2 diagonal bars connecting it to the pole.",
+   "source": "https://www.plonkit.net/qatar"
+  },
+  {
+   "id": "philippines/2hW1",
+   "country": "philippines",
+   "image": "images/pole/philippines-2hW1.webp",
+   "required": [
+    "philippines"
+   ],
+   "optional": [
+    "bangladesh",
+    "malaysia"
+   ],
+   "region": null,
+   "ja": "八角形の金属の電柱。フィリピンでかなりよく見られ、バングラデシュやマレーシアの一部にもある。",
+   "en": "**Octagonal metal poles** are quite common in the Philippines.\nNOTE: They can sometimes be found in [Bangladesh](https://maps.app.goo.gl/LAQNfYnDxvMB8vTbA) and [some parts of Malaysia](https://maps.app.goo.gl/jCzCnTXETaJUq5Af9) as well.",
+   "source": "https://www.plonkit.net/philippines"
+  },
+  {
+   "id": "sri-lanka/AYFb",
+   "country": "sri-lanka",
+   "image": "images/pole/sri-lanka-AYFb.webp",
+   "required": [
+    "sri-lanka"
+   ],
+   "optional": [
+    "laos",
+    "thailand"
+   ],
+   "region": null,
+   "ja": "スリランカの電柱は主にコンクリート製。上部に小さな穴がある四角い電柱と、下半分に大きな貫通した穴がある「ホーリーポール」が特徴的。",
+   "en": "Sri Lanka typically uses **concrete utility poles**. Two pole types are common and distinctive:\n- [Square poles](https://goo.gl/maps/i36FFgx1jfjK7pf77) with small pinholes in the sides. These pinholes are limited to the top part of the pole.\n- Poles with large [see-through holes](https://goo.gl/maps/UZTouXphP9iE3Wh9A) in the lower half of the pole (“holey poles“). These poles are unique to Sri Lanka.\nNOTE: The square poles with small pinholes can look very similar to those found in Thailand. However, in Thailand the pinholes extend all the way to the bottom of the pole.",
+   "source": "https://www.plonkit.net/sri-lanka"
+  },
+  {
+   "id": "mongolia/2q6G",
+   "country": "mongolia",
+   "image": "images/pole/mongolia-2q6G.webp",
+   "required": [
+    "mongolia"
+   ],
+   "optional": [],
+   "region": null,
+   "ja": "石のブロックで支えられた木の電柱。ロシアの影響を受けたモンゴルのインフラでよく見られる。",
+   "en": "Mongolian infrastructure has clear Russian influence. Wooden poles with supporting stone blocks, [white lamp posts](https://www.google.com/maps/@46.677839,113.270184,3a,64.1y,330.3h,92.79t/data=!3m4!1e1!3m2!1sAv0lfNtDl5QLj3rxCnkYzA!2e0), and [three-striped** **pedestrian crossing signs](https://www.google.com/maps/@50.2393538,106.2025013,2a,60y,95.51h,75.52t/data=!3m6!1e1!3m4!1sXUNd4wtT71dkoiStvdsI-Q!2e0!7i13312!8i6656?entry=ttu) are common to see.\nUnique to Mongolia is the** **[**“ЗОГС”**](https://www.google.com/maps/@50.2286946,106.2131419,2a,15y,73.91h,86.02t/data=!3m6!1e1!3m4!1sDbSJ2KjqHFeQw_Vx-Muhyg!2e0!7i13312!8i6656?entry=ttu)** stop sign**.\nNOTE: Each town has unique lamp post designs, so learning them can be quite useful.",
+   "source": "https://www.plonkit.net/mongolia"
+  },
+  {
+   "id": "oman/zoUC",
+   "country": "oman",
+   "image": "images/pole/oman-zoUC.webp",
+   "required": [
+    "oman"
+   ],
+   "optional": [
+    "united-arab-emirates"
+   ],
+   "region": null,
+   "ja": "オマーンの電柱は主に木製で、てっぺんの形は3種類。木の柱の上に金属の三角形があるデザインはオマーン独自のもの。",
+   "en": "Oman typically uses wooden poles, which have pole tops consisting of three varying designs. The first two have 3 insulators, symmetrically attached to a horizontal metal bar. The design with the [metal triangle above the wooden pole](https://maps.app.goo.gl/iQkF9QogKvu641R2A) is unique to Oman. The third design has the [insulators attached to the side](https://maps.app.goo.gl/V2Ziykrp3nrm2k1b7). Poles in general are more common in Oman than in the UAE or Qatar.",
+   "source": "https://www.plonkit.net/oman"
+  },
+  {
+   "id": "united-arab-emirates/RONH",
+   "country": "united-arab-emirates",
+   "image": "images/pole/united-arab-emirates-RONH.webp",
+   "required": [
+    "united-arab-emirates"
+   ],
+   "optional": [
+    "oman"
+   ],
+   "region": null,
+   "ja": "UAEの電柱は主に濃い茶色の木製。てっぺんは、水平な金属の棒に3つの碍子が左右対称に付いている。オマーンにも似たものがあり、ヨルダンのものはふつうグレーのコンクリート製。",
+   "en": "Electricity poles in the UAE are mostly made of **dark brown wood**. The pole tops consist of **three insulators**, symmetrically attached to a **horizontal metal bar**.\nNOTE: Similar poletops can be found in Oman. Jordanian poletops may look similar, but they are usually made of grey concrete, and the insulators are more spaced out.",
+   "source": "https://www.plonkit.net/united-arab-emirates"
+  },
+  {
+   "id": "nepal/fLll",
+   "country": "nepal",
+   "image": "images/pole/nepal-fLll.webp",
+   "required": [
+    "nepal"
+   ],
+   "optional": [],
+   "region": null,
+   "ja": "ネパールでは平地で四角いコンクリートの電柱、山地で細い金属の電柱が使われる。三叉のてっぺんと三角形の支えが付いたコンクリートの電柱はネパール独自。",
+   "en": "Nepal typically uses square concrete poles in the flat areas, and thin metallic poles in the mountainous regions. The poletops vary, but it is often some kind of trident.\nThe concrete pole with a [trident pole top and triangle supports](https://maps.app.goo.gl/ZpwKw2HMY3K4QkQy9) is unique to Nepal. Another common pole almost unique to Nepal is a concrete square pole with [2 vertical insulators](https://maps.app.goo.gl/RBVJCNrtq2enZDS47) on the sides with a wide gap between them. Other poles can often appear very similar to poles in India.",
+   "source": "https://www.plonkit.net/nepal"
+  },
+  {
+   "id": "taiwan/rqqJ",
+   "country": "taiwan",
+   "image": "images/pole/taiwan-rqqJ.webp",
+   "required": [
+    "taiwan"
+   ],
+   "optional": [
+    "south-korea"
+   ],
+   "region": null,
+   "ja": "台湾の電柱には、ほぼ必ず根元まで続く黒と黄色の斜め縞のマーキングがある。韓国にも似たものがあるが、ずっと短く根元まで届かない。",
+   "en": "Poles almost always feature these **black and yellow** diagonal-striped markings that run all the way to the bottom.\nNOTE: Similar markings can be seen in [South Korea](https://www.google.com/maps/@36.1050385,128.4118405,3a,18.9y,354.87h,62.54t,0.72r/data=!3m6!1e1!3m4!1sfnv3wLOv1V2RQUZuioxNXA!2e0!7i13312!8i6656?entry=ttu). However, the markings are much shorter and do not run all the way to the bottom.",
+   "source": "https://www.plonkit.net/taiwan"
+  },
+  {
+   "id": "turkey/4XWl",
+   "country": "turkey",
+   "image": "images/pole/turkey-4XWl.webp",
+   "required": [
+    "turkey"
+   ],
+   "optional": [],
+   "region": null,
+   "ja": "上から黒・オレンジ・黒・白の配色で、小さな赤い反射材が付いたスノーポール。トルコのもの。",
+   "en": "Snow poles usually feature a colour sequence of black-orange-black-white from top to bottom, with small red reflectors.",
+   "source": "https://www.plonkit.net/turkey"
+  },
+  {
+   "id": "thailand/w9ag",
+   "country": "thailand",
+   "image": "images/pole/thailand-w9ag.webp",
+   "required": [
+    "thailand",
+    "laos",
+    "sri-lanka"
+   ],
+   "optional": [
+    "cambodia"
+   ],
+   "region": null,
+   "ja": "縦に小さな穴が並んだ四角い電柱。タイのもので、スリランカ、カンボジア、ラオスにも似た電柱がある。ほかの手がかりも確認しよう。",
+   "en": "Thai poles are **square **and have small **holes** running vertically up the pole.\nNOTE: You will see similar poles in Sri Lanka, Cambodia and Laos. Make sure to look for other clues before guessing.",
+   "source": "https://www.plonkit.net/thailand"
+  },
+  {
+   "id": "andorra/NHCC",
+   "country": "andorra",
+   "image": "images/pole/andorra-NHCC.webp",
+   "required": [
+    "andorra"
+   ],
+   "optional": [],
+   "region": null,
+   "ja": "さまざまな色に塗られた木のスノーポール。アンドラのもの。",
+   "en": "Andorran snow poles are made out of **wood** and can have a variety** **of** colours** on them.",
+   "source": "https://www.plonkit.net/andorra"
+  },
+  {
+   "id": "albania/vH1O",
+   "country": "albania",
+   "image": "images/pole/albania-vH1O.webp",
+   "required": [
+    "albania"
+   ],
+   "optional": [
+    "serbia",
+    "czechia",
+    "slovakia",
+    "romania"
+   ],
+   "region": null,
+   "ja": "逆三角形の形をした電柱のてっぺん。アルバニアのよい手がかり。セルビア、チェコ、スロバキア、ルーマニアにも似たものがある。",
+   "en": "These pole tops, with an **upside down triangle** shape, are a good clue for Albania.\nNOTE: Serbia, Czechia, Slovakia and Romania use similar pole tops.",
+   "source": "https://www.plonkit.net/albania"
+  },
+  {
+   "id": "austria/XNJA",
+   "country": "austria",
+   "image": "images/pole/austria-XNJA.webp",
+   "required": [
+    "austria"
+   ],
+   "optional": [],
+   "region": null,
+   "ja": "丸い木の電柱は、オーストリアで最も多い。",
+   "en": "Round **wooden** poles are the most common type of pole found in Austria.",
+   "source": "https://www.plonkit.net/austria"
+  },
+  {
+   "id": "croatia/FJLL",
+   "country": "croatia",
+   "image": "images/pole/croatia-FJLL.webp",
+   "required": [
+    "croatia"
+   ],
+   "optional": [
+    "latvia"
+   ],
+   "region": null,
+   "ja": "クロアチアの電柱は円柱形でコンクリートか木。木の電柱には互い違いのフックが付いていることが多い（ラトビアの電柱に少し似ている）。",
+   "en": "Croatian utility poles are cylindrical and made of concrete or wood, often with **alternating hooks **on the [wooden poles](https://goo.gl/maps/tudAitHkDfNSgbQu5) (somewhat similar to Latvian poles).",
+   "source": "https://www.plonkit.net/croatia"
+  },
+  {
+   "id": "bulgaria/hSvg",
+   "country": "bulgaria",
+   "image": "images/pole/bulgaria-hSvg.webp",
+   "required": [
+    "bulgaria"
+   ],
+   "optional": [],
+   "region": null,
+   "ja": "ブルガリアの電柱の多くは円柱形のコンクリート製。はしご形のコンクリート電柱や、シンプルな木の電柱もある。",
+   "en": "Most utility poles in Bulgaria are **cylindrical **and made of **concrete**.\nThere is also a less common concrete ‘ladder pole’ variation. You can also sometimes see simple wooden poles.",
+   "source": "https://www.plonkit.net/bulgaria"
+  },
+  {
+   "id": "estonia/UV37",
+   "country": "estonia",
+   "image": "images/pole/estonia-UV37.webp",
+   "required": [
+    "estonia"
+   ],
+   "optional": [],
+   "region": null,
+   "ja": "エストニアの電柱はいろいろで、バルト三国でいちばんばらばら。最も多いのは丸い木の電柱で、斜めの支えが付いていることも。",
+   "en": "Estonia uses a variety of different poles and poletops. Of the three Baltic countries, it has the least consistent utility poles.\n**Round wooden** poles are the most common, sometimes with diagonal supports.",
+   "source": "https://www.plonkit.net/estonia"
+  },
+  {
+   "id": "czechia/PTbY",
+   "country": "czechia",
+   "image": "images/pole/czechia-PTbY.webp",
+   "required": [
+    "czechia",
+    "slovakia"
+   ],
+   "optional": [],
+   "region": null,
+   "ja": "幅の広い丸いコンクリートの電柱で、2本並んでいることが多い。チェコとスロバキアで最もよく使われる。",
+   "en": "Czechia and Slovakia most commonly use wide, round concrete poles, which are quite often attached **in pairs**.",
+   "source": "https://www.plonkit.net/czechia"
+  },
+  {
+   "id": "finland/7DPm",
+   "country": "finland",
+   "image": "images/pole/finland-7DPm.webp",
+   "required": [
+    "finland"
+   ],
+   "optional": [],
+   "region": null,
+   "ja": "細い白い帯がてっぺん近くに入ったオレンジのスノーポール。フィンランドでよく見られる。ノルウェーやスウェーデンのものは白い帯が太く、もっと下にある。",
+   "en": "In Finland, it is common to find **orange snow poles** with a thin white band near the top.\nNOTE: These are also found commonly in Norway and Sweden, but with a much [wider white band](https://i.imgur.com/R8PSzB4.png?1), lower down on the pole. They can also have multiple white bands, while Finnish snow poles usually have just one band.",
+   "source": "https://www.plonkit.net/finland"
+  },
+  {
+   "id": "hungary/dM2y",
+   "country": "hungary",
+   "image": "images/pole/hungary-dM2y.webp",
+   "required": [
+    "hungary"
+   ],
+   "optional": [
+    "poland",
+    "romania"
+   ],
+   "region": null,
+   "ja": "ハンガリーで最も多い電柱は、細い穴が根元まで続くコンクリートの「ホーリーポール」。木の電柱もわりと多い。ポーランドやルーマニアにも穴あきの電柱がある。",
+   "en": "The most common type of utility pole in Hungary is a **concrete holey pole**, with relatively thin holes going all the way down to the ground. Wooden poles are also somewhat common.\nNOTE: In eastern Europe, Poland and Romania also commonly use holey poles. [Polish holey poles](https://www.google.com/maps/@49.9926761,18.7114721,3a,55.1y,130.81h,98.23t/data=!3m6!1e1!3m4!1sHtPKStzKxeiHUY1s-iNu-w!2e0!7i16384!8i8192) typically do not have holes down by the ground, and tend to be relatively thin. [Romanian holey poles](https://goo.gl/maps/QyJwGvUuzdnJLVBv5) normally either have much wider, or much taller holes.",
+   "source": "https://www.plonkit.net/hungary"
+  },
+  {
+   "id": "greece/iK1n",
+   "country": "greece",
+   "image": "images/pole/greece-iK1n.webp",
+   "required": [
+    "greece"
+   ],
+   "optional": [
+    "cyprus"
+   ],
+   "region": null,
+   "ja": "ギリシャの電柱は主に木製で、濃い茶色のことが多い。ほかの国より目立って背が高いことも多い。",
+   "en": "Greek utility poles are primarily **wooden**, and often have a distinctly **dark brown** colour. They will often be noticeably taller than in other countries.",
+   "source": "https://www.plonkit.net/greece"
+  },
+  {
+   "id": "germany/vbHB",
+   "country": "germany",
+   "image": "images/pole/germany-vbHB.webp",
+   "required": [
+    "germany"
+   ],
+   "optional": [],
+   "region": null,
+   "ja": "ドイツの木の電柱の多くには、長方形の白いステッカーが貼られている。",
+   "en": "Most wooden poles in Germany will feature a rectangular** white sticker**.",
+   "source": "https://www.plonkit.net/germany"
+  },
+  {
+   "id": "france/DCU8",
+   "country": "france",
+   "image": "images/pole/france-DCU8.webp",
+   "required": [
+    "france",
+    "spain"
+   ],
+   "optional": [],
+   "region": null,
+   "ja": "階段のようなくぼみのあるコンクリートの電柱（はしご電柱・ワッフル電柱）。フランスでよく見られ、スペインでも多い。",
+   "en": "Concrete poles with step-like indents are common in France. They are referred to as **ladder** or **waffle poles** by the community.\nNOTE: They are also common in Spain.",
+   "source": "https://www.plonkit.net/france"
+  },
+  {
+   "id": "cyprus/Ls03",
+   "country": "cyprus",
+   "image": "images/pole/cyprus-Ls03.webp",
+   "required": [
+    "cyprus"
+   ],
+   "optional": [
+    "greece"
+   ],
+   "region": null,
+   "ja": "キプロスの電柱は主に木製で、背が高く、濃い茶色のものが多い。どれもギリシャの電柱と共通の特徴。",
+   "en": "Utility poles are primarily **wooden**, typically quite **tall** and have a distinctly dark brown colour.\nNOTE: All of these features are shared with Greek utility poles.",
+   "source": "https://www.plonkit.net/cyprus"
+  },
+  {
+   "id": "latvia/Ligx",
+   "country": "latvia",
+   "image": "images/pole/latvia-Ligx.webp",
+   "required": [
+    "latvia"
+   ],
+   "optional": [],
+   "region": null,
+   "ja": "フック形の碍子が左・右・左と互い違いに並んだ独特なてっぺん。ラトビアの電柱の特徴で、ほかのバルト三国ではずっと少ない。",
+   "en": "Latvian poles have distinctive poletops, with **hook-shaped insulators**, that are arranged in an alternating manner: left-right-left (or vice versa).\nNOTE: These poletops are much more rare in the other two Baltic countries. They can however appear in some other European countries.",
+   "source": "https://www.plonkit.net/latvia"
+  },
+  {
+   "id": "lithuania/N6PY",
+   "country": "lithuania",
+   "image": "images/pole/lithuania-N6PY.webp",
+   "required": [
+    "lithuania"
+   ],
+   "optional": [
+    "estonia",
+    "latvia"
+   ],
+   "region": null,
+   "ja": "斜めの支えが付いた四角いコンクリートの電柱。リトアニアで最も多く、エストニアやラトビアでもときどき見られる。",
+   "en": "Lithuanian poles are usually square and concrete, and often feature a **diagonal support beam**.\nNOTE: While most common in Lithuania, these are also found from time to time in Estonia, and on rare occasions in Latvia.",
+   "source": "https://www.plonkit.net/lithuania"
+  },
+  {
+   "id": "luxembourg/nKRO",
+   "country": "luxembourg",
+   "image": "images/pole/luxembourg-nKRO.webp",
+   "required": [
+    "luxembourg"
+   ],
+   "optional": [
+    "france",
+    "spain",
+    "portugal"
+   ],
+   "region": null,
+   "ja": "逆さの三叉のようなてっぺんの電柱は、ルクセンブルクで最も多い。フランス、スペイン、ポルトガルでもよく見られる。",
+   "en": "Poles with poletops shaped like **upside-down tridents** are the most common type of pole in Luxembourg.\nIn addition, you can find a variety of other poletops.\nNOTE: These poles can also be commonly seen in France, Spain and Portugal.",
+   "source": "https://www.plonkit.net/luxembourg"
+  },
+  {
+   "id": "italy/NzGb",
+   "country": "italy",
+   "image": "images/pole/italy-NzGb.webp",
+   "required": [
+    "italy"
+   ],
+   "optional": [],
+   "region": null,
+   "ja": "地中海沿岸の多くの国と違い、イタリアには丸いコンクリートの電柱がたくさんある。",
+   "en": "Unlike most Mediterranean countries, Italy features a lot of **round concrete poles**.",
+   "source": "https://www.plonkit.net/italy"
+  },
+  {
+   "id": "montenegro/gPE6",
+   "country": "montenegro",
+   "image": "images/pole/montenegro-gPE6.webp",
+   "required": [
+    "montenegro"
+   ],
+   "optional": [],
+   "region": null,
+   "ja": "モンテネグロの電柱は、シンプルな丸いコンクリートか木製。",
+   "en": "Montenegro uses simple **round concrete** or wooden poles.",
+   "source": "https://www.plonkit.net/montenegro"
+  },
+  {
+   "id": "north-macedonia/FsbE",
+   "country": "north-macedonia",
+   "image": "images/pole/north-macedonia-FsbE.webp",
+   "required": [
+    "north-macedonia",
+    "greece"
+   ],
+   "optional": [
+    "serbia"
+   ],
+   "region": null,
+   "ja": "電柱に付いた「ギリシャ式」の小さな街灯。北マケドニアで見られ、ギリシャやセルビアにもある。",
+   "en": "These **‘Greek Lamps’** on utility poles can be found in North Macedonia. They can also be found in various other countries, such as (unsurprisingly) [Greece](https://goo.gl/maps/rSnrVdTGecgndtDG9) or [Serbia](https://goo.gl/maps/VbPpwagrgE3j4Y5r9).",
+   "source": "https://www.plonkit.net/north-macedonia"
+  },
+  {
+   "id": "poland/doge",
+   "country": "poland",
+   "image": "images/pole/poland-doge.webp",
+   "required": [
+    "poland"
+   ],
+   "optional": [
+    "hungary",
+    "romania"
+   ],
+   "region": null,
+   "ja": "ポーランドの電柱は、貫通した穴がある細いコンクリートの「ホーリーポール」が多い。穴が根元まで続かないことが多い（ハンガリーは根元まで）。2本を組み合わせたものやA字形のものもある。",
+   "en": "Poland usually has thin concrete utility poles with see-through holes. They are commonly known as “**holey poles**”. The holes often do not extend all the way to the bottom of the pole.\nSometimes, two poles are [joined together](https://goo.gl/maps/Vx3xtYdZgLvhFV1R7), or put in an [A-frame](https://goo.gl/maps/HwEYE3Fa7oYY7gfZA) shape. You can also find [round concrete poles](https://goo.gl/maps/ebKDEEhg6C8nj3ms5).\nNOTE: Hungary and Romania also have holey poles, but these are wider and more bulky. In addition, the holes extend all the way to the bottom.",
+   "source": "https://www.plonkit.net/poland"
+  },
+  {
+   "id": "portugal/fbSP",
+   "country": "portugal",
+   "image": "images/pole/portugal-fbSP.webp",
+   "required": [
+    "portugal"
+   ],
+   "optional": [
+    "spain",
+    "france"
+   ],
+   "region": null,
+   "ja": "段がとても高く、各段に小さな穴があるコンクリートのはしご電柱。ポルトガルでよく見られる。スペインやフランスのはしご電柱は段が低い。",
+   "en": "Concrete ladder poles, with very **tall ladder steps**, are common in Portugal. Each step often has a small [see-through hole](https://maps.app.goo.gl/vDoNQJNkY2srorxc8).\nNOTE: In [Spain](https://www.google.com/maps/@43.5609502,-8.1852362,3a,32.9y,335.94h,91.24t/data=!3m6!1e1!3m4!1sRl489cMP23rutAjdJsp5KA!2e0!7i16384!8i8192?entry=ttu) and [France](https://goo.gl/maps/cYtpBcr8fPxdawT1A) you will commonly see ladder poles with short steps.",
+   "source": "https://www.plonkit.net/portugal"
+  },
+  {
+   "id": "norway/Yvvo",
+   "country": "norway",
+   "image": "images/pole/norway-Yvvo.webp",
+   "required": [
+    "norway"
+   ],
+   "optional": [
+    "sweden",
+    "finland"
+   ],
+   "region": null,
+   "ja": "ノルウェーのスノーポールはふつうオレンジで、真ん中あたりに細い白い反射材がある。スウェーデンは反射材が太めで少し上、フィンランドはいちばん上。",
+   "en": "Norwegian snow poles are typically orange, with a **fairly** **thin** white reflector. The reflector is normally toward the **middle** of the pole.\nNOTE: [Swedish](https://www.google.se/maps/@61.9908262,14.5790953,3a,39.6y,258.06h,61.21t/data=!3m6!1e1!3m4!1s1qT_52M1QOthv1f9cvsoXw!2e0!7i16384!8i8192) snow poles typically have a wider reflector slightly higher up, and [Finnish](https://www.google.com/maps/@60.4814738,23.2577925,3a,15y,68.45h,69.44t,0.35r/data=!3m6!1e1!3m4!1s7-wUFACQ9NzGxHQu6ngnUw!2e0!7i16384!8i8192) snow poles have their reflector at the very top.",
+   "source": "https://www.plonkit.net/norway"
+  },
+  {
+   "id": "india/ohMv",
+   "country": "india",
+   "image": "images/pole/india-ohMv.webp",
+   "required": [
+    "india"
+   ],
+   "optional": [],
+   "region": null,
+   "ja": "インドで最も多い電柱は、三叉のてっぺんが付いた四角いコンクリート製。地域ごとに独自の電柱も多い。インドでは木の電柱はとても珍しい。",
+   "en": "The most common Indian utility pole is a concrete square pole with a trident pole top.\nBeware that many regions have their own distinct poles and poletops.\nNOTE: Indian poles will almost always be made of concrete or metal. Wooden poles are extremely uncommon.",
+   "source": "https://www.plonkit.net/india"
+  },
+  {
+   "id": "mexico/5mCi",
+   "country": "mexico",
+   "image": "images/pole/mexico-5mCi.webp",
+   "required": [
+    "mexico"
+   ],
+   "optional": [
+    "colombia"
+   ],
+   "region": null,
+   "ja": "メキシコの電柱の多くはコンクリート製の八角形で、側面に刻印があることが多い。コロンビアでも八角形の電柱が多い。",
+   "en": "Most utility poles in Mexico are made of concrete and have an **octagonal shape**. There will often be engravings on the side.\nNOTE: Octagonal poles are also common in Colombia.",
+   "source": "https://www.plonkit.net/mexico"
+  },
+  {
+   "id": "san-marino/8OjL",
+   "country": "san-marino",
+   "image": "images/pole/san-marino-8OjL.webp",
+   "required": [
+    "san-marino",
+    "italy"
+   ],
+   "optional": [],
+   "region": null,
+   "ja": "イタリアと同じく、サンマリノの電柱の多くは丸いコンクリート製。木の電柱もある。",
+   "en": "Just like Italy, most utility poles in San Marino are **round **and made** **of **concrete. **Wooden poles are also found in the country.",
+   "source": "https://www.plonkit.net/san-marino"
+  },
+  {
+   "id": "romania/r5OO",
+   "country": "romania",
+   "image": "images/pole/romania-r5OO.webp",
+   "required": [
+    "romania"
+   ],
+   "optional": [
+    "poland",
+    "hungary"
+   ],
+   "region": null,
+   "ja": "ルーマニアで最も多い電柱は、穴が根元まで続く「ホーリーポール」。穴は幅が広いか縦に長いことが多い。ポーランドとハンガリーにも穴あきの電柱がある。",
+   "en": "The most common types of utility poles in Romania are **holey poles** with the holes going all the way to the bottom. The holes are typically either quite wide or quite tall.\nNOTE: Poland and Hungary also both use holey poles. [Polish](https://goo.gl/maps/chLemRYUZcz7DDFL6) holey poles do not have holes near the bottom and [Hungarian](https://www.google.com/maps/@47.6425626,20.0330594,3a,75y,313.1h,93.94t/data=!3m6!1e1!3m4!1sKeSZXDk8-kk4EYn1mVYf3Q!2e0!7i16384!8i8192) holey poles generally have smaller holes than in Romania.",
+   "source": "https://www.plonkit.net/romania"
+  },
+  {
+   "id": "slovakia/p0qp",
+   "country": "slovakia",
+   "image": "images/pole/slovakia-p0qp.webp",
+   "required": [
+    "slovakia",
+    "czechia"
+   ],
+   "optional": [],
+   "region": null,
+   "ja": "幅の広い丸いコンクリートの電柱で、2本並んでいることが多い。スロバキアとチェコで最もよく使われる。",
+   "en": "Slovakia and Czechia most commonly use wide, round concrete poles, which are quite often attached **in pairs**.",
+   "source": "https://www.plonkit.net/slovakia"
+  },
+  {
+   "id": "ukraine/AXOh",
+   "country": "ukraine",
+   "image": "images/pole/ukraine-AXOh.webp",
+   "required": [
+    "ukraine"
+   ],
+   "optional": [
+    "russia",
+    "lithuania"
+   ],
+   "region": null,
+   "ja": "ウクライナは主に四角いコンクリートの電柱を使う。てっぺんはいろいろで、根元が白く塗られていることも。ロシアやリトアニアなど旧ソ連の国の電柱に似ている。",
+   "en": "Ukraine primarily uses **square concrete poles**. They can have a variety of different pole tops, and sometimes have white paint at the bottom.\nThese poles are similar to the ones found in other post-Soviet countries like Russia and Lithuania.",
+   "source": "https://www.plonkit.net/ukraine"
+  },
+  {
+   "id": "russia/PVJx",
+   "country": "russia",
+   "image": "images/pole/russia-PVJx.webp",
+   "required": [
+    "russia"
+   ],
+   "optional": [
+    "ukraine",
+    "lithuania",
+    "estonia",
+    "kazakhstan",
+    "kyrgyzstan"
+   ],
+   "region": null,
+   "ja": "ロシアは主に四角いコンクリートの電柱を使う。ウクライナ、リトアニア、エストニア、カザフスタン、キルギスなど旧ソ連の国にも多い。",
+   "en": "Russia mainly uses **square concrete poles**. \nNOTE: Square concrete poles can be seen in other post-Soviet countries, such as Ukraine, Lithuania, Estonia, Georgia, Kazakhstan, and Kyrgyzstan.",
+   "source": "https://www.plonkit.net/russia"
+  },
+  {
+   "id": "united-kingdom/WwjT",
+   "country": "united-kingdom",
+   "image": "images/pole/united-kingdom-WwjT.webp",
+   "required": [
+    "united-kingdom",
+    "ireland"
+   ],
+   "optional": [],
+   "region": null,
+   "ja": "イギリスは木の電柱を使う。電柱の横にボルトで留められた、細い金属の棒が並んだ足場がとても多い。アイルランドも同じ。",
+   "en": "The UK uses **wooden** poles. Pole steps bolted on the side of the pole are very common. These pole steps are shaped like a series of thin horizontal metal rods.\nNOTE: Ireland also commonly uses wooden poles with pole steps.",
+   "source": "https://www.plonkit.net/united-kingdom"
+  },
+  {
+   "id": "spain/qBpO",
+   "country": "spain",
+   "image": "images/pole/spain-qBpO.webp",
+   "required": [
+    "spain",
+    "france"
+   ],
+   "optional": [
+    "portugal"
+   ],
+   "region": null,
+   "ja": "スペインの小さな町や田舎では、はしごのようなくぼみのあるコンクリートの「はしご電柱」と木の電柱が多い。フランスでもよく見られる。",
+   "en": "In Spain, you can find a variety of electricity poles and pole tops. In small towns and sparsely populated rural areas **concrete ladder poles** and **wooden poles** are the most common.\n“Ladder” poles have indents that resemble a ladder, hence the name.",
+   "source": "https://www.plonkit.net/spain"
+  },
+  {
+   "id": "sweden/Wh27",
+   "country": "sweden",
+   "image": "images/pole/sweden-Wh27.webp",
+   "required": [
+    "sweden"
+   ],
+   "optional": [
+    "norway",
+    "finland"
+   ],
+   "region": null,
+   "ja": "スウェーデンのスノーポールはふつうオレンジで、真ん中より少し上に縦長の白い反射材がある。フィンランドとノルウェーにも似たオレンジのスノーポールがある。",
+   "en": "Snow poles are typically **orange,** with a tall white reflector slightly above the middle of the pole. Some poles have a [second, thinner reflector](https://goo.gl/maps/p7anmAqGD4d4cWpU8) above the normal one.\nNOTE: Finland and Norway both have similar orange snow poles. The reflector on [Finnish poles](https://maps.app.goo.gl/kY4315w9yyRt687A7) is usually much thinner and very close to the top. Norwegian poles typically have either [one](https://maps.app.goo.gl/rLTuiYPRgLYJeuUp7) or [two](https://maps.app.goo.gl/dBmWqWTEEVdaS6A17) slightly thinner reflectors, with one commonly being very close to the [middle](https://www.google.com/maps/@69.2671629,20.5483337,3a,15y,97.03h,80.51t/data=!3m7!1e1!3m5!1sjcbu5SMECpmICprrldDFEQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3Djcbu5SMECpmICprrldDFEQ%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D26.576565%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192).",
+   "source": "https://www.plonkit.net/sweden"
+  },
+  {
+   "id": "indonesia/cPPJ",
+   "country": "indonesia",
+   "image": "images/pole/indonesia-cPPJ.webp",
+   "required": [
+    "indonesia"
+   ],
+   "optional": [],
+   "region": null,
+   "ja": "インドネシアの電柱はふつう丸い鉄かコンクリート製。鉄の電柱は黒く塗られていることが多く、インドネシア国旗の色（赤と白）が塗られていることも。",
+   "en": "Poles in Indonesia are typically round and made out of either [**steel**](https://goo.gl/maps/rnii3wodNEqzH2FDA)** **or **concrete**. Many of the steel poles are painted black, and also feature the **Indonesian flag colours on them**. The pole tops are usually either [even](https://goo.gl/maps/rnii3wodNEqzH2FDA) or [uneven](https://goo.gl/maps/jA77LfkLbiz5AbK37), depending on the region.\n_You can learn more about regional poles in the region-guessing section._",
+   "source": "https://www.plonkit.net/indonesia"
+  },
+  {
+   "id": "belgium/UD8T",
+   "country": "belgium",
+   "image": "images/pole/belgium-UD8T.webp",
+   "required": [
+    "belgium"
+   ],
+   "optional": [],
+   "region": null,
+   "ja": "ベルギーの電柱の多くは四角いコンクリート製で、小さな穴が縦に並び、小さな金属の巻き付けがあることが多い。楕円形の穴の電柱も多い。",
+   "en": "Most poles in Belgium are concrete, square shaped, and have tiny holes running up them. They often have** small metal wrappings** around them. The second most common type of pole has [**oval-shaped holes**](https://goo.gl/maps/XVRAYg1wmhNJQxg17). You can find many different types of concrete poles in Belgium.\nNOTE: The small metal wrappings can be found in France as well.",
+   "source": "https://www.plonkit.net/belgium"
+  },
+  {
+   "id": "rwanda/GGAi",
+   "country": "rwanda",
+   "image": "images/pole/rwanda-GGAi.webp",
+   "required": [
+    "rwanda"
+   ],
+   "optional": [],
+   "region": "国道沿い",
+   "ja": "黒い文字で道路番号が塗られた街灯の柱。ルワンダの多くの国道沿いで見られ、下の街灯番号はキガリから離れるほど大きくなる。",
+   "en": "Lampposts along many national roads will have the road number painted in black letters. Below that, you will find the lamp number, which generally, but not always, increases the further from Kigali you get.",
+   "source": "https://www.plonkit.net/rwanda"
+  },
+  {
+   "id": "lebanon/cdUJ",
+   "country": "lebanon",
+   "image": "images/pole/lebanon-cdUJ.webp",
+   "required": [
+    "lebanon"
+   ],
+   "optional": [],
+   "region": null,
+   "ja": "網目状の金属の電柱で、明るい黄色に塗られていることもある。レバノンで見られる。",
+   "en": "Lebanon uses a variety of **metallic mesh poles**, which are sometimes **painted bright yellow**. Generic-looking wooden poles are common too.",
+   "source": "https://www.plonkit.net/lebanon"
+  },
+  {
+   "id": "vietnam/nwf2",
+   "country": "vietnam",
+   "image": "images/pole/vietnam-nwf2.webp",
+   "required": [
+    "vietnam"
+   ],
+   "optional": [
+    "sri-lanka"
+   ],
+   "region": null,
+   "ja": "下半分だけ、またはほぼ上まで穴が開いたホーリーポール。ベトナムでよく見られる。アジアでほかにホーリーポールが多いのはスリランカだけで、穴がずっと大きい。",
+   "en": "**Holey poles**, with holes either only on the lower half or almost all the way to the top, are common in Vietnam.\nNOTE: The only other Asian country that commonly has holey poles is Sri Lanka, where the holes are [significantly larger](https://maps.app.goo.gl/srBQjDH9RRz2uPG48).",
+   "source": "https://www.plonkit.net/vietnam"
   }
  ]
 }

@@ -1,5 +1,6 @@
 {
   "united-states/a9Az": {
+    "checked": true,
     "kind": "speed",
     "optional": [
       "alaska",
@@ -223,6 +224,7 @@
     "exclude": "言語の説明"
   },
   "botswana/qs9y": {
+    "checked": true,
     "kind": "back",
     "ja": "ボツワナ独自の、黒と黄色の縞模様の支柱。まれに赤と白のものもある。南部アフリカでこの支柱があるのはボツワナだけ。"
   },
@@ -255,6 +257,7 @@
     "exclude": "ほかの国にもある支柱で決め手にならない"
   },
   "kenya/Af01": {
+    "checked": true,
     "kind": "direction",
     "ja": "白い縁取りと白文字の緑の案内標識。白や黄色で道路番号が書かれていることが多い。ケニアのもの。"
   },
@@ -272,6 +275,7 @@
     "exclude": "言語の説明"
   },
   "namibia/7cMz": {
+    "checked": true,
     "kind": "direction",
     "optional": [
       "south-africa",
@@ -331,10 +335,12 @@
     "exclude": "一般的な警戒標識で決め手にならない"
   },
   "senegal/lPzT": {
+    "checked": true,
     "kind": "other",
     "ja": "太いピンクの縁取りと太い黒文字の白い町名標識。セネガルの町の入り口にある標識の多くがこのデザイン。"
   },
   "south-africa/x5Nk": {
+    "checked": true,
     "kind": "direction",
     "optional": [
       "namibia",
@@ -379,6 +385,7 @@
     "exclude": "言語の説明"
   },
   "tunisia/2bxW": {
+    "checked": true,
     "kind": "direction",
     "ja": "白地に町名がアラビア文字とラテン文字で書かれた案内標識。ラテン文字のフォントがかなり独特。チュニジアのもの。"
   },
@@ -406,6 +413,7 @@
     "exclude": "名所の説明"
   },
   "guam/Gyzt": {
+    "checked": true,
     "kind": "street",
     "ja": "グアムは緑の道路名標識を使う。北マリアナ諸島は青。"
   },
@@ -415,10 +423,12 @@
     "ja": "アプラ・ビューの町の近くでは、支柱が黄色く塗られていることがある。グアムのもの。"
   },
   "northern-mariana-islands/jle0": {
+    "checked": true,
     "kind": "street",
     "ja": "北マリアナ諸島は青い道路名標識を使う。グアムは緑。"
   },
   "australia/YdCf": {
+    "checked": true,
     "kind": "giveway",
     "optional": [
       "christmas-island"
@@ -499,6 +509,7 @@
     "ja": "シドニー市独自の道路名標識。"
   },
   "new-zealand/oCAJ": {
+    "checked": true,
     "kind": "giveway",
     "ja": "ニュージーランドの「譲れ（GIVE WAY）」標識は白い縁取りに赤い文字。オーストラリアのものは黒い文字。"
   },
@@ -538,6 +549,7 @@
     "exclude": "都市ごとの解説図"
   },
   "argentina/GzEE": {
+    "checked": true,
     "kind": "chevron",
     "ja": "白地に赤のシェブロン。南北アメリカでこのシェブロンを使うのはアルゼンチンだけ。"
   },
@@ -547,6 +559,7 @@
     "ja": "丁字路にある黄色い長方形の標識で、下にシェブロン模様、上に道路番号と両側の矢印。アルゼンチンのラ・パンパ州で見られる。"
   },
   "bolivia/IcXQ": {
+    "checked": true,
     "kind": "back",
     "ja": "ボリビアでは、白くてがっしりした四角い支柱がよく使われる。ペルーは白黒の縞模様（ゼブラ）の支柱。"
   },
@@ -554,6 +567,7 @@
     "exclude": "旗の説明"
   },
   "chile/dkLn": {
+    "checked": true,
     "kind": "back",
     "ja": "チリでは、支柱の上部に切れ込み（スロット）が入っていることが多い。"
   },
@@ -577,6 +591,7 @@
     "exclude": "村の風景の説明"
   },
   "brazil/dpxG": {
+    "checked": true,
     "kind": "back",
     "ja": "ブラジルの道路標識の多くは、裏が黒く塗られている。パラグアイでもよく見られる。"
   },
@@ -601,6 +616,7 @@
     "ja": "黄色い支柱の上に付いた青い道路名標識。キュラソーでよく見られる。"
   },
   "colombia/JMPO": {
+    "checked": true,
     "kind": "back",
     "optional": [
       "brazil"
@@ -608,6 +624,7 @@
     "ja": "コロンビアの支柱は白い金属製で、標識の裏で十字に組み合わさっている。ブラジルにも白い金属の支柱があるが、たいてい幅が広い。"
   },
   "ecuador/ynOS": {
+    "checked": true,
     "kind": "chevron",
     "optional": [
       "colombia"
@@ -631,6 +648,7 @@
     "ja": "一方通行・対面通行を示すエクアドルの標識。矢印の中に文字が入った似た標識を使うのは、中南米ではドミニカ共和国とプエルトリコだけ。"
   },
   "peru/8cvB": {
+    "checked": true,
     "kind": "back",
     "ja": "白黒の縞模様の支柱を使うのは、南アメリカではペルーだけ。地域によっては黒と黄色の支柱もある。"
   },
@@ -639,6 +657,7 @@
     "ja": "ペルーの金属製の支柱は、根元にコンクリートのブロックが付いている。南アメリカでこうなっているのはペルーだけ。"
   },
   "uruguay/07Np": {
+    "checked": true,
     "kind": "back",
     "optional": [
       "bolivia"
@@ -657,6 +676,7 @@
     "ja": "中南米の多くの国と同じく、黄色地に黒い矢印のシェブロン。白地に赤い矢印を使うアルゼンチンとの区別に役立つ。"
   },
   "dominican-republic/jcOp": {
+    "checked": true,
     "kind": "stop",
     "required": [
       "dominican-republic",
@@ -679,6 +699,7 @@
     "exclude": "文字の説明"
   },
   "costa-rica/h4cR": {
+    "checked": true,
     "kind": "stop",
     "required": [
       "costa-rica",
@@ -709,6 +730,7 @@
     "exclude": "名所の説明"
   },
   "guatemala/mgoz": {
+    "checked": true,
     "kind": "stop",
     "required": [
       "guatemala",
@@ -724,6 +746,7 @@
     "exclude": "言語の説明"
   },
   "hawaii/bZoK": {
+    "checked": true,
     "kind": "route",
     "ja": "ハワイの州道の盾形はギターのピックのような形で、数字が下のほうに書かれている。ハワイの多くの標識は黄色い支柱に付いている。"
   },
@@ -731,6 +754,7 @@
     "exclude": "言語の説明"
   },
   "puerto-rico/nXMf": {
+    "checked": true,
     "kind": "speed",
     "ja": "プエルトリコの速度制限標識は、形も大きさもアメリカ本土と同じだが、必ずスペイン語で書かれている。"
   },
@@ -751,6 +775,7 @@
     "ja": "プエルトリコの一時停止標識は「STOP」ではなく「PARE」。「PARE」は南アメリカ全域とドミニカ共和国でも使われる。"
   },
   "panama/ofuG": {
+    "checked": true,
     "kind": "stop",
     "optional": [
       "mexico",
@@ -764,6 +789,7 @@
     "ja": "妙にリアルな目が描かれた赤い八角形の標識は、パナマ独自のもの。"
   },
   "canada/DqvA": {
+    "checked": true,
     "kind": "speed",
     "ja": "カナダの速度標識には「MAXIMUM」と書かれている。キロ表示なのでアメリカより数字が大きめで、遠くからでも区別できる。アメリカは「SPEED LIMIT」。"
   },
@@ -878,8 +904,7 @@
     "exclude": "言語の説明"
   },
   "bhutan/3qFe": {
-    "kind": "other",
-    "ja": "ブータンの都市でよく見かける赤や青の標識。今いる町の名前が書かれていることが多い。"
+    "exclude": "国名が読める店の看板で、標識ではない"
   },
   "bhutan/tkrk": {
     "kind": "back",
@@ -894,6 +919,7 @@
     "ja": "白黒の縞模様の支柱。アジアでは、ブータン、バングラデシュ、マレーシア、スリランカ、ネパール、インドで見られる。ほかの手がかりも確認しよう。"
   },
   "bangladesh/kiNu": {
+    "checked": true,
     "kind": "back",
     "required": [
       "bangladesh",
@@ -920,6 +946,7 @@
     "exclude": "言語の説明"
   },
   "hong-kong/HC1Y": {
+    "checked": true,
     "kind": "direction",
     "ja": "香港の道路標識は、太い黒枠で囲まれた白い長方形で、2言語表記。"
   },
@@ -934,10 +961,17 @@
     "exclude": "言語の説明"
   },
   "jordan/gP2h": {
+    "checked": true,
     "kind": "chevron",
     "ja": "ヨルダンのシェブロンは白地に赤い矢印。イスラエルとの区別に使える（イスラエルは黒地に白）。"
   },
   "laos/3hIR": {
+    "crop": [
+      0,
+      0.12,
+      0.5,
+      1
+    ],
     "kind": "stop",
     "ja": "ラオス文字が書かれた一時停止標識。下にラテン文字で「STOP」と書かれていることも。ラオスの標識は文字が2つ、タイは3つ。"
   },
@@ -950,6 +984,7 @@
     "exclude": "町の説明"
   },
   "israel-west-bank/LiS4": {
+    "checked": true,
     "kind": "chevron",
     "ja": "イスラエルのシェブロンは黒地に白。"
   },
@@ -985,6 +1020,7 @@
     "exclude": "インフラ全般の比較画像"
   },
   "kazakhstan/tkTf": {
+    "checked": true,
     "kind": "street",
     "ja": "建物に付いた青い道路名標識で、上下に白い模様が入っている。2〜3言語表記で、QRコード付きのことも。カザフスタンのもの。同じ町でもデザインはばらばら。"
   },
@@ -1002,6 +1038,7 @@
     "exclude": "言語の説明"
   },
   "japan/or2V": {
+    "checked": true,
     "kind": "route",
     "ja": "日本の県道は六角形の標識で示される。番号の下に県名が漢字で書かれていることが多い。"
   },
@@ -1151,6 +1188,12 @@
     "exclude": "言語の説明"
   },
   "mongolia/2q6G": {
+    "crop": [
+      0.5,
+      0.5,
+      1,
+      1
+    ],
     "kind": "stop",
     "ja": "モンゴルのインフラはロシアの影響が強いが、「ЗОГС」と書かれた一時停止標識はモンゴル独自のもの。"
   },

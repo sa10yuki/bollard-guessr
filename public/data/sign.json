@@ -13,7 +13,7 @@
   "back": "裏面・支柱",
   "other": "その他の標識"
  },
- "pending": 549,
+ "pending": 514,
  "guides": [
   {
    "id": "united-states",
@@ -562,6 +562,23 @@
  ],
  "questions": [
   {
+   "id": "united-states/a9Az",
+   "country": "united-states",
+   "image": "images/sign/united-states-a9Az.webp",
+   "required": [
+    "united-states"
+   ],
+   "optional": [
+    "alaska",
+    "hawaii"
+   ],
+   "region": null,
+   "kind": "speed",
+   "ja": "アメリカの速度制限標識は「SPEED LIMIT」と書かれた白い長方形。単位はマイルなので、カナダ（「MAXIMUM」表記、キロ）より数字が小さめで、5で終わる数字も多い。",
+   "en": "The US uses the phrase ‘**Speed Limit**’ on their speed signs.\nThe numbers on American speed signs are usually lower than on Canadian ones, since they use miles instead of kilometres. In addition, speed limits ending in 5 are more common in the US.\nNOTE: [Canada](https://goo.gl/maps/zVYUCX62g3ENJct2A) uses the word ‘Maximum’ on their speed signs.",
+   "source": "https://www.plonkit.net/united-states"
+  },
+  {
    "id": "united-states/7mOi",
    "country": "united-states",
    "image": "images/sign/united-states-7mOi.webp",
@@ -588,6 +605,53 @@
    "ja": "黒い縦向きの三角形が描かれた黄色い標識。ミネソタ州の大きな川を渡る橋の手前や、幹線道路のガードレールの始まりと終わりに置かれる。",
    "en": "In Minnesota, these yellow signs with **vertical, black triangles** are placed before bridges at most major river crossings and at the beginnings and ends of guardrail sections on large highways.",
    "source": "https://www.plonkit.net/united-states"
+  },
+  {
+   "id": "botswana/qs9y",
+   "country": "botswana",
+   "image": "images/sign/botswana-qs9y.webp",
+   "required": [
+    "botswana"
+   ],
+   "optional": [],
+   "region": null,
+   "kind": "back",
+   "ja": "ボツワナ独自の、黒と黄色の縞模様の支柱。まれに赤と白のものもある。南部アフリカでこの支柱があるのはボツワナだけ。",
+   "en": "Botswana has a unique **black-and-yellow striped signpost**. More rarely, you can see red-and-white signposts.\nNOTE: In Southern Africa, these signposts are only found in Botswana.",
+   "source": "https://www.plonkit.net/botswana"
+  },
+  {
+   "id": "kenya/Af01",
+   "country": "kenya",
+   "image": "images/sign/kenya-Af01.webp",
+   "required": [
+    "kenya"
+   ],
+   "optional": [],
+   "region": null,
+   "kind": "direction",
+   "ja": "白い縁取りと白文字の緑の案内標識。白や黄色で道路番号が書かれていることが多い。ケニアのもの。",
+   "en": "Directional signs are **green **with a white border and text. They often display road numbers in white or [yellow](https://goo.gl/maps/DqEYtasj9mwbfE3G7).",
+   "source": "https://www.plonkit.net/kenya"
+  },
+  {
+   "id": "namibia/7cMz",
+   "country": "namibia",
+   "image": "images/sign/namibia-7cMz.webp",
+   "required": [
+    "namibia"
+   ],
+   "optional": [
+    "south-africa",
+    "botswana",
+    "lesotho",
+    "eswatini"
+   ],
+   "region": null,
+   "kind": "direction",
+   "ja": "黄色い道路番号が入った緑の案内標識。南部アフリカ共通のスタイルで、ナミビアの道路番号はA・B・C・D・M（まれにF）で始まる。",
+   "en": "Namibia uses **green** directional signs with the road number in yellow.\nNOTE: Green directional signs with yellow road numbers are also used in South Africa and the other Southern African countries.\n- Namibia uses A, B, C, D, M, and sometimes F-roads.\n- South Africa uses N and R-roads.",
+   "source": "https://www.plonkit.net/namibia"
   },
   {
    "id": "reunion/TYj8",
@@ -622,6 +686,367 @@
    "source": "https://www.plonkit.net/sao-tome-and-principe"
   },
   {
+   "id": "senegal/lPzT",
+   "country": "senegal",
+   "image": "images/sign/senegal-lPzT.webp",
+   "required": [
+    "senegal"
+   ],
+   "optional": [],
+   "region": null,
+   "kind": "other",
+   "ja": "太いピンクの縁取りと太い黒文字の白い町名標識。セネガルの町の入り口にある標識の多くがこのデザイン。",
+   "en": "Most town entry signs in Senegal are white and feature a **thick pink** outline. The town is also written in a bold, black font.",
+   "source": "https://www.plonkit.net/senegal"
+  },
+  {
+   "id": "south-africa/x5Nk",
+   "country": "south-africa",
+   "image": "images/sign/south-africa-x5Nk.webp",
+   "required": [
+    "south-africa"
+   ],
+   "optional": [
+    "namibia",
+    "botswana",
+    "lesotho",
+    "eswatini"
+   ],
+   "region": null,
+   "kind": "direction",
+   "ja": "黄色い道路番号が入った緑の案内標識。南部アフリカ共通のスタイルで、「N」と「R」で始まる道路番号は南アフリカだけ。",
+   "en": "South Africa uses **green** directional signs with the road number in yellow.\nNOTE: Green directional signs with yellow road numbers are also used in Lesotho, Eswatini, Botswana and Namibia. Here, the format of road numbers is useful:\n- !!N and R-roads are exclusive to South Africa.\n- !!A and B-roads are exclusive to Botswana, Lesotho and Namibia. In addition to this, Namibia uses C, D, M and F roads.\n- !!MR-roads are exclusive to Eswatini.",
+   "source": "https://www.plonkit.net/south-africa"
+  },
+  {
+   "id": "tunisia/2bxW",
+   "country": "tunisia",
+   "image": "images/sign/tunisia-2bxW.webp",
+   "required": [
+    "tunisia"
+   ],
+   "optional": [],
+   "region": null,
+   "kind": "direction",
+   "ja": "白地に町名がアラビア文字とラテン文字で書かれた案内標識。ラテン文字のフォントがかなり独特。チュニジアのもの。",
+   "en": "Most direction signs have a **white** background with towns listed in Arabic and Latin script. The font of the Latin script is usually quite distinctive.\nNOTE: Many direction signs include the capital Tunis, but this does not necessarily mean you are anywhere near that city.",
+   "source": "https://www.plonkit.net/tunisia"
+  },
+  {
+   "id": "guam/Gyzt",
+   "country": "guam",
+   "image": "images/sign/guam-Gyzt.webp",
+   "required": [
+    "guam"
+   ],
+   "optional": [],
+   "region": null,
+   "kind": "street",
+   "ja": "グアムは緑の道路名標識を使う。北マリアナ諸島は青。",
+   "en": "Guam uses **green** street signs, unlike the Northern Mariana Islands, which use blue street signs.",
+   "source": "https://www.plonkit.net/guam"
+  },
+  {
+   "id": "northern-mariana-islands/jle0",
+   "country": "northern-mariana-islands",
+   "image": "images/sign/northern-mariana-islands-jle0.webp",
+   "required": [
+    "northern-mariana-islands"
+   ],
+   "optional": [],
+   "region": null,
+   "kind": "street",
+   "ja": "北マリアナ諸島は青い道路名標識を使う。グアムは緑。",
+   "en": "The Northern Mariana Islands uses **blue** street signs, unlike Guam, which use green street signs.",
+   "source": "https://www.plonkit.net/northern-mariana-islands"
+  },
+  {
+   "id": "australia/YdCf",
+   "country": "australia",
+   "image": "images/sign/australia-YdCf.webp",
+   "required": [
+    "australia"
+   ],
+   "optional": [
+    "christmas-island"
+   ],
+   "region": null,
+   "kind": "giveway",
+   "ja": "オーストラリアの「譲れ（GIVE WAY）」標識は白い縁取りに黒い文字。ニュージーランドのものは文字が赤い。",
+   "en": "**Give-way signs** in Australia have a white border and black text.\nNOTE: New Zealand’s give-way signs use red, instead of black, text. Give-way signs are very rarely seen in South Africa.",
+   "source": "https://www.plonkit.net/australia"
+  },
+  {
+   "id": "new-zealand/oCAJ",
+   "country": "new-zealand",
+   "image": "images/sign/new-zealand-oCAJ.webp",
+   "required": [
+    "new-zealand"
+   ],
+   "optional": [],
+   "region": null,
+   "kind": "giveway",
+   "ja": "ニュージーランドの「譲れ（GIVE WAY）」標識は白い縁取りに赤い文字。オーストラリアのものは黒い文字。",
+   "en": "**Give-way signs** in New Zealand have a white border and red text.\nNOTE: Australia’s give-way signs use black text.",
+   "source": "https://www.plonkit.net/new-zealand"
+  },
+  {
+   "id": "argentina/GzEE",
+   "country": "argentina",
+   "image": "images/sign/argentina-GzEE.webp",
+   "required": [
+    "argentina"
+   ],
+   "optional": [],
+   "region": null,
+   "kind": "chevron",
+   "ja": "白地に赤のシェブロン。南北アメリカでこのシェブロンを使うのはアルゼンチンだけ。",
+   "en": "Argentina typically uses **white-and-red** chevrons.\nNOTE: Argentina is the only American country with these chevrons.",
+   "source": "https://www.plonkit.net/argentina"
+  },
+  {
+   "id": "bolivia/IcXQ",
+   "country": "bolivia",
+   "image": "images/sign/bolivia-IcXQ.webp",
+   "required": [
+    "bolivia"
+   ],
+   "optional": [],
+   "region": null,
+   "kind": "back",
+   "ja": "ボリビアでは、白くてがっしりした四角い支柱がよく使われる。ペルーは白黒の縞模様（ゼブラ）の支柱。",
+   "en": "Bolivia typically uses **bulky, white square signposts**.\nNOTE: Peru typically uses black and white striped “zebra” signposts.",
+   "source": "https://www.plonkit.net/bolivia"
+  },
+  {
+   "id": "chile/dkLn",
+   "country": "chile",
+   "image": "images/sign/chile-dkLn.webp",
+   "required": [
+    "chile"
+   ],
+   "optional": [],
+   "region": null,
+   "kind": "back",
+   "ja": "チリでは、支柱の上部に切れ込み（スロット）が入っていることが多い。",
+   "en": "**Slots** can often be seen at the top of signposts.",
+   "source": "https://www.plonkit.net/chile"
+  },
+  {
+   "id": "brazil/dpxG",
+   "country": "brazil",
+   "image": "images/sign/brazil-dpxG.webp",
+   "required": [
+    "brazil"
+   ],
+   "optional": [],
+   "region": null,
+   "kind": "back",
+   "ja": "ブラジルの道路標識の多くは、裏が黒く塗られている。パラグアイでもよく見られる。",
+   "en": "Most Brazilian road signs have the backs painted **black**.\nNOTE: This is also common in Paraguay.",
+   "source": "https://www.plonkit.net/brazil"
+  },
+  {
+   "id": "colombia/JMPO",
+   "country": "colombia",
+   "image": "images/sign/colombia-JMPO.webp",
+   "required": [
+    "colombia"
+   ],
+   "optional": [
+    "brazil"
+   ],
+   "region": null,
+   "kind": "back",
+   "ja": "コロンビアの支柱は白い金属製で、標識の裏で十字に組み合わさっている。ブラジルにも白い金属の支柱があるが、たいてい幅が広い。",
+   "en": "Signposts in Colombia are made of white metal, and join to form a distinct **cross on the back** of signs.\nNOTE: White metal signposts can also be found in Brazil, however these are usually wider.",
+   "source": "https://www.plonkit.net/colombia"
+  },
+  {
+   "id": "ecuador/ynOS",
+   "country": "ecuador",
+   "image": "images/sign/ecuador-ynOS.webp",
+   "required": [
+    "ecuador"
+   ],
+   "optional": [
+    "colombia"
+   ],
+   "region": null,
+   "kind": "chevron",
+   "ja": "エクアドルはカーブにシェブロンをとても多く並べる（シェブロンスパム）。コロンビアでもときどき見られる。",
+   "en": "Ecuador often uses a lot of chevrons in road curves (“**chevron spam**”), usually considerably more than most other Latin American countries.\nNOTE: Colombia also occasionally uses a lot of chevrons in curves.",
+   "source": "https://www.plonkit.net/ecuador"
+  },
+  {
+   "id": "peru/8cvB",
+   "country": "peru",
+   "image": "images/sign/peru-8cvB.webp",
+   "required": [
+    "peru"
+   ],
+   "optional": [],
+   "region": null,
+   "kind": "back",
+   "ja": "白黒の縞模様の支柱を使うのは、南アメリカではペルーだけ。地域によっては黒と黄色の支柱もある。",
+   "en": "Peru is the only South American country to use **black-and-white** striped signposts. In some areas, [black-and-yellow](https://goo.gl/maps/4X8W8dd1mmrbhVLH7) signposts can be seen.\nNOTE: Uruguay sometimes uses black-and-white posts for its traffic lights, but not for road signs.",
+   "source": "https://www.plonkit.net/peru"
+  },
+  {
+   "id": "uruguay/07Np",
+   "country": "uruguay",
+   "image": "images/sign/uruguay-07Np.webp",
+   "required": [
+    "uruguay"
+   ],
+   "optional": [
+    "bolivia"
+   ],
+   "region": null,
+   "kind": "back",
+   "ja": "白く塗られた太い木製の支柱で、裏に最大4つの長方形の切り欠きがあることが多い。ウルグアイのもので、ボリビアにも太い木製の支柱がある。",
+   "en": "Uruguay uses **thick wooden signposts**, which are typically painted white. They often have up to four rectangular notches at the back of the post.\nNOTE: Thick wooden signposts can also be seen in Bolivia.",
+   "source": "https://www.plonkit.net/uruguay"
+  },
+  {
+   "id": "dominican-republic/jcOp",
+   "country": "dominican-republic",
+   "image": "images/sign/dominican-republic-jcOp.webp",
+   "required": [
+    "dominican-republic",
+    "puerto-rico",
+    "argentina",
+    "bolivia",
+    "brazil",
+    "chile",
+    "colombia",
+    "ecuador",
+    "peru",
+    "uruguay"
+   ],
+   "optional": [],
+   "region": null,
+   "kind": "stop",
+   "ja": "中米にありながら、ドミニカ共和国の一時停止標識は南アメリカと同じ「PARE」。黄色い支柱に付いていることが多い。「PARE」は南アメリカ全域とプエルトリコでも使われる。",
+   "en": "Despite being located in Central America, stop signs in DR contain the South American “PARE”. Moreover, many signs are attached to **yellow signposts**.\nNOTE: ‘PARE’ is also used in all of South America as well as Puerto Rico.",
+   "source": "https://www.plonkit.net/dominican-republic"
+  },
+  {
+   "id": "costa-rica/h4cR",
+   "country": "costa-rica",
+   "image": "images/sign/costa-rica-h4cR.webp",
+   "required": [
+    "costa-rica",
+    "mexico",
+    "guatemala"
+   ],
+   "optional": [
+    "panama"
+   ],
+   "region": null,
+   "kind": "stop",
+   "ja": "コスタリカの一時停止標識は、メキシコ・グアテマラ・パナマと同じ「ALTO」。パナマのものは字が太い。ほかのスペイン語圏の中南米は「PARE」。",
+   "en": "Like in Mexico, Panama and Guatemala, Costa Rican stop signs display the word **“ALTO”**.\nNOTE: Stop signs in [Panama](https://goo.gl/maps/LaAjCE36HSZziiCg8) use a thicker font. Furthermore, in the rest of Spanish Latin America they say “PARE”.",
+   "source": "https://www.plonkit.net/costa-rica"
+  },
+  {
+   "id": "guatemala/mgoz",
+   "country": "guatemala",
+   "image": "images/sign/guatemala-mgoz.webp",
+   "required": [
+    "guatemala",
+    "mexico",
+    "costa-rica"
+   ],
+   "optional": [
+    "panama"
+   ],
+   "region": null,
+   "kind": "stop",
+   "ja": "メキシコ・パナマ・コスタリカと同じく、グアテマラの一時停止標識は「ALTO」。",
+   "en": "Like Mexico, Panama and Costa Rica, Guatemala uses the word “**ALTO**” on stop signs.",
+   "source": "https://www.plonkit.net/guatemala"
+  },
+  {
+   "id": "hawaii/bZoK",
+   "country": "hawaii",
+   "image": "images/sign/hawaii-bZoK.webp",
+   "required": [
+    "hawaii"
+   ],
+   "optional": [],
+   "region": null,
+   "kind": "route",
+   "ja": "ハワイの州道の盾形はギターのピックのような形で、数字が下のほうに書かれている。ハワイの多くの標識は黄色い支柱に付いている。",
+   "en": "Hawaii uses highway shields that resemble a **guitar pick**, with the numbers on the bottom of the shield. Most highway signs also use [yellow signposts](https://www.google.com/maps/@20.0269917,-155.6992435,3a,23y,129.32h,81.85t/data=!3m6!1e1!3m4!1s6nWi-67_zbEbhaLQER2TOg!2e0!7i16384!8i8192?coh=205409&entry=ttu).",
+   "source": "https://www.plonkit.net/hawaii"
+  },
+  {
+   "id": "puerto-rico/nXMf",
+   "country": "puerto-rico",
+   "image": "images/sign/puerto-rico-nXMf.webp",
+   "required": [
+    "puerto-rico"
+   ],
+   "optional": [],
+   "region": null,
+   "kind": "speed",
+   "ja": "プエルトリコの速度制限標識は、形も大きさもアメリカ本土と同じだが、必ずスペイン語で書かれている。",
+   "en": "Speed limit signs in Puerto Rico are identical in shape and size to speed limit signs seen in the mainland US. The major difference is that these signs will always be **in Spanish**, instead of English.",
+   "source": "https://www.plonkit.net/puerto-rico"
+  },
+  {
+   "id": "panama/ofuG",
+   "country": "panama",
+   "image": "images/sign/panama-ofuG.webp",
+   "required": [
+    "panama"
+   ],
+   "optional": [
+    "mexico",
+    "costa-rica",
+    "guatemala"
+   ],
+   "region": null,
+   "kind": "stop",
+   "ja": "パナマの一時停止標識はスペイン語の「ALTO」。メキシコ・コスタリカ・グアテマラも「ALTO」だが、字が細い。",
+   "en": "Panama uses the Spanish word “**ALTO**” on stop signs.\nNOTE: [Mexico](https://goo.gl/maps/f1zLdwAo5VhYDhtC7), [Costa Rica](https://maps.app.goo.gl/K6pZqyNn2Hw52GXJ7) and [Guatemala](https://www.google.com/maps/@14.6255005,-90.5568668,3a,15y,74.14h,81.77t/data=!3m6!1e1!3m4!1smSi97ivNOrtG5_baoEx9YQ!2e0!7i13312!8i6656?entry=ttu) also use “ALTO”, but the font is thinner.",
+   "source": "https://www.plonkit.net/panama"
+  },
+  {
+   "id": "canada/DqvA",
+   "country": "canada",
+   "image": "images/sign/canada-DqvA.webp",
+   "required": [
+    "canada"
+   ],
+   "optional": [],
+   "region": null,
+   "kind": "speed",
+   "ja": "カナダの速度標識には「MAXIMUM」と書かれている。キロ表示なのでアメリカより数字が大きめで、遠くからでも区別できる。アメリカは「SPEED LIMIT」。",
+   "en": "Canada uses the word **‘maximum’ **on speed signs. Because speed is measured in kilometres instead of miles, the numbers tend to be higher than the US which can be identifiable from afar.\nNOTE: The US uses the words **‘speed limit’ **on such signs. In addition, speed limits ending with 5 are more common in the US, and the ‘speed limit’ text takes up two lines versus one for ‘maximum’ in Canada.",
+   "source": "https://www.plonkit.net/canada"
+  },
+  {
+   "id": "bangladesh/kiNu",
+   "country": "bangladesh",
+   "image": "images/sign/bangladesh-kiNu.webp",
+   "required": [
+    "bangladesh",
+    "bhutan",
+    "malaysia",
+    "sri-lanka",
+    "nepal",
+    "india"
+   ],
+   "optional": [],
+   "region": null,
+   "kind": "back",
+   "ja": "白黒の縞模様の支柱。アジアでは、バングラデシュ、ブータン、マレーシア、スリランカ、ネパール、インドで見られる。ほかの手がかりも確認しよう。",
+   "en": "Signposts in Bangladesh often have **black-and-white stripes**.\nNOTE: Within Asia, these posts are also found in Sri Lanka, Bhutan, India, Nepal and Malaysia. Make sure to check other clues before guessing.",
+   "source": "https://www.plonkit.net/bangladesh"
+  },
+  {
    "id": "cambodia/1PXc",
    "country": "cambodia",
    "image": "images/sign/cambodia-1PXc.webp",
@@ -634,6 +1059,104 @@
    "ja": "カンボジアのシェブロンは黒地に黄色い矢印。シェブロン自体は少なめで、カーブにはボラードを使うことが多い。東南アジアのほかの国はすべて逆の配色（黄色地に黒）。",
    "en": "Chevrons in Cambodia are **black with yellow arrows**.\nChevrons are somewhat rare. On many occasions, Cambodia prefers to use bollards instead of chevrons to mark curves in the road.\nNOTE: Chevrons in all other Southeast Asian countries have the reverse colour scheme: yellow with black arrows.",
    "source": "https://www.plonkit.net/cambodia"
+  },
+  {
+   "id": "hong-kong/HC1Y",
+   "country": "hong-kong",
+   "image": "images/sign/hong-kong-HC1Y.webp",
+   "required": [
+    "hong-kong"
+   ],
+   "optional": [],
+   "region": null,
+   "kind": "direction",
+   "ja": "香港の道路標識は、太い黒枠で囲まれた白い長方形で、2言語表記。",
+   "en": "Road signs are white and rectangular, with a thick black outline and **bilingual **text.",
+   "source": "https://www.plonkit.net/hong-kong"
+  },
+  {
+   "id": "jordan/gP2h",
+   "country": "jordan",
+   "image": "images/sign/jordan-gP2h.webp",
+   "required": [
+    "jordan"
+   ],
+   "optional": [],
+   "region": null,
+   "kind": "chevron",
+   "ja": "ヨルダンのシェブロンは白地に赤い矢印。イスラエルとの区別に使える（イスラエルは黒地に白）。",
+   "en": "Jordanian chevrons are **white with red arrows**.\nNOTE: You can use chevrons to distinguish between Jordan and Israel: the Israeli chevrons are black with white arrows.",
+   "source": "https://www.plonkit.net/jordan"
+  },
+  {
+   "id": "laos/3hIR",
+   "country": "laos",
+   "image": "images/sign/laos-3hIR.webp",
+   "required": [
+    "laos"
+   ],
+   "optional": [],
+   "region": null,
+   "kind": "stop",
+   "ja": "ラオス文字が書かれた一時停止標識。下にラテン文字で「STOP」と書かれていることも。ラオスの標識は文字が2つ、タイは3つ。",
+   "en": "**Stop signs** feature the Lao script. Sometimes, the sign features the word ‘stop’ in Latin script below the Lao script.\nNOTE: In Laos, stop signs only have **2 characters,** compared to 3 in Thailand.",
+   "source": "https://www.plonkit.net/laos"
+  },
+  {
+   "id": "israel-west-bank/LiS4",
+   "country": "israel-west-bank",
+   "image": "images/sign/israel-west-bank-LiS4.webp",
+   "required": [
+    "israel-west-bank"
+   ],
+   "optional": [],
+   "region": null,
+   "kind": "chevron",
+   "ja": "イスラエルのシェブロンは黒地に白。",
+   "en": "Chevrons are **white** on **black**.",
+   "source": "https://www.plonkit.net/israel-west-bank"
+  },
+  {
+   "id": "kazakhstan/tkTf",
+   "country": "kazakhstan",
+   "image": "images/sign/kazakhstan-tkTf.webp",
+   "required": [
+    "kazakhstan"
+   ],
+   "optional": [],
+   "region": null,
+   "kind": "street",
+   "ja": "建物に付いた青い道路名標識で、上下に白い模様が入っている。2〜3言語表記で、QRコード付きのことも。カザフスタンのもの。同じ町でもデザインはばらばら。",
+   "en": "Street Signs in Kazakhstan are often attached to buildings and are **blue **in colour, with white intricate patterns on the top and bottom. They are usually **bilingual or trilingual** and can also contain a **QR code**.\nNOTE: They are often inconsistent, with many designs being found in a single city.",
+   "source": "https://www.plonkit.net/kazakhstan"
+  },
+  {
+   "id": "japan/or2V",
+   "country": "japan",
+   "image": "images/sign/japan-or2V.webp",
+   "required": [
+    "japan"
+   ],
+   "optional": [],
+   "region": null,
+   "kind": "route",
+   "ja": "日本の県道は六角形の標識で示される。番号の下に県名が漢字で書かれていることが多い。",
+   "en": "Prefecture roads are identified by their **hexagonal-shaped** shields. The prefecture is often written under the road number in kanji. While the shield design remains, other variations can be found:\n- On [prefectural highway shields](https://goo.gl/maps/6PsFbdz9gtDyGWbs9) (with kanji).\n- On directional [intersection](https://goo.gl/maps/jsWfsJUW3r7JjE8v5) signs.\n- Or on small, directional [arrow](https://goo.gl/maps/WrtbZh2DYQ6B4YYh7) signs.\nAs multiple prefectures can have the same road number, it is recommended to first find the prefecture you are in.",
+   "source": "https://www.plonkit.net/japan"
+  },
+  {
+   "id": "mongolia/2q6G",
+   "country": "mongolia",
+   "image": "images/sign/mongolia-2q6G.webp",
+   "required": [
+    "mongolia"
+   ],
+   "optional": [],
+   "region": null,
+   "kind": "stop",
+   "ja": "モンゴルのインフラはロシアの影響が強いが、「ЗОГС」と書かれた一時停止標識はモンゴル独自のもの。",
+   "en": "Mongolian infrastructure has clear Russian influence. Wooden poles with supporting stone blocks, [white lamp posts](https://www.google.com/maps/@46.677839,113.270184,3a,64.1y,330.3h,92.79t/data=!3m4!1e1!3m2!1sAv0lfNtDl5QLj3rxCnkYzA!2e0), and [three-striped** **pedestrian crossing signs](https://www.google.com/maps/@50.2393538,106.2025013,2a,60y,95.51h,75.52t/data=!3m6!1e1!3m4!1sXUNd4wtT71dkoiStvdsI-Q!2e0!7i13312!8i6656?entry=ttu) are common to see.\nUnique to Mongolia is the** **[**“ЗОГС”**](https://www.google.com/maps/@50.2286946,106.2131419,2a,15y,73.91h,86.02t/data=!3m6!1e1!3m4!1sDbSJ2KjqHFeQw_Vx-Muhyg!2e0!7i13312!8i6656?entry=ttu)** stop sign**.\nNOTE: Each town has unique lamp post designs, so learning them can be quite useful.",
+   "source": "https://www.plonkit.net/mongolia"
   }
  ]
 }
